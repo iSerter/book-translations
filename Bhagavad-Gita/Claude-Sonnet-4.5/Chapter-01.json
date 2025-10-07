@@ -1,0 +1,401 @@
+{
+  "chapter": {
+    "number": 1,
+    "title_sanskrit": "अर्जुनविषादयोग",
+    "title_english": "The Yoga of Arjuna's Dejection",
+    "title_turkish": "Arjuna'nın Kederinin Yogası",
+    "total_verses": 47,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच।\nधर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः।\nमामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय॥",
+        "transliteration": "dhṛtarāṣṭra uvāca\ndharma-kṣetre kuru-kṣetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāś caiva kim akurvata sañjaya",
+        "english": {
+          "translation": "Dhritarashtra said: O Sanjaya, what did my sons and the sons of Pandu do, when they assembled on the holy field of Kurukshetra, eager for battle?",
+          "commentary": "This opening verse sets the scene at Kurukshetra, described as both a physical battlefield and a 'dharma-kshetra' (field of righteousness). The blind king Dhritarashtra asks his charioteer Sanjaya about the events. The dual nature of the field symbolizes the conflict between righteousness and unrighteousness, setting the spiritual tone for the entire Gita."
+        },
+        "turkish": {
+          "translation": "Dhritarashtra dedi ki: Ey Sanjaya, oğullarım ve Pandu'nun oğulları, kutsal Kurukshetra alanında savaşmaya hevesli olarak toplandıklarında ne yaptılar?",
+          "commentary": "Bu açılış ayeti, Kurukshetra'da hem fiziksel bir savaş alanı hem de 'dharma-kshetra' (doğruluk alanı) olarak betimlenen sahneyi kurar. Kör kral Dhritarashtra, arabacısı Sanjaya'ya olayları sorar. Alanın ikili doğası, doğruluk ve adaletsizlik arasındaki çatışmayı simgeler ve tüm Gita için manevi tonu belirler."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच।\nदृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा।\nआचार्यमुपसङ्गम्य राजा वचनमब्रवीत्॥",
+        "transliteration": "sañjaya uvāca\ndṛṣṭvā tu pāṇḍavānīkaṁ vyūḍhaṁ duryodhanas tadā\nācāryam upasaṅgamya rājā vacanam abravīt",
+        "english": {
+          "translation": "Sanjaya said: O King, after seeing the army of the Pandavas drawn up in military array, Prince Duryodhana approached his teacher Drona and spoke these words.",
+          "commentary": "Sanjaya begins his narration, describing how Duryodhana surveys the opposing army and approaches his guru Drona. This reveals Duryodhana's anxiety and need for reassurance despite his numerical advantage. The relationship between student and teacher (Drona) is significant throughout the Gita's framework."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi ki: Ey Kral, Pandavaların ordusunu savaş düzeninde görünce, Prens Duryodhana öğretmeni Drona'ya yaklaşarak şu sözleri söyledi.",
+          "commentary": "Sanjaya anlatısına başlar ve Duryodhana'nın karşı orduyu gözden geçirip gurusu Drona'ya nasıl yaklaştığını anlatır. Bu, sayısal üstünlüğüne rağmen Duryodhana'nın kaygısını ve güvence ihtiyacını ortaya koyar. Öğrenci ve öğretmen (Drona) arasındaki ilişki, Gita'nın çerçevesi boyunca önemlidir."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम्।\nव्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता॥",
+        "transliteration": "paśyaitāṁ pāṇḍu-putrāṇām ācārya mahatīṁ camūm\nvyūḍhāṁ drupada-putreṇa tava śiṣyeṇa dhīmatā",
+        "english": {
+          "translation": "O Teacher, behold this mighty army of the sons of Pandu, arrayed by the son of Drupada, your intelligent disciple.",
+          "commentary": "Duryodhana points out that Dhrishtadyumna (son of Drupada), who is also Drona's student, has strategically arranged the Pandava army. This creates an ironic situation where the teacher faces his own disciple in battle, highlighting the tragic nature of this fratricidal war where normal bonds of loyalty are broken."
+        },
+        "turkish": {
+          "translation": "Ey Öğretmen, Pandu oğullarının bu güçlü ordusuna bak, senin zeki öğrencin Drupada'nın oğlu tarafından düzenlenmiş.",
+          "commentary": "Duryodhana, Drona'nın öğrencisi olan Dhrishtadyumna'nın (Drupada'nın oğlu) Pandava ordusunu stratejik olarak düzenlediğine dikkat çeker. Bu, öğretmenin kendi öğrencisiyle savaşta karşı karşıya geldiği ironik bir durum yaratır ve normal sadakat bağlarının kırıldığı bu kardeş kavgası savaşının trajik doğasını vurgular."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि।\nयुयुधानो विराटश्च द्रुपदश्च महारथः॥",
+        "transliteration": "atra śūrā maheṣvāsā bhīmārjuna-samā yudhi\nyuyudhāno virāṭaś ca drupadaś ca mahā-rathaḥ",
+        "english": {
+          "translation": "Here are heroes, mighty archers equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and Drupada, the great chariot-warrior.",
+          "commentary": "Duryodhana begins listing the formidable warriors in the Pandava army, comparing them to the most feared warriors Bhima and Arjuna. This enumeration serves to acknowledge the enemy's strength while also possibly seeking to motivate his own forces and remind Drona of the challenge ahead."
+        },
+        "turkish": {
+          "translation": "Burada kahramanlar, savaşta Bhima ve Arjuna'ya denk güçlü okçular var: Yuyudhana, Virata ve büyük savaş arabası savaşçısı Drupada.",
+          "commentary": "Duryodhana, Pandava ordusundaki üstün savaşçıları listelemeye başlar, onları en korkulan savaşçılar Bhima ve Arjuna ile karşılaştırır. Bu sayım, düşmanın gücünü kabul ederken aynı zamanda kendi güçlerini motive etmeye ve Drona'ya önlerindeki zorluğu hatırlatmaya yarar."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान्।\nपुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः॥",
+        "transliteration": "dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān\npurujit kuntibhojaś ca śaibyaś ca nara-puṅgavaḥ",
+        "english": {
+          "translation": "Also Dhrishtaketu, Chekitana, and the valiant King of Kashi; Purujit, Kuntibhoja, and Shaibya, the best of men.",
+          "commentary": "The enumeration continues with more warriors, emphasizing their valor and nobility. The term 'nara-pungava' (best of men) indicates these are not ordinary soldiers but distinguished warriors and leaders. This listing builds tension and underscores the magnitude of the impending conflict."
+        },
+        "turkish": {
+          "translation": "Ayrıca Dhrishtaketu, Chekitana ve cesur Kashi Kralı; Purujit, Kuntibhoja ve insanların en iyisi Shaibya.",
+          "commentary": "Sayım daha fazla savaşçıyla devam eder, onların cesaretini ve asaletini vurgular. 'Nara-pungava' (insanların en iyisi) terimi, bunların sıradan askerler değil, seçkin savaşçılar ve liderler olduğunu gösterir. Bu listeleme gerilim yaratır ve yaklaşan çatışmanın büyüklüğünü vurgular."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान्।\nसौभद्रो द्रौपदेयाश्च सर्व एव महारथाः॥",
+        "transliteration": "yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān\nsaubhadro draupadeyāś ca sarva eva mahā-rathāḥ",
+        "english": {
+          "translation": "The mighty Yudhamanyu, the valiant Uttamauja, the son of Subhadra, and the sons of Draupadi—all of them great chariot-warriors.",
+          "commentary": "The list concludes with warriors closely related to the Pandavas, including Abhimanyu (son of Subhadra and Arjuna) and the five sons of Draupadi. The term 'maha-ratha' signifies warriors capable of fighting ten thousand enemies simultaneously, emphasizing the extraordinary military prowess assembled on the Pandava side."
+        },
+        "turkish": {
+          "translation": "Güçlü Yudhamanyu, cesur Uttamauja, Subhadra'nın oğlu ve Draupadi'nin oğulları—hepsi büyük savaş arabası savaşçıları.",
+          "commentary": "Liste, Abhimanyu (Subhadra ve Arjuna'nın oğlu) ve Draupadi'nin beş oğlu dahil olmak üzere Pandavalara yakın savaşçılarla sona erer. 'Maha-ratha' terimi, aynı anda on bin düşmanla savaşabilen savaşçıları belirtir ve Pandava tarafında toplanan olağanüstü askeri gücü vurgular."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम।\nनायका मम सैन्यस्य संज्ञार्थं तान्ब्रवीमि ते॥",
+        "transliteration": "asmākaṁ tu viśiṣṭā ye tān nibodha dvijottama\nnāyakā mama sainyasya saṁjñārthaṁ tān bravīmi te",
+        "english": {
+          "translation": "O best of the twice-born, hear now about the distinguished warriors on our side, the leaders of my army. I mention them to you for your information.",
+          "commentary": "After listing the enemy's strength, Duryodhana shifts to his own forces. He addresses Drona as 'dvijottama' (best of the twice-born), a term of respect for brahmins. This transition shows both diplomatic courtesy and an attempt to reassure himself and Drona about their own military capabilities."
+        },
+        "turkish": {
+          "translation": "Ey iki kez doğanların en iyisi, şimdi bizim tarafımızdaki seçkin savaşçıları, ordumun liderlerini dinle. Bilgin olsun diye onları sana söylüyorum.",
+          "commentary": "Düşman gücünü listeledikten sonra, Duryodhana kendi güçlerine geçer. Drona'ya brahminler için saygı terimi olan 'dvijottama' (iki kez doğanların en iyisi) diye hitap eder. Bu geçiş hem diplomatik nezaketi hem de kendisini ve Drona'yı kendi askeri yetenekleri konusunda güvence altına alma girişimini gösterir."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः।\nअश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च॥",
+        "transliteration": "bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiñjayaḥ\naśvatthāmā vikarṇaś ca saumadattis tathaiva ca",
+        "english": {
+          "translation": "Yourself, Bhishma, Karna, and Kripa, ever victorious in battle; Ashvatthama, Vikarna, and also the son of Somadatta.",
+          "commentary": "Duryodhana names the most formidable warriors on his side, starting with Drona himself. Bhishma (grand-uncle), Karna (his closest friend), and others represent a formidable array of military might. The term 'samitinjaya' (ever victorious in battle) applied to Kripa emphasizes their proven track record in warfare."
+        },
+        "turkish": {
+          "translation": "Kendiniz, Bhishma, Karna ve savaşta her zaman zafer kazanan Kripa; Ashvatthama, Vikarna ve ayrıca Somadatta'nın oğlu.",
+          "commentary": "Duryodhana, kendi tarafındaki en üstün savaşçıları Drona'nın kendisiyle başlayarak sayar. Bhishma (büyük amca), Karna (en yakın arkadaşı) ve diğerleri üstün bir askeri güç dizisini temsil eder. Kripa'ya uygulanan 'samitinjaya' (savaşta her zaman zafer kazanan) terimi, onların savaştaki kanıtlanmış sicillerini vurgular."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः।\nनानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः॥",
+        "transliteration": "anye ca bahavaḥ śūrā mad-arthe tyakta-jīvitāḥ\nnānā-śastra-praharaṇāḥ sarve yuddha-viśāradāḥ",
+        "english": {
+          "translation": "And many other heroes, prepared to lay down their lives for my sake, armed with various weapons, all skilled in warfare.",
+          "commentary": "Duryodhana emphasizes the loyalty and dedication of his warriors who are willing to sacrifice their lives for him. The mention of 'nana-shastra-praharanah' (armed with various weapons) indicates diverse military capabilities. Their expertise in warfare ('yuddha-visharadah') suggests thorough training and experience."
+        },
+        "turkish": {
+          "translation": "Ve benim için hayatlarını vermeye hazır, çeşitli silahlarla donanmış, hepsi savaşta usta olan birçok başka kahraman.",
+          "commentary": "Duryodhana, onun için hayatlarını feda etmeye istekli olan savaşçılarının sadakatini ve bağlılığını vurgular. 'Nana-shastra-praharanah' (çeşitli silahlarla donanmış) ifadesi çeşitli askeri yeteneklere işaret eder. Savaştaki uzmanlıkları ('yuddha-visharadah') kapsamlı eğitim ve deneyim gösterir."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम्।\nपर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम्॥",
+        "transliteration": "aparyāptaṁ tad asmākaṁ balaṁ bhīṣmābhirakṣitam\nparyāptaṁ tv idam eteṣāṁ balaṁ bhīmābhirakṣitam",
+        "english": {
+          "translation": "Our army, protected by Bhishma, is unlimited, while their army, protected by Bhima, is limited.",
+          "commentary": "This verse has been interpreted in various ways. Some read it as Duryodhana expressing confidence that his forces under Bhishma's protection are superior ('aparyapta' as unlimited/insufficient to conquer). Others see underlying anxiety, fearing that even with Bhishma, their force may prove inadequate against Bhima's fierce protection of the Pandavas."
+        },
+        "turkish": {
+          "translation": "Bhishma tarafından korunan ordumuz sınırsızken, Bhima tarafından korunan onların ordusu sınırlıdır.",
+          "commentary": "Bu ayet çeşitli şekillerde yorumlanmıştır. Bazıları bunu Duryodhana'nın Bhishma'nın koruması altındaki güçlerinin üstün olduğunu ifade etmesi olarak okur ('aparyapta' sınırsız/fethetmek için yetersiz olarak). Diğerleri, Bhishma ile bile güçlerinin Bhima'nın Pandavaları şiddetle korumasına karşı yetersiz kalabileceği korkusuyla altta yatan kaygıyı görür."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः।\nभीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि॥",
+        "transliteration": "ayaneṣu ca sarveṣu yathā-bhāgam avasthitāḥ\nbhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi",
+        "english": {
+          "translation": "Therefore, stationed in your respective positions at all fronts, do all of you protect Bhishma alone.",
+          "commentary": "Duryodhana issues a strategic command: all warriors should maintain their positions but ensure Bhishma's protection above all. This reveals both respect for the grand patriarch and recognition that Bhishma is the linchpin of their military strategy. It also subtly suggests concern about Bhishma's vulnerability despite his legendary prowess."
+        },
+        "turkish": {
+          "translation": "Bu nedenle, tüm cephelerde kendi konumlarınızda durarak, hepiniz yalnızca Bhishma'yı koruyun.",
+          "commentary": "Duryodhana stratejik bir emir verir: tüm savaşçılar konumlarını korumalı ama her şeyden önce Bhishma'nın korunmasını sağlamalıdır. Bu, hem büyük patriğe saygıyı hem de Bhishma'nın askeri stratejilerinin kilit noktası olduğunun farkındalığını ortaya koyar. Ayrıca efsanevi maharetine rağmen Bhishma'nın savunmasızlığına dair kaygıyı ustaca ima eder."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः।\nसिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान्॥",
+        "transliteration": "tasya sañjanayan harṣaṁ kuru-vṛddhaḥ pitāmahaḥ\nsiṁha-nādaṁ vinadyoccaiḥ śaṅkhaṁ dadhmau pratāpavān",
+        "english": {
+          "translation": "The valiant grandsire of the Kuru dynasty, generating joy in Duryodhana, roared loudly like a lion and blew his conch.",
+          "commentary": "Bhishma, sensing Duryodhana's anxiety, acts to boost morale. His lion-like roar and conch blast serve as both a signal to begin battle and a psychological boost. The 'pitamaha' (grandfather) showing support for his descendant demonstrates the complex family dynamics where duty to the throne supersedes personal affection for the righteous Pandavas."
+        },
+        "turkish": {
+          "translation": "Kuru hanedanının cesur büyükbabası, Duryodhana'da sevinç uyandırarak, aslan gibi yüksek sesle kükredi ve kabuğunu çaldı.",
+          "commentary": "Bhishma, Duryodhana'nın kaygısını hissederek morali yükseltmek için harekete geçer. Aslan gibi kükremesi ve kabuğunu çalması hem savaşın başlaması için bir sinyal hem de psikolojik bir destek görevi görür. 'Pitamaha' (büyükbaba) soyundan gelene destek göstermesi, tahta karşı görevin haklı Pandavalara kişisel sevginin önüne geçtiği karmaşık aile dinamiklerini gösterir."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः।\nसहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत्॥",
+        "transliteration": "tataḥ śaṅkhāś ca bheryaś ca paṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta sa śabdas tumulo 'bhavat",
+        "english": {
+          "translation": "Then suddenly conches, kettledrums, cymbals, drums and trumpets blared forth, and the sound was tumultuous.",
+          "commentary": "Following Bhishma's signal, the entire Kaurava army erupts in a deafening cacophony of war instruments. This auditory imagery creates atmosphere and marks the formal commencement of hostilities. The 'tumultuous' sound symbolizes the chaos and violence that war brings, foreshadowing the devastation to come."
+        },
+        "turkish": {
+          "translation": "Sonra aniden kabuklар, davullar, ziller, davullar ve trompetler çaldı ve ses gürültülüydü.",
+          "commentary": "Bhishma'nın sinyalini takiben, tüm Kaurava ordusu sağır edici bir savaş enstrümanları kakofonisinde patlak verir. Bu işitsel imge atmosfer yaratır ve düşmanlıkların resmi başlangıcını işaret eder. 'Gürültülü' ses, savaşın getirdiği kaos ve şiddeti simgeler ve gelecek yıkımı önceden haber verir."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ।\nमाधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः॥",
+        "transliteration": "tataḥ śvetair hayair yukte mahati syandane sthitau\nmādhavaḥ pāṇḍavaś caiva divyau śaṅkhau pradadhmatuḥ",
+        "english": {
+          "translation": "Then, seated in a magnificent chariot yoked with white horses, Madhava (Krishna) and the son of Pandu (Arjuna) blew their divine conches.",
+          "commentary": "The Pandava response begins with Krishna and Arjuna in their chariot. The white horses symbolize purity and dharma. The 'divine' (divya) conches distinguish their instruments from ordinary ones, suggesting divine sanction for their cause. Krishna's role as charioteer establishes his position as guide and protector throughout the coming dialogue."
+        },
+        "turkish": {
+          "translation": "Sonra, beyaz atlarla koşulmuş muhteşem bir arabada oturan Madhava (Krishna) ve Pandu'nun oğlu (Arjuna) ilahi kabuklarını çaldılar.",
+          "commentary": "Pandava yanıtı Krishna ve Arjuna'nın arabalarıyla başlar. Beyaz atlar saflığı ve dharmayı simgeler. 'İlahi' (divya) kabuklar onların enstrümanlarını sıradan olanlardan ayırır ve davaları için ilahi onay olduğunu gösterir. Krishna'nın arabacı rolü, gelecek diyalog boyunca onun rehber ve koruyucu konumunu belirler."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः।\nपौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः॥",
+        "transliteration": "pāñcajanyaṁ hṛṣīkeśo devadattaṁ dhanañjayaḥ\npauṇḍraṁ dadhmau mahā-śaṅkhaṁ bhīma-karmā vṛkodaraḥ",
+        "english": {
+          "translation": "Hrishikesha (Krishna) blew the Panchajanya, Dhananjaya (Arjuna) blew the Devadatta, and Vrikodara (Bhima) of terrifying deeds blew the great conch Paundra.",
+          "commentary": "Each hero's conch is named, personalizing their identity and divine connection. 'Hrishikesha' (Lord of the senses) is Krishna's epithet, 'Dhananjaya' (winner of wealth) is Arjuna's, and 'Vrikodara' (wolf-bellied) is Bhima's. These names foreshadow their respective roles and characteristics in the battle and spiritual teaching to come."
+        },
+        "turkish": {
+          "translation": "Hrishikesha (Krishna) Panchajanya'yı, Dhananjaya (Arjuna) Devadatta'yı ve korkunç işler yapan Vrikodara (Bhima) büyük kabuk Paundra'yı çaldı.",
+          "commentary": "Her kahramanın kabuğu adlandırılarak kimlikleri ve ilahi bağlantıları kişiselleştirilir. 'Hrishikesha' (duyuların efendisi) Krishna'nın, 'Dhananjaya' (zenginlik kazanan) Arjuna'nın ve 'Vrikodara' (kurt karınlı) Bhima'nın lakabıdır. Bu isimler, savaş ve gelecek manevi öğretideki rollerini ve özelliklerini önceden haber verir."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः।\nनकुलः सहदेवश्च सुघोषमणिपुष्पकौ॥",
+        "transliteration": "anantavijayaṁ rājā kuntī-putro yudhiṣṭhiraḥ\nakulaḥ sahadevaś ca sughoṣa-maṇipuṣpakau",
+        "english": {
+          "translation": "King Yudhishthira, the son of Kunti, blew the Anantavijaya; Nakula and Sahadeva blew the Sughosa and Manipushpaka.",
+          "commentary": "The remaining Pandava brothers are introduced with their conches. Yudhishthira's 'Anantavijaya' means 'infinite victory,' suggesting ultimate triumph. The enumeration of all five Pandavas establishes their united front and equal importance in this cosmic drama, though Arjuna will soon emerge as the central figure through whom Krishna's teaching will be delivered."
+        },
+        "turkish": {
+          "translation": "Kral Yudhishthira, Kunti'nin oğlu, Anantavijaya'yı çaldı; Nakula ve Sahadeva Sughosa ve Manipushpaka'yı çaldılar.",
+          "commentary": "Kalan Pandava kardeşler kabuklarıyla tanıtılır. Yudhishthira'nın 'Anantavijaya'sı 'sonsuz zafer' anlamına gelir ve nihai zaferi ima eder. Beş Pandava'nın hepsinin sayılması onların birleşik cephesini ve bu kozmik dramadaki eşit önemlerini belirler, ancak Arjuna yakında Krishna'nın öğretisinin aktarılacağı merkezi figür olarak ortaya çıkacaktır."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः।\nधृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः॥",
+        "transliteration": "kāśyaś ca parameṣvāsaḥ śikhaṇḍī ca mahā-rathaḥ\ndhṛṣṭadyumno virāṭaś ca sātyakiś cāparājitaḥ",
+        "english": {
+          "translation": "The King of Kashi, the supreme archer; Shikhandi, the mighty chariot-warrior; Dhrishtadyumna, Virata, and the unconquered Satyaki.",
+          "commentary": "More Pandava allies are named with their conches, emphasizing the breadth of support for the Pandava cause. Shikhandi is particularly significant as he is destined to be instrumental in Bhishma's fall. The epithet 'aparajita' (unconquered) for Satyaki reinforces the formidable nature of the Pandava forces."
+        },
+        "turkish": {
+          "translation": "Kashi Kralı, üstün okçu; güçlü savaş arabası savaşçısı Shikhandi; Dhrishtadyumna, Virata ve yenilmez Satyaki.",
+          "commentary": "Daha fazla Pandava müttefiki kabuklarıyla adlandırılır ve Pandava davası için destek genişliği vurgulanır. Shikhandi, Bhishma'nın düşüşünde kilit rol oynamaya yazgılı olduğu için özellikle önemlidir. Satyaki için 'aparajita' (yenilmez) lakabı Pandava güçlerinin üstün doğasını pekiştirir."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते।\nसौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक्॥",
+        "transliteration": "drupado draupadeyāś ca sarvaśaḥ pṛthivī-pate\nsaubhadraś ca mahā-bāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak",
+        "english": {
+          "translation": "O Lord of the Earth, Drupada and the sons of Draupadi, and the mighty-armed son of Subhadra (Abhimanyu), all blew their respective conches.",
+          "commentary": "The catalog of conch-blowers concludes with Drupada, the five sons of Draupadi, and the beloved Abhimanyu. The phrase 'prithak prithak' (separately, individually) emphasizes that each warrior's conch had its own distinct sound, creating a symphony of resolve. This completeness of enumeration shows the Pandavas' extensive network of righteous allies."
+        },
+        "turkish": {
+          "translation": "Ey Dünyanın Efendisi, Drupada ve Draupadi'nin oğulları ve güçlü kollu Subhadra'nın oğlu (Abhimanyu), hepsi kendi kabuklarını çaldılar.",
+          "commentary": "Kabuk çalanların kataloğu Drupada, Draupadi'nin beş oğlu ve sevgili Abhimanyu ile sona erer. 'Prithak prithak' (ayrı ayrı, bireysel olarak) ifadesi, her savaşçının kabuğunun kendine özgü sesinin olduğunu vurgular ve bir kararlılık senfonisi yaratır. Bu sayımın eksiksizliği Pandavaların geniş doğru müttefikler ağını gösterir."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत्।\nनभश्च पृथिवीं चैव तुमुलो व्यनुनादयन्॥",
+        "transliteration": "sa ghoṣo dhārtarāṣṭrāṇāṁ hṛdayāni vyadārayat\nnabhaś ca pṛthivīṁ caiva tumulo vyanunādayan",
+        "english": {
+          "translation": "That tumultuous sound rent the hearts of the sons of Dhritarashtra, reverberating through both heaven and earth.",
+          "commentary": "The combined sound of the Pandava conches has a devastating psychological effect on the Kauravas. The imagery of hearts being 'rent' (vyadarayat) and sound filling heaven and earth suggests cosmic significance—this is not merely a human conflict but one with universal implications. The Kauravas' fear foreshadows their eventual defeat."
+        },
+        "turkish": {
+          "translation": "O gürültülü ses, Dhritarashtra'nın oğullarının yüreklerini yırttı, hem gökte hem de yerde yankılanarak.",
+          "commentary": "Pandava kabuklarının birleşik sesi Kauravalar üzerinde yıkıcı bir psikolojik etki yaratır. Kalplerin 'yırtılması' (vyadarayat) ve sesin göğü ve yeri doldurması imgesi kozmik önemi ima eder—bu sadece insani bir çatışma değil, evrensel çıkarımları olan bir çatışmadır. Kauravaların korkusu nihai yenilgilerini önceden haber verir."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः।\nप्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः॥",
+        "transliteration": "atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapi-dhvajaḥ\npravṛtte śastra-sampāte dhanur udyamya pāṇḍavaḥ",
+        "english": {
+          "translation": "Then, seeing the sons of Dhritarashtra arrayed and the flight of missiles about to begin, Arjuna, whose flag bore the emblem of Hanuman, took up his bow.",
+          "commentary": "The narrative focuses on Arjuna at the critical moment before battle commences. His flag bearing Hanuman (kapi-dhvaja) symbolizes divine blessing and invincibility, as Hanuman represents devotion and strength. The raising of the bow is the pivotal action that triggers the most important conversation in Hindu scripture—the Bhagavad Gita itself."
+        },
+        "turkish": {
+          "translation": "Sonra, Dhritarashtra'nın oğullarının dizildiğini ve ok atışlarının başlamak üzere olduğunu gören, bayrağında Hanuman amblemi taşıyan Arjuna, yayını kaldırdı.",
+          "commentary": "Anlatı, savaş başlamadan önceki kritik anda Arjuna'ya odaklanır. Hanuman taşıyan bayrağı (kapi-dhvaja) ilahi nimeti ve yenilmezliği simgeler, çünkü Hanuman adanmışlığı ve gücü temsil eder. Yayın kaldırılması, Hindu kutsal metinlerindeki en önemli konuşmayı—Bhagavad Gita'nın kendisini—tetikleyen kilit eylemdir."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "हृषीकेशं तदा वाक्यमिदमाह महीपते।\nअर्जुन उवाच।\nसेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत॥",
+        "transliteration": "hṛṣīkeśaṁ tadā vākyam idam āha mahī-pate\narjuna uvāca\nsenayor ubhayor madhye rathaṁ sthāpaya me 'cyuta",
+        "english": {
+          "translation": "O King, Arjuna then spoke these words to Hrishikesha (Krishna): O Achyuta (Infallible One), place my chariot between the two armies.",
+          "commentary": "Arjuna addresses Krishna with two significant names: 'Hrishikesha' (master of the senses) and 'Achyuta' (the infallible). He requests to be positioned between both armies, wanting to survey those he must fight. This seemingly simple request sets the stage for his moral crisis, as seeing his relatives and teachers will trigger his famous dejection."
+        },
+        "turkish": {
+          "translation": "Ey Kral, Arjuna sonra Hrishikesha'ya (Krishna) şu sözleri söyledi: Ey Achyuta (Hatasız Olan), arabamı iki ordu arasına yerleştir.",
+          "commentary": "Arjuna, Krishna'ya iki önemli isimle hitap eder: 'Hrishikesha' (duyuların efendisi) ve 'Achyuta' (hatasız olan). İki ordu arasına yerleştirilmesini ister, savaşması gerekenleri gözden geçirmek ister. Bu görünüşte basit istek, akrabalarını ve öğretmenlerini görmesi ünlü kederini tetikleyeceği için ahlaki krizinin sahnesini hazırlar."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान्।\nकैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे॥",
+        "transliteration": "yāvad etān nirīkṣe 'haṁ yoddhu-kāmān avasthitān\nkair mayā saha yoddhavyam asmin raṇa-samudyame",
+        "english": {
+          "translation": "So that I may see those who stand here desirous of battle, with whom I must fight in this commencement of war.",
+          "commentary": "Arjuna wants to observe his opponents before battle begins. The phrase 'yoddhu-kaman' (desirous of battle) reveals his warrior mindset is still intact—he views them as enemies eager to fight. However, this perspective will soon shift dramatically when personal recognition replaces strategic assessment. The 'rana-samudyame' (undertaking of war) suggests the gravity of what is about to unfold."
+        },
+        "turkish": {
+          "translation": "Böylece burada savaş arzusuyla duranları görebileyim, bu savaşın başlangıcında kiminle savaşmam gerektiğini.",
+          "commentary": "Arjuna savaş başlamadan önce rakiplerini gözlemlemek ister. 'Yoddhu-kaman' (savaş arzusuyla) ifadesi onun savaşçı zihniyetinin hala bozulmadığını gösterir—onları savaşmaya hevesli düşmanlar olarak görür. Ancak bu bakış açısı, stratejik değerlendirmenin yerini kişisel tanıma bıraktığında yakında dramatik şekilde değişecektir. 'Rana-samudyame' (savaş girişimi) gerçekleşmek üzere olanın ciddiyetini ima eder."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः।\nधार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः॥",
+        "transliteration": "yotsyamānān avekṣe 'haṁ ya ete 'tra samāgatāḥ\ndhārtarāṣṭrasya durbuddher yuddhe priya-cikīrṣavaḥ",
+        "english": {
+          "translation": "I wish to see those who are about to fight, who have assembled here wishing to please in battle the evil-minded son of Dhritarashtra.",
+          "commentary": "Arjuna reveals his moral clarity about the war's cause—Duryodhana's 'durbuddhi' (evil mind). He understands that those gathered are supporting an unjust cause. Yet ironically, once he sees these people as individuals—teachers, uncles, cousins—his certainty will crumble. This verse shows Arjuna's initial confidence before his crisis of conscience."
+        },
+        "turkish": {
+          "translation": "Savaşmak üzere olanları görmek istiyorum, Dhritarashtra'nın kötü niyetli oğlunu savaşta memnun etmek isteyen burada toplanmış olanları.",
+          "commentary": "Arjuna savaşın nedeni hakkında ahlaki netliğini ortaya koyar—Duryodhana'nın 'durbuddhi' (kötü zihni). Toplananların haksız bir davayı desteklediğini anlar. Ancak ironik bir şekilde, bu insanları bireyler—öğretmenler, amcalar, kuzenler—olarak gördüğünde kesinliği çökecektir. Bu ayet, Arjuna'nın vicdan krizinden önceki ilk güvenini gösterir."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "सञ्जय उवाच।\nएवमुक्तो हृषीकेशो गुडाकेशेन भारत।\nसेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम्॥",
+        "transliteration": "sañjaya uvāca\nevam ukto hṛṣīkeśo guḍākeśena bhārata\nsenayor ubhayor madhye sthāpayitvā rathottamam",
+        "english": {
+          "translation": "Sanjaya said: O Bharata (Dhritarashtra), thus addressed by Gudakesha (Arjuna), Hrishikesha (Krishna) stationed the magnificent chariot between the two armies.",
+          "commentary": "Sanjaya resumes narration, using epithets that highlight the protagonists' qualities. 'Gudakesha' (conqueror of sleep) refers to Arjuna's discipline and alertness. Krishna complies with Arjuna's request, positioning the chariot at the critical vantage point. The 'rathottama' (excellent chariot) symbolizes the vehicle of spiritual instruction that is about to commence."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi ki: Ey Bharata (Dhritarashtra), Gudakesha (Arjuna) tarafından böyle hitap edilince, Hrishikesha (Krishna) muhteşem arabayı iki ordu arasına yerleştirdi.",
+          "commentary": "Sanjaya, kahramanların niteliklerini vurgulayan lakaplar kullanarak anlatısına devam eder. 'Gudakesha' (uykuyu yenen) Arjuna'nın disiplinini ve uyanıklığını ifade eder. Krishna, Arjuna'nın isteğini yerine getirir ve arabayı kritik avantaj noktasına yerleştirir. 'Rathottama' (mükemmel araba) başlamak üzere olan manevi öğretinin aracını simgeler."
+        }
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम्।\nउवाच पार्थ पश्यैतान्समवेतान्कुरूनिति॥",
+        "transliteration": "bhīṣma-droṇa-pramukhataḥ sarveṣāṁ ca mahī-kṣitām\nuvāca pārtha paśyaitān samavetān kurūn iti",
+        "english": {
+          "translation": "In front of Bhishma, Drona, and all the rulers of the earth, Krishna said: O Partha (Arjuna), behold these Kurus assembled here.",
+          "commentary": "Krishna deliberately positions the chariot before the most revered figures—Bhishma (grandsire) and Drona (teacher). By saying 'behold these Kurus,' Krishna forces Arjuna to confront the personal reality of whom he must fight. This is a crucial pedagogical moment; Krishna knows seeing his loved ones will precipitate Arjuna's crisis, which will create the opening for profound spiritual teaching."
+        },
+        "turkish": {
+          "translation": "Bhishma, Drona ve dünyanın tüm hükümdarlarının önünde, Krishna dedi ki: Ey Partha (Arjuna), burada toplanmış bu Kuruları gör.",
+          "commentary": "Krishna arabayı kasıtlı olarak en saygı değer figürlerin—Bhishma (büyükbaba) ve Drona (öğretmen)—önüne yerleştirir. 'Bu Kuruları gör' diyerek Krishna, Arjuna'yı kiminle savaşması gerektiğinin kişisel gerçekliğiyle yüzleşmeye zorlar. Bu kritik bir pedagojik andır; Krishna sevdiklerini görmesinin Arjuna'nın krizini tetikleyeceğini bilir ve bu derin manevi öğreti için açılım yaratacaktır."
+        }
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितॄनथ पितामहान्।\nआचार्यान्मातुलान्भ्रातॄन्पुत्रान्पौत्रान्सखींस्तथा॥",
+        "transliteration": "tatrāpaśyat sthitān pārthaḥ pitṝn atha pitāmahān\nācāryān mātulān bhrātṝn putrān pautrān sakhīṁs tathā",
+        "english": {
+          "translation": "There Arjuna saw stationed fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, and friends.",
+          "commentary": "The devastating catalog begins. Arjuna sees not enemies but beloved relatives across multiple generations and relationships. Each category—fathers, teachers, brothers, sons—represents a sacred bond in Vedic society. The comprehensive list (continuing in the next verse) emphasizes the totality of familial and social connections about to be destroyed, making the war's horror intensely personal."
+        },
+        "turkish": {
+          "translation": "Orada Arjuna yerleşmiş babaları, büyükbabaları, öğretmenleri, dayıları, kardeşleri, oğulları, torunları ve arkadaşları gördü.",
+          "commentary": "Yıkıcı katalog başlar. Arjuna düşmanları değil, birçok nesil ve ilişkiden sevgili akrabalarını görür. Her kategori—babalar, öğretmenler, kardeşler, oğullar—Vedik toplumda kutsal bir bağı temsil eder. Kapsamlı liste (bir sonraki ayette devam eder) yok edilmek üzere olan ailevi ve sosyal bağlantıların bütünlüğünü vurgular ve savaşın dehşetini yoğun şekilde kişisel kılar."
+        }
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि।\nतान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान्॥",
+        "transliteration": "śvaśurān suhṛdaś caiva senayor ubhayor api\ntān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān",
+        "english": {
+          "translation": "Also fathers-in-law and companions in both armies. Seeing all these kinsmen assembled, the son of Kunti (Arjuna)...",
+          "commentary": "The enumeration concludes with even more relationships—fathers-in-law and dear friends—present on both sides. The phrase 'ubhayor api' (in both armies) is crucial: this isn't just about fighting enemies, but about a civil war where every relationship is torn asunder. The verse suspends mid-thought, creating dramatic tension before describing Arjuna's emotional response."
+        },
+        "turkish": {
+          "translation": "Ayrıca kayınpederleri ve her iki orduda da yoldaşları. Kunti'nin oğlu (Arjuna) toplanmış tüm bu akrabaları görünce...",
+          "commentary": "Sayım daha fazla ilişkiyle—kayınpederleri ve sevgili arkadaşları—her iki tarafta da mevcut olanlarla sona erer. 'Ubhayor api' (her iki orduda da) ifadesi kritiktir: bu sadece düşmanlarla savaşmak değil, her ilişkinin parçalandığı bir iç savaş hakkındadır. Ayet düşüncenin ortasında askıda kalır ve Arjuna'nın duygusal tepkisini anlatmadan önce dramatik gerilim yaratır."
+        }
+      },
+      {
+        "verse_number": 28,
+        "sanskrit": "कृपया परयाविष्टो विषीदन्निदमब्रवीत्।\nअर्जुन उवाच।\nदृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम्॥",
+        "transliteration": "kṛpayā parayāviṣṭo viṣīdann idam abravīt\narjuna uvāca\ndṛṣṭvemaṁ sva-janaṁ kṛṣṇa yuyutsuṁ samupasthitam",
+        "english": {
+          "translation": "...was overcome with great compassion and, desponding, spoke thus. Arjuna said: O Krishna, seeing my own people eager to fight and standing before me...",
+          "commentary": "Arjuna's crisis begins. The word 'kripaya' (compassion) is significant—not fear or cowardice, but moral sensitivity causes his anguish. The emotion is 'paraya' (supreme, overwhelming). His use of 'sva-jana' (own people) rather than 'enemies' shows his perception has shifted from strategic warrior to feeling human being. This compassion, though admirable, will prove insufficient without spiritual wisdom."
+        },
+        "turkish": {
+          "translation": "...büyük bir şefkatle doldu ve kederlenererek şöyle konuştu. Arjuna dedi ki: Ey Krishna, kendi insanlarımı savaşmaya hevesli ve önümde duruyor görünce...",
+          "commentary": "Arjuna'nın krizi başlar. 'Kripaya' (şefkat) kelimesi önemlidir—korku veya korkakl değil, ahlaki duyarlılık ıstırabına neden olur. Duygu 'paraya' (yüce, ezici) dır. 'Düşmanlar' yerine 'sva-jana' (kendi insanları) kullanımı algısının stratejik savaşçıdan hisseden insana değiştiğini gösterir. Bu şefkat, takdire değer olsa da, manevi bilgelik olmadan yetersiz kalacaktır."
+        }
+      },
+      {
+        "verse_number": 29,
+        "sanskrit": "सीदन्ति मम गात्राणि मुखं च परिशुष्यति।\nवेपथुश्च शरीरे मे रोमहर्षश्च जायते॥",
+        "transliteration": "sīdanti mama gātrāṇi mukhaṁ ca pariśuṣyati\nvepathuś ca śarīre me roma-harṣaś ca jāyate",
+        "english": {
+          "translation": "My limbs are failing, my mouth is drying up, my body is trembling, and my hair is standing on end.",
+          "commentary": "Arjuna describes intense physical symptoms of psychological distress. The failing limbs, dry mouth, trembling body, and standing hair are classic signs of overwhelming anxiety. These bodily reactions demonstrate that Arjuna's crisis is not merely intellectual but profoundly visceral—his entire being rebels against the prospect of this fratricide. The physical manifestations prepare us for the philosophical dilemma to follow."
+        },
+        "turkish": {
+          "translation": "Uzuvlarım gevşiyor, ağzım kuruyor, vücudum titriyor ve tüylerim diken diken oluyor.",
+          "commentary": "Arjuna psikolojik sıkıntının yoğun fiziksel belirtilerini anlatır. Gevşeyen uzuvlar, kuru ağız, titreyen vücut ve diken diken olan saç, ezici kaygının klasik işaretleridir. Bu bedensel tepkiler, Arjuna'nın krizinin sadece entelektüel değil aynı zamanda derinden visseral olduğunu gösterir—tüm varlığı bu kardeş katline karşı isyan eder. Fiziksel tezahürler bizi takip edecek felsefi ikilem için hazırlar."
+        }
+      },
+      {
+        "verse_number": 30,
+        "sanskrit": "गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते।\nन च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः॥",
+        "transliteration": "gāṇḍīvaṁ sraṁsate hastāt tvak caiva paridahyate\nna ca śaknomy avasthātuṁ bhramatīva ca me manaḥ",
+        "english": {
+          "translation": "The Gandiva (bow) is slipping from my hand, and my skin is burning all over. I am unable to stand, and my mind is reeling.",
+          "commentary": "Arjuna's legendary bow Gandiva—symbol of his warrior identity—slips from his grasp, representing the collapse of his sense of purpose. His burning skin and inability to stand show complete physical incapacitation. Most critically, his mind is 'reeling' (bhramati), indicating loss of mental clarity and stability. This total breakdown—physical, psychological, and intellectual—creates the need for Krishna's comprehensive teaching."
+        },
+        "turkish": {
+          "translation": "Gandiva (yay) elimden kayıyor ve derim her yerde yanıyor. Ayakta duramıyorum ve zihnim dönüyor.",
+          "commentary": "Arjuna'nın efsanevi yayı Gandiva—savaşçı kimliğinin sembolü—elinden kayar ve amaç duygusunun çöküşünü temsil eder. Yanan derisi ve ayakta duramayışı tam fiziksel hareketsizliği gösterir. En kritik olarak, zihni 'dönüyor' (bhramati), zihinsel netlik ve istikrar kaybını gösterir. Bu tam çöküş—fiziksel, psikolojik ve entelektüel—Krishna'nın kapsamlı öğretisine ihtiyaç yaratır."
+        }
+      }
+    ]
+  }
+}
