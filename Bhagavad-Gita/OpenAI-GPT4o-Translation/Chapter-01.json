@@ -1,0 +1,147 @@
+{
+  "chapter": {
+    "number": 1,
+    "title_sanskrit": "अर्जुनविषादयोगः",
+    "title_english": "Arjuna’s Despondency",
+    "title_turkish": "Arjuna’nın Kararsızlığı",
+    "total_verses": 47,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "धृतराष्ट्र उवाच । धर्मक्षेत्रे कुरुक्षेत्रे समवेता युयुत्सवः । मामकाः पाण्डवाश्चैव किमकुर्वत सञ्जय ॥",
+        "transliteration": "dhṛtarāṣṭra uvāca\ndharmakṣetre kurukṣetre samavetā yuyutsavaḥ\nmāmakāḥ pāṇḍavāś caiva kimakurvata sañjaya",
+        "english": {
+          "translation": "Dhritarashtra said: O Sanjaya, assembled in the holy land of Kurukshetra, eager for battle, what did my sons and the sons of Pandu do?",
+          "commentary": "King Dhritarashtra begins the dialogue by inquiring what occurred on the battlefield of Kurukshetra. The term 'dharmakṣetra' (field of righteousness) signifies not just a geographical place but also a moral ground, setting the tone for the spiritual conflict. His reference to 'my sons' vs. 'the Pandavas' subtly reveals his partiality."
+        },
+        "turkish": {
+          "translation": "Dhritarashtra dedi ki: Ey Sanjaya, kutsal Kurukshetra ovasında savaşmak için toplanan benim oğullarım ve Pandu'nun oğulları ne yaptılar?",
+          "commentary": "Kral Dhritarashtra, savaş meydanındaki olayları öğrenmek ister. 'Dharma-kṣetra' (doğruluk alanı), yalnızca coğrafi değil, aynı zamanda ahlaki bir anlam taşır. 'Benim oğullarım' ve 'Pandu’nun oğulları' ifadesi, kralın taraflı bakışını ortaya koyar."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "सञ्जय उवाच । दृष्ट्वा तु पाण्डवानीकं व्यूढं दुर्योधनस्तदा । आचार्यमुपसङ्गम्य राजा वचनमब्रवीत् ॥",
+        "transliteration": "sañjaya uvāca\ndṛṣṭvā tu pāṇḍavānīkaṃ vyūḍhaṃ duryodhanas tadā\nācāryam upasaṅgamya rājā vacanam abravīt",
+        "english": {
+          "translation": "Sanjaya said: O King, upon seeing the Pandava army arranged in military formation, King Duryodhana approached his teacher Drona and spoke these words:",
+          "commentary": "Sanjaya begins his narration, describing how Duryodhana, observing the formidable arrangement of the Pandava forces, turns to his martial teacher Dronacharya for counsel. This highlights the tension and strategic considerations prior to the battle."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi ki: Ey Kral, Pandu oğullarının ordusunu savaş düzeninde gören Duryodhana, hocası Drona'ya yaklaştı ve şöyle dedi:",
+          "commentary": "Sanjaya, Pandava ordusunun düzenlenmiş halini gören Duryodhana’nın, askeri danışmanı Drona’ya başvurduğunu aktarır. Bu sahne, savaş öncesi stratejik gerginliği gösterir."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "पश्यैतां पाण्डुपुत्राणामाचार्य महतीं चमूम् । व्यूढां द्रुपदपुत्रेण तव शिष्येण धीमता ॥",
+        "transliteration": "paśyaitāṃ pāṇḍu-putrāṇām ācārya mahatīṃ camūm\nvyūḍhāṃ drupada-putreṇa tava śiṣyeṇa dhīmatā",
+        "english": {
+          "translation": "Behold, O teacher, the mighty army of the sons of Pandu, arranged in battle formation by your intelligent disciple, the son of Drupada.",
+          "commentary": "Duryodhana points out to Drona that their enemies are led by Dronacharya's own former student, Dhrishtadyumna, son of Drupada—once Drona's rival. This comment subtly challenges Drona’s loyalty and adds personal tension to the battlefield."
+        },
+        "turkish": {
+          "translation": "Bak hocam, Pandu’nun oğullarının büyük ordusuna; senin zeki öğrencin, Drupada’nın oğlu tarafından savaş düzenine sokulmuş.",
+          "commentary": "Duryodhana, Drona’ya karşı tarafın komutanının onun eski öğrencisi olduğunu hatırlatarak bir nevi onu sorgular. Bu, savaş alanına kişisel bir gerginlik de ekler."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अत्र शूरा महेष्वासा भीमार्जुनसमा युधि । युयुधानो विराटश्च द्रुपदश्च महारथः ॥",
+        "transliteration": "atra śūrā maheṣvāsā bhīmārjuna-samā yudhi\nyuyudhāno virāṭaś ca drupadaś ca mahārathaḥ",
+        "english": {
+          "translation": "Here in this army are heroic archers equal in battle to Bhima and Arjuna: Yuyudhana, Virata, and the great chariot-warrior Drupada.",
+          "commentary": "Duryodhana assesses the strength of the opposing army, noting skilled warriors who rival even Bhima and Arjuna. The term 'mahāratha' denotes a warrior capable of fighting 72,000 opponents, highlighting their formidable nature."
+        },
+        "turkish": {
+          "translation": "Bu orduda, Bhima ve Arjuna kadar güçlü savaşçılar var: Yuyudhana, Virata ve büyük savaş arabası savaşçısı Drupada.",
+          "commentary": "Duryodhana, karşı ordunun gücünü değerlendirirken, Bhima ve Arjuna kadar güçlü olan savaşçıları sıralar. 'Mahāratha', binlerce savaşçıyla baş edebilecek kapasitedeki savaşçıyı tanımlar."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "धृष्टकेतुश्चेकितानः काशिराजश्च वीर्यवान् । पुरुजित्कुन्तिभोजश्च शैब्यश्च नरपुङ्गवः ॥",
+        "transliteration": "dhṛṣṭaketuś cekitānaḥ kāśirājaś ca vīryavān\npurujit kuntibhojaś ca śaibyaś ca narapuṅgavaḥ",
+        "english": {
+          "translation": "There are also the valiant Dhrishtaketu, Chekitana, the brave king of Kashi, Purujit, Kuntibhoja, and Shaibya, the best among men.",
+          "commentary": "This verse continues Duryodhana’s enumeration of the warriors on the Pandava side, emphasizing their bravery and noble lineage. The names evoke regional allies brought together under the Pandava banner."
+        },
+        "turkish": {
+          "translation": "Ayrıca cesur Dhrishtaketu, Chekitana, yiğit Kaşi Kralı, Purujit, Kuntibhoja ve insanlar arasında en iyilerden Shaibya da var.",
+          "commentary": "Duryodhana, Pandava ordusundaki kahramanları sıralamaya devam eder. Bu isimler, Pandava’ların etrafında toplanmış bölgesel müttefikleri temsil eder."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "युधामन्युश्च विक्रान्त उत्तमौजाश्च वीर्यवान् । सौभद्रो द्रौपदेयाश्च सर्व एव महारथाः ॥",
+        "transliteration": "yudhāmanyuś ca vikrānta uttamaujāś ca vīryavān\nsaubhadro draupadeyāś ca sarva eva mahārathāḥ",
+        "english": {
+          "translation": "Also, the powerful Yudhamanyu, the valiant Uttamaujas, the son of Subhadra, and the sons of Draupadi—all are great chariot-warriors.",
+          "commentary": "Duryodhana continues his account, mentioning Abhimanyu (son of Subhadra and Arjuna) and Draupadi’s sons, all of whom are mighty fighters. The emphasis on 'mahārathāḥ' underscores their elite combat status."
+        },
+        "turkish": {
+          "translation": "Ayrıca güçlü Yudhamanyu, yiğit Uttamaujas, Subhadra’nın oğlu (Abhimanyu) ve Draupadi’nin oğulları—hepsi büyük savaş arabası savaşçılarıdır.",
+          "commentary": "Duryodhana, Pandava tarafındaki elit savaşçıları saymayı sürdürür. Özellikle 'mahāratha' unvanı, onların olağanüstü savaş becerilerini vurgular."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "अस्माकं तु विशिष्टा ये तान्निबोध द्विजोत्तम । नायका मम सैन्यस्य सञ्ज्ञार्थं तान्ब्रवीमि ते ॥",
+        "transliteration": "asmākaṃ tu viśiṣṭā ye tān nibodha dvijottama\nnāyakā mama sainyasya sañjñārthaṃ tān bravīmi te",
+        "english": {
+          "translation": "But know, O best of Brahmins, the distinguished leaders of our army. For your information, I shall now name them to you.",
+          "commentary": "Duryodhana now shifts focus to his own army’s key warriors, addressing Drona with deference. He implies his forces too have equally noteworthy heroes."
+        },
+        "turkish": {
+          "translation": "Ama ey Brahmanların en iyisi, şimdi bizim ordumuzdaki seçkin liderleri sana anlatacağım.",
+          "commentary": "Duryodhana, Drona’ya hitaben kendi ordusunun önemli savaşçılarını sıralayacağını söyler. Bu, iki taraf arasındaki dengeyi vurgulamaya yöneliktir."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "भवान्भीष्मश्च कर्णश्च कृपश्च समितिञ्जयः । अश्वत्थामा विकर्णश्च सौमदत्तिस्तथैव च ॥",
+        "transliteration": "bhavān bhīṣmaś ca karṇaś ca kṛpaś ca samitiñjayaḥ\naśvatthāmā vikarṇaś ca saumadattis tathaiva ca",
+        "english": {
+          "translation": "Yourself, Bhishma, Karna, Kripa—victorious in battle—Ashwatthama, Vikarna, and the son of Somadatta—all great warriors.",
+          "commentary": "Duryodhana lists key Kaurava champions, beginning with Drona himself. This list demonstrates the martial might on his side and aims to boost morale."
+        },
+        "turkish": {
+          "translation": "Sen, Bhishma, Karna, savaşta zafer kazanmış Kripa, Ashwatthama, Vikarna ve Somadatta’nın oğlu—hepsi büyük savaşçılardır.",
+          "commentary": "Duryodhana, ordusundaki güçlü savaşçıları sayarak kendi tarafının da en az Pandavalar kadar güçlü olduğunu vurgular."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अन्ये च बहवः शूरा मदर्थे त्यक्तजीविताः । नानाशस्त्रप्रहरणाः सर्वे युद्धविशारदाः ॥",
+        "transliteration": "anye ca bahavaḥ śūrā mad-arthe tyakta-jīvitāḥ\nnānāśastra-praharaṇāḥ sarve yuddha-viśāradāḥ",
+        "english": {
+          "translation": "And many other heroes who have risked their lives for my sake, all skilled in various weapons and experts in the art of war.",
+          "commentary": "Duryodhana emphasizes the dedication of his warriors, suggesting they are ready to sacrifice themselves. This highlights the intensity of loyalty and the readiness for total war."
+        },
+        "turkish": {
+          "translation": "Benim uğrumda canlarını feda etmeye hazır pek çok kahraman daha var; hepsi çeşitli silahlarda uzman ve savaş sanatı konusunda yetkindir.",
+          "commentary": "Duryodhana, ordusundaki diğer savaşçıların da kararlılığını ve savaş becerilerini vurgular. Bu, tarafındaki bağlılık ve ciddiyetin altını çizer."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अपर्याप्तं तदस्माकं बलं भीष्माभिरक्षितम् । पर्याप्तं त्विदमेतेषां बलं भीमाभिरक्षितम् ॥",
+        "transliteration": "aparyāptaṃ tad asmākaṃ balaṃ bhīṣmābhirakṣitam\nparyāptaṃ tv idam eteṣāṃ balaṃ bhīmābhirakṣitam",
+        "english": {
+          "translation": "Our strength, guarded by Bhishma, is limitless; while theirs, protected by Bhima, is limited.",
+          "commentary": "Here, Duryodhana boasts about the strength of his army under Bhishma’s command, suggesting superiority over the Pandavas, whose key protector is Bhima. This statement also reflects his attempt to bolster confidence."
+        },
+        "turkish": {
+          "translation": "Ordumuz, Bhishma tarafından korunduğu için sınırsızdır; onlarınki ise Bhima tarafından korunmakta ve sınırlıdır.",
+          "commentary": "Duryodhana, Bhishma’nın liderliğindeki ordusunu övüp, Pandavaların ordusunu küçümser. Bu sözler, kendi tarafının moralini yükseltmeye yöneliktir."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "verses_translated": 10,
+    "expected_verses": 47,
+    "complete": false,
+    "missing_verses": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
+  }
+}
