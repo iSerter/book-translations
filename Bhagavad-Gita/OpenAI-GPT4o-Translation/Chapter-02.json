@@ -1,0 +1,271 @@
+{
+  "chapter": {
+    "number": 2,
+    "title_sanskrit": "साङ्ख्ययोगः",
+    "title_english": "The Yoga of Knowledge",
+    "title_turkish": "Bilgi Yolu (Sankhya Yoga)",
+    "total_verses": 72,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "सञ्जय उवाच । तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम् । विषीदन्तमिदं वाक्यमुवाच मधुसूदनः ॥",
+        "transliteration": "sañjaya uvāca\ntaṃ tathā kṛipayāviṣṭam aśru-pūrṇākulekṣaṇam\nviṣīdantam idaṃ vākyam uvāca madhusūdanaḥ",
+        "english": {
+          "translation": "Sanjaya said: Seeing Arjuna overwhelmed with compassion, his eyes full of tears and mind agitated by sorrow, Madhusudana spoke the following words.",
+          "commentary": "Arjuna’s emotional collapse is vividly portrayed—his noble heart is overtaken by grief. Krishna (called Madhusudana, 'slayer of the demon Madhu') now steps in to address his despair with divine wisdom."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi ki: Arjuna'nın merhametle dolduğunu, gözlerinden yaşlar aktığını ve zihninin kederle karıştığını gören Madhusudana şöyle konuştu.",
+          "commentary": "Arjuna’nın ruhsal çöküşü derin bir şekilde betimlenir. Krishna (Madhusudana, 'Madhu iblisini yok eden') şimdi onu ilahi bilgelikle yönlendirmeye başlar."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "श्रीभगवानुवाच । कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम् । अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन ॥",
+        "transliteration": "śrī-bhagavān uvāca\nkutas tvā kaśmalam idaṃ viṣame samupasthitam\nanārya-juṣṭam asvargyam akīrti-karam arjuna",
+        "english": {
+          "translation": "The Blessed Lord said: From where has this dejection come upon you at this critical hour, O Arjuna? It is unworthy of an honorable man, leads not to heaven, and brings disgrace.",
+          "commentary": "Krishna challenges Arjuna’s crisis directly, calling his despair 'anārya'—not fitting for a noble person. This rebuke signals that spiritual maturity involves facing duty, not fleeing from it."
+        },
+        "turkish": {
+          "translation": "Yüce Rab dedi ki: Ey Arjuna, bu zor anda sana çöken bu keder nereden geldi? Bu, onurlu birine yakışmaz, cennete götürmez ve itibar kaybettirir.",
+          "commentary": "Krishna, Arjuna'nın çaresizliğini sertçe sorgular. 'Anārya' (soyluya yakışmayan) olarak niteler. Bu, ruhsal olgunluğun sorumluluktan kaçmak değil, onunla yüzleşmek olduğunu ima eder."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते । क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप ॥",
+        "transliteration": "klaibyaṃ mā sma gamaḥ pārtha naitat tvayy upapadyate\nkṣudraṃ hṛdaya-daurbalyaṃ tyaktvottiṣṭha parantapa",
+        "english": {
+          "translation": "Do not yield to this impotence, O Partha. It does not befit you. Cast off this petty weakness of the heart and arise, O scorcher of foes!",
+          "commentary": "Krishna urges Arjuna to abandon weakness. The term 'klaibyam' (impotence) implies spiritual and moral cowardice. He must rise as a warrior not just in battle, but in soul."
+        },
+        "turkish": {
+          "translation": "Bu acizliğe kapılma, ey Partha! Bu sana yakışmaz. Bu küçük kalp zayıflığını terk et ve kalk ayağa, ey düşmanlarını yakan!",
+          "commentary": "Krishna, Arjuna’yı içsel cesaretsizliğini terk etmeye çağırır. 'Klaibyam' (güçsüzlük), ruhsal korkaklığı temsil eder. Arjuna sadece savaş alanında değil, ruhen de ayağa kalkmalıdır."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अर्जुन उवाच । कथं भीष्ममहं संख्ये द्रोणं च मधुसूदन । इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन ॥",
+        "transliteration": "arjuna uvāca\nkathaṃ bhīṣmam ahaṃ sāṅkhye droṇaṃ ca madhusūdana\niṣubhiḥ pratiyotsyāmi pūjārhāv ari-sūdana",
+        "english": {
+          "translation": "Arjuna said: O Madhusudana, how can I fight against Bhishma and Drona in battle with arrows? They are worthy of my worship, O destroyer of enemies!",
+          "commentary": "Arjuna cannot reconcile the idea of attacking his elders and teachers. 'Pūjārhau' (worthy of reverence) reflects the sacred bonds he is asked to break—a major inner conflict."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi ki: Ey Madhusudana, Bhishma ve Drona’ya oklarla nasıl savaş açabilirim? Onlar benim saygıya layık büyüklerimdir, ey düşmanları yok eden!",
+          "commentary": "Arjuna, öğretmenleri ve yaşlılarına karşı silah çekmeyi reddeder. 'Pūjārhau' (ibadete layık) kelimesi, onun kopmak istemediği kutsal bağları simgeler."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके । हत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान् ॥",
+        "transliteration": "gurūn ahatvā hi mahānubhāvān\nśreyo bhoktuṃ bhaikṣyam apīha loke\nhatvā artha-kāmāṃs tu gurūn ihaiva\nbhuñjīya bhogān rudhira-pradigdhān",
+        "english": {
+          "translation": "It is better to live in this world by begging than to kill these noble teachers. If I kill them, all my worldly enjoyments will be tainted with blood.",
+          "commentary": "Arjuna sees violence against gurus as contaminating all possible enjoyment. He would rather renounce worldly life than bear the guilt of such sin—a sign of his deep ethical struggle."
+        },
+        "turkish": {
+          "translation": "Bu dünyada dilenerek yaşamak, bu büyük hocaları öldürmekten daha iyidir. Onları öldürürsem, tüm dünyevi zevkler kana bulanmış olacaktır.",
+          "commentary": "Arjuna, hocalarına karşı şiddetin tüm yaşamını kirleteceğini düşünür. Bu, onun ahlaki çatışmasının ne kadar derin olduğunu gösterir."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः । यानेव हत्वा न जिजीविषामस्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः ॥",
+        "transliteration": "na caitad vidmaḥ kataran no garīyo\nyad vā jayema yadi vā no jayeyuḥ\nyān eva hatvā na jijīviṣāmas\nte 'vasthitāḥ pramukhe dhārtarāṣṭrāḥ",
+        "english": {
+          "translation": "We do not know which is better for us—whether we should conquer them or they should conquer us. Those whom we do not wish to kill, even if we gain victory, stand before us now as Dhritarashtra’s sons.",
+          "commentary": "Arjuna is paralyzed by uncertainty. Even victory has no meaning if it demands the death of loved ones. He questions the value of both outcomes, indicating existential confusion."
+        },
+        "turkish": {
+          "translation": "Bizim için hangisinin daha iyi olduğunu bilmiyoruz—onları yenmemiz mi, yoksa onların bizi yenmesi mi? Zafer kazansak bile öldürmek istemediğimiz kişiler, Dhritarashtra’nın oğulları karşımızda duruyor.",
+          "commentary": "Arjuna zaferin anlamını sorgular. Zaferin bedeli yakınların ölümü olursa, bu zaferin değeri kalmaz. Bu, onun varoluşsal sorgulamasını yansıtır."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसंमूढचेताः । यच्छ्रेयः स्यान्निश्िचतं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम् ॥",
+        "transliteration": "kārpaṇya-doṣopahata-svabhāvaḥ pṛcchāmi tvāṃ dharma-sammūḍha-cetāḥ\nyac chreyaḥ syān niścitaṃ brūhi tan me\nśiṣyas te ’haṃ śādhi māṃ tvāṃ prapannam",
+        "english": {
+          "translation": "My nature is overcome by weakness; my mind is confused about dharma. I ask You—tell me clearly what is best. I am Your disciple, surrendered to You. Please instruct me.",
+          "commentary": "This pivotal verse marks Arjuna’s surrender. He moves from confusion to willingness to learn. Declaring himself a disciple, he opens the path for Krishna’s teaching."
+        },
+        "turkish": {
+          "translation": "Doğam zayıflığın etkisi altında; zihnim dharma konusunda karışık. Sana soruyorum—ne en iyisiyse açıkça söyle. Ben senin öğrencinim, sana teslim oldum. Lütfen beni eğit.",
+          "commentary": "Bu ayet, Arjuna’nın teslimiyetini ilan ettiği dönüm noktasıdır. Artık öğrenmeye hazırdır. Öğrenci olduğunu söyleyerek, Krishna’nın öğretisine kapıyı açar."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "न हि प्रपश्यामि ममापनुद्याद्यच्छोकमुच्छोषणमिन्द्रियाणाम् । अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम् ॥",
+        "transliteration": "na hi prapaśyāmi mamāpanudyād\yac chokam ucchoṣaṇam indriyāṇām\navāpya bhūmāv asapatnam ṛddhaṃ\nrājyaṃ surāṇām api cādhipatyam",
+        "english": {
+          "translation": "Even if I were to obtain an unrivaled and prosperous kingdom on earth or lordship over the gods, I do not see what would remove the grief that is drying up my senses.",
+          "commentary": "Arjuna realizes that no external reward—earthly or divine—can relieve his inner anguish. The solution must be spiritual, not material. His suffering is existential."
+        },
+        "turkish": {
+          "translation": "Dünyada rakipsiz, zengin bir krallık ya da tanrılar üzerinde hüküm sürecek bir iktidar kazansam bile, duyularımı kurutan bu kederi neyin gidereceğini göremiyorum.",
+          "commentary": "Arjuna, dünyevi ya da ilahi hiçbir ödülün içsel acısını dindiremeyeceğini fark eder. Sorunun çözümü maddi değil, ruhsaldır."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "सञ्जय उवाच । एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तप । न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह ॥",
+        "transliteration": "sañjaya uvāca\nevam uktvā hṛṣīkeśaṃ guḍākeśaḥ parantapa\nna yotsya iti govindam uktvā tūṣṇīṃ babhūva ha",
+        "english": {
+          "translation": "Sanjaya said: Having spoken thus to Hrishikesha, the mighty Arjuna (Gudakesha), saying 'I will not fight', fell silent.",
+          "commentary": "Despite his eloquent reasoning, Arjuna remains motionless in doubt. His silence reflects not clarity, but inner paralysis—a vacuum waiting for divine wisdom."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi ki: Hrishikesha’ya böylece konuşan güçlü Arjuna (Gudakesha), 'Savaşmayacağım' diyerek Govinda’ya seslendi ve sustu.",
+          "commentary": "Arjuna, tüm mantıksal gerekçelerine rağmen hâlâ hareketsizdir. Sessizliği çözülmüşlük değil, içsel donukluğu temsil eder. Şimdi Krishna’nın öğretileri başlayacaktır."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "तमुवाच हृषीकेशः प्रहसन्निव भारत । सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः ॥",
+        "transliteration": "tam uvāca hṛṣīkeśaḥ prahasann iva bhārata\nsenayor ubhayor madhye viṣīdantam idaṃ vacaḥ",
+        "english": {
+          "translation": "O Bharata, then Hrishikesha, smiling as if in compassion, spoke these words to the grieving Arjuna, standing between the two armies.",
+          "commentary": "Krishna’s divine smile reflects serenity, compassion, and supreme wisdom. The battlefield becomes a classroom, and the lesson is about to begin."
+        },
+        "turkish": {
+          "translation": "Ey Bharata, iki ordunun arasında keder içinde duran Arjuna’ya Hrishikesha (Krishna), merhametle gülümseyerek şöyle dedi:",
+          "commentary": "Krishna’nın tebessümü, ilahi huzur ve şefkati simgeler. Savaş alanı artık bir öğretim alanına dönüşmüştür."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "श्रीभगवानुवाच । अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे । गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः ॥",
+        "transliteration": "śrī-bhagavān uvāca\naśocyān anvaśocas tvaṃ prajñā-vādāṃś ca bhāṣase\ngatāsūn agatāsūṃś ca nānuśocanti paṇḍitāḥ",
+        "english": {
+          "translation": "The Blessed Lord said: You grieve for those who should not be grieved for, yet you speak words of wisdom. The wise do not mourn for the living or the dead.",
+          "commentary": "Krishna gently rebukes Arjuna: sorrow over life and death reflects ignorance, not wisdom. True sages (paṇḍitāḥ) see the eternal nature of the soul and thus remain unmoved."
+        },
+        "turkish": {
+          "translation": "Yüce Rab dedi ki: Üzülmene gerek olmayanlar için üzülüyorsun ve bilgece sözler söylüyorsun. Gerçek bilginler ne yaşayanlar ne de ölenler için yas tutar.",
+          "commentary": "Krishna, Arjuna’nın acısını sorgular. Gerçek bilgelik, ruhun ölümsüzlüğünü kavramakla başlar. Yaşam ve ölüm, bilge kişinin gözünde gelip geçicidir."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः । न चैव न भविष्यामः सर्वे वयमतः परम् ॥",
+        "transliteration": "na tv evāhaṃ jātu nāsaṃ na tvaṃ neme janādhipāḥ\nna caiva na bhaviṣyāmaḥ sarve vayam ataḥ param",
+        "english": {
+          "translation": "Never was there a time when I did not exist, nor you, nor these kings; nor will any of us cease to exist in the future.",
+          "commentary": "Krishna introduces the timeless nature of the self (ātman). Birth and death apply to the body, not the soul. This is a foundational teaching of the Gita."
+        },
+        "turkish": {
+          "translation": "Ben hiçbir zaman yok olmadım, sen de yok olmadın, bu krallar da yok olmadılar; ve gelecekte de hepimiz var olmaya devam edeceğiz.",
+          "commentary": "Krishna, ruhun sonsuzluğunu açıklamaya başlar. Doğum ve ölüm bedene aittir; ruh, zamanın ötesindedir."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा । तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति ॥",
+        "transliteration": "dehino 'smin yathā dehe kaumāraṃ yauvanaṃ jarā\ntathā dehāntara-prāptir dhīras tatra na muhyati",
+        "english": {
+          "translation": "Just as the embodied soul passes through childhood, youth, and old age in this body, so also it attains another body after death. The wise are not deluded by this.",
+          "commentary": "Krishna explains reincarnation with an everyday analogy: the body changes, but the self persists. The wise (dhīraḥ) are steady because they understand this truth."
+        },
+        "turkish": {
+          "translation": "Nasıl ki beden içindeki ruh bu yaşamda çocukluk, gençlik ve yaşlılıktan geçiyorsa, ölümden sonra başka bir bedene geçer. Bilge kişi bu durum karşısında şaşırmaz.",
+          "commentary": "Krishna, ruh göçünü (reenkarnasyon) açıklar. Beden değişir, ruh kalır. Gerçek anlayış, bu döngüyü fark etmekle başlar."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः । आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत ॥",
+        "transliteration": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ\nāgamāpāyino 'nityās tāṃs titikṣasva bhārata",
+        "english": {
+          "translation": "O son of Kunti, the sensations of cold and heat, pleasure and pain, are caused by contact with the senses. They come and go—they are impermanent. Endure them bravely, O Bharata.",
+          "commentary": "Krishna introduces stoic endurance (titikṣā) as spiritual strength. Sense experiences are fleeting; they should not sway the wise from their path."
+        },
+        "turkish": {
+          "translation": "Ey Kunti oğlu, soğuk-sıcak, haz ve acı gibi duyumlar duyularla temastan doğar. Gelirler ve geçerler; kalıcı değillerdir. Onlara sabırla katlan, ey Bharata.",
+          "commentary": "Krishna, duyusal deneyimlerin geçici doğasını vurgular. Gerçek güç, bu dalgalanmalara sabırla direnebilmektir (titikṣā)."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ । समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते ॥",
+        "transliteration": "yaṃ hi na vyathayanti ete puruṣaṃ puruṣarṣabha\nsama-duḥkha-sukhaṃ dhīraṃ so 'mṛtatvāya kalpate",
+        "english": {
+          "translation": "That person whom these cannot disturb, O best among men, who is equal in pain and pleasure, is fit for immortality.",
+          "commentary": "The one who remains steady in both pleasure and pain is spiritually mature. Such equanimity makes one eligible for moksha—liberation from the cycle of rebirth."
+        },
+        "turkish": {
+          "translation": "Ey insanların en iyisi, bu duyusal durumların sarsamadığı; acı ve sevinçte dengeli kalan kişi ölümsüzlüğe layıktır.",
+          "commentary": "Acı ve zevkte dengede kalan kişi, ruhsal olgunluğa ulaşır. Bu denge (samaduhkhasukha) özgürleşmenin anahtarıdır."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः । उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः ॥",
+        "transliteration": "nāśato vidyate bhāvo nābhāvo vidyate sataḥ\nubhayor api dṛṣṭo 'ntas tv anayos tattva-darśibhiḥ",
+        "english": {
+          "translation": "The unreal has no existence; the real never ceases to be. The seers of truth have concluded this about both.",
+          "commentary": "Krishna presents a core metaphysical insight: the impermanent (asat) is illusory, while the eternal (sat)—the Self—alone is real. This echoes Vedantic non-duality."
+        },
+        "turkish": {
+          "translation": "Gerçek olmayanın varlığı yoktur; gerçek olan ise asla yok olmaz. Gerçeği gören bilge kişiler bunu böyle anlamışlardır.",
+          "commentary": "Krishna, Vedantik gerçeği özetler: geçici olan (asat) yanılgıdır; kalıcı olan (sat) tek gerçektir—bu da ruhtur (ātman)."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम् । विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति ॥",
+        "transliteration": "avināśi tu tad viddhi yena sarvam idaṃ tatam\nvināśam avyayasyāsya na kaścit kartum arhati",
+        "english": {
+          "translation": "Know that to be indestructible by which all this is pervaded. No one can bring about the destruction of this imperishable Self.",
+          "commentary": "The ātman is all-pervading and eternal. It cannot be destroyed because it was never born. Recognizing this changes how one relates to death and duty."
+        },
+        "turkish": {
+          "translation": "Bu evreni kaplayan şeyin yok edilemez olduğunu bil. Bu yok olmayan özün yok edilmesini kimse başaramaz.",
+          "commentary": "Ruh (ātman) her yerdedir ve yok edilemez. Ne yaratılmıştır ne de yok olur. Bu anlayış, ölüme ve göreve bakışı değiştirir."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः । अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत ॥",
+        "transliteration": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ\nanāśino 'prameyasya tasmād yudhyasva bhārata",
+        "english": {
+          "translation": "These bodies are said to have an end, while the indwelling Self is eternal, indestructible, and immeasurable. Therefore, fight, O Bharata!",
+          "commentary": "Bodies perish, but the Self is untouched. Krishna connects metaphysics to action: understanding eternal truth should empower one to fulfill one’s duty."
+        },
+        "turkish": {
+          "translation": "Bu bedenlerin sonu vardır; fakat içteki ruh sonsuz, yok edilemez ve ölçülemezdir. Bu yüzden savaş, ey Bharata!",
+          "commentary": "Krishna, ruhun doğasını açıklayıp bunu görevle ilişkilendirir. Gerçeği bilen, eylemden kaçmaz."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम् । उभौ तौ न विजानीतो नायं हन्ति न हन्यते ॥",
+        "transliteration": "ya enaṃ vetti hantāraṃ yaś cainaṃ manyate hatam\nubhau tau na vijānīto nāyaṃ hanti na hanyate",
+        "english": {
+          "translation": "He who thinks that the soul kills, and he who thinks it is killed—both lack understanding. The soul neither kills nor is killed.",
+          "commentary": "The Self is beyond action and death. Misidentifying the body as the Self leads to confusion; true wisdom sees beyond appearances."
+        },
+        "turkish": {
+          "translation": "Ruhu öldüren biri olduğunu sanan da, onun öldüğünü düşünen de bilmez. Ruh ne öldürür ne de öldürülür.",
+          "commentary": "Ruh, eylem ve ölümün ötesindedir. Bedeni ruhla karıştırmak, bilgisizliğin temelidir."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः । अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे ॥",
+        "transliteration": "na jāyate mriyate vā kadācin nāyaṃ bhūtvā bhavitā vā na bhūyaḥ\najo nityaḥ śāśvato 'yaṃ purāṇo na hanyate hanyamāne śarīre",
+        "english": {
+          "translation": "The soul is never born, nor does it die; nor, having once existed, does it cease to be. It is unborn, eternal, everlasting, and ancient. It is not killed when the body is slain.",
+          "commentary": "This is one of the most definitive verses on the immortality of the soul. The Self is beyond time—unborn and undying. This truth is the foundation of fearlessness."
+        },
+        "turkish": {
+          "translation": "Ruh ne doğar ne de ölür; bir kez var olduktan sonra da yok olmaz. O, doğmamış, ebedî, sonsuz ve kadimdir. Beden öldürüldüğünde o öldürülmez.",
+          "commentary": "Bu ayet, ruhun ölümsüzlüğünü açıkça ortaya koyar. Ruh zamanın ötesindedir; bu bilgi, korkusuzluğun temelidir."
+        }
+      }
+    ]
+  }
+}

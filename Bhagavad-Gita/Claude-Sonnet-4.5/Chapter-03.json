@@ -1,0 +1,576 @@
+{
+  "chapter": {
+    "number": 3,
+    "title_sanskrit": "कर्मयोग",
+    "title_english": "The Yoga of Action",
+    "title_turkish": "Eylem Yogası",
+    "total_verses": 43,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "अर्जुन उवाच। ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन। तत्किं कर्मणि घोरे मां नियोजयसि केशव।।",
+        "transliteration": "arjuna uvāca | jyāyasī cet karmaṇas te matā buddhir janārdana | tat kiṁ karmaṇi ghore māṁ niyojayasi keśava ||",
+        "english": {
+          "translation": "Arjuna said: If You consider knowledge superior to action, O Janardana (Krishna), then why do You urge me to engage in this terrible action, O Keshava?",
+          "commentary": "Arjuna expresses confusion arising from Chapter 2's teachings. Krishna praised wisdom (buddhi) yet commands action (karma). The phrase 'ghore karmani' (terrible action) reveals Arjuna still sees battle as horrible despite Krishna's teachings. This confusion is natural—contemplative wisdom and active engagement seem contradictory. This chapter will resolve this apparent paradox by teaching that true wisdom expresses itself through selfless action."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi: Bilgiyi eylemden üstün sayıyorsan, ey Janardana (Krishna), o halde neden beni bu korkunç eyleme teşvik ediyorsun, ey Keshava?",
+          "commentary": "Arjuna, Bölüm 2'nin öğretilerinden kaynaklanan kafa karışıklığını ifade eder. Krishna bilgeliği (buddhi) övdü ama eylemi (karma) emrediyor. 'Ghore karmani' (korkunç eylem) ifadesi, Arjuna'nın Krishna'nın öğretilerine rağmen savaşı hala korkunç gördüğünü ortaya koyar. Bu kafa karışıklığı doğaldır—kontemplatif bilgelik ve aktif meşguliyet çelişkili görünür. Bu bölüm, gerçek bilgeliğin kendini özverili eylem yoluyla ifade ettiğini öğreterek bu bariz paradoksu çözecektir."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "व्यामिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे। तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम्।।",
+        "transliteration": "vyāmiśreṇeva vākyena buddhiṁ mohayasīva me | tad ekaṁ vada niścitya yena śreyo'ham āpnuyām ||",
+        "english": {
+          "translation": "With these seemingly contradictory words, You are confusing my understanding. Therefore, tell me with certainty the one way by which I may attain the highest good.",
+          "commentary": "Arjuna requests clarity. 'Vyamishreneva vakyena' (mixed/contradictory statements) expresses his bewilderment. He wants 'ekam' (one definite path) taught with certainty ('nishchitya'). This reflects a common spiritual dilemma: different teachings seem to point in different directions. Arjuna seeks synthesis rather than choosing between knowledge and action. Krishna's response will show these aren't alternatives but complementary aspects of spiritual life, unified in karma-yoga."
+        },
+        "turkish": {
+          "translation": "Bu görünüşte çelişkili sözlerle, anlayışımı karıştırıyorsun. Bu nedenle, en yüksek iyiliğe ulaşabileceğim tek yolu kesinlikle söyle.",
+          "commentary": "Arjuna netlik ister. 'Vyamishreneva vakyena' (karışık/çelişkili ifadeler) şaşkınlığını ifade eder. Kesinlikle ('nishchitya') öğretilmiş 'ekam' (tek kesin yol) ister. Bu yaygın bir manevi ikilem yansıtır: farklı öğretiler farklı yönlere işaret ediyor gibi görünür. Arjuna, bilgi ve eylem arasında seçim yapmak yerine sentez arar. Krishna'nın yanıtı, bunların alternatifler değil, karma-yoga'da birleşen manevi yaşamın tamamlayıcı yönleri olduğunu gösterecektir."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "श्रीभगवानुवाच। लोकेऽस्मिन्द्विविधा निष्ठा पुरा प्रोक्ता मयानघ। ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम्।।",
+        "transliteration": "śrī-bhagavān uvāca | loke'smin dvi-vidhā niṣṭhā purā proktā mayānagha | jñāna-yogena sāṅkhyānāṁ karma-yogena yoginām ||",
+        "english": {
+          "translation": "The Blessed Lord said: O sinless one, in this world a twofold path was previously taught by Me—the path of knowledge for the contemplative, and the path of action for the yogis.",
+          "commentary": "Krishna clarifies there are two valid paths (dvi-vidha nishtha): Jnana-yoga (path of knowledge) for Sankhyas (contemplatives/philosophers) and Karma-yoga (path of action) for yogis (practitioners). This addresses Arjuna's confusion—both are legitimate but suited to different temperaments. The contemplative may renounce external action for meditation; the active must purify through selfless service. However, Krishna will emphasize that for most, including Arjuna, karma-yoga is more appropriate and eventually leads to jnana."
+        },
+        "turkish": {
+          "translation": "Yüce Tanrı dedi: Ey günahsız, bu dünyada daha önce Benim tarafımdan öğretilmiş iki yol vardır—kontemplatif olanlar için bilgi yolu ve yogiler için eylem yolu.",
+          "commentary": "Krishna, iki geçerli yol (dvi-vidha nishtha) olduğunu netleştirir: Sankhyalar (kontemplatifler/filozoflar) için Jnana-yoga (bilgi yolu) ve yogiler (uygulayıcılar) için Karma-yoga (eylem yolu). Bu, Arjuna'nın kafa karışıklığını ele alır—her ikisi de meşrudur ama farklı mizaçlara uygundur. Kontemplatif, meditasyon için dış eylemi terk edebilir; aktif olan özverili hizmet yoluyla arınmalıdır. Ancak Krishna, Arjuna dahil çoğu için karma-yoga'nın daha uygun olduğunu ve sonunda jnana'ya yol açtığını vurgulayacaktır."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "न कर्मणामनारम्भान्नैष्कर्म्यं पुरुषोऽश्नुते। न च संन्यासनादेव सिद्धिं समधिगच्छति।।",
+        "transliteration": "na karmaṇām anārambhān naiṣkarmyaṁ puruṣo'śnute | na ca saṁnyāsanād eva siddhiṁ samadhigacchati ||",
+        "english": {
+          "translation": "Not by abstaining from action does one attain freedom from action, nor by renunciation alone does one attain perfection.",
+          "commentary": "A crucial teaching: mere non-action ('anarambhat'—non-commencement of action) doesn't lead to 'naishkarmya' (actionlessness/freedom from karma). Similarly, formal renunciation ('sannyasa') alone doesn't guarantee spiritual perfection ('siddhi'). This challenges the notion that physical withdrawal equals spiritual advancement. True renunciation is internal—abandoning ego and attachment, not just activities. One can be externally active yet inwardly renounced, or externally withdrawn yet inwardly attached. The quality of consciousness, not quantity of activity, determines spiritual progress."
+        },
+        "turkish": {
+          "translation": "Eylemden kaçınarak kişi eylemden özgürlüğe ulaşamaz, ne de yalnızca feragat ederek mükemmelliğe ulaşır.",
+          "commentary": "Önemli bir öğreti: salt eylem yapmama ('anarambhat'—eylemin başlatılmaması) 'naishkarmya'ya (eylemsizlik/karmadan özgürlük) yol açmaz. Benzer şekilde, resmi feragat ('sannyasa') tek başına manevi mükemmelliği ('siddhi') garanti etmez. Bu, fiziksel çekilmenin manevi ilerlemeye eşit olduğu fikrine meydan okur. Gerçek feragat içseldir—sadece aktiviteleri değil, egoyu ve bağlılığı terk etmek. Kişi dışsal olarak aktif ama içsel olarak feragat etmiş veya dışsal olarak çekilmiş ama içsel olarak bağlı olabilir. Aktivite miktarı değil, bilincin kalitesi manevi ilerlemeyi belirler."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "न हि कश्चित्क्षणमपि जातु तिष्ठत्यकर्मकृत्। कार्यते ह्यवशः कर्म सर्वः प्रकृतिजैर्गुणैः।।",
+        "transliteration": "na hi kaścit kṣaṇam api jātu tiṣṭhaty akarma-kṛt | kāryate hy avaśaḥ karma sarvaḥ prakṛti-jair guṇaiḥ ||",
+        "english": {
+          "translation": "Indeed, no one can remain even for a moment without performing action, for everyone is compelled to act by the qualities born of nature.",
+          "commentary": "A fundamental truth: complete inaction is impossible. Even for a moment ('kshanam api'), no one remains without action ('akarma-krit'). We're compelled ('avasah'—helplessly/inevitably) to act by the three gunas (sattva, rajas, tamas) arising from prakriti (nature). Even breathing, thinking, and perceiving are actions. The question isn't whether to act but how to act. Attempting total inaction is futile; transforming action through detachment is possible. This justifies karma-yoga: since action is inevitable, sanctify it through proper attitude."
+        },
+        "turkish": {
+          "translation": "Gerçekten, hiç kimse bir an bile eylem yapmadan kalamaz, çünkü herkes doğadan doğan nitelikler tarafından eylemde bulunmaya zorlanır.",
+          "commentary": "Temel bir gerçek: tam eylemsizlik imkansızdır. Bir an bile ('kshanam api'), hiç kimse eylem yapmadan ('akarma-krit') kalmaz. Prakriti'den (doğa) kaynaklanan üç guna (sattva, rajas, tamas) tarafından eylemde bulunmaya zorlanırız ('avasah'—çaresizce/kaçınılmaz olarak). Nefes alma, düşünme ve algılama bile eylemlerdir. Soru, eylemde bulunup bulunmamak değil, nasıl eylemde bulunulacağıdır. Tam eylemsizliği denemek boşunadır; eylemi bağımsızlık yoluyla dönüştürmek mümkündür. Bu, karma-yoga'yı haklı çıkarır: eylem kaçınılmaz olduğundan, onu doğru tavırla kutsayın."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "कर्मेन्द्रियाणि संयम्य य आस्ते मनसा स्मरन्। इन्द्रियार्थान्विमूढात्मा मिथ्याचारः स उच्यते।।",
+        "transliteration": "karmendriyāṇi saṁyamya ya āste manasā smaran | indriyārthān vimūḍhātmā mithyācāraḥ sa ucyate ||",
+        "english": {
+          "translation": "One who restrains the organs of action but whose mind dwells on sense objects—such a deluded soul is called a hypocrite.",
+          "commentary": "Krishna warns against false renunciation. One who physically controls actions ('karmendriyan samyamya') but mentally dwells on sensory pleasures ('manasa smaran indriyarthan') is 'vimudhatma' (deluded soul) and 'mithyacharah' (hypocrite/false practitioner). External asceticism with internal craving is worse than honest engagement. This targets pretense—appearing spiritual while harboring desires. True renunciation means mental freedom, not just physical abstinence. Better to act while cultivating detachment than to abstain while nurturing attachment. Authenticity matters more than appearance."
+        },
+        "turkish": {
+          "translation": "Eylem organlarını dizginleyen ama zihni duyu nesneleri üzerinde duran—böyle aldanmış bir ruh ikiyüzlü olarak adlandırılır.",
+          "commentary": "Krishna, sahte feragat karşısında uyarır. Eylemleri fiziksel olarak kontrol eden ('karmendriyan samyamya') ama zihinsel olarak duyusal zevkler üzerinde duran ('manasa smaran indriyarthan') 'vimudhatma'dır (aldanmış ruh) ve 'mithyacharah' (ikiyüzlü/sahte uygulayıcı). İçsel arzu ile dış çilekeşlik, dürüst meşguliyetten daha kötüdür. Bu, gösterişi hedef alır—arzuları barındırırken manevi görünmek. Gerçek feragat, sadece fiziksel perhiz değil, zihinsel özgürlük demektir. Bağlılığı beslerken kaçınmaktan, bağımsızlığı geliştirirken eylemde bulunmak daha iyidir. Özgünlük görünüşten daha önemlidir."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "यस्त्विन्द्रियाणि मनसा नियम्यारभतेऽर्जुन। कर्मेन्द्रियैः कर्मयोगमसक्तः स विशिष्यते।।",
+        "transliteration": "yas tv indriyāṇi manasā niyamyārabhate'rjuna | karmendriyaiḥ karma-yogam asaktaḥ sa viśiṣyate ||",
+        "english": {
+          "translation": "But one who controls the senses by the mind, O Arjuna, and engages the organs of action in karma-yoga without attachment—such a person excels.",
+          "commentary": "The superior path: control senses through mind ('indriyani manasa niyamya'), then engage in action ('karmendryaih karma-yogam arabhate') without attachment ('asaktah'). Such a person 'vishishyate' (excels/is superior). This describes authentic karma-yoga—mental mastery combined with active engagement. Unlike the hypocrite of verse 6, this person has genuine internal control yet remains externally active. The sequence matters: first mental discipline, then detached action. This is the synthesis Arjuna seeks—wisdom expressed through action, contemplation manifested in service."
+        },
+        "turkish": {
+          "translation": "Ama duyuları zihinle kontrol eden ve bağlılık olmadan eylem organlarını karma-yoga'da meşgul eden, ey Arjuna—böyle bir kişi üstündür.",
+          "commentary": "Üstün yol: duyuları zihinle kontrol et ('indriyani manasa niyamya'), sonra bağlılık olmadan ('asaktah') eyleme meşgul ol ('karmendryaih karma-yogam arabhate'). Böyle bir kişi 'vishishyate' (üstündür/üstün). Bu, otantik karma-yoga'yı tanımlar—zihinsel ustalık aktif meşguliyetle birleşir. 6. ayetteki ikiyüzlünün aksine, bu kişi gerçek iç kontrole sahiptir ama dışsal olarak aktif kalır. Sıra önemlidir: önce zihinsel disiplin, sonra bağımsız eylem. Bu, Arjuna'nın aradığı sentezdir—eylem yoluyla ifade edilen bilgelik, hizmette tezahür eden kontemplatif düşünce."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "नियतं कुरु कर्म त्वं कर्म ज्यायो ह्यकर्मणः। शरीरयात्रापि च ते न प्रसिद्ध्येदकर्मणः।।",
+        "transliteration": "niyataṁ kuru karma tvaṁ karma jyāyo hy akarmaṇaḥ | śarīra-yātrāpi ca te na prasiddhyed akarmaṇaḥ ||",
+        "english": {
+          "translation": "Therefore, perform your prescribed duty, for action is superior to inaction. Even the maintenance of your body would not be possible through inaction.",
+          "commentary": "Krishna commands action: perform 'niyatam karma' (prescribed/ordained duty). Action is superior to inaction ('karma jyayah akarmanah') because even bodily maintenance ('sharira-yatra') requires action. This is practical wisdom: survival itself demands activity—eating, breathing, moving. Since action is unavoidable, embrace it consciously rather than resist futilely. 'Niyatam karma' suggests performing one's natural duty according to nature and social role. This teaching grounds spirituality in practical reality—we're embodied beings whose very existence requires engagement with the world."
+        },
+        "turkish": {
+          "translation": "Bu nedenle, belirlenmiş görevini yerine getir, çünkü eylem eylemsizlikten üstündür. Eylemsizlik yoluyla bedeninin bakımı bile mümkün olmazdı.",
+          "commentary": "Krishna eylem emreder: 'niyatam karma'yı (belirlenmiş/emredilmiş görevi) yerine getir. Eylem eylemsizlikten üstündür ('karma jyayah akarmanah') çünkü bedensel bakım bile ('sharira-yatra') eylem gerektirir. Bu pratik bilgeliktir: hayatta kalmanın kendisi aktivite gerektirir—yemek, nefes almak, hareket etmek. Eylem kaçınılmaz olduğundan, boşuna direnmeye çalışmak yerine bilinçli olarak kucaklayın. 'Niyatam karma', doğa ve sosyal role göre kişinin doğal görevini yerine getirmeyi önerir. Bu öğreti, maneviyatı pratik gerçeklikte temellendirir—bedenlenmiş varlıklarız ve varlığımızın kendisi dünyayla meşguliyeti gerektirir."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "यज्ञार्थात्कर्मणोऽन्यत्र लोकोऽयं कर्मबन्धनः। तदर्थं कर्म कौन्तेय मुक्तसङ्गः समाचर।।",
+        "transliteration": "yajñārthāt karmaṇo'nyatra loko'yaṁ karma-bandhanaḥ | tad-arthaṁ karma kaunteya mukta-saṅgaḥ samācara ||",
+        "english": {
+          "translation": "This world is bound by action, except when performed as sacrifice. Therefore, O son of Kunti, perform action for that purpose, free from attachment.",
+          "commentary": "The key principle: action binds ('karma-bandhanah') except when performed as 'yajna' (sacrifice/offering). 'Yajnarthat' means 'for the sake of yajna'—action dedicated to the divine or greater good. Ordinary action creates karma; sacrificial action liberates. Krishna instructs: perform action 'tad-artham' (for that purpose—sacrifice), 'mukta-sangah' (free from attachment). This transforms every action into worship. When action becomes offering, it purifies rather than binds. This is the secret of karma-yoga: consecrate action, transcending its binding power."
+        },
+        "turkish": {
+          "translation": "Bu dünya eylemle bağlıdır, kurban olarak yapıldığında hariç. Bu nedenle, ey Kunti oğlu, o amaç için, bağlılıktan özgür olarak eylem yap.",
+          "commentary": "Anahtar ilke: eylem bağlar ('karma-bandhanah'), 'yajna' (kurban/sunu) olarak yapıldığında hariç. 'Yajnarthat', 'yajna uğruna' demektir—ilahiye veya daha büyük iyiye adanmış eylem. Sıradan eylem karma yaratır; kurban eylemi özgürleştirir. Krishna öğütler: 'tad-artham' (o amaç için—kurban), 'mukta-sangah' (bağlılıktan özgür) için eylem yap. Bu, her eylemi ibadete dönüştürür. Eylem sunu haline geldiğinde, bağlamak yerine arındırır. Bu, karma-yoga'nın sırrıdır: eylemi kutsayın, bağlayıcı gücünü aşın."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "सहयज्ञाः प्रजाः सृष्ट्वा पुरोवाच प्रजापतिः। अनेन प्रसविष्यध्वमेष वोऽस्त्विष्टकामधुक्।।",
+        "transliteration": "saha-yajñāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ | anena prasaviṣyadhvam eṣa vo'stv iṣṭa-kāma-dhuk ||",
+        "english": {
+          "translation": "In ancient times, the Creator, having created humanity together with sacrifice, said: 'By this you shall prosper; let this be your wish-fulfilling cow.'",
+          "commentary": "Krishna invokes cosmic order: Prajapati (the Creator) created humanity 'saha-yajnah' (together with sacrifice). Sacrifice isn't optional but built into creation's fabric. Through yajna, humanity will prosper ('prasavisyadhvam'). The 'ishta-kama-dhuk' (wish-fulfilling cow/desire-granter) is sacrifice itself—when we give selflessly, abundance returns. This establishes a cosmic economy: selfless action creates universal harmony and individual fulfillment. The universe operates through mutual support; yajna maintains this balance. Individualistic action disrupts; sacrificial action harmonizes."
+        },
+        "turkish": {
+          "translation": "Eski zamanlarda, Yaratıcı, insanlığı kurbanla birlikte yarattıktan sonra dedi: 'Bununla gelişeceksiniz; bu sizin dilek tutan ineğiniz olsun.'",
+          "commentary": "Krishna kozmik düzeni çağırır: Prajapati (Yaratıcı), insanlığı 'saha-yajnah' (kurbanla birlikte) yarattı. Kurban isteğe bağlı değil, yaratılışın dokusuna yerleştirilmiştir. Yajna yoluyla insanlık gelişecektir ('prasavisyadhvam'). 'Ishta-kama-dhuk' (dilek tutan inek/arzu veren), kurbanın kendisidir—özverili verdiğimizde, bolluk geri döner. Bu, kozmik bir ekonomi tesis eder: özverili eylem evrensel uyum ve bireysel tatmin yaratır. Evren karşılıklı destek yoluyla işler; yajna bu dengeyi korur. Bireyci eylem bozar; kurban eylemi uyumlaştırır."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "देवान्भावयतानेन ते देवा भावयन्तु वः। परस्परं भावयन्तः श्रेयः परमवाप्स्यथ।।",
+        "transliteration": "devān bhāvayatānena te devā bhāvayantu vaḥ | parasparaṁ bhāvayantaḥ śreyaḥ param avāpsyatha ||",
+        "english": {
+          "translation": "By this, nourish the gods, and may the gods nourish you. Thus nourishing one another, you shall attain the supreme good.",
+          "commentary": "Krishna describes cosmic reciprocity: nourish the devas (gods/cosmic forces) through sacrifice, and they nourish you in return. 'Parasparam bhavayantah' (mutually nourishing) creates a virtuous cycle leading to 'shreyah param' (supreme good). The devas represent natural forces—sun, rain, earth—that sustain life. Yajna honors this interdependence. We receive from nature; we must give back. This isn't primitive superstition but ecological wisdom: recognizing our place in a web of mutual dependence. Selfish consumption without reciprocity destroys balance; grateful participation sustains all."
+        },
+        "turkish": {
+          "translation": "Bununla, tanrıları besleyin ve tanrılar sizi beslesin. Böylece birbirinizi besleyerek, en yüksek iyiliğe ulaşacaksınız.",
+          "commentary": "Krishna kozmik karşılıklılığı tanımlar: kurban yoluyla devaları (tanrıları/kozmik kuvvetleri) besleyin ve onlar sizi karşılığında beslesinler. 'Parasparam bhavayantah' (karşılıklı besleme), 'shreyah param'a (en yüksek iyi) yol açan erdemli bir döngü yaratır. Devalar, hayatı sürdüren doğal kuvvetleri temsil eder—güneş, yağmur, toprak. Yajna bu karşılıklı bağımlılığı onurlandırır. Doğadan alırız; geri vermeliyiz. Bu ilkel batıl inanç değil, ekolojik bilgeliktir: karşılıklı bağımlılık ağında yerimizi tanımak. Karşılık olmadan bencil tüketim dengeyi yok eder; minnettar katılım herkesi sürdürür."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "इष्टान्भोगान्हि वो देवा दास्यन्ते यज्ञभाविताः। तैर्दत्तानप्रदायैभ्यो यो भुङ्क्ते स्तेन एव सः।।",
+        "transliteration": "iṣṭān bhogān hi vo devā dāsyante yajña-bhāvitāḥ | tair dattān apradāyaibhyo yo bhuṅkte stena eva saḥ ||",
+        "english": {
+          "translation": "The gods, nourished by sacrifice, will grant you desired enjoyments. But one who enjoys these gifts without offering in return is indeed a thief.",
+          "commentary": "The devas, sustained by yajna ('yajna-bhavitah'), provide 'ishtan bhoган' (desired enjoyments)—food, health, prosperity. But one who receives without reciprocating ('tair dattan apradayah') is 'stena' (thief). This is ethical economics: taking without giving is theft. We don't create resources; we receive them from nature/cosmos. Consumption without gratitude and reciprocity is stealing. This teaching challenges modern consumer mentality—everything has a source, and reciprocity is moral obligation. Yajna transforms consumption from theft to participation in cosmic exchange."
+        },
+        "turkish": {
+          "translation": "Kurbanla beslenen tanrılar, size istenen zevkleri bahşedecektir. Ama bu hediyelerin karşılığını vermeden onlardan zevk alan gerçekten bir hırsızdır.",
+          "commentary": "Yajna tarafından sürdürülen devalar ('yajna-bhavitah'), 'ishtan bhogan' (istenen zevkler) sağlar—yemek, sağlık, refah. Ama karşılık vermeden alan ('tair dattan apradayah') 'stena'dır (hırsız). Bu etik ekonomidir: vermeden almak hırsızlıktır. Kaynakları yaratmayız; doğadan/kozmozdan alırız. Minnettarlık ve karşılık olmadan tüketim hırsızlıktır. Bu öğreti, modern tüketici zihniyetine meydan okur—her şeyin bir kaynağı vardır ve karşılıklılık ahlaki yükümlülüktür. Yajna, tüketime hırsızlıktan kozmik değişime katılıma dönüştürür."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "यज्ञशिष्टाशिनः सन्तो मुच्यन्ते सर्वकिल्बिषैः। भुञ्जते ते त्वघं पापा ये पचन्त्यात्मकारणात्।।",
+        "transliteration": "yajña-śiṣṭāśinaḥ santo mucyante sarva-kilbiṣaiḥ | bhuñjate te tv aghaṁ pāpā ye pacanty ātma-kāraṇāt ||",
+        "english": {
+          "translation": "The righteous who eat the remnants of sacrifice are freed from all sins. But those who cook only for themselves eat sin.",
+          "commentary": "Those who eat 'yajna-shishta' (remnants of sacrifice/food offered first) are freed from sin ('mucyante sarva-kilbishaih'). But those who cook 'atma-karanat' (for their own sake) consume sin itself ('bhunjate agham'). This transforms eating into spiritual practice. Offering food before consuming sanctifies it; eating without offering is selfish consumption. The 'santo' (good/righteous) recognize all food as divine gift and offer gratitude. This applies beyond literal sacrifice—approaching all resources with gratitude versus entitlement determines whether we accumulate merit or sin."
+        },
+        "turkish": {
+          "translation": "Kurbanın artıklarını yiyen erdemliler tüm günahlardan kurtulur. Ama sadece kendileri için pişirenler günah yerler.",
+          "commentary": "Yajna-shishta'yı (kurban artıkları/önce sunulan yiyecek) yiyenler günahtan kurtulur ('mucyante sarva-kilbishaih'). Ama 'atma-karanat' (kendi adlarına) pişirenler günahın kendisini tüketir ('bhunjate agham'). Bu, yemeği manevi pratiğe dönüştürür. Tüketmeden önce yemeği sunmak onu kutsallaştırır; sunmadan yemek bencil tüketimdir. 'Santo' (iyi/erdemli), tüm yiyecekleri ilahi hediye olarak tanır ve minnettarlık sunar. Bu, literal kurbanın ötesine geçer—tüm kaynaklara minnettarlık karşısında hak iddiası yaklaşımı, erdem mi yoksa günah mı biriktirdiğimizi belirler."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "अन्नाद्भवन्ति भूतानि पर्जन्यादन्नसम्भवः। यज्ञाद्भवति पर्जन्यो यज्ञः कर्मसमुद्भवः।।",
+        "transliteration": "annād bhavanti bhūtāni parjanyād anna-sambhavaḥ | yajñād bhavati parjanyo yajñaḥ karma-samudbhavaḥ ||",
+        "english": {
+          "translation": "From food, beings come into existence; from rain, food is produced; from sacrifice, rain comes; and sacrifice is born of action.",
+          "commentary": "A beautiful chain of causation: beings arise from food ('annad bhavanti bhutani'), food from rain ('parjanyad anna-sambhavah'), rain from sacrifice ('yajnad bhavati parjanyah'), and sacrifice from action ('yajnah karma-samudbhavah'). This ecological cycle shows nature's interconnectedness. Rain (natural cycles) responds to human actions performed with reverence. This can be understood literally (rituals affecting weather) or metaphorically (righteous action harmonizes with nature). Either way, it teaches that human action affects cosmic processes. We're not separate from nature but integral participants whose choices impact the whole."
+        },
+        "turkish": {
+          "translation": "Yiyecekten varlıklar ortaya çıkar; yağmurdan yiyecek üretilir; kurbandan yağmur gelir; ve kurban eylemden doğar.",
+          "commentary": "Güzel bir nedensellik zinciri: varlıklar yiyecekten ortaya çıkar ('annad bhavanti bhutani'), yiyecek yağmurdan ('parjanyad anna-sambhavah'), yağmur kurbandan ('yajnad bhavati parjanyah') ve kurban eylemden ('yajnah karma-samudbhavah'). Bu ekolojik döngü, doğanın birbirine bağlılığını gösterir. Yağmur (doğal döngüler), saygıyla yapılan insan eylemlerine yanıt verir. Bu, kelimenin tam anlamıyla (ritüeller havayı etkiler) veya mecazi olarak (erdemli eylem doğayla uyumlaşır) anlaşılabilir. Her iki durumda da, insan eyleminin kozmik süreçleri etkilediğini öğretir. Doğadan ayrı değil, seçimleri bütünü etkileyen ayrılmaz katılımcılarız."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "कर्म ब्रह्मोद्भवं विद्धि ब्रह्माक्षरसमुद्भवम्। तस्मात्सर्वगतं ब्रह्म नित्यं यज्ञे प्रतिष्ठितम्।।",
+        "transliteration": "karma brahmodbhavaṁ viddhi brahmākṣara-samudbhavam | tasmāt sarva-gataṁ brahma nityaṁ yajñe pratiṣṭhitam ||",
+        "english": {
+          "translation": "Know that action arises from Brahman, and Brahman arises from the Imperishable. Therefore, the all-pervading Brahman is eternally established in sacrifice.",
+          "commentary": "Deeper cosmology: action ('karma') arises from Brahman, and Brahman from the Imperishable ('akshara'—the unchanging ultimate). The all-pervading Brahman ('sarva-gatam brahma') is eternally present in yajna. This elevates sacrifice from ritual to cosmic principle. Brahman itself operates through yajna—the divine manifests through self-offering. Creation is God's sacrifice. Understanding this, all action becomes participation in divine self-expression. This isn't just performing rituals but recognizing the sacrificial nature of existence itself. The universe is yajna; living consciously is joining this cosmic worship."
+        },
+        "turkish": {
+          "translation": "Eylemin Brahman'dan doğduğunu ve Brahman'ın Değişmezden ortaya çıktığını bil. Bu nedenle, her yere nüfuz eden Brahman ebediyen kurbanda yerleşmiştir.",
+          "commentary": "Daha derin kozmoloji: eylem ('karma') Brahman'dan doğar ve Brahman Değişmezden ('akshara'—değişmeyen nihai). Her yere nüfuz eden Brahman ('sarva-gatam brahma') yajna'da ebediyen mevcuttur. Bu, kurbanı ritüelden kozmik ilkeye yükseltir. Brahman'ın kendisi yajna yoluyla işler—ilahi kendini sunma yoluyla tezahür eder. Yaratılış, Tanrı'nın kurbanıdır. Bunu anlayarak, tüm eylem ilahi kendini ifade etmeye katılım haline gelir. Bu sadece ritüeller yapmak değil, varoluşun kendisinin kurban doğasını tanımaktır. Evren yajnadır; bilinçli yaşamak bu kozmik ibadete katılmaktır."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "एवं प्रवर्तितं चक्रं नानुवर्तयतीह यः। अघायुरिन्द्रियारामो मोघं पार्थ स जीवति।।",
+        "transliteration": "evaṁ pravartitaṁ cakraṁ nānuvartayatīha yaḥ | aghāyur indriyārāmo moghaṁ pārtha sa jīvati ||",
+        "english": {
+          "translation": "One who does not follow this wheel thus set in motion, who lives in sin, rejoicing in the senses—that person lives in vain, O Partha.",
+          "commentary": "One who doesn't participate in this cosmic wheel ('evam pravartitam chakram na anuvartayati') lives a sinful life ('aghayuh'), devoted to sensory pleasures ('indriyaramah'), and their life is 'mogham' (in vain/futile). The 'chakra' is the cycle described in previous verses—the interconnected web of sacrifice and sustenance. Refusing to participate—taking without giving—is both sin and futility. Such life, focused only on personal gratification, misses the purpose of existence. This isn't moralizing but truth: selfish life disconnected from the cosmic order is inherently empty and meaningless."
+        },
+        "turkish": {
+          "translation": "Bu şekilde harekete geçirilmiş çarkı takip etmeyen, günahta yaşayan, duyulardan zevk alan—o kişi boşuna yaşar, ey Partha.",
+          "commentary": "Bu kozmik çarkta ('evam pravartitam chakram na anuvartayati') yer almayan günah dolu bir yaşam ('aghayuh') sürer, duyusal zevklere adanır ('indriyaramah') ve yaşamları 'mogham'dır (boşuna/boş). 'Chakra', önceki ayetlerde tanımlanan döngüdür—kurban ve geçimin birbirine bağlı ağı. Katılmayı reddetmek—vermeden almak—hem günah hem de boşluktur. Sadece kişisel tatmine odaklanan böyle bir yaşam, varoluşun amacını kaçırır. Bu ahlakçılık değil gerçektir: kozmik düzenden kopuk bencil yaşam doğası gereği boş ve anlamsızdır."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "यस्त्वात्मरतिरेव स्यादात्मतृप्तश्च मानवः। आत्मन्येव च सन्तुष्टस्तस्य कार्यं न विद्यते।।",
+        "transliteration": "yas tv ātma-ratir eva syād ātma-tṛptaś ca mānavaḥ | ātmany eva ca santuṣṭas tasya kāryaṁ na vidyate ||",
+        "english": {
+          "translation": "But for one who delights in the Self alone, who is satisfied in the Self, and is content in the Self—for such a person, there is no duty.",
+          "commentary": "Apparent exception: one established in Self-realization ('atma-ratih'—delighting in the Self, 'atma-triptah'—satisfied in the Self, 'atmani santushtah'—content in the Self) has no obligatory duty ('tasya karyam na vidyate'). For the fully enlightened, the imperative to act dissolves—not because of laziness but because they've transcended ego. Without ego, there's no personal agenda driving action. Such beings may still act but spontaneously, not from obligation. This distinguishes the liberated (who've transcended duty) from the hypocrite of verse 6 (who evades duty). The path requires action; the goal transcends it."
+        },
+        "turkish": {
+          "translation": "Ama yalnızca Benlikte zevk alan, Benlikte tatmin olan ve Benlikte memnun olan—böyle bir kişi için görev yoktur.",
+          "commentary": "Görünen istisna: Benlik gerçekleştirmesinde yerleşmiş olan ('atma-ratih'—Benlikte zevk alma, 'atma-triptah'—Benlikte tatmin, 'atmani santushtah'—Benlikte memnun), zorunlu görevi yoktur ('tasya karyam na vidyate'). Tam aydınlanmış için, eylemde bulunma zorunluluğu çözülür—tembellikten değil, egoyu aştıkları için. Ego olmadan, eylemi yönlendiren kişisel bir gündem yoktur. Böyle varlıklar hala eylemde bulunabilir ama kendiliğinden, zorunluluktan değil. Bu, özgürleşmiş olanları (görevi aşmış) 6. ayetteki ikiyüzlüden (görevden kaçan) ayırır. Yol eylem gerektirir; hedef onu aşar."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "नैव तस्य कृतेनार्थो नाकृतेनेह कश्चन। न चास्य सर्वभूतेषु कश्चिदर्थव्यपाश्रयः।।",
+        "transliteration": "naiva tasya kṛtenārtho nākṛteneha kaścana | na cāsya sarva-bhūteṣu kaścid artha-vyapāśrayaḥ ||",
+        "english": {
+          "translation": "For such a person, there is nothing to be gained by action, nor anything to be lost by inaction. Nor does such a one depend on any being for any purpose.",
+          "commentary": "The self-realized has no gain from action ('na kritena arthah') nor loss from inaction ('na akritena'). They have no dependence ('na artha-vyapashrayah') on any being. Complete independence characterizes liberation. The enlightened don't need outcomes to feel fulfilled or fear consequences. This isn't apathy but freedom—acting without neediness, secure in self-sufficiency. While ordinary people act to get or avoid something, the liberated act (if they act) from fullness, not lack. This teaching shows liberation's nature: complete freedom from all dependency and compulsion."
+        },
+        "turkish": {
+          "translation": "Böyle bir kişi için, eylemle kazanılacak hiçbir şey yoktur, ne de eylemsizlikle kaybedilecek bir şey. Ne de böyle biri herhangi bir amaç için herhangi bir varlığa bağlı değildir.",
+          "commentary": "Benliğini gerçekleştirmiş kişinin eylemden kazancı ('na kritena arthah') ve eylemsizlikten kaybı yoktur ('na akritena'). Hiçbir varlığa bağımlılıkları yoktur ('na artha-vyapashrayah'). Tam bağımsızlık, kurtuluşu karakterize eder. Aydınlanmış, tatmin olmak için sonuçlara ihtiyaç duymaz veya sonuçlardan korkmaz. Bu kayıtsızlık değil özgürlüktür—ihtiyaçsızlıkla eylemde bulunmak, kendi kendine yeterlilikte güvende olmak. Sıradan insanlar bir şey almak veya kaçınmak için eylemde bulunurken, özgürleşmiş (eğer eylemde bulunurlarsa) eksiklikten değil doluluktan eylemde bulunurlar. Bu öğreti, kurtuluşun doğasını gösterir: tüm bağımlılık ve zorunluluktan tam özgürlük."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "तस्मादसक्तः सततं कार्यं कर्म समाचर। असक्तो ह्याचरन्कर्म परमाप्नोति पूरुषः।।",
+        "transliteration": "tasmād asaktaḥ satataṁ kāryaṁ karma samācara | asakto hy ācaran karma param āpnoti pūruṣaḥ ||",
+        "english": {
+          "translation": "Therefore, always perform your duty without attachment. By performing action without attachment, one attains the Supreme.",
+          "commentary": "The practical instruction: always ('satatam') perform duty ('karyam karma') without attachment ('asaktah'). Through detached action, one reaches the Supreme ('param apnoti'). This is karma-yoga's essence: not renouncing action but attachment to results. 'Satatam' (constantly) indicates this isn't occasional practice but a way of life. Continuous detached action purifies the mind, eventually leading to the realization described in verses 17-18. The path for most isn't immediate transcendence of duty but faithful performance without ego-involvement. This sustainable practice gradually transforms consciousness."
+        },
+        "turkish": {
+          "translation": "Bu nedenle, bağlılık olmadan görevini her zaman yerine getir. Bağlılık olmadan eylemde bulunan kişi, Yüce'ye ulaşır.",
+          "commentary": "Pratik talimat: her zaman ('satatam') bağlılık olmadan ('asaktah') görevi ('karyam karma') yerine getir. Bağımsız eylem yoluyla, Yüce'ye ulaşılır ('param apnoti'). Bu, karma-yoga'nın özüdür: eylemi değil, sonuçlara bağlılığı terk etmek. 'Satatam' (sürekli), bunun ara sıra pratik değil bir yaşam tarzı olduğunu gösterir. Sürekli bağımsız eylem zihni arındırır, sonunda 17-18. ayetlerde tanımlanan gerçekleştirmeye yol açar. Çoğu için yol, görevin ani aşılması değil, ego dahil olmadan sadık performanstır. Bu sürdürülebilir pratik, bilinci kademeli olarak dönüştürür."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "कर्मणैव हि संसिद्धिमास्थिता जनकादयः। लोकसंग्रहमेवापि सम्पश्यन्कर्तुमर्हसि।।",
+        "transliteration": "karmaṇaiva hi saṁsiddhim āsthitā janakādayaḥ | loka-saṅgraham evāpi sampaśyan kartum arhasi ||",
+        "english": {
+          "translation": "Indeed, Janaka and others attained perfection through action alone. You should also perform action, considering the welfare of the world.",
+          "commentary": "Historical precedent: King Janaka and others achieved perfection ('samsiddhim asthita') through karma alone ('karmaiva'). Arjuna should act considering 'loka-sangraham' (welfare/holding together of the world). Janaka, a philosopher-king, exemplifies karma-yoga—governing wisely while remaining inwardly detached. This shows enlightenment isn't only for renunciates. Active engagement in the world, when performed selflessly, leads to the same goal. 'Loka-sangraha' introduces a key concept: the enlightened act to maintain social order and inspire others, not from personal need but universal welfare."
+        },
+        "turkish": {
+          "translation": "Gerçekten, Janaka ve diğerleri yalnızca eylem yoluyla mükemmelliğe ulaştı. Dünyanın refahını göz önünde bulundurarak eylemde bulunmalısın.",
+          "commentary": "Tarihsel örnek: Kral Janaka ve diğerleri yalnızca karma yoluyla ('karmaiva') mükemmelliğe ('samsiddhim asthita') ulaştı. Arjuna, 'loka-sangraham'ı (dünyanın refahı/bir arada tutulması) göz önünde bulundurarak eylemde bulunmalı. Filozof-kral Janaka, karma-yoga'yı örnekler—içsel olarak bağımsız kalarak bilgece yönetmek. Bu, aydınlanmanın sadece feragat edenler için olmadığını gösterir. Dünyada özverili olarak yapılan aktif meşguliyet, aynı hedefe yol açar. 'Loka-sangraha' anahtar bir kavramı tanıtır: aydınlanmış kişi, kişisel ihtiyaçtan değil evrensel refahtan, sosyal düzeni korumak ve başkalarına ilham vermek için eylemde bulunur."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "यद्यदाचरति श्रेष्ठस्तत्तदेवेतरो जनः। स यत्प्रमाणं कुरुते लोकस्तदनुवर्तते।।",
+        "transliteration": "yad yad ācarati śreṣṭhas tat tad evetaro janaḥ | sa yat pramāṇaṁ kurute lokas tad anuvartate ||",
+        "english": {
+          "translation": "Whatever a great person does, others follow. Whatever standard they set, the world follows.",
+          "commentary": "Leaders set the standard: whatever the 'shreshthah' (excellent/superior person) does, ordinary people ('itaro janah') imitate. The world follows the example ('pramanam'—standard/authority) they establish. This is the principle of leadership by example. Those in positions of influence—whether political, spiritual, or social—shape society through their conduct. This imposes responsibility: the enlightened must act not from personal necessity but to guide others. Even if personally beyond duty, they perform it to prevent social confusion. Arjuna, as a prince and warrior, must consider his exemplary role."
+        },
+        "turkish": {
+          "translation": "Büyük bir kişi ne yaparsa, diğerleri takip eder. Hangi standardı belirlerlerse, dünya onu takip eder.",
+          "commentary": "Liderler standardı belirler: 'shreshthah' (mükemmel/üstün kişi) ne yaparsa, sıradan insanlar ('itaro janah') taklit eder. Dünya, kurdukları örneği ('pramanam'—standart/otorite) takip eder. Bu, örnekle liderlik ilkesidir. Siyasi, manevi veya sosyal konumlardakiler—toplumu davranışlarıyla şekillendirirler. Bu sorumluluk yükler: aydınlanmış kişi kişisel gereklilikten değil, başkalarına rehberlik etmek için eylemde bulunmalıdır. Kişisel olarak görevin ötesinde olsalar bile, sosyal kafa karışıklığını önlemek için onu yerine getirirler. Bir prens ve savaşçı olarak Arjuna, örnek rolünü göz önünde bulundurmalıdır."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "न मे पार्थास्ति कर्तव्यं त्रिषु लोकेषु किञ्चन। नानवाप्तमवाप्तव्यं वर्त एव च कर्मणि।।",
+        "transliteration": "na me pārthāsti kartavyaṁ triṣu lokeṣu kiñcana | nānavāptam avāptavyaṁ varta eva ca karmaṇi ||",
+        "english": {
+          "translation": "O Partha, there is nothing in the three worlds that I must do, nor anything unattained that needs to be attained; yet I engage in action.",
+          "commentary": "Krishna speaks of himself: in all three worlds (heaven, earth, underworld), he has no duty ('na kartavyam') and nothing to achieve ('na anavaptam avaptavyam')—yet he acts ('varta eva karmaani'). As the Supreme, Krishna is beyond obligation and need, yet remains active. This is the model for enlightened action: engagement without compulsion. God acts not from necessity but spontaneously, for universal welfare. This reveals divine nature: complete freedom coexisting with continuous activity. It also answers why the liberated should act: to set example and maintain cosmic order."
+        },
+        "turkish": {
+          "translation": "Ey Partha, üç dünyada yapmam gereken hiçbir şey yoktur, ne de elde edilmemiş elde edilmesi gereken bir şey; yine de eylemde bulunuyorum.",
+          "commentary": "Krishna kendinden bahseder: tüm üç dünyada (cennet, dünya, yeraltı dünyası), görevi yoktur ('na kartavyam') ve başarılacak hiçbir şey yoktur ('na anavaptam avaptavyam')—yine de eylemde bulunur ('varta eva karmaani'). Yüce olarak Krishna, yükümlülük ve ihtiyacın ötesindedir, ancak aktif kalır. Bu, aydınlanmış eylem için modeldir: zorlama olmadan meşguliyet. Tanrı, gereklilikten değil kendiliğinden, evrensel refah için eylemde bulunur. Bu, ilahi doğayı ortaya koyar: sürekli aktiviteyle bir arada var olan tam özgürlük. Ayrıca, özgürleşmiş kişinin neden eylemde bulunması gerektiğini yanıtlar: örnek olmak ve kozmik düzeni korumak için."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "यदि ह्यहं न वर्तेयं जातु कर्मण्यतन्द्रितः। मम वर्त्मानुवर्तन्ते मनुष्याः पार्थ सर्वशः।।",
+        "transliteration": "yadi hy ahaṁ na varteyaṁ jātu karmaṇy atandritaḥ | mama vartmānuvartante manuṣyāḥ pārtha sarvaśaḥ ||",
+        "english": {
+          "translation": "For if I did not engage tirelessly in action, O Partha, people everywhere would follow My path.",
+          "commentary": "Krishna explains consequences of divine inaction: if he didn't act 'atandritah' (untiringly/diligently), humanity would follow his example ('mama vartma anuvartante'). Since people imitate the divine/exemplary, divine inactivity would lead to universal laziness. This establishes duty even for the Supreme: setting proper example. The enlightened can't withdraw into selfish peace; their very freedom imposes responsibility to guide others. This principle applies at all levels—parents, teachers, leaders must model right action. The higher one's position, the greater the obligation to exemplify wisdom through conduct."
+        },
+        "turkish": {
+          "translation": "Çünkü eğer yorulmadan eylemde bulunmazsam, ey Partha, her yerde insanlar Benim yolumu takip ederler.",
+          "commentary": "Krishna, ilahi eylemsizliğin sonuçlarını açıklar: 'atandritah' (yorulmadan/gayretle) eylemde bulunmazsa, insanlık onun örneğini takip ederdi ('mama vartma anuvartante'). İnsanlar ilahi/örnek olanı taklit ettiği için, ilahi hareketsizlik evrensel tembelliğe yol açardı. Bu, Yüce için bile görevi tesis eder: doğru örneği belirlemek. Aydınlanmış kişi bencil huzura çekilemez; özgürlüklerinin kendisi başkalarına rehberlik etme sorumluluğu yükler. Bu ilke tüm seviyelerde geçerlidir—ebeveynler, öğretmenler, liderler doğru eylemi örnek göstermelidir. Pozisyon ne kadar yüksekse, davranış yoluyla bilgeliği örnekleme yükümlülüğü o kadar büyüktür."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "उत्सीदेयुरिमे लोका न कुर्यां कर्म चेदहम्। सङ्करस्य च कर्ता स्यामुपहन्यामिमाः प्रजाः।।",
+        "transliteration": "utsīdeyur ime lokā na kuryāṁ karma ced aham | saṅkarasya ca kartā syām upahanyām imāḥ prajāḥ ||",
+        "english": {
+          "translation": "If I did not perform action, these worlds would perish, I would be the cause of confusion, and I would destroy these people.",
+          "commentary": "Three catastrophes if Krishna ceased acting: (1) worlds would perish ('utsideyuh'—collapse), (2) he'd cause 'sankara' (confusion/intermixing/chaos), (3) he'd destroy humanity ('upahanyam prajah'). The divine sustains creation through continuous activity. Cessation of divine action means cosmic dissolution. 'Sankara' suggests confusion of social orders and moral standards. This teaches that proper action maintains cosmic and social order; irresponsible inaction destroys it. Leaders who abandon duty cause societal collapse. The enlightened bear responsibility proportional to their influence. Withdrawal of the wise creates vacuum filled by ignorance."
+        },
+        "turkish": {
+          "translation": "Eylemde bulunmazsam, bu dünyalar yok olurdu, kafa karışıklığının nedeni olurdum ve bu insanları yok ederdim.",
+          "commentary": "Krishna eylemden vazgeçerse üç felaket: (1) dünyalar yok olurdu ('utsideyuh'—çökme), (2) 'sankara'ya (kafa karışıklığı/karışma/kaos) neden olurdu, (3) insanlığı yok ederdi ('upahanyam prajah'). İlahi, sürekli aktivite yoluyla yaratılışı sürdürür. İlahi eylemin durması kozmik çözülme demektir. 'Sankara', sosyal düzenlerin ve ahlaki standartların karışıklığını önerir. Bu, doğru eylemin kozmik ve sosyal düzeni koruduğunu; sorumsuz eylemsizliğin onu yok ettiğini öğretir. Görevi terk eden liderler toplumsal çöküşe neden olur. Aydınlanmış kişi, etkileriyle orantılı sorumluluk taşır. Bilgelerin geri çekilmesi, cehaletten doldurulan bir boşluk yaratır."
+        }
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "सक्ताः कर्मण्यविद्वांसो यथा कुर्वन्ति भारत। कुर्याद्विद्वांस्तथासक्तश्चिकीर्षुर्लोकसंग्रहम्।।",
+        "transliteration": "saktāḥ karmaṇy avidvāṁso yathā kurvanti bhārata | kuryād vidvāṁs tathāsaktaś cikīrṣur loka-saṅgraham ||",
+        "english": {
+          "translation": "As the ignorant act with attachment to action, O Bharata, so should the wise act without attachment, desiring the welfare of the world.",
+          "commentary": "Parallel actions, different motivations: the ignorant ('avidvamsah') act with attachment ('saktah'), while the wise ('vidvan') should act without attachment ('asaktah') for 'loka-sangraha' (world welfare). Externally, both perform similar actions; internally, their consciousness differs completely. The ignorant act from ego and desire; the wise from compassion and duty. This resolves the paradox: same actions, different intentions, different karmic results. The wise perform ordinary activities but with extraordinary consciousness. This teaching validates worldly engagement while emphasizing inner transformation."
+        },
+        "turkish": {
+          "translation": "Cahiller eyleme bağlı olarak nasıl eylemde bulunurlarsa, ey Bharata, bilgeler de bağlılık olmadan, dünyanın refahını arzulayarak öylece eylemde bulunmalıdır.",
+          "commentary": "Paralel eylemler, farklı motivasyonlar: cahiller ('avidvamsah') bağlılıkla ('saktah') eylemde bulunurken, bilgeler ('vidvan') 'loka-sangraha' (dünya refahı) için bağlılık olmadan ('asaktah') eylemde bulunmalıdır. Dışsal olarak her ikisi de benzer eylemler gerçekleştirir; içsel olarak, bilinçleri tamamen farklıdır. Cahiller ego ve arzudan; bilgeler şefkat ve görevden eylemde bulunur. Bu paradoksu çözer: aynı eylemler, farklı niyetler, farklı karmik sonuçlar. Bilgeler sıradan aktiviteleri ama olağanüstü bilinçle gerçekleştirirler. Bu öğreti, iç dönüşümü vurgularken dünyevi meşguliyeti doğrular."
+        }
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "न बुद्धिभेदं जनयेदज्ञानां कर्मसङ्गिनाम्। जोषयेत्सर्वकर्माणि विद्वान्युक्तः समाचरन्।।",
+        "transliteration": "na buddhi-bhedaṁ janayed ajñānāṁ karma-saṅginām | joṣayet sarva-karmāṇi vidvān yuktaḥ samācaran ||",
+        "english": {
+          "translation": "The wise should not create confusion in the intellect of the ignorant who are attached to action. The wise, performing all actions in a disciplined manner, should inspire others to work.",
+          "commentary": "Pedagogical wisdom: the enlightened shouldn't create 'buddhi-bheda' (disturbance of understanding) in those attached to action ('karma-sanginam'). Instead, the wise should inspire ('joshayet') others to work while themselves acting in yoga ('yuktah samacharan'). Don't confuse beginners by preaching advanced renunciation prematurely. Meet people where they are. The wise teach through example, not just words. Perform duties excellently, inspiring others to excellence. This is compassionate pedagogy: gradual elevation rather than sudden disruption. Truth must be communicated appropriately to the listener's capacity."
+        },
+        "turkish": {
+          "translation": "Bilgeler, eyleme bağlı cahillerin aklında kafa karışıklığı yaratmamalıdır. Bilge, tüm eylemleri disiplinli bir şekilde yerine getirerek, başkalarına çalışmayı ilham vermelidir.",
+          "commentary": "Pedagojik bilgelik: aydınlanmış kişi, eyleme bağlı olanlarda ('karma-sanginam') 'buddhi-bheda' (anlayış rahatsızlığı) yaratmamalıdır. Bunun yerine, bilge, yoga'da eylemde bulunurken ('yuktah samacharan') başkalarına çalışmayı ilham vermelidir ('joshayet'). Yeni başlayanlara ileri feragat vaaz ederek zamanından önce kafa karıştırmayın. İnsanlara oldukları yerde karşılayın. Bilge, sadece kelimelerle değil, örnekle öğretir. Görevleri mükemmel bir şekilde yerine getirerek başkalarına mükemmelliği ilham verin. Bu şefkatli pedagojidir: ani bozulma yerine kademeli yükselme. Gerçek, dinleyicinin kapasitesine uygun şekilde iletilmelidir."
+        }
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "प्रकृतेः क्रियमाणानि गुणैः कर्माणि सर्वशः। अहङ्कारविमूढात्मा कर्ताहमिति मन्यते।।",
+        "transliteration": "prakṛteḥ kriyamāṇāni guṇaiḥ karmāṇi sarvaśaḥ | ahaṅkāra-vimūḍhātmā kartāham iti manyate ||",
+        "english": {
+          "translation": "All actions are performed by the gunas of prakriti. One deluded by ego thinks 'I am the doer.'",
+          "commentary": "Fundamental metaphysical teaching: all actions are performed by nature's gunas ('prakriteh gunaih kriyamanani'), not by the Self. The ego-deluded ('ahankara-vimudhatma') mistakenly think 'I am the doer' ('karta aham'). This illusion of personal doership is the root of bondage. The body-mind complex acts according to its conditioning (gunas), while the witnessing consciousness remains untouched. Understanding this dissolves the sense of doership. You're not the actor but the witness. This profound teaching liberates from the burden of agency and its consequences."
+        },
+        "turkish": {
+          "translation": "Tüm eylemler prakriti'nin guna'ları tarafından gerçekleştirilir. Ego tarafından aldatılmış kişi 'Ben yapanım' diye düşünür.",
+          "commentary": "Temel metafizik öğreti: tüm eylemler doğanın guna'ları tarafından gerçekleştirilir ('prakriteh gunaih kriyamanani'), Benlik tarafından değil. Ego-aldatılmış ('ahankara-vimudhatma') yanlışlıkla 'Ben yapanım' ('karta aham') düşünür. Kişisel faillik yanılsaması, esaretin köküdür. Beden-zihin kompleksi koşullanmasına (guna'lar) göre eylemde bulunurken, tanık olan bilinç dokunulmadan kalır. Bunu anlamak faillik hissini çözümler. Aktör değil tanıksınız. Bu derin öğreti, faillik yükünden ve sonuçlarından özgürleştirir."
+        }
+      },
+      {
+        "verse_number": 28,
+        "sanskrit": "तत्त्ववित्तु महाबाहो गुणकर्मविभागयोः। गुणा गुणेषु वर्तन्त इति मत्वा न सज्जते।।",
+        "transliteration": "tattva-vit tu mahā-bāho guṇa-karma-vibhāgayoḥ | guṇā guṇeṣu vartanta iti matvā na sajjate ||",
+        "english": {
+          "translation": "But one who knows the truth about the divisions of the gunas and their actions, O mighty-armed one, understanding that gunas act upon gunas, is not attached.",
+          "commentary": "The knower of truth ('tattva-vit') understands the distinction between gunas and karma. Recognizing that 'gunas act upon gunas' ('guna guneshu vartante'—qualities interact with qualities), they remain unattached ('na sajjate'). This is key: the senses (made of gunas) interact with objects (also made of gunas), while the Self witnesses. The enlightened see this play of nature with themselves and don't identify with the process. Understanding this mechanism of nature acting upon itself liberates from false identification. You observe the drama but aren't the actor."
+        },
+        "turkish": {
+          "translation": "Ama guna'ların ve eylemlerinin bölünmeleri hakkındaki gerçeği bilen, ey güçlü kollu, guna'ların guna'lar üzerinde hareket ettiğini anlayan, bağlı değildir.",
+          "commentary": "Gerçeğin bileni ('tattva-vit'), guna'lar ve karma arasındaki ayrımı anlar. 'Guna'ların guna'lar üzerinde hareket ettiğini' ('guna guneshu vartante'—nitelikler niteliklerle etkileşir) tanıyarak, bağımsız kalırlar ('na sajjate'). Bu anahtardır: duyular (guna'lardan yapılmış) nesnelerle (aynı zamanda guna'lardan yapılmış) etkileşir, Benlik ise tanıklık eder. Aydınlanmış kişi, bu doğa oyununu kendisiyle görür ve süreçle özdeşleşmez. Doğanın kendisi üzerinde hareket ettiği bu mekanizmayı anlamak, yanlış özdeşleşmeden kurtarır. Dramayı gözlemlersiniz ama aktör değilsiniz."
+        }
+      },
+      {
+        "verse_number": 29,
+        "sanskrit": "प्रकृतेर्गुणसम्मूढाः सज्जन्ते गुणकर्मसु। तानकृत्स्नविदो मन्दान्कृत्स्नविन्न विचालयेत्।।",
+        "transliteration": "prakṛter guṇa-sammūḍhāḥ sajjante guṇa-karmasu | tān akṛtsna-vido mandān kṛtsna-vin na vicālayet ||",
+        "english": {
+          "translation": "Those deluded by the gunas of nature become attached to the actions of the gunas. The wise, who know the whole, should not disturb those of limited understanding.",
+          "commentary": "Those deluded by gunas ('guna-sammudha') attach to guna-driven actions. But the completely knowledgeable ('kritsna-vit') shouldn't disturb ('na vichalayet') the partially knowledgeable ('akritsna-vido'—incomplete knowers) who are 'mandan' (dull/slow learners). This repeats verse 26's teaching: don't confuse those on lower rungs of understanding. The masses function through guna-driven actions; prematurely teaching them about the unreality of doership might paralyze them or lead to misunderstanding. Teach appropriately to capacity. Compassionate wisdom meets people at their level, gradually elevating understanding."
+        },
+        "turkish": {
+          "translation": "Doğanın guna'ları tarafından aldatılanlar, guna'ların eylemlerine bağlı hale gelirler. Bütünü bilen bilge, sınırlı anlayışa sahip olanları rahatsız etmemelidir.",
+          "commentary": "Guna'lar tarafından aldatılanlar ('guna-sammudha'), guna güdümlü eylemlere bağlanır. Ama tamamen bilgili olan ('kritsna-vit'), kısmen bilgili ('akritsna-vido'—eksik bilenler) ve 'mandan' (donuk/yavaş öğrenenler) olanları rahatsız etmemelidir ('na vichalayet'). Bu, 26. ayetin öğretisini tekrarlar: anlayışın alt basamaklarında olanları karıştırmayın. Kitleler guna güdümlü eylemlerle işler; onlara failliğin gerçek dışılığını zamanından önce öğretmek onları felce uğratabilir veya yanlış anlamaya yol açabilir. Kapasiteye uygun öğretin. Şefkatli bilgelik, insanlara seviyelerinde karşılar, anlayışı kademeli olarak yükseltir."
+        }
+      },
+      {
+        "verse_number": 30,
+        "sanskrit": "मयि सर्वाणि कर्माणि संन्यस्याध्यात्मचेतसा। निराशीर्निर्ममो भूत्वा युध्यस्व विगतज्वरः।।",
+        "transliteration": "mayi sarvāṇi karmāṇi saṁnyasyādhyātma-cetasā | nirāśīr nirmamo bhūtvā yudhyasva vigata-jvaraḥ ||",
+        "english": {
+          "translation": "Surrendering all actions to Me with a mind focused on the Self, free from hope, possessiveness, and anxiety—fight!",
+          "commentary": "Krishna's direct command to Arjuna: surrender all actions to the divine ('mayi sarvani karmani sannyasya') with Self-awareness ('adhyatma-chetasa'). Become free from hope ('nirashih'), possessiveness ('nirnamah'), and fever/anxiety ('vigata-jvarah')—then fight! This encapsulates karma-yoga: act dedicating actions to God, maintaining self-knowledge, without craving results or claiming ownership. 'Yudhyasva' (fight) applies specifically to Arjuna but universally means: perform your dharma with this consciousness. This verse synthesizes the chapter's teaching into one practical instruction."
+        },
+        "turkish": {
+          "translation": "Tüm eylemleri Bana teslim ederek, Benliğe odaklanmış bir zihinle, umut, sahiplenme ve endişeden özgür olarak—savaş!",
+          "commentary": "Krishna'nın Arjuna'ya doğrudan emri: tüm eylemleri ilahiye teslim et ('mayi sarvani karmani sannyasya') Benlik farkındalığıyla ('adhyatma-chetasa'). Umuttan ('nirashih'), sahiplenmeden ('nirnamah') ve ateş/endişeden ('vigata-jvarah') özgür ol—sonra savaş! Bu, karma-yoga'yı özetler: eylemleri Tanrı'ya adayarak, benlik bilgisini koruyarak, sonuçları arzulamadan veya sahiplenme iddiasında bulunmadan eylemde bulun. 'Yudhyasva' (savaş), özellikle Arjuna'ya uygulanır ama evrensel olarak şu anlama gelir: dharmanı bu bilinçle yerine getir. Bu ayet, bölümün öğretisini tek bir pratik talimatta sentezler."
+        }
+      },
+      {
+        "verse_number": 31,
+        "sanskrit": "ये मे मतमिदं नित्यमनुतिष्ठन्ति मानवाः। श्रद्धावन्तोऽनसूयन्तो मुच्यन्ते तेऽपि कर्मभिः।।",
+        "transliteration": "ye me matam idaṁ nityam anutiṣṭhanti mānavāḥ | śraddhāvanto 'nasūyanto mucyante te 'pi karmabhiḥ ||",
+        "english": {
+          "translation": "Those who constantly follow this teaching of Mine with faith and without envy are freed from the bondage of karma.",
+          "commentary": "The fruit of following Krishna's teaching: those who practice it constantly ('nityam anutishthanti') with faith ('shraddhavantah') and without resentment/envy ('anasuyantah') are liberated from karma ('muchyante karmabhih'). Three conditions: constant practice, faith, and non-envious acceptance. 'Shraddha' (faith/trust) is crucial—intellectual understanding alone isn't enough. 'Anasuyantah' means without fault-finding or resentment toward the teaching or teacher. Those who practice karma-yoga with these qualities gradually dissolve karmic bondage. Faith combined with sincere practice leads to liberation."
+        },
+        "turkish": {
+          "translation": "Bu öğretimi sürekli olarak inanç ve kıskançlık olmadan takip edenler, karmanın esaretinden kurtulurlar.",
+          "commentary": "Krishna'nın öğretisini takip etmenin meyvesi: bunu sürekli ('nityam anutishthanti') inanç ('shraddhavantah') ve kızgınlık/kıskançlık olmadan ('anasuyantah') uygulayan kişiler, karmadan ('muchyante karmabhih') özgürleşir. Üç koşul: sürekli pratik, inanç ve kıskanmayan kabul. 'Shraddha' (inanç/güven) çok önemlidir—sadece entelektüel anlayış yeterli değildir. 'Anasuyantah', öğretiye veya öğretmene karşı hata bulmadan veya kızgınlık olmadan demektir. Karma-yoga'yı bu niteliklerle uygulayan kişiler, kademeli olarak karmik esareti çözerler. Samimi pratikle birleşen inanç, kurtuluşa yol açar."
+        }
+      },
+      {
+        "verse_number": 32,
+        "sanskrit": "ये त्वेतदभ्यसूयन्तो नानुतिष्ठन्ति मे मतम्। सर्वज्ञानविमूढांस्तान्विद्धि नष्टानचेतसः।।",
+        "transliteration": "ye tv etad abhyasūyanto nānutiṣṭhanti me matam | sarva-jñāna-vimūḍhāṁs tān viddhi naṣṭān acetasaḥ ||",
+        "english": {
+          "translation": "But those who, enviously finding fault, do not follow My teaching—know them to be deluded in all knowledge, mindless, and lost.",
+          "commentary": "The opposite condition: those who criticize ('abhyasuyantah'—enviously fault-finding) and don't follow the teaching are 'sarva-jnana-vimudha' (deluded in all knowledge), 'achetasah' (without understanding/mindless), and 'nashtan' (lost/doomed). Harsh warning: rejecting this teaching from ego or resentment leads to continued delusion. They may possess intellectual knowledge but remain fundamentally confused. 'Sarva-jnana-vimudha' is striking—deluded in all knowledge, suggesting their entire understanding is vitiated by the core error of rejecting karma-yoga. Critical, resentful attitude toward truth blocks liberation."
+        },
+        "turkish": {
+          "translation": "Ama kıskanç bir şekilde hata bulanlar ve Benim öğretimi takip etmeyenler—onları tüm bilgide aldatılmış, anlayışsız ve kaybolmuş olarak bil.",
+          "commentary": "Zıt durum: eleştiren ('abhyasuyantah'—kıskanç hata bulma) ve öğretiyi takip etmeyen kişiler 'sarva-jnana-vimudha' (tüm bilgide aldatılmış), 'achetasah' (anlayışsız/akılsız) ve 'nashtan' (kaybolmuş/mahvolmuş). Sert uyarı: egodan veya kızgınlıktan bu öğretiyi reddetmek, devam eden yanılsamaya yol açar. Entelektüel bilgiye sahip olabilirler ama temelde kafası karışık kalırlar. 'Sarva-jnana-vimudha' çarpıcıdır—tüm bilgide aldatılmış, karma-yoga'yı reddetmenin temel hatasıyla tüm anlayışlarının bozulduğunu önerir. Gerçeğe karşı eleştirel, kızgın tutum kurtuluşu engeller."
+        }
+      },
+      {
+        "verse_number": 33,
+        "sanskrit": "सदृशं चेष्टते स्वस्याः प्रकृतेर्ज्ञानवानपि। प्रकृतिं यान्ति भूतानि निग्रहः किं करिष्यति।।",
+        "transliteration": "sadṛśaṁ ceṣṭate svasyāḥ prakṛter jñānavān api | prakṛtiṁ yānti bhūtāni nigrahaḥ kiṁ kariṣyati ||",
+        "english": {
+          "translation": "Even the wise act according to their own nature; all beings follow their nature. What can restraint accomplish?",
+          "commentary": "A realistic observation: even the knowledgeable ('jnanavaan api') act according to their inherent nature ('prakriti'). All beings follow their prakriti. What good is forcible repression ('nigrahah')? This seems to suggest futility of effort, but properly understood, it teaches: work with nature, not against it. Violent suppression of tendencies doesn't work; transformation through understanding does. The wise acknowledge their conditioning while not being controlled by it. This verse prepares for the next teaching about managing attractions and aversions. Don't fight nature brutally; understand and transcend it intelligently."
+        },
+        "turkish": {
+          "translation": "Bilge bile kendi doğasına göre hareket eder; tüm varlıklar doğalarını takip eder. Kısıtlama ne başarabilir?",
+          "commentary": "Gerçekçi bir gözlem: bilgili bile ('jnanavaan api') kendi doğasına ('prakriti') göre hareket eder. Tüm varlıklar prakriti'lerini takip eder. Zorla baskı ('nigrahah') ne işe yarar? Bu, çabanın boşunalığını öneriyormuş gibi görünür, ama doğru anlaşıldığında öğretir: doğaya karşı değil, onunla çalışın. Eğilimlerin şiddetli bastırılması işe yaramaz; anlayış yoluyla dönüşüm yarar. Bilge, koşullanmalarını kabul eder ama onlar tarafından kontrol edilmez. Bu ayet, çekicilikleri ve tiksintileri yönetme hakkındaki bir sonraki öğreti için hazırlar. Doğayla kaba bir şekilde savaşmayın; onu akıllıca anlayın ve aşın."
+        }
+      },
+      {
+        "verse_number": 34,
+        "sanskrit": "इन्द्रियस्येन्द्रियस्यार्थे रागद्वेषौ व्यवस्थितौ। तयोर्न वशमागच्छेत्तौ ह्यस्य परिपन्थिनौ।।",
+        "transliteration": "indriyasyendriyasyārthe rāga-dveṣau vyavasthitau | tayor na vaśam āgacchet tau hy asya paripanthinau ||",
+        "english": {
+          "translation": "Attraction and aversion are established in every sense toward its object. One should not come under their control, for they are one's enemies.",
+          "commentary": "Critical teaching: for every sense and its object, attraction ('raga') and aversion ('dvesha') exist naturally ('vyavasthitau'—established/fixed). Don't come under their control ('na vasam agacchet'), for they are your enemies ('paripanthinau'—obstacles/antagonists). This explains verse 33: nature includes these automatic reactions, but you needn't be controlled by them. The key is not to suppress senses violently but to avoid being controlled by likes and dislikes. These twin forces—attraction and repulsion—are the actual enemies, not the senses themselves. Master them through awareness, not repression."
+        },
+        "turkish": {
+          "translation": "Her duyu için nesnesine karşı çekicilik ve tiksinti kurulmuştur. Onların kontrolü altına girmemelidir, çünkü onlar düşmanlarıdır.",
+          "commentary": "Kritik öğreti: her duyu ve nesnesi için, çekicilik ('raga') ve tiksinti ('dvesha') doğal olarak var olur ('vyavasthitau'—kurulmuş/sabit). Kontrolü altına girmeyin ('na vasam agacchet'), çünkü onlar düşmanlarınızdır ('paripanthinau'—engeller/düşmanlar). Bu, 33. ayeti açıklar: doğa bu otomatik tepkileri içerir, ama onlar tarafından kontrol edilmeniz gerekmez. Anahtar, duyuları şiddetle bastırmak değil, sevgi ve sevmemeler tarafından kontrol edilmekten kaçınmaktır. Bu ikiz güçler—çekicilik ve itme—gerçek düşmanlardır, duyuların kendileri değil. Onları baskıyla değil, farkındalıkla ustalık."
+        }
+      },
+      {
+        "verse_number": 35,
+        "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वधर्मे निधनं श्रेयः परधर्मो भयावहः।।",
+        "transliteration": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt | sva-dharme nidhanaṁ śreyaḥ para-dharmo bhayāvahaḥ ||",
+        "english": {
+          "translation": "Better one's own dharma, though imperfect, than another's dharma well-performed. Better death in one's own dharma; another's dharma brings danger.",
+          "commentary": "Pivotal teaching for Arjuna: better your own dharma ('sva-dharma'), even if deficient ('vigunah'), than another's dharma ('para-dharma') perfectly performed ('sv-anushthitat'). Better to die performing your dharma; another's dharma is dangerous ('bhayavaha'). This addresses Arjuna's specific dilemma—is the dharma of non-violence (suitable for brahmins) better than his warrior dharma? No—each must follow their own path. Your authentic duty, however imperfectly performed, is superior to alien duty excellently done. Following another's path creates psychological and spiritual danger. Authenticity trumps perfection."
+        },
+        "turkish": {
+          "translation": "Kişinin kendi dharması, kusurlu olsa bile, başkasının iyi uygulanmış dharmasından daha iyidir. Kişinin kendi dharmasında ölüm daha iyidir; başkasının dharması tehlike getirir.",
+          "commentary": "Arjuna için kritik öğreti: kendi dharman ('sva-dharma'), kusurlu ('vigunah') bile olsa, başkasının dharmadan ('para-dharma') mükemmel uygulanmış ('sv-anushthitat') daha iyidir. Dharmanı yerine getirirken ölmek daha iyidir; başkasının dharması tehlikelidir ('bhayavaha'). Bu, Arjuna'nın özel ikilemini ele alır—şiddetsizlik dharması (brahminler için uygun) onun savaşçı dharmasından daha mı iyi? Hayır—her biri kendi yolunu takip etmelidir. Kusurlu uygulanmış otantik göreviniz, mükemmel uygulanmış yabancı görevden üstündür. Başkasının yolunu takip etmek psikolojik ve manevi tehlike yaratır. Özgünlük, mükemmelliği geçer."
+        }
+      },
+      {
+        "verse_number": 36,
+        "sanskrit": "अर्जुन उवाच। अथ केन प्रयुक्तोऽयं पापं चरति पूरुषः। अनिच्छन्नपि वार्ष्णेय बलादिव नियोजितः।।",
+        "transliteration": "arjuna uvāca | atha kena prayukto 'yaṁ pāpaṁ carati pūruṣaḥ | anicchan api vārṣṇeya balād iva niyojitaḥ ||",
+        "english": {
+          "translation": "Arjuna said: But driven by what does a person commit sin, O Varshneya, even unwillingly, as if compelled by force?",
+          "commentary": "Arjuna's profound question: what force compels people to sin ('papam carati') against their will ('anicchan api'), as if forcefully driven ('balat iva niyojitah')? This addresses universal human experience: knowing what's right yet doing wrong, feeling helpless before compulsions. Why do we act against our better judgment? This question reveals Arjuna's psychological depth—he recognizes the internal struggle between knowledge and behavior. The answer will identify the actual enemy within. This sets up Krishna's crucial identification of desire-anger as the root of all wrongdoing."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi: Ama neyin ittiğiyle bir kişi günah işler, ey Varshneya, istemeden bile, sanki zorla zorunlu kılınmış gibi?",
+          "commentary": "Arjuna'nın derin sorusu: hangi güç insanları iradelerine karşı ('anicchan api') günah işlemeye ('papam carati') zorlar, sanki zorla sürülmüş gibi ('balat iva niyojitah')? Bu, evrensel insan deneyimini ele alır: neyin doğru olduğunu bilmek ama yanlış yapmak, zorlama karşısında çaresiz hissetmek. Neden daha iyi yargımıza karşı hareket ederiz? Bu soru, Arjuna'nın psikolojik derinliğini ortaya koyar—bilgi ve davranış arasındaki iç mücadeleyi tanır. Cevap, içteki gerçek düşmanı tanımlayacaktır. Bu, Krishna'nın arzu-öfkenin tüm yanlışlıkların kökü olarak kritik tanımlamasını hazırlar."
+        }
+      },
+      {
+        "verse_number": 37,
+        "sanskrit": "श्रीभगवानुवाच। काम एष क्रोध एष रजोगुणसमुद्भवः। महाशनो महापाप्मा विद्ध्येनमिह वैरिणम्।।",
+        "transliteration": "śrī-bhagavān uvāca | kāma eṣa krodha eṣa rajo-guṇa-samudbhavaḥ | mahāśano mahā-pāpmā viddhy enam iha vairiṇam ||",
+        "english": {
+          "translation": "The Blessed Lord said: It is desire, it is anger, born of the quality of rajas, all-consuming and most sinful. Know this to be the enemy here.",
+          "commentary": "Krishna identifies the enemy: 'kama' (desire) and 'krodha' (anger), both born from rajas-guna ('rajo-guna-samudbhava'). It is 'mahashano' (great devourer/all-consuming) and 'maha-papma' (greatly sinful). Know this as the enemy ('vairina'). Desire and its frustrated form, anger, are the actual foes—not other people or external circumstances. Born from the active, passionate quality of rajas, desire consumes discriminative wisdom. It's insatiable, continually demanding more. When thwarted, it becomes anger. This duo drives all wrongdoing. Identifying the real enemy is crucial for victory."
+        },
+        "turkish": {
+          "translation": "Kutlu Tanrı dedi: Rajas niteliğinden doğan arzu ve öfke, her şeyi tüketen ve en günah olandır. Bunu burada düşman olarak bil.",
+          "commentary": "Krishna düşmanı tanımlar: 'kama' (arzu) ve 'krodha' (öfke), her ikisi de rajas-guna'dan ('rajo-guna-samudbhava') doğar. 'Mahashano' (büyük yutan/her şeyi tüketen) ve 'maha-papma' (büyük günahlı)dır. Bunu düşman olarak bil ('vairina'). Arzu ve onun engellenmiş formu olan öfke, gerçek düşmanlardır—diğer insanlar veya dış koşullar değil. Rajas'ın aktif, tutkulu niteliğinden doğan arzu, ayırt edici bilgeliği tüketir. Doyumsuzdur, sürekli daha fazlasını talep eder. Engellendiğinde, öfke olur. Bu ikili, tüm yanlışlıklara yol açar. Gerçek düşmanı tanımlamak zafer için çok önemlidir."
+        }
+      },
+      {
+        "verse_number": 38,
+        "sanskrit": "धूमेनाव्रियते वह्निर्यथादर्शो मलेन च। यथोल्बेनावृतो गर्भस्तथा तेनेदमावृतम्।।",
+        "transliteration": "dhūmenāvriyate vahnir yathādarśo malena ca | yatholbenāvṛto garbhas tathā tenedam āvṛtam ||",
+        "english": {
+          "translation": "As fire is covered by smoke, as a mirror by dust, as an embryo by the womb, so is this (wisdom) covered by that (desire).",
+          "commentary": "Three analogies for how desire obscures wisdom: (1) fire covered by smoke ('dhumena vahnih')—light present but veiled, (2) mirror by dust ('adarshaho malena')—reflective capacity dimmed, (3) embryo by womb ('ulbena garbha')—potential hidden within covering. Each shows progressive levels of obscuration. Smoke can be blown away easily; dust requires wiping; the womb is natural and necessary for gestation. Similarly, desire covers wisdom to varying degrees in different people. Some need slight effort to clear the obscuration; others require more intensive work. The wisdom is always present, just covered."
+        },
+        "turkish": {
+          "translation": "Ateş duman tarafından kaplı olduğu gibi, ayna toz tarafından kaplı olduğu gibi, embriyo rahim tarafından kaplı olduğu gibi, bu (bilgelik) o (arzu) tarafından kaplıdır.",
+          "commentary": "Arzunun bilgeliği nasıl gizlediğine dair üç benzetme: (1) dumanla kaplı ateş ('dhumena vahnih')—ışık mevcut ama örtülü, (2) tozla kaplı ayna ('adarshaho malena')—yansıma kapasitesi azalmış, (3) rahimle kaplı embriyo ('ulbena garbha')—kaplama içinde gizlenmiş potansiyel. Her biri, giderek artan kararma seviyelerini gösterir. Duman kolayca üflenebilir; toz silme gerektirir; rahim doğaldır ve gebelik için gereklidir. Benzer şekilde, arzu bilgeliği farklı insanlarda farklı derecelerde örter. Bazıları kararmaı temizlemek için hafif çaba gerektirir; diğerleri daha yoğun çalışma gerektirir. Bilgelik her zaman mevcuttur, sadece kaplıdır."
+        }
+      },
+      {
+        "verse_number": 39,
+        "sanskrit": "आवृतं ज्ञानमेतेन ज्ञानिनो नित्यवैरिणा। कामरूपेण कौन्तेय दुष्पूरेणानलेन च।।",
+        "transliteration": "āvṛtaṁ jñānam etena jñānino nitya-vairiṇā | kāma-rūpeṇa kaunteya duṣpūreṇānalena ca ||",
+        "english": {
+          "translation": "Knowledge is covered by this eternal enemy of the wise in the form of desire, O Kaunteya, which is insatiable like fire.",
+          "commentary": "Desire described in three ways: (1) 'nitya-vairinam'—eternal enemy of the wise ('jnanino'), (2) 'kama-rupena'—in the form of desire/lust, (3) 'dushpurena analena'—insatiable like fire. Fire grows with feeding; the more you indulge desire, the stronger it becomes. It's never satisfied ('dushpurena'—difficult to fill/insatiable). Specifically the enemy of the 'jnanino' (wise/seeker of knowledge) because it obscures discriminative wisdom. Even spiritual aspirants must battle this persistent foe. Recognition of desire's insatiable nature is crucial—trying to satisfy it is futile; it must be mastered."
+        },
+        "turkish": {
+          "translation": "Bilgi, arzu biçiminde bilgenin ebedi düşmanı tarafından kaplıdır, ey Kaunteya, bu ateş gibi doyumsuzdur.",
+          "commentary": "Arzu üç şekilde tanımlanır: (1) 'nitya-vairinam'—bilgenin ('jnanino') ebedi düşmanı, (2) 'kama-rupena'—arzu/şehvet biçiminde, (3) 'dushpurena analena'—ateş gibi doyumsuz. Ateş beslenmeyle büyür; arzuya ne kadar düşkünseniz, o kadar güçlenir. Asla tatmin olmaz ('dushpurena'—doldurmak zor/doyumsuz). Özellikle 'jnanino' (bilge/bilgi arayan) düşmanı çünkü ayırt edici bilgeliği gizler. Manevi adaylar bile bu ısrarcı düşmanla savaşmalıdır. Arzunun doyumsuz doğasını tanımak çok önemlidir—onu tatmin etmeye çalışmak boşunadır; ustalaşılmalıdır."
+        }
+      },
+      {
+        "verse_number": 40,
+        "sanskrit": "इन्द्रियाणि मनो बुद्धिरस्याधिष्ठानमुच्यते। एतैर्विमोहयत्येष ज्ञानमावृत्य देहिनम्।।",
+        "transliteration": "indriyāṇi mano buddhir asyādhiṣṭhānam ucyate | etair vimohayaty eṣa jñānam āvṛtya dehinam ||",
+        "english": {
+          "translation": "The senses, mind, and intellect are said to be its seats. Through these it deludes the embodied one, covering wisdom.",
+          "commentary": "Desire's operating bases: the senses ('indriyani'), mind ('manah'), and intellect ('buddhih') are its 'adhishthanam' (dwelling places/seats). Through these instruments, desire deludes ('vimohayati') the embodied being ('dehinam'), covering wisdom ('jnanam avritya'). This maps the enemy's territory. Desire operates at three levels: sensory (attraction to objects), mental (fantasizing/planning), and intellectual (rationalization/justification). It infiltrates all levels of being. Understanding where the enemy operates is essential for combat. Desire corrupts not just senses but also the reasoning faculty, making us rationalize self-destructive behavior."
+        },
+        "turkish": {
+          "translation": "Duyular, zihin ve akıl onun yerleri olarak söylenir. Bunlar aracılığıyla bilgeliği örterek, bedenli olanı aldatır.",
+          "commentary": "Arzunun faaliyet üsleri: duyular ('indriyani'), zihin ('manah') ve akıl ('buddhih') onun 'adhishthanam'ı (ikamet yerleri/koltuklarıdır). Bu araçlar aracılığıyla, arzu bedenli varlığı ('dehinam') aldatır ('vimohayati'), bilgeliği örter ('jnanam avritya'). Bu, düşmanın bölgesini haritalar. Arzu üç seviyede çalışır: duyusal (nesnelere çekim), zihinsel (hayal kurma/planlama) ve entelektüel (gerekçelendirme/meşrulaştırma). Varlığın tüm seviyelerine sızar. Düşmanın nerede faaliyet gösterdiğini anlamak savaş için esastır. Arzu sadece duyuları değil, aynı zamanda akıl yürütme yeteneğini de bozar, bize kendi kendini yok edici davranışı gerekçelendirmeyi sağlar."
+        }
+      },
+      {
+        "verse_number": 41,
+        "sanskrit": "तस्मात्त्वमिन्द्रियाण्यादौ नियम्य भरतर्षभ। पाप्मानं प्रजहि ह्येनं ज्ञानविज्ञाननाशनम्।।",
+        "transliteration": "tasmāt tvam indriyāṇy ādau niyamya bharatarṣabha | pāpmānaṁ prajahi hy enaṁ jñāna-vijñāna-nāśanam ||",
+        "english": {
+          "translation": "Therefore, O best of the Bharatas, first controlling the senses, slay this sinful thing, the destroyer of knowledge and realization.",
+          "commentary": "The battle strategy: 'tasmāt' (therefore)—based on understanding desire's nature—first control the senses ('indriyani adau niyamya'), then destroy this evil ('papmanam prajahi') that destroys both theoretical knowledge ('jnana') and experiential realization ('vijnana'). Start with sense control as the first line of defense. Desire destroys both levels of understanding: intellectual knowledge and direct experience. This is practical instruction: master the senses, the outermost gates, then work inward. 'Niyamya' means regulate/restrain intelligently, not violent suppression. Controlled senses allow the deeper work of eliminating desire itself."
+        },
+        "turkish": {
+          "translation": "Bu nedenle, ey Bharataların en iyisi, önce duyuları kontrol ederek, bilgi ve gerçekleşmenin yok edicisi olan bu günahlı şeyi öldür.",
+          "commentary": "Savaş stratejisi: 'tasmāt' (bu nedenle)—arzunun doğasını anlamaya dayalı—önce duyuları kontrol et ('indriyani adau niyamya'), sonra hem teorik bilgiyi ('jnana') hem de deneyimsel gerçekleşmeyi ('vijnana') yok eden bu kötülüğü ('papmanam prajahi') yok et. İlk savunma hattı olarak duyu kontrolü ile başlayın. Arzu, her iki anlayış seviyesini yok eder: entelektüel bilgi ve doğrudan deneyim. Bu pratik talimattır: en dıştaki kapılar olan duyulara hakim olun, sonra içe doğru çalışın. 'Niyamya', şiddetli baskı değil, akıllıca düzenleme/kısıtlama anlamına gelir. Kontrollü duyular, arzunun kendisini ortadan kaldırmanın daha derin çalışmasına izin verir."
+        }
+      },
+      {
+        "verse_number": 42,
+        "sanskrit": "इन्द्रियाणि पराण्याहुरिन्द्रियेभ्यः परं मनः। मनसस्तु परा बुद्धिर्यो बुद्धेः परतस्तु सः।।",
+        "transliteration": "indriyāṇi parāṇy āhur indriyebhyaḥ paraṁ manaḥ | manasas tu parā buddhir yo buddheḥ paratas tu saḥ ||",
+        "english": {
+          "translation": "They say the senses are superior; higher than the senses is the mind; higher than the mind is the intellect; and what is beyond even the intellect is the Self.",
+          "commentary": "Hierarchy of being: senses ('indriyani') are superior to the gross body, mind ('manah') is higher than senses, intellect ('buddhih') is higher than mind, and 'that which is beyond intellect' ('yo buddheh paratah')—the Self ('sah')—is supreme. This establishes the ladder of consciousness: body → senses → mind → intellect → Self. Each level is subtler and more powerful than the previous. Understanding this hierarchy provides strategy: control the gross through the subtle. Master senses through mind, mind through intellect, and intellect through identification with the Self. Fight from higher ground."
+        },
+        "turkish": {
+          "translation": "Duyuların üstün olduğunu söylerler; duyulardan daha yüksek zihindir; zihin den daha yüksek akıldır; ve aklın bile ötesinde olan Benliğidir.",
+          "commentary": "Varlığın hiyerarşisi: duyular ('indriyani') kaba bedenden üstündür, zihin ('manah') duyulardan daha yüksektir, akıl ('buddhih') zihin den daha yüksektir ve 'aklın ötesinde olan' ('yo buddheh paratah')—Benlik ('sah')—yücedir. Bu, bilinç merdivenini kurar: beden → duyular → zihin → akıl → Benlik. Her seviye, öncekinden daha ince ve daha güçlüdür. Bu hiyerarşiyi anlamak strateji sağlar: kabayı ince aracılığıyla kontrol edin. Duyulara zihin aracılığıyla, zihne akıl aracılığıyla ve akla Benlikle özdeşleşme yoluyla hakim olun. Daha yüksek zeminden savaşın."
+        }
+      },
+      {
+        "verse_number": 43,
+        "sanskrit": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना। जहि शत्रुं महाबाहो कामरूपं दुरासदम्।।",
+        "transliteration": "evaṁ buddheḥ paraṁ buddhvā saṁstabhyātmānam ātmanā | jahi śatruṁ mahā-bāho kāma-rūpaṁ durāsadam ||",
+        "english": {
+          "translation": "Thus knowing the Self to be beyond the intellect, steadying the lower self by the higher Self, slay the enemy in the form of desire, O mighty-armed one, which is difficult to conquer.",
+          "commentary": "The final instruction synthesizing the chapter: (1) Know the Self as beyond intellect ('buddheh param buddhva'), (2) steady the lower self by the higher Self ('samstabhya atmanam atmana'), (3) destroy the enemy called desire ('jahi shatrum kama-rupam'), which is 'durasadam' (difficult to approach/conquer). This encapsulates the entire teaching: establish yourself in Self-knowledge, use that knowledge to strengthen and stabilize your personality, then from that empowered position, conquer desire. The conquest comes not from the ego's willpower but from identification with the transcendent Self. Chapter ends with call to action—the knowledge must be applied."
+        },
+        "turkish": {
+          "translation": "Böylece Benliği aklın ötesinde bilerek, alt benliği yüksek Benlik tarafından sabitleyerek, ey güçlü kollu, fethetmesi zor olan arzu biçimindeki düşmanı öldür.",
+          "commentary": "Bölümü sentezleyen nihai talimat: (1) Benliği aklın ötesinde bil ('buddheh param buddhva'), (2) alt benliği yüksek Benlik tarafından sabitle ('samstabhya atmanam atmana'), (3) arzu adlı düşmanı ('jahi shatrum kama-rupam') yok et, bu 'durasadam'dır (yaklaşması/fethetmesi zor). Bu, tüm öğretiyi özetler: kendini Benlik bilgisinde kur, kişiliğini güçlendirmek ve stabilize etmek için bu bilgiyi kullan, sonra bu güçlendirilmiş pozisyondan, arzuyu fethet. Fetih, egonun irade gücünden değil, aşkın Benlikle özdeşleşmeden gelir. Bölüm, eyleme çağrıyla biter—bilgi uygulanmalıdır."
+        }
+      }
+    ],
+    "verification": {
+      "verses_translated": 43,
+      "expected_verses": 43,
+      "complete": true,
+      "missing_verses": []
+    }
+  }
+}

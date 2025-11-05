@@ -135,13 +135,494 @@
           "translation": "Ordumuz, Bhishma tarafından korunduğu için sınırsızdır; onlarınki ise Bhima tarafından korunmakta ve sınırlıdır.",
           "commentary": "Duryodhana, Bhishma’nın liderliğindeki ordusunu övüp, Pandavaların ordusunu küçümser. Bu sözler, kendi tarafının moralini yükseltmeye yöneliktir."
         }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "अयनेषु च सर्वेषु यथाभागमवस्थिताः । भीष्ममेवाभिरक्षन्तु भवन्तः सर्व एव हि ॥",
+        "transliteration": "ayaneṣu ca sarveṣu yathā-bhāgam avasthitāḥ\nbhīṣmam evābhirakṣantu bhavantaḥ sarva eva hi",
+        "english": {
+          "translation": "Therefore, stationed in your respective positions at all strategic points, all of you must support and protect Bhishma alone.",
+          "commentary": "Duryodhana instructs his commanders to give special attention to the protection of Bhishma, their most respected warrior and general. This reveals Bhishma’s vital role and also hints at Duryodhana’s insecurity despite his prior bravado."
+        },
+        "turkish": {
+          "translation": "Bu nedenle, her biriniz kendi pozisyonunuzda durarak, tüm stratejik noktalarda Bhishma’yı koruyun.",
+          "commentary": "Duryodhana, komutanlarına Bhishma’yı özellikle korumaları talimatını verir. Bu, Bhishma’nın savaşta ne kadar merkezi bir figür olduğunu gösterir ve Duryodhana’nın derinlerdeki kaygısını da yansıtır."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "तस्य सञ्जनयन्हर्षं कुरुवृद्धः पितामहः । सिंहनादं विनद्योच्चैः शङ्खं दध्मौ प्रतापवान् ॥",
+        "transliteration": "tasya sañjanayan harṣaṃ kuru-vṛddhaḥ pitāmahaḥ\nsiṃha-nādaṃ vinadyoccaiḥ śaṅkhaṃ dadhmau pratāpavān",
+        "english": {
+          "translation": "Then Bhishma, the grand old sire of the Kuru dynasty, roaring like a lion, blew his conch loudly, giving joy to Duryodhana.",
+          "commentary": "Bhishma’s act of blowing his conch is a traditional signal to begin battle. His mighty roar instills confidence in his army and responds to Duryodhana’s call for reassurance. The term 'siṃha-nāda' implies his authority and valor."
+        },
+        "turkish": {
+          "translation": "Kuru hanedanının yaşlı büyüğü Bhishma, aslan gibi kükreyerek yüksek sesle borusunu çaldı ve Duryodhana’nın yüreğine sevinç verdi.",
+          "commentary": "Bhishma’nın boruyu üflemesi savaşın başlaması için bir işarettir. Onun kükreyişi, askerlerine cesaret verirken, Duryodhana’ya da moral kaynağı olur. 'Siṃha-nāda', Bhishma’nın kudretini simgeler."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "ततः शङ्खाश्च भेर्यश्च पणवानकगोमुखाः । सहसैवाभ्यहन्यन्त स शब्दस्तुमुलोऽभवत् ॥",
+        "transliteration": "tataḥ śaṅkhāś ca bheryaś ca paṇavānaka-gomukhāḥ\nsahasaivābhyahanyanta sa śabdas tumulo 'bhavat",
+        "english": {
+          "translation": "Then conches, kettledrums, tabors, trumpets, and cowhorns were all suddenly sounded; the noise was tumultuous.",
+          "commentary": "A great orchestral clamor marks the beginning of the war, evoking intensity and chaos. The diversity of instruments and the tumult symbolize the magnitude of the conflict about to unfold."
+        },
+        "turkish": {
+          "translation": "Sonra borular, davullar, büyük çalgılar, trompetler ve boynuzlar aniden çalmaya başladı; ses müthiş bir gürültüye dönüştü.",
+          "commentary": "Savaşın başlamasını simgeleyen bu çalgıların çeşitliliği ve gürültüsü, yaklaşan çatışmanın büyüklüğünü ve şiddetini gösterir."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "ततः श्वेतैर्हयैर्युक्ते महति स्यन्दने स्थितौ । माधवः पाण्डवश्चैव दिव्यौ शङ्खौ प्रदध्मतुः ॥",
+        "transliteration": "tataḥ śvetair hayair yukte mahati syandane sthitau\nmādhavaḥ pāṇḍavaś caiva divyau śaṅkhau pradadhmatuḥ",
+        "english": {
+          "translation": "Then, seated on a grand chariot drawn by white horses, Krishna and Arjuna blew their divine conches.",
+          "commentary": "Krishna and Arjuna, the divine duo, enter the scene symbolically on a radiant chariot. Their act of blowing conches signifies the righteous commencement of battle, aligning divine will with moral duty (dharma)."
+        },
+        "turkish": {
+          "translation": "Sonra, beyaz atlarla çekilen görkemli arabada oturan Krishna ve Arjuna kutsal borularını çaldılar.",
+          "commentary": "Krishna ve Arjuna’nın kutsal arabada görünmesi, ilahi müdahalenin ve dharma’nın temsilidir. Borularının sesi, savaşın ahlaki yönünü ön plana çıkarır."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "पाञ्चजन्यं हृषीकेशो देवदत्तं धनञ्जयः । पौण्ड्रं दध्मौ महाशङ्खं भीमकर्मा वृकोदरः ॥",
+        "transliteration": "pāñcajanyaṃ hṛṣīkeśo devadattaṃ dhanañjayaḥ\npauṇḍraṃ dadhmau mahāśaṅkhaṃ bhīma-karma vṛkodaraḥ",
+        "english": {
+          "translation": "Hrishikesha (Krishna) blew the Panchajanya; Dhananjaya (Arjuna) blew the Devadatta; and Bhima of mighty deeds blew his great conch, Paundra.",
+          "commentary": "Each warrior’s conch has a name, symbolizing their valor and individuality. The blowing of these conches is both literal and symbolic—declaring the readiness of dharmic forces to act."
+        },
+        "turkish": {
+          "translation": "Hrishikesha (Krishna) Panchajanya'yı, Dhananjaya (Arjuna) Devadatta'yı ve kudretli eylemleriyle tanınan Bhima, büyük Paundra borusunu çaldı.",
+          "commentary": "Her savaşçının borusunun özel bir adı vardır; bu onların kimlik ve cesaretlerini temsil eder. Bu sesler, dharma'nın tarafında savaşacak güçlerin hazır olduğunu ilan eder."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "अनन्तविजयं राजा कुन्तीपुत्रो युधिष्ठिरः । नकुलः सहदेवश्च सुघोषमणिपुष्पकौ ॥",
+        "transliteration": "anantavijayaṃ rājā kuntī-putro yudhiṣṭhiraḥ\nnakulaḥ sahadevaś ca sughoṣa-maṇipuṣpakau",
+        "english": {
+          "translation": "King Yudhishthira, the son of Kunti, blew the Anantavijaya; Nakula and Sahadeva blew the conches named Sughosha and Manipushpaka respectively.",
+          "commentary": "The listing of conches continues, showing the Pandava brothers’ preparedness and unity. 'Anantavijaya' means 'endless victory,' symbolizing righteous conquest."
+        },
+        "turkish": {
+          "translation": "Kunti’nin oğlu Kral Yudhishthira, Anantavijaya'yı; Nakula ve Sahadeva ise sırasıyla Sughosha ve Manipushpaka borularını çaldılar.",
+          "commentary": "Boruların özel isimleri savaşçıların niteliklerini temsil eder. 'Anantavijaya' (sonsuz zafer), Yudhishthira’nın dharma merkezli liderliğini simgeler."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "काश्यश्च परमेष्वासः शिखण्डी च महारथः । धृष्टद्युम्नो विराटश्च सात्यकिश्चापराजितः ॥",
+        "transliteration": "kāśyaś ca parameṣvāsaḥ śikhaṇḍī ca mahārathaḥ\ndhṛṣṭadyumno virāṭaś ca sātyakiś cāparājitaḥ",
+        "english": {
+          "translation": "The king of Kashi, an excellent archer; Shikhandi, the mighty chariot-warrior; Dhrishtadyumna, Virata, and the invincible Satyaki also blew their conches.",
+          "commentary": "This verse highlights other powerful allies of the Pandavas, each symbolizing diverse support from across the kingdom. Their readiness strengthens the sense of unity behind dharma."
+        },
+        "turkish": {
+          "translation": "Üstün okçu Kaşi Kralı, büyük savaşçı Shikhandi, Dhrishtadyumna, Virata ve yenilmez Satyaki de borularını çaldılar.",
+          "commentary": "Bu savaşçılar, Pandava’ların çevresinde toplanmış farklı krallıkların müttefiklerini temsil eder. Hepsi dharma için birleşmiş güçlü figürlerdir."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "द्रुपदो द्रौपदेयाश्च सर्वशः पृथिवीपते । सौभद्रश्च महाबाहुः शङ्खान्दध्मुः पृथक्पृथक् ॥",
+        "transliteration": "drupado draupadeyāś ca sarvaśaḥ pṛthivī-pate\nsaubhadraś ca mahā-bāhuḥ śaṅkhān dadhmuḥ pṛthak pṛthak",
+        "english": {
+          "translation": "Drupada, the sons of Draupadi, and the mighty-armed son of Subhadra (Abhimanyu), O King, all blew their conches individually.",
+          "commentary": "This verse rounds off the Pandava side’s declaration of readiness. Each warrior’s separate conch blast reflects their independence and unity in purpose—protecting dharma."
+        },
+        "turkish": {
+          "translation": "Drupada, Draupadi’nin oğulları ve Subhadra’nın kudretli oğlu (Abhimanyu), ey kral, her biri ayrı ayrı borularını çaldı.",
+          "commentary": "Her savaşçının kendi borusunu çalması, bireysel gücün ve ortak amaçta birleşmenin bir sembolüdür: dharma’yı savunmak."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "स घोषो धार्तराष्ट्राणां हृदयानि व्यदारयत् । नभश्च पृथिवीं चैव तुमुलो व्यनुनादयन् ॥",
+        "transliteration": "sa ghoṣo dhārtarāṣṭrāṇāṃ hṛdayāni vyadārayat\nnabhaś ca pṛthivīṃ caiva tumulo 'byanunādayan",
+        "english": {
+          "translation": "That tumultuous sound reverberated through the sky and earth, and it shattered the hearts of Dhritarashtra’s sons.",
+          "commentary": "The combined sound of the Pandava army’s conches echoes across realms and instills fear in the hearts of the Kauravas, foreshadowing the moral and psychological strength of Arjuna’s side."
+        },
+        "turkish": {
+          "translation": "Bu müthiş ses gökyüzü ve yeryüzünü titretti ve Dhritarashtra’nın oğullarının kalplerini sarstı.",
+          "commentary": "Pandava ordusunun boru sesleri sadece fiziksel değil, psikolojik bir etkidir. Düşman ordusunun moralini bozan bu ses, dharma’nın gücünü temsil eder."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "अथ व्यवस्थितान्दृष्ट्वा धार्तराष्ट्रान्कपिध्वजः । प्रवृत्ते शस्त्रसम्पाते धनुरुद्यम्य पाण्डवः ॥",
+        "transliteration": "atha vyavasthitān dṛṣṭvā dhārtarāṣṭrān kapi-dhvajaḥ\npravṛtte śastra-sampāte dhanur udyamya pāṇḍavaḥ",
+        "english": {
+          "translation": "Then, seeing the sons of Dhritarashtra arrayed and the battle about to commence, Arjuna, whose banner bore the emblem of Hanuman, lifted his bow.",
+          "commentary": "This verse transitions the focus to Arjuna. The mention of Hanuman on his flag signifies strength, devotion, and divine support. Arjuna’s action signals the moment before personal and spiritual crisis unfolds."
+        },
+        "turkish": {
+          "translation": "Sonra, Dhritarashtra’nın oğullarının savaş düzenine girdiğini gören ve sancağında Hanuman’ın simgesi bulunan Arjuna, yayını kaldırdı.",
+          "commentary": "Arjuna’nın sancağındaki Hanuman, güç ve ilahi yardımın simgesidir. Bu an, Arjuna’nın içsel çatışmasının ve büyük dönüşümünün habercisidir."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "हृषीकेशं तदा वाक्यं इदं आह महीपते । सेनयोरुभयोर्मध्ये रथं स्थापय मेऽच्युत ॥",
+        "transliteration": "hṛṣīkeśaṃ tadā vākyaṃ idaṃ āha mahīpate\nsenayor ubhayor madhye rathaṃ sthāpaya me 'cyuta",
+        "english": {
+          "translation": "At that time, Arjuna said to Hrishikesha: O Achyuta, place my chariot between the two armies, O King.",
+          "commentary": "Arjuna addresses Krishna with reverence, using divine epithets like 'Hrishikesha' (Lord of the senses) and 'Achyuta' (Infallible). He asks to be placed between the two armies, symbolically stepping into the moral center of the conflict."
+        },
+        "turkish": {
+          "translation": "O anda Arjuna, Hrishikesha’ya şöyle dedi: Ey Achyuta, arabamı iki ordunun arasına yerleştir, ey kral.",
+          "commentary": "Arjuna, Krishna’ya 'Hrishikesha' ve 'Achyuta' gibi ilahi lakaplarla seslenerek saygısını gösterir. İki ordunun ortasında yer almak istemesi, onu savaşın ahlaki merkezine taşır."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "यावदेतान्निरीक्षेऽहं योद्धुकामानवस्थितान् । कैर्मया सह योद्धव्यमस्मिन्रणसमुद्यमे ॥",
+        "transliteration": "yāvad etān nirīkṣe 'haṃ yoddhu-kāmān avasthitān\nkair mayā saha yoddhavyam asmin raṇa-samudyame",
+        "english": {
+          "translation": "Let me observe those who have gathered here with the desire to fight, and with whom I must contend in this great battle.",
+          "commentary": "Arjuna wishes to see his opponents up close, motivated by a sense of duty. However, this moment marks the beginning of his emotional and philosophical dilemma as he prepares to face friends and kin."
+        },
+        "turkish": {
+          "translation": "Bu büyük savaşta kiminle savaşmam gerektiğini ve savaşmak için toplananları görmek istiyorum.",
+          "commentary": "Arjuna, savaş meydanındaki düşmanlarını yakından görmek ister. Bu istek, görev bilincinden doğsa da, kısa süre sonra duygusal bir çöküşe dönüşecektir."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "योत्स्यमानानवेक्षेऽहं य एतेऽत्र समागताः । धार्तराष्ट्रस्य दुर्बुद्धेर्युद्धे प्रियचिकीर्षवः ॥",
+        "transliteration": "yotsyamānān avekṣe 'haṃ ya ete 'tra samāgatāḥ\ndhārtarāṣṭrasya durbuddher yuddhe priya-cikīrṣavaḥ",
+        "english": {
+          "translation": "I wish to see those assembled here who seek to please the evil-minded son of Dhritarashtra by engaging in battle.",
+          "commentary": "Arjuna refers to Duryodhana as 'durbuddhi'—one of corrupt intelligence. His desire to view the opposing warriors reflects both strategic intent and rising inner conflict over the righteousness of this war."
+        },
+        "turkish": {
+          "translation": "Kötü niyetli Dhritarashtra’nın oğlunu memnun etmek isteyen ve bu savaşta yer alanları görmek istiyorum.",
+          "commentary": "Arjuna, Duryodhana’ya 'durbuddhi' (kötü akıllı) diyerek onun niyetini sorgular. Bu sözler, Arjuna’nın savaşın haklılığına dair içsel sorgulamasının başlangıcını yansıtır."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "सञ्जय उवाच । एवमुक्तो हृषीकेशो गुडाकेशेन भारत । सेनयोरुभयोर्मध्ये स्थापयित्वा रथोत्तमम् ॥",
+        "transliteration": "sañjaya uvāca\nevam ukto hṛṣīkeśo guḍākeśena bhārata\nsenayor ubhayor madhye sthāpayitvā rathottamam",
+        "english": {
+          "translation": "Sanjaya said: O Bharata, thus addressed by Gudakesha, Hrishikesha placed the splendid chariot between the two armies.",
+          "commentary": "Sanjaya narrates Krishna’s response to Arjuna’s request. The use of divine titles reflects both Arjuna’s elevated status ('Gudakesha'—master over sleep) and Krishna’s supreme position."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi ki: Ey Bharata, Gudakesha’nın isteği üzerine Hrishikesha, muhteşem arabayı iki ordunun ortasına yerleştirdi.",
+          "commentary": "Sanjaya, Arjuna ve Krishna’ya ilahi lakaplarla atıfta bulunur. Arjuna’ya 'Gudakesha' (uykuya hükmeden) denmesi, onun disiplinini simgeler."
+        }
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "भीष्मद्रोणप्रमुखतः सर्वेषां च महीक्षिताम् । उवाच पार्थ पश्यैतान्समवेतान्कुरूनिति ॥",
+        "transliteration": "bhīṣma-droṇa-pramukhataḥ sarveṣāṃ ca mahīkṣitām\nuvāca pārtha paśyaitān samavetān kurūn iti",
+        "english": {
+          "translation": "In front of Bhishma, Drona, and all the rulers of the earth, Lord Krishna said: Behold, O Partha, these Kurus assembled here.",
+          "commentary": "Krishna commands Arjuna to look upon those gathered—his teachers, elders, and kin. This moment draws Arjuna’s attention not to impersonal enemies, but to personal relationships, deepening his moral dilemma."
+        },
+        "turkish": {
+          "translation": "Bhishma, Drona ve tüm kralların önünde Krishna şöyle dedi: Ey Partha, bu toplanmış Kuruları gör.",
+          "commentary": "Krishna, Arjuna’ya düşmanları değil, akrabalarını ve öğretmenlerini işaret eder. Bu yönlendirme, Arjuna’nın vicdani çöküşünü başlatan temel adımdır."
+        }
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "तत्रापश्यत्स्थितान्पार्थः पितृ़्नथ पितामहान् । आचार्यान्मातुलान्भ्रातृ़न्पुत्रान्पौत्रान्सखींस्तथा । श्वशुरान्सुहृदश्चैव सेनयोरुभयोरपि ॥",
+        "transliteration": "tatrāpaśyat sthitān pārthaḥ pitṝn atha pitāmahān\nācāryān mātulān bhrātṝn putrān pautrān sakhīṃs tathā\nśvaśurān suhṛdaś caiva senayor ubhayor api",
+        "english": {
+          "translation": "There Arjuna saw stationed in both armies—fathers, grandfathers, teachers, maternal uncles, brothers, sons, grandsons, friends, fathers-in-law, and well-wishers.",
+          "commentary": "Arjuna no longer sees anonymous warriors but beloved relatives and respected elders on both sides. His identification with them sparks an emotional and spiritual crisis."
+        },
+        "turkish": {
+          "translation": "Orada Arjuna, her iki orduda da babalarını, büyükbabalarını, öğretmenlerini, dayılarını, kardeşlerini, oğullarını, torunlarını, dostlarını, kayınbabalarını ve yakınlarını gördü.",
+          "commentary": "Arjuna, artık karşısında bir düşman değil; aile üyelerini, sevdiklerini ve öğretmenlerini görmektedir. Bu farkındalık, onun içsel çatışmasının temelini oluşturur."
+        }
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "तान्समीक्ष्य स कौन्तेयः सर्वान्बन्धूनवस्थितान् । कृपया परयाविष्टो विषीदन्निदमब्रवीत् ॥",
+        "transliteration": "tān samīkṣya sa kaunteyaḥ sarvān bandhūn avasthitān\nkṛipayā parayāviṣṭo viṣīdann idam abravīt",
+        "english": {
+          "translation": "Seeing all his kinsmen arrayed, Arjuna, the son of Kunti, overwhelmed by deep compassion and sorrow, spoke thus:",
+          "commentary": "This marks the turning point in Arjuna’s psyche. He is overtaken by 'kṛipayā'—compassion or pity. His warrior resolve gives way to emotional vulnerability."
+        },
+        "turkish": {
+          "translation": "Tüm akrabalarını savaş düzeninde gören Kunti’nin oğlu Arjuna, yoğun merhametle doldu ve üzüntüye kapılarak şöyle dedi:",
+          "commentary": "Arjuna’nın duygusal kırılma anı başlar. Savaşçı kararlılığı yerini derin merhamete bırakır. Bu içsel çöküş, Bhagavad Gita’nın felsefi anlatısının temelidir."
+        }
+      },
+      {
+        "verse_number": 28,
+        "sanskrit": "दृष्ट्वेमं स्वजनं कृष्ण युयुत्सुं समुपस्थितम् । सीदन्ति मम गात्राणि मुखं च परिशुष्यति ॥",
+        "transliteration": "dṛṣṭvemaṃ sva-janaṃ kṛṣṇa yuyutsuṃ samupasthitam\nsīdanti mama gātrāṇi mukhaṃ ca pariśuṣyati",
+        "english": {
+          "translation": "Seeing my own people, O Krishna, eager to fight, my limbs fail me, and my mouth is drying up.",
+          "commentary": "Arjuna’s physical symptoms of anxiety—trembling and dryness—reflect the deep discord between his heart and his dharma. The battle he now faces is internal."
+        },
+        "turkish": {
+          "translation": "Kendi halkımı savaşmak üzere burada toplanmış görünce, ey Krishna, bedenim titriyor ve ağzım kuruyor.",
+          "commentary": "Arjuna’nın fiziksel belirtileri—kas zayıflığı ve kuruluk—onun içsel çatışmasını yansıtır. Gerçek mücadele artık dışarıda değil, onun içindedir."
+        }
+      },
+      {
+        "verse_number": 29,
+        "sanskrit": "वेपथुश्च शरीरे मे रोमहर्षश्च जायते । गाण्डीवं स्रंसते हस्तात्त्वक्चैव परिदह्यते ॥",
+        "transliteration": "vepathuś ca śarīre me roma-harṣaś ca jāyate\ngāṇḍīvaṃ sraṃsate hastāt tvak caiva paridahyate",
+        "english": {
+          "translation": "My body trembles, my hair stands on end, the Gandiva bow slips from my hand, and my skin burns all over.",
+          "commentary": "His iconic bow, Gandiva, slipping from his hand symbolizes Arjuna’s detachment from his warrior role. These overwhelming sensations show a soul in turmoil."
+        },
+        "turkish": {
+          "translation": "Vücudum titriyor, tüylerim diken diken oluyor, Gandiva yayım elimden kayıyor, derim yanıyor gibi.",
+          "commentary": "Gandiva yayının elinden kayması, Arjuna’nın savaşçı kimliğinden uzaklaşmasını simgeler. Bu belirtiler, ruhsal karmaşanın bedensel tezahürleridir."
+        }
+      },
+      {
+        "verse_number": 30,
+        "sanskrit": "न च शक्नोम्यवस्थातुं भ्रमतीव च मे मनः । निमित्तानि च पश्यामि विपरीतानि केशव ॥",
+        "transliteration": "na ca śaknomy avasthātuṃ bhramatīva ca me manaḥ\nnimittāni ca paśyāmi viparītāni keśava",
+        "english": {
+          "translation": "I am unable to stand steady, O Keshava; my mind is reeling, and I see adverse omens all around.",
+          "commentary": "Arjuna’s mental disarray escalates into existential dread. 'Viparītāni'—inauspicious omens—represent his psychological unwillingness to engage in war, challenging the warrior dharma he was born into."
+        },
+        "turkish": {
+          "translation": "Artık ayakta duramıyorum, ey Keshava; zihnim dönüyor ve her yerde uğursuz işaretler görüyorum.",
+          "commentary": "Arjuna’nın zihinsel karmaşası doruğa ulaşır. 'Viparītāni' yani olumsuz alametler, onun savaşa gönülsüzlüğünü ve dharma’ya olan inancındaki sarsıntıyı simgeler."
+        }
+      },
+      {
+        "verse_number": 31,
+        "sanskrit": "न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे । न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च ॥",
+        "transliteration": "na ca śreyo 'nupaśyāmi hatvā sva-janam āhave\nna kāṅkṣe vijayaṃ kṛṣṇa na ca rājyaṃ sukhāni ca",
+        "english": {
+          "translation": "I see no good, O Krishna, in slaying my own kinsmen in battle. I desire neither victory, nor kingdom, nor pleasures.",
+          "commentary": "Arjuna questions the very purpose of war. His rejection of victory and kingdom underscores a moral awakening—he begins to value life and righteousness above material gains."
+        },
+        "turkish": {
+          "translation": "Ey Krishna, kendi akrabalarımı savaşta öldürmekte hiçbir hayır görmüyorum. Ne zafer istiyorum, ne krallık, ne de zevkler.",
+          "commentary": "Arjuna, savaşın anlamını sorgulamaya başlar. Zafer ve krallığı reddetmesi, onun ahlaki bir uyanışa geçtiğini gösterir."
+        }
+      },
+      {
+        "verse_number": 32,
+        "sanskrit": "किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा । येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च ॥",
+        "transliteration": "kiṃ no rājyena govinda kiṃ bhogair jīvitenavā\nyeṣām arthe kāṅkṣitaṃ no rājyaṃ bhogāḥ sukhāni ca",
+        "english": {
+          "translation": "Of what use to us is kingdom, O Govinda, of what use pleasures or even life itself, when those for whose sake we desire them stand here for battle?",
+          "commentary": "Arjuna realizes that the very people for whose welfare the kingdom was sought are now the ones he must fight. This contradiction deepens his despair."
+        },
+        "turkish": {
+          "translation": "Ey Govinda, krallığın, zevklerin veya yaşamın bize ne faydası var; bunlar uğruna istediğimiz kişiler burada savaşmak için duruyorken?",
+          "commentary": "Arjuna, krallığı istediği kişilerin şimdi karşısında olduğunu fark eder. Bu çelişki, onun ruhsal çöküşünü derinleştirir."
+        }
+      },
+      {
+        "verse_number": 33,
+        "sanskrit": "त एमेऽवस्थिताः युद्धे प्राणांस्त्यक्त्वा धनानि च । आचार्याः पितरः पुत्रास्तथैव च पितामहाः ॥",
+        "transliteration": "ta eme 'vasthitā yuddhe prāṇāṃs tyaktvā dhanāni ca\nācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ",
+        "english": {
+          "translation": "Teachers, fathers, sons, as well as grandfathers, are here standing in battle, ready to give up their lives and wealth.",
+          "commentary": "Arjuna lists the close relations now turned into adversaries, highlighting the tragic nature of civil war. Duty conflicts with affection."
+        },
+        "turkish": {
+          "translation": "Öğretmenler, babalar, oğullar ve büyükbabalar burada hayatlarını ve servetlerini feda etmeye hazır bir şekilde duruyor.",
+          "commentary": "Arjuna, düşman saflarındaki yakın akrabalarını sıralar. Bu durum, iç savaşın trajedisini gösterir."
+        }
+      },
+      {
+        "verse_number": 34,
+        "sanskrit": "मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा । एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन ॥",
+        "transliteration": "mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinas tathā\netān na hantum icchāmi ghnato 'pi madhusūdana",
+        "english": {
+          "translation": "Uncles, fathers-in-law, grandsons, brothers-in-law, and other relatives too—I do not wish to kill them, even if they kill me, O Madhusudana.",
+          "commentary": "Arjuna’s refusal even under threat reflects a moral stand based on compassion. He calls Krishna 'Madhusudana,' hinting at Krishna’s past role as a destroyer of demons but now appealing for guidance against inner demons."
+        },
+        "turkish": {
+          "translation": "Dayılar, kayınbabalar, torunlar, enişteler ve diğer akrabalar da var; onlar beni öldürse bile ben onları öldürmek istemem, ey Madhusudana.",
+          "commentary": "Arjuna, tehdide rağmen merhametten vazgeçmez. Krishna’ya 'Madhusudana' (iblisleri öldüren) diye hitap etmesi, kendi içindeki iblislere karşı yardım dileyişidir."
+        }
+      },
+      {
+        "verse_number": 35,
+        "sanskrit": "अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते । निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन ॥",
+        "transliteration": "api trailokya-rājyasya hetoḥ kiṃ nu mahī-kṛte\nnihatya dhārtarāṣṭrān naḥ kā prītiḥ syāj janārdana",
+        "english": {
+          "translation": "Even for the sovereignty of the three worlds, let alone this earth, I do not wish to kill the sons of Dhritarashtra. What pleasure would we derive from killing them, O Janardana?",
+          "commentary": "Arjuna extends his renunciation beyond earthly kingdom to cosmic sovereignty, showing how deeply his conscience rejects the violence ahead."
+        },
+        "turkish": {
+          "translation": "Üç dünyanın krallığı için bile, bu yeryüzü bir yana, Dhritarashtra’nın oğullarını öldürmek istemem. Onları öldürmekten nasıl bir sevinç duyabiliriz ki, ey Janardana?",
+          "commentary": "Arjuna’nın reddi dünyevi sınırları aşarak kozmik boyuta ulaşır. Bu, onun vicdanının şiddete karşı derin bir reddiyesini gösterir."
+        }
+      },
+      {
+        "verse_number": 36,
+        "sanskrit": "पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः । तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान् ॥",
+        "transliteration": "pāpam evāśrayed asmān hatvaitān ātatāyinaḥ\ntasmān nārhā vayaṃ hantuṃ dhārtarāṣṭrān sva-bāndhavān",
+        "english": {
+          "translation": "Sin alone would befall us if we slay these aggressors; therefore, it is not proper for us to kill the sons of Dhritarashtra, our own kinsmen.",
+          "commentary": "Arjuna calls the Kauravas 'ātatāyinaḥ' (aggressors) but still hesitates, fearing sin and karmic consequences. This reflects the tension between justice and nonviolence."
+        },
+        "turkish": {
+          "translation": "Bu saldırganları öldürürsek sadece günah bize bulaşır; bu yüzden Dhritarashtra’nın oğullarını, kendi akrabalarımızı öldürmemiz uygun değildir.",
+          "commentary": "Arjuna, Kauravaları 'ātatāyinaḥ' (saldırgan) olarak görse de karmanın getireceği günah korkusuyla tereddüt eder. Bu, adalet ve şiddetsizlik arasındaki gerilimi yansıtır."
+        }
+      },
+      {
+        "verse_number": 37,
+        "sanskrit": "स्वजनं हि कथं हत्वा सुखिनः स्याम माधव ।",
+        "transliteration": "svajanaṃ hi kathaṃ hatvā sukhinaḥ syāma mādhava",
+        "english": {
+          "translation": "How can we, O Madhava, be happy by killing our own people?",
+          "commentary": "Arjuna boils his argument down to a simple human truth: happiness cannot arise from destroying one’s kin. This sentiment challenges the warrior’s duty (kshatriya dharma)."
+        },
+        "turkish": {
+          "translation": "Kendi halkımızı öldürerek nasıl mutlu olabiliriz, ey Madhava?",
+          "commentary": "Arjuna, insanın en temel gerçeğini dile getirir: akrabalarını öldürerek mutluluk elde edilemez. Bu, savaşçı dharma’sına meydan okur."
+        }
+      },
+      {
+        "verse_number": 38,
+        "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः । कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम् ॥",
+        "transliteration": "yady apy ete na paśyanti lobhopahata-cetasaḥ\nkula-kṣaya-kṛtaṃ doṣaṃ mitra-drohe ca pātakam",
+        "english": {
+          "translation": "Though these men, with their minds overwhelmed by greed, do not see the sin in destroying their family or in betraying friends,",
+          "commentary": "Arjuna distinguishes his own moral vision from the Kauravas', whose minds are clouded by 'lobha' (greed). This foreshadows Krishna’s teaching on clarity versus delusion."
+        },
+        "turkish": {
+          "translation": "Bu adamlar, zihinleri açgözlülükle bulandığı için, ailelerini yok etmenin ve dostlarına ihanetin günahını görmüyor olabilirler.",
+          "commentary": "Arjuna, kendi ahlaki görüşünü Kauravalarınkiyle karşılaştırır. Onların 'lobha' (açgözlülük) nedeniyle kör olduklarını belirtir."
+        }
+      },
+      {
+        "verse_number": 39,
+        "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम् । कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन ॥",
+        "transliteration": "kathaṃ na jñeyam asmābhiḥ pāpād asmān nivartitum\nkula-kṣaya-kṛtaṃ doṣaṃ prapaśyadbhir janārdana",
+        "english": {
+          "translation": "Why should we not understand, O Janardana, the sin that arises from destroying the family, when we can clearly see this fault?",
+          "commentary": "Arjuna appeals to Krishna’s name 'Janardana' (protector of people), expressing that moral insight should guide action, not blind impulse."
+        },
+        "turkish": {
+          "translation": "Aileyi yok etmenin getirdiği günahı açıkça görebiliyorken, neden biz de onlardan dönmeyelim, ey Janardana?",
+          "commentary": "Arjuna, Krishna’ya 'Janardana' diyerek insanlığı koruyan yönüne seslenir. Burada kör dürtü yerine ahlaki sezginin rehber olmasını ister."
+        }
+      },
+      {
+        "verse_number": 40,
+        "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः । धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत ॥",
+        "transliteration": "kula-kṣaye praṇaśyanti kula-dharmāḥ sanātanāḥ\ndharme naṣṭe kulaṃ kṛtsnam adharmo 'bhibhavaty uta",
+        "english": {
+          "translation": "With the destruction of the family, the eternal family dharmas perish; when dharma is lost, the whole family is overcome by adharma.",
+          "commentary": "Arjuna introduces a key idea: the collapse of dharma at the social level. 'Kula-dharmāḥ' (family duties) maintain order; their loss invites chaos."
+        },
+        "turkish": {
+          "translation": "Ailenin yok olmasıyla, ebedi aile dharmaları da yok olur; dharma kaybolduğunda ise tüm aileyi adharma kaplar.",
+          "commentary": "Arjuna, toplumsal düzenin çöküşünü vurgular. 'Kula-dharma', aile ve toplumun düzenini sağlayan kutsal yükümlülüklerdir."
+        }
+      },
+      {
+        "verse_number": 41,
+        "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः । स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः ॥",
+        "transliteration": "adharmābhibhavāt kṛṣṇa praduṣyanti kula-striyaḥ\nstrīṣu duṣṭāsu vārṣṇeya jāyate varṇa-saṅkaraḥ",
+        "english": {
+          "translation": "When adharma prevails, O Krishna, the women of the family become corrupt; and from the corruption of women, O Vārṣṇeya, arises varna-mixing (social confusion).",
+          "commentary": "Arjuna reflects a traditional view linking social stability to women’s virtue. 'Varṇa-saṅkaraḥ' implies breakdown of social order, a major fear in ancient dharmic culture."
+        },
+        "turkish": {
+          "translation": "Adharma üstün geldiğinde, ey Krishna, aile kadınları yozlaşır; kadınlar yozlaşınca, ey Vārṣṇeya, varna-karışımı (toplumsal kargaşa) ortaya çıkar.",
+          "commentary": "Arjuna, toplumsal düzenin bozulmasını kadınların yozlaşmasıyla ilişkilendiren geleneksel bir anlayışı dile getirir. 'Varṇa-saṅkara' sosyal düzenin çöküşünü simgeler."
+        }
+      },
+      {
+        "verse_number": 42,
+        "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च । पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः ॥",
+        "transliteration": "saṅkaro narakāyaiva kula-ghnānāṃ kulasya ca\npatanti pitaro hyeṣāṃ lupta-piṇḍodaka-kriyāḥ",
+        "english": {
+          "translation": "This mixture leads the destroyers of the family to hell; their ancestors also fall, deprived of offerings of food and water.",
+          "commentary": "Arjuna stresses karmic consequences across generations. The loss of rituals ('piṇḍodaka-kriyāḥ') severs ancestral ties, symbolizing spiritual decline."
+        },
+        "turkish": {
+          "translation": "Bu karışım, aileyi yok edenleri cehenneme götürür; ataları da yiyecek ve su sunularından mahrum kalarak düşer.",
+          "commentary": "Arjuna, karmanın kuşaklar arası sonuçlarını vurgular. Ritüellerin kaybı atalarla bağı keser ve manevi çöküşü simgeler."
+        }
+      },
+      {
+        "verse_number": 43,
+        "sanskrit": "दोषैरेतैः कुलघ्नानां वर्णसङ्करकारकैः । उत्साद्यन्ते जातिधर्माः कुलधर्माश्च शाश्वताः ॥",
+        "transliteration": "doṣair etaiḥ kula-ghnānāṃ varṇa-saṅkara-kārakaiḥ\nutsādyante jāti-dharmāḥ kula-dharmāś ca śāśvatāḥ",
+        "english": {
+          "translation": "By these faults of the destroyers of the family, causing varna-mixing, the eternal duties of caste and family are destroyed.",
+          "commentary": "Arjuna reiterates the cascading social collapse caused by adharma. It is both a moral and cultural catastrophe."
+        },
+        "turkish": {
+          "translation": "Aileyi yok edenlerin bu hatalarıyla, varna-karışımına neden olarak kast ve aile dharmalarının ebedi düzeni bozulur.",
+          "commentary": "Arjuna, adharma’nın getirdiği toplumsal çöküşü yine vurgular. Bu sadece ahlaki değil, kültürel bir felakettir."
+        }
+      },
+      {
+        "verse_number": 44,
+        "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन । नरकेऽनियतं वासो भवतीत्यनुशुश्रुम ॥",
+        "transliteration": "utsanna-kula-dharmāṇāṃ manuṣyāṇāṃ janārdana\nnarake 'niyataṃ vāso bhavatīty anuśuśruma",
+        "english": {
+          "translation": "We have heard, O Janardana, that those who lose their family dharmas dwell indefinitely in hell.",
+          "commentary": "Arjuna cites scriptural tradition, emphasizing the karmic and spiritual ruin of neglecting family dharmas. This fear of eternal downfall deepens his moral crisis."
+        },
+        "turkish": {
+          "translation": "Ey Janardana, aile dharmalarını kaybeden insanların sonsuza dek cehennemde kaldığını duyduk.",
+          "commentary": "Arjuna, kutsal metinlere atıfta bulunarak aile dharmasının kaybının manevi yıkım getireceğini söyler. Bu korku, onun ahlaki krizini derinleştirir."
+        }
+      },
+      {
+        "verse_number": 45,
+        "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम् । यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः ॥",
+        "transliteration": "aho bata mahat-pāpaṃ kartuṃ vyavasitā vayam\nyad-rājya-sukha-lobhena hantuṃ sva-janam udyatāḥ",
+        "english": {
+          "translation": "Alas! We are resolved to commit a great sin, driven by greed for royal pleasures, as we prepare to kill our own people.",
+          "commentary": "Arjuna openly condemns his own intention as 'mahat-pāpa' (great sin). This moment of self-awareness foreshadows his eventual surrender to Krishna’s guidance."
+        },
+        "turkish": {
+          "translation": "Ah! Krallık ve zevk hırsıyla kendi halkımızı öldürmeye hazırlanarak büyük bir günah işlemeye kararlı hale gelmişiz.",
+          "commentary": "Arjuna, kendi niyetini 'mahat-pāpa' (büyük günah) olarak niteler. Bu öz farkındalık, onun Krishna’ya teslimiyetinin zeminini hazırlar."
+        }
+      },
+      {
+        "verse_number": 46,
+        "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः । धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत् ॥",
+        "transliteration": "yadi mām apratīkāram aśastraṃ śastra-pāṇayaḥ\ndhārtarāṣṭrā raṇe hanyus tan me kṣemataraṃ bhavet",
+        "english": {
+          "translation": "If the sons of Dhritarashtra, weapons in hand, kill me, unarmed and unresisting in battle, that would be better for me.",
+          "commentary": "Arjuna expresses a preference for martyrdom over fratricide. His moral despair leads him to renounce his warrior’s duty entirely, marking the nadir of his crisis."
+        },
+        "turkish": {
+          "translation": "Dhritarashtra’nın oğulları silahlarıyla beni, silahsız ve karşı koymadan savaşta öldürürlerse, bu benim için daha iyi olur.",
+          "commentary": "Arjuna, kardeş katilliği yerine şehit olmayı tercih eder. Bu, onun savaşçı görevini tamamen terk etme noktasına geldiğini gösterir."
+        }
+      },
+      {
+        "verse_number": 47,
+        "sanskrit": "सञ्जय उवाच । एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत् । विसृज्य सशरं चापं शोकसंविग्नमानसः ॥",
+        "transliteration": "sañjaya uvāca\nevam uktvārjunaḥ saṅkhye rathopastha upāviśat\nvisṛjya sa-śaraṃ cāpaṃ śoka-saṃvigna-mānasaḥ",
+        "english": {
+          "translation": "Sanjaya said: Having spoken thus on the battlefield, Arjuna sat down in the chariot, casting aside his bow and arrows, his mind overwhelmed with grief.",
+          "commentary": "This closing verse of the chapter depicts Arjuna’s full collapse—he lays down his weapons, symbolizing surrender of duty and identity. This sets the stage for Krishna’s teachings in the following chapters."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi ki: Arjuna bu sözleri söyledikten sonra savaş alanında arabasına oturdu, ok ve yayını bıraktı; zihni kederle dolmuştu.",
+          "commentary": "Bu son ayet, Arjuna’nın tamamen çöktüğünü gösterir. Silahlarını bırakması, görev ve kimliğini teslim etmesinin sembolüdür. Bu sahne, Krishna’nın öğretilerine zemin hazırlar."
+        }
       }
     ]
   },
   "verification": {
-    "verses_translated": 10,
+    "verses_translated": 47,
     "expected_verses": 47,
-    "complete": false,
-    "missing_verses": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47]
+    "complete": true,
+    "missing_verses": []
   }
 }

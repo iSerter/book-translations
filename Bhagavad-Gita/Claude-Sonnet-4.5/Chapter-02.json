@@ -1,0 +1,953 @@
+{
+  "chapter": {
+    "number": 2,
+    "title_sanskrit": "साङ्ख्ययोग",
+    "title_english": "The Yoga of Knowledge",
+    "title_turkish": "Bilgi Yogası",
+    "total_verses": 72,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "सञ्जय उवाच। तं तथा कृपयाविष्टमश्रुपूर्णाकुलेक्षणम्। विषीदन्तमिदं वाक्यमुवाच मधुसूदनः।।",
+        "transliteration": "sañjaya uvāca | taṁ tathā kṛpayāviṣṭam aśru-pūrṇākulekṣaṇam | viṣīdantam idaṁ vākyam uvāca madhusūdanaḥ ||",
+        "english": {
+          "translation": "Sanjaya said: To him who was thus overcome with pity, whose eyes were filled with tears and agitated, and who was despondent, Madhusudana (Krishna) spoke these words.",
+          "commentary": "This verse sets the scene for Krishna's teaching. Arjuna is in a state of emotional distress and moral confusion. Krishna, addressed as Madhusudana (slayer of the demon Madhu), prepares to dispel Arjuna's ignorance just as he vanquished demons. The chapter transitions from Arjuna's despair to the profound philosophical discourse that follows."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi: Böylece acıma duygusuyla boğulmuş, gözleri yaşlarla dolmuş ve çalkantılı, umutsuzluğa kapılmış olan ona, Madhusudana (Krishna) şu sözleri söyledi.",
+          "commentary": "Bu ayet, Krishna'nın öğretisi için sahneyi hazırlar. Arjuna duygusal sıkıntı ve ahlaki kafa karışıklığı içindedir. Madhusudana (Madhu iblisini öldüren) olarak anılan Krishna, tıpkı iblisleri yok ettiği gibi Arjuna'nın cehaletini de dağıtmaya hazırlanır. Bölüm, Arjuna'nın umutsuzluğundan takip eden derin felsefi söyleve geçiş yapar."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "श्रीभगवानुवाच। कुतस्त्वा कश्मलमिदं विषमे समुपस्थितम्। अनार्यजुष्टमस्वर्ग्यमकीर्तिकरमर्जुन।।",
+        "transliteration": "śrī-bhagavān uvāca | kutas tvā kaśmalam idaṁ viṣame samupasthitam | anārya-juṣṭam asvargyam akīrti-karam arjuna ||",
+        "english": {
+          "translation": "The Blessed Lord said: Whence has this dejection come upon you in this critical hour, O Arjuna? It is not befitting a noble person, does not lead to heaven, and brings disgrace.",
+          "commentary": "Krishna begins his teaching by challenging Arjuna's despondency. He emphasizes that such weakness is unworthy of an Arya (noble person), will not lead to spiritual elevation (svarga), and brings dishonor (akirti). This sets the tone for Krishna's approach: direct, uncompromising, yet compassionate."
+        },
+        "turkish": {
+          "translation": "Yüce Tanrı dedi: Bu kritik anda sana bu düşkünlük nereden geldi, ey Arjuna? Bu asil bir insana yakışmaz, cennete götürmez ve ayıp getirir.",
+          "commentary": "Krishna, Arjuna'nın umutsuzluğuna meydan okuyarak öğretisine başlar. Böyle bir zayıflığın bir Arya'ya (asil kişiye) yakışmadığını, ruhani yükselişe (svarga) götürmeyeceğini ve onursuzluk (akirti) getireceğini vurgular. Bu, Krishna'nın yaklaşımının tonunu belirler: doğrudan, uzlaşmaz ama şefkatli."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "क्लैब्यं मा स्म गमः पार्थ नैतत्त्वय्युपपद्यते। क्षुद्रं हृदयदौर्बल्यं त्यक्त्वोत्तिष्ठ परन्तप।।",
+        "transliteration": "klaibyaṁ mā sma gamaḥ pārtha naitat tvayy upapadyate | kṣudraṁ hṛdaya-daurbalyaṁ tyaktvottiṣṭha parantapa ||",
+        "english": {
+          "translation": "Do not yield to unmanliness, O Partha (Arjuna). It does not befit you. Cast off this petty weakness of heart and arise, O scorcher of foes!",
+          "commentary": "Krishna uses strong language to shake Arjuna out of his paralysis. The term 'klaibyam' (impotence/cowardice) and 'kshudram hridaya-daurbalyam' (petty heart-weakness) are deliberately sharp. He addresses Arjuna as 'Parantapa' (scorcher of foes) to remind him of his true warrior nature. The imperative 'arise' (uttishtha) becomes a recurring theme."
+        },
+        "turkish": {
+          "translation": "Erkeksizliğe teslim olma, ey Partha (Arjuna). Bu sana yakışmaz. Bu önemsiz kalp zayıflığını at ve kalk, ey düşman kırıcı!",
+          "commentary": "Krishna, Arjuna'yı felcinden silkelemek için güçlü bir dil kullanır. 'Klaibyam' (iktidarsızlık/korkaklık) ve 'kshudram hridaya-daurbalyam' (önemsiz kalp zayıflığı) terimleri kasıtlı olarak keskindir. Ona 'Parantapa' (düşman kırıcı) diye hitap ederek gerçek savaşçı doğasını hatırlatır. 'Kalk' (uttishtha) emri tekrarlanan bir tema haline gelir."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अर्जुन उवाच। कथं भीष्ममहं संख्ये द्रोणं च मधुसूदन। इषुभिः प्रतियोत्स्यामि पूजार्हावरिसूदन।।",
+        "transliteration": "arjuna uvāca | kathaṁ bhīṣmam ahaṁ saṅkhye droṇaṁ ca madhusūdana | iṣubhiḥ pratiyotsyāmi pūjārhāv arisūdana ||",
+        "english": {
+          "translation": "Arjuna said: How can I fight with arrows in battle against Bhishma and Drona, O Madhusudana (Krishna)? They are worthy of my worship, O destroyer of foes.",
+          "commentary": "Arjuna expresses his moral dilemma: how can he attack those who deserve his reverence? Bhishma (his grand-uncle) and Drona (his teacher) represent figures of authority and respect. This verse reveals the conflict between dharma as duty (fighting as a warrior) and dharma as respect for elders. Arjuna's confusion is genuine and represents a universal human dilemma."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi: Savaşta Bhishma ve Drona'ya karşı oklarla nasıl savaşabilirim, ey Madhusudana (Krishna)? Onlar ibadetime layıktırlar, ey düşman yok edici.",
+          "commentary": "Arjuna ahlaki ikilemini ifade eder: saygı duyduğu kişilere nasıl saldırabilir? Bhishma (büyük amcası) ve Drona (öğretmeni) otorite ve saygı figürlerini temsil eder. Bu ayet, dharma'nın görev olarak (savaşçı olarak dövüşmek) ve dharma'nın yaşlılara saygı olarak arasındaki çatışmayı ortaya koyar. Arjuna'nın kafa karışıklığı gerçektir ve evrensel bir insan ikilemini temsil eder."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "गुरूनहत्वा हि महानुभावान् श्रेयो भोक्तुं भैक्ष्यमपीह लोके। हत्वार्थकामांस्तु गुरूनिहैव भुञ्जीय भोगान् रुधिरप्रदिग्धान्।।",
+        "transliteration": "gurūn ahatvā hi mahānubhāvān śreyo bhoktuṁ bhaikṣyam apīha loke | hatvārtha-kāmāṁs tu gurūn ihaiva bhuñjīya bhogān rudhira-pradigdhān ||",
+        "english": {
+          "translation": "It would be better to live in this world by begging than to slay these noble teachers. By killing them, even though they are attached to worldly gains, I would enjoy only blood-stained pleasures.",
+          "commentary": "Arjuna argues that even a life of begging would be preferable to killing his revered teachers. He acknowledges their attachment to worldly desires but still cannot justify violence against them. The phrase 'rudhira-pradigdhan' (blood-stained) powerfully conveys his moral revulsion at the prospect of benefiting from their deaths. This represents the peak of Arjuna's ethical crisis."
+        },
+        "turkish": {
+          "translation": "Bu dünyada dilenerek yaşamak, bu asil öğretmenleri öldürmekten daha iyi olurdu. Onları öldürerek, dünyevi kazançlara bağlı olsalar bile, sadece kanla lekelenmiş zevklerin tadını çıkarırdım.",
+          "commentary": "Arjuna, saygı duyduğu öğretmenlerini öldürmektense dilenerek yaşamanın bile tercih edilebilir olduğunu savunur. Onların dünyevi arzulara bağlılığını kabul eder ama yine de onlara karşı şiddeti haklı çıkaramaz. 'Rudhira-pradigdhan' (kanla lekelenmiş) ifadesi, onların ölümlerinden faydalanma ihtimali karşısındaki ahlaki tiksintisini güçlü bir şekilde aktarır. Bu, Arjuna'nın etik krizinin zirvesini temsil eder."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "न चैतद्विद्मः कतरन्नो गरीयो यद्वा जयेम यदि वा नो जयेयुः। यानेव हत्वा न जिजीविषामस्तेऽवस्थिताः प्रमुखे धार्तराष्ट्राः।।",
+        "transliteration": "na caitad vidmaḥ kataran no garīyo yadvā jayema yadi vā no jayeyuḥ | yān eva hatvā na jijīviṣāmas te'vasthitāḥ pramukhe dhārtarāṣṭrāḥ ||",
+        "english": {
+          "translation": "Nor do we know which is better for us—whether we should conquer them or they should conquer us. The sons of Dhritarashtra stand before us; having killed them, we would not wish to live.",
+          "commentary": "Arjuna expresses complete paralysis in judgment. He cannot determine which outcome would be better: victory or defeat. The presence of the Dhartarashtras (sons of Dhritarashtra) before him makes the situation unbearable. This verse shows Arjuna's state of total confusion, unable to discern the right course of action—a perfect setup for Krishna's teaching on discriminative wisdom."
+        },
+        "turkish": {
+          "translation": "Hangisinin bizim için daha iyi olduğunu da bilmiyoruz—onları mı yenmeliyiz yoksa onlar mı bizi yenmeli. Dhritarashtra'nın oğulları önümüzde duruyor; onları öldürdükten sonra yaşamak istemezdik.",
+          "commentary": "Arjuna yargıda tam bir felç ifade eder. Hangi sonucun daha iyi olacağını belirleyemez: zafer mi yoksa yenilgi mi. Dhartaraştraların (Dhritarashtra'nın oğulları) önünde bulunması durumu dayanılmaz kılar. Bu ayet, Arjuna'nın doğru hareket tarzını ayırt edemediği tam kafa karışıklığı durumunu gösterir—Krishna'nın ayırt edici bilgelik öğretisi için mükemmel bir zemin."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "कार्पण्यदोषोपहतस्वभावः पृच्छामि त्वां धर्मसम्मूढचेताः। यच्छ्रेयः स्यान्निश्चितं ब्रूहि तन्मे शिष्यस्तेऽहं शाधि मां त्वां प्रपन्नम्।।",
+        "transliteration": "kārpaṇya-doṣopahata-svabhāvaḥ pṛcchāmi tvāṁ dharma-sammūḍha-cetāḥ | yac chreyaḥ syān niścitaṁ brūhi tan me śiṣyas te'haṁ śādhi māṁ tvāṁ prapannam ||",
+        "english": {
+          "translation": "With my nature overpowered by the taint of weakness, with my mind confused about dharma, I ask You: tell me decisively what is best for me. I am Your disciple; instruct me who have taken refuge in You.",
+          "commentary": "This is the pivotal verse of the Gita. Arjuna formally surrenders to Krishna as his guru, transforming their relationship from friends to teacher-disciple. He admits his confusion about dharma and seeks certain knowledge (nishchitam). The words 'shishyas te aham' (I am your disciple) and 'tvam prapannam' (taken refuge in you) mark the beginning of spiritual instruction. This act of surrender (sharanagati) is essential for receiving divine wisdom."
+        },
+        "turkish": {
+          "translation": "Doğam zayıflık lekeleriyle alt edilmiş, aklım dharma konusunda karışmış halde, Sana soruyorum: benim için en iyi olanın ne olduğunu kesin olarak söyle. Ben Senin öğrenciyim; Sana sığınmış olan bana öğret.",
+          "commentary": "Bu Gita'nın dönüm noktası ayetidir. Arjuna resmi olarak Krishna'ya gurusu olarak teslim olur, ilişkilerini arkadaşlıktan öğretmen-öğrenci ilişkisine dönüştürür. Dharma konusundaki kafa karışıklığını kabul eder ve kesin bilgi (nishchitam) arar. 'Shishyas te aham' (Senin öğrencinim) ve 'tvam prapannam' (Sana sığındım) sözleri ruhani öğretinin başlangıcını işaretler. Bu teslim olma eylemi (sharanagati) ilahi bilgeliği almak için esastır."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "न हि प्रपश्यामि ममापनुद्याद्यच्छोकमुच्छोषणमिन्द्रियाणाम्। अवाप्य भूमावसपत्नमृद्धं राज्यं सुराणामपि चाधिपत्यम्।।",
+        "transliteration": "na hi prapaśyāmi mamāpanudyād yac chokam ucchoṣaṇam indriyāṇām | avāpya bhūmāv asapatnam ṛddhaṁ rājyaṁ surāṇām api cādhipatyam ||",
+        "english": {
+          "translation": "For I do not see what can drive away this grief that is drying up my senses, even if I were to obtain unrivaled and prosperous dominion on earth, or even lordship over the gods.",
+          "commentary": "Arjuna reveals the depth of his despair. Even the greatest worldly achievements—undisputed earthly kingdom or sovereignty over heaven—cannot remove his sorrow. The phrase 'shokam uccoshanam indriyanam' (grief drying up the senses) describes how profound anguish affects one's very capacity to function. This establishes that Arjuna's problem is fundamentally spiritual, not material, requiring a spiritual solution."
+        },
+        "turkish": {
+          "translation": "Çünkü duyularımı kurutmakta olan bu kederi neyin uzaklaştırabileceğini göremiyorum, yeryüzünde rakipsiz ve müreffeh bir egemenlik ya da tanrılar üzerinde bile bir hakimiyet elde etsem dahi.",
+          "commentary": "Arjuna umutsuzluğunun derinliğini ortaya koyar. En büyük dünyevi başarılar bile—tartışmasız dünyevi krallık ya da cennet üzerinde egemenlik—üzüntüsünü gideremez. 'Shokam uccoshanam indriyanam' (duyuları kurutan keder) ifadesi, derin ıstırabın kişinin işlev görme kapasitesini nasıl etkilediğini anlatır. Bu, Arjuna'nın sorunun temelde ruhani olduğunu, maddi değil, dolayısıyla ruhani bir çözüm gerektirdiğini ortaya koyar."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "सञ्जय उवाच। एवमुक्त्वा हृषीकेशं गुडाकेशः परन्तपः। न योत्स्य इति गोविन्दमुक्त्वा तूष्णीं बभूव ह।।",
+        "transliteration": "sañjaya uvāca | evam uktvā hṛṣīkeśaṁ guḍākeśaḥ parantapaḥ | na yotsya iti govindam uktvā tūṣṇīṁ babhūva ha ||",
+        "english": {
+          "translation": "Sanjaya said: Having spoken thus to Hrishikesha (Krishna), Gudakesha (Arjuna), the scorcher of foes, said to Govinda (Krishna), 'I will not fight,' and became silent.",
+          "commentary": "The narrative returns to Sanjaya's voice, describing Arjuna's final declaration of refusal. Krishna is called Hrishikesha (lord of the senses) and Govinda (giver of joy/knowledge), names that subtly point to his role as spiritual guide. Arjuna, despite being called Gudakesha (conqueror of sleep, implying alertness) and Parantapa (scorcher of foes), declares his refusal to fight and falls silent—setting the stage for Krishna's comprehensive teaching."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi: Böylece Hrishikesha'ya (Krishna) konuşmuş olan Gudakesha (Arjuna), düşman kırıcı, Govinda'ya (Krishna) 'Savaşmayacağım' dedi ve sessiz kaldı.",
+          "commentary": "Anlatı Sanjaya'nın sesine döner, Arjuna'nın son ret beyanını anlatır. Krishna, Hrishikesha (duyuların efendisi) ve Govinda (neşe/bilgi verici) olarak anılır, bu isimler onun ruhani rehber rolüne ince bir şekilde işaret eder. Arjuna, Gudakesha (uykuyu yenen, uyanıklığı ima eden) ve Parantapa (düşman kırıcı) olarak anılmasına rağmen, savaşmayı reddettiğini beyan eder ve susar—Krishna'nın kapsamlı öğretisi için sahneyi hazırlar."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "तमुवाच हृषीकेशः प्रहसन्निव भारत। सेनयोरुभयोर्मध्ये विषीदन्तमिदं वचः।।",
+        "transliteration": "tam uvāca hṛṣīkeśaḥ prahasann iva bhārata | senayorubhayor madhye viṣīdantam idaṁ vacaḥ ||",
+        "english": {
+          "translation": "O Bharata (Dhritarashtra), to him who was despondent in the midst of both armies, Hrishikesha (Krishna), as if smiling, spoke these words.",
+          "commentary": "Krishna's smile ('prahasann iva') is significant—it suggests compassion mixed with understanding of the deeper reality. The setting is emphasized: between two armies, at the critical moment of decision. Krishna, as Hrishikesha (master of senses), begins to teach one who has lost control of his emotions. This smile of the divine teacher before imparting profound wisdom is a touching human moment in a cosmic dialogue."
+        },
+        "turkish": {
+          "translation": "Ey Bharata (Dhritarashtra), her iki ordunun ortasında umutsuzluğa kapılmış olana, Hrishikesha (Krishna), sanki gülümseyerek, şu sözleri söyledi.",
+          "commentary": "Krishna'nın gülümsemesi ('prahasann iva') anlamlıdır—daha derin gerçekliğin anlayışıyla karışık bir şefkati işaret eder. Ortam vurgulanır: iki ordu arasında, karar vermenin kritik anında. Hrishikesha (duyuların efendisi) olarak Krishna, duygularının kontrolünü kaybetmiş birine öğretmeye başlar. İlahi öğretmenin derin bilgeliği aktarmadan önceki bu gülümsemesi, kozmik bir diyalogda dokunaklı bir insani andır."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "श्रीभगवानुवाच। अशोच्यानन्वशोचस्त्वं प्रज्ञावादांश्च भाषसे। गतासूनगतासूंश्च नानुशोचन्ति पण्डिताः।।",
+        "transliteration": "śrī-bhagavān uvāca | aśocyān anvaśocas tvaṁ prajñā-vādāṁś ca bhāṣase | gatāsūn agatāsūṁś ca nānuśocanti paṇḍitāḥ ||",
+        "english": {
+          "translation": "The Blessed Lord said: You grieve for those who should not be grieved for, yet you speak words of wisdom. The wise grieve neither for the living nor for the dead.",
+          "commentary": "Krishna begins his teaching by pointing out Arjuna's contradiction: he speaks philosophically but grieves unnecessarily. The term 'pandita' (the wise) refers to those who understand the eternal nature of the soul. This verse introduces the central theme of the chapter: the distinction between the temporary body and the eternal self (atman). True wisdom transcends both life and death."
+        },
+        "turkish": {
+          "translation": "Yüce Tanrı dedi: Yas tutulmaması gerekenler için yas tutuyorsun, ama bilgelik sözleri söylüyorsun. Bilgeler ne yaşayanlar ne de ölüler için yas tutarlar.",
+          "commentary": "Krishna, Arjuna'nın çelişkisine işaret ederek öğretisine başlar: felsefi konuşuyor ama gereksiz yere yas tutuyor. 'Pandita' (bilge) terimi, ruhun ebedi doğasını anlayan kişilere atıfta bulunur. Bu ayet, bölümün merkezi temasını sunar: geçici beden ile ebedi benlik (atman) arasındaki ayrım. Gerçek bilgelik hem yaşamı hem de ölümü aşar."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "न त्वेवाहं जातु नासं न त्वं नेमे जनाधिपाः। न चैव न भविष्यामः सर्वे वयमतः परम्।।",
+        "transliteration": "na tvevāhaṁ jātu nāsaṁ na tvaṁ neme janādhipāḥ | na caiva na bhaviṣyāmaḥ sarve vayam ataḥ param ||",
+        "english": {
+          "translation": "Never was there a time when I did not exist, nor you, nor these kings; nor will there ever be a time when we shall cease to be—all of us hereafter.",
+          "commentary": "This profound declaration establishes the eternality of the soul (atman). Krishna asserts that all beings—himself, Arjuna, and all the warriors—have always existed and will always exist. The phrase 'atah param' (hereafter) indicates existence beyond this present moment. This verse refutes the materialist view that consciousness arises from matter and ends with death, establishing instead the timeless nature of consciousness itself."
+        },
+        "turkish": {
+          "translation": "Benim var olmadığım, senin ve bu kralların var olmadığı bir zaman asla olmadı; bundan sonra da hepimizin var olmayı bırakacağı bir zaman asla olmayacak.",
+          "commentary": "Bu derin beyan, ruhun (atman) ebediliğini tesis eder. Krishna, tüm varlıkların—kendisi, Arjuna ve tüm savaşçıların—her zaman var olduğunu ve her zaman var olacağını ileri sürer. 'Atah param' (bundan sonra) ifadesi, bu an ötesinde varoluşu gösterir. Bu ayet, bilincin maddeden doğduğu ve ölümle sona erdiği materyalist görüşü çürütür, bunun yerine bilincin kendisinin zamansız doğasını tesis eder."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "देहिनोऽस्मिन्यथा देहे कौमारं यौवनं जरा। तथा देहान्तरप्राप्तिर्धीरस्तत्र न मुह्यति।।",
+        "transliteration": "dehino'smin yathā dehe kaumāraṁ yauvanaṁ jarā | tathā dehāntara-prāptir dhīras tatra na muhyati ||",
+        "english": {
+          "translation": "Just as the embodied soul passes through childhood, youth, and old age in this body, so too does it pass into another body. The wise are not deluded by this.",
+          "commentary": "Krishna uses the analogy of life stages to explain reincarnation. Just as the same person experiences different bodily phases (childhood, youth, old age) while the essence remains constant, the soul similarly transitions to new bodies. The term 'dehi' (embodied one) refers to the eternal soul that inhabits bodies. 'Dhira' (the steadfast/wise) understands this process and remains unperturbed, seeing death as merely another transition."
+        },
+        "turkish": {
+          "translation": "Bu bedende bedenlenmiş ruh nasıl çocukluktan, gençlikten ve yaşlılıktan geçiyorsa, başka bir bedene de öylece geçer. Bilge kişi bununla aldanmaz.",
+          "commentary": "Krishna, reenkarnasyonu açıklamak için yaşam evrelerinin benzetmesini kullanır. Aynı kişi farklı bedensel evreleri (çocukluk, gençlik, yaşlılık) yaşarken özü sabit kalırken, ruh benzer şekilde yeni bedenlere geçer. 'Dehi' (bedenlenmiş) terimi, bedenlerde ikamet eden ebedi ruha atıfta bulunur. 'Dhira' (kararlı/bilge) bu süreci anlar ve sarsılmadan kalır, ölümü sadece başka bir geçiş olarak görür."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "मात्रास्पर्शास्तु कौन्तेय शीतोष्णसुखदुःखदाः। आगमापायिनोऽनित्यास्तांस्तितिक्षस्व भारत।।",
+        "transliteration": "mātrā-sparśās tu kaunteya śītoṣṇa-sukha-duḥkha-dāḥ | āgamāpāyino'nityās tāṁs titikṣasva bhārata ||",
+        "english": {
+          "translation": "O son of Kunti, the contacts of the senses with their objects give rise to cold and heat, pleasure and pain. They come and go and are impermanent; endure them bravely, O Bharata.",
+          "commentary": "This verse addresses the problem of sensory experience. 'Matra-sparshas' (sense contacts) produce dualities: cold-heat, pleasure-pain. Krishna teaches that these are temporary ('anitya') phenomena that come and go ('agama-apayinah'). The key teaching is 'titiksha'—forbearance or endurance. Rather than being overwhelmed by transient experiences, one should remain steady, understanding their impermanent nature. This equanimity is essential for spiritual practice."
+        },
+        "turkish": {
+          "translation": "Ey Kunti oğlu, duyuların nesnelerle temasları soğuk ve sıcak, haz ve acı doğurur. Bunlar gelip gider ve geçicidir; onlara cesurca katlan, ey Bharata.",
+          "commentary": "Bu ayet, duyusal deneyim sorununu ele alır. 'Matra-sparshas' (duyu temasları) ikili durumları üretir: soğuk-sıcak, haz-acı. Krishna bunların geçici ('anitya') fenomenler olduğunu ve gelip gittiğini ('agama-apayinah') öğretir. Ana öğreti 'titiksha'dır—sabır veya dayanıklılık. Geçici deneyimlerle bunalmak yerine, geçici doğalarını anlayarak sabit kalmalıdır. Bu sükunet, manevi pratik için esastır."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "यं हि न व्यथयन्त्येते पुरुषं पुरुषर्षभ। समदुःखसुखं धीरं सोऽमृतत्वाय कल्पते।।",
+        "transliteration": "yaṁ hi na vyathayanty ete puruṣaṁ puruṣarṣabha | sama-duḥkha-sukhaṁ dhīraṁ so'mṛtatvāya kalpate ||",
+        "english": {
+          "translation": "O best among men, the person whom these do not disturb, who is the same in pleasure and pain, and is steadfast—such a person is fit for immortality.",
+          "commentary": "This verse presents the ideal of equanimity. One who remains balanced ('sama') in both pleasure and pain, undisturbed by sense contacts, is 'dhira' (steadfast). Such a person qualifies for 'amritatvaya' (immortality/liberation). This doesn't mean suppressing emotions but understanding their transient nature and not identifying with them. The steadfast person sees beyond the fluctuations of experience to the unchanging reality beneath."
+        },
+        "turkish": {
+          "translation": "Ey insanların en iyisi, bunların rahatsız etmediği, haz ve acıda aynı kalan ve kararlı olan kişi—böyle bir kişi ölümsüzlüğe layıktır.",
+          "commentary": "Bu ayet, sükunetin idealini sunar. Hem hazda hem acıda dengeli kalan ('sama'), duyu temaslarından rahatsız olmayan kişi 'dhira'dır (kararlı). Böyle bir kişi 'amritatvaya' (ölümsüzlük/kurtuluş) için niteliklere sahiptir. Bu, duyguları bastırmak değil, geçici doğalarını anlamak ve onlarla özdeşleşmemek anlamına gelir. Kararlı kişi, deneyimin dalgalanmalarının ötesinde, altındaki değişmeyen gerçekliği görür."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "नासतो विद्यते भावो नाभावो विद्यते सतः। उभयोरपि दृष्टोऽन्तस्त्वनयोस्तत्त्वदर्शिभिः।।",
+        "transliteration": "nāsato vidyate bhāvo nābhāvo vidyate sataḥ | ubhayor api dṛṣṭo'ntas tv anayos tattva-darśibhiḥ ||",
+        "english": {
+          "translation": "The unreal has no existence; the real never ceases to be. The truth about both has been perceived by the seers of truth.",
+          "commentary": "This is one of the most profound ontological statements in the Gita. 'Asat' (unreal/temporary) refers to the changing material world; 'sat' (real/eternal) refers to the unchanging spiritual essence. The changing cannot have true being, and the eternal cannot cease to exist. 'Tattva-darshibhih' (seers of truth) are those who perceive this fundamental distinction. This verse establishes Vedantic metaphysics: only the eternal Self is ultimately real."
+        },
+        "turkish": {
+          "translation": "Gerçek olmayanın varlığı yoktur; gerçek olanın hiçbir zaman varlığı bitmez. Her ikisi hakkındaki gerçek, gerçeğin görücüleri tarafından algılanmıştır.",
+          "commentary": "Bu, Gita'daki en derin ontolojik ifadelerden biridir. 'Asat' (gerçek olmayan/geçici), değişen maddi dünyaya atıfta bulunur; 'sat' (gerçek/ebedi), değişmeyen manevi öze atıfta bulunur. Değişen gerçek varlığa sahip olamaz ve ebedi var olmayı durduramaz. 'Tattva-darshibhih' (gerçeğin görücüleri), bu temel ayrımı algılayan kişilerdir. Bu ayet Vedantik metafiziği tesis eder: yalnızca ebedi Benlik nihai olarak gerçektir."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "अविनाशि तु तद्विद्धि येन सर्वमिदं ततम्। विनाशमव्ययस्यास्य न कश्चित्कर्तुमर्हति।।",
+        "transliteration": "avināśi tu tad viddhi yena sarvam idaṁ tatam | vināśam avyayasyāsya na kaścit kartum arhati ||",
+        "english": {
+          "translation": "Know that to be indestructible by which all this is pervaded. No one can bring about the destruction of this imperishable reality.",
+          "commentary": "This verse describes Brahman or the ultimate reality. It is 'avinashi' (indestructible), 'avyaya' (imperishable), and pervades everything ('sarvam idam tatam'). This all-pervading consciousness cannot be destroyed by any agency. Like space that pervades all objects yet remains unchanged, the eternal Self pervades all bodies and minds yet remains untouched. This establishes the immanence and transcendence of ultimate reality."
+        },
+        "turkish": {
+          "translation": "Bütün bunların içine nüfuz etmiş olanın yok edilemez olduğunu bil. Bu değişmez gerçekliğin yok edilmesini hiç kimse gerçekleştiremez.",
+          "commentary": "Bu ayet, Brahman veya nihai gerçekliği tanımlar. 'Avinashi' (yok edilemez), 'avyaya' (bozulmaz) ve her şeye nüfuz eder ('sarvam idam tatam'). Bu her yere nüfuz eden bilinç hiçbir fail tarafından yok edilemez. Tüm nesnelere nüfuz eden ancak değişmeden kalan uzay gibi, ebedi Benlik tüm bedenlere ve zihinlere nüfuz eder ancak dokunulmadan kalır. Bu, nihai gerçekliğin içkinliğini ve aşkınlığını tesis eder."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "अन्तवन्त इमे देहा नित्यस्योक्ताः शरीरिणः। अनाशिनोऽप्रमेयस्य तस्माद्युध्यस्व भारत।।",
+        "transliteration": "antavanta ime dehā nityasyoktāḥ śarīriṇaḥ | anāśino'prameyasya tasmād yudhyasva bhārata ||",
+        "english": {
+          "translation": "These bodies of the eternal, indestructible, and immeasurable embodied soul are said to have an end. Therefore, fight, O Bharata.",
+          "commentary": "Krishna applies the philosophical teaching to Arjuna's dilemma. Bodies ('deha') are finite ('antavanta'), but the soul ('sharirin'—the embodied one) is eternal ('nitya'), indestructible ('anashin'), and immeasurable ('aprameya'). Since only bodies die, not the soul, Arjuna should fulfill his warrior duty. This is the practical application of metaphysics: understanding the true nature of reality removes the fear of death and clarifies duty."
+        },
+        "turkish": {
+          "translation": "Ebedi, yok edilemez ve ölçülemez bedenlenmiş ruhun bu bedenleri sona ermeye mahkumdur. Bu nedenle, savaş, ey Bharata.",
+          "commentary": "Krishna, felsefi öğretiyi Arjuna'nın ikileminde uygular. Bedenler ('deha') sonludur ('antavanta'), ama ruh ('sharirin'—bedenlenmiş olan) ebedidir ('nitya'), yok edilemezdir ('anashin') ve ölçülemezdir ('aprameya'). Sadece bedenler ölür, ruh değil, Arjuna savaşçı görevini yerine getirmelidir. Bu, metafiziğin pratik uygulamasıdır: gerçekliğin gerçek doğasını anlamak ölüm korkusunu kaldırır ve görevi netleştirir."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "य एनं वेत्ति हन्तारं यश्चैनं मन्यते हतम्। उभौ तौ न विजानीतो नायं हन्ति न हन्यते।।",
+        "transliteration": "ya enaṁ vetti hantāraṁ yaś cainaṁ manyate hatam | ubhau tau na vijānīto nāyaṁ hanti na hanyate ||",
+        "english": {
+          "translation": "One who thinks that the Self is a slayer, and one who thinks it is slain—both of them are ignorant. The Self neither slays nor is slain.",
+          "commentary": "This verse clarifies a crucial point: the Self (atman) is beyond all action. Neither killer nor killed, neither subject nor object of violence. Those who think otherwise lack true understanding ('na vijanitah'). The Self is the witness of all actions but never the actor. This teaching resolves Arjuna's concern about killing: in ultimate reality, no one kills and no one dies—only bodies change. The eternal witness remains untouched."
+        },
+        "turkish": {
+          "translation": "Benliğin öldüren olduğunu düşünen ve onu öldürülmüş sanan—her ikisi de cahildir. Benlik ne öldürür ne de öldürülür.",
+          "commentary": "Bu ayet önemli bir noktayı netleştirir: Benlik (atman) tüm eylemlerden öteldir. Ne katil ne de katledilen, ne özne ne de şiddet nesnesi. Aksi düşünenler gerçek anlayıştan yoksundur ('na vijanitah'). Benlik tüm eylemlerin tanığıdır ama asla aktör değildir. Bu öğreti Arjuna'nın öldürme endişesini çözümler: nihai gerçeklikte, hiç kimse öldürmez ve hiç kimse ölmez—sadece bedenler değişir. Ebedi tanık dokunulmadan kalır."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "न जायते म्रियते वा कदाचिन्नायं भूत्वा भविता वा न भूयः। अजो नित्यः शाश्वतोऽयं पुराणो न हन्यते हन्यमाने शरीरे।।",
+        "transliteration": "na jāyate mriyate vā kadācin nāyaṁ bhūtvā bhavitā vā na bhūyaḥ | ajo nityaḥ śāśvato'yaṁ purāṇo na hanyate hanyamāne śarīre ||",
+        "english": {
+          "translation": "The Self is never born, nor does it die at any time. Having come into being once, it never ceases to be. It is unborn, eternal, permanent, and primeval. It is not slain when the body is slain.",
+          "commentary": "This magnificent verse summarizes the nature of the Self with five profound attributes: unborn (aja), eternal (nitya), permanent (shashvata), ancient/primeval (purana), and beyond the body's destruction. Unlike everything in the material world which has beginning and end, the Self is beginningless and endless. The body may be destroyed, but the indwelling consciousness remains untouched. This is the foundation of fearlessness: knowing one's true nature as beyond birth and death."
+        },
+        "turkish": {
+          "translation": "Benlik asla doğmaz, ne de herhangi bir zamanda ölür. Bir kez varlığa geldikten sonra, asla var olmayı durdurmaz. Doğmamış, ebedi, kalıcı ve ilkeldir. Beden öldürüldüğünde öldürülmez.",
+          "commentary": "Bu muhteşem ayet, Benliğin doğasını beş derin özellikle özetler: doğmamış (aja), ebedi (nitya), kalıcı (shashvata), ilkel/eski (purana) ve bedenin yıkımının ötesinde. Başlangıcı ve sonu olan maddi dünyadaki her şeyin aksine, Benlik başlangıçsız ve sonsuzdur. Beden yok edilebilir ama içinde ikamet eden bilinç dokunulmadan kalır. Bu, korkusuzluğun temelidir: kişinin gerçek doğasını doğum ve ölümün ötesinde bilmek."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "वेदाविनाशिनं नित्यं य एनमजमव्ययम्। कथं स पुरुषः पार्थ कं घातयति हन्ति कम्।।",
+        "transliteration": "vedāvināśinaṁ nityaṁ ya enam ajam avyayam | kathaṁ sa puruṣaḥ pārtha kaṁ ghātayati hanti kam ||",
+        "english": {
+          "translation": "O Partha, how can one who knows the Self to be indestructible, eternal, unborn, and imperishable—how can such a person slay anyone or cause anyone to slay?",
+          "commentary": "Krishna reinforces the paradox: one who truly understands the eternal nature of the Self cannot truly kill or be killed. The knowledge ('veda') of the Self's indestructibility transforms one's understanding of action. This doesn't advocate for inaction but for action performed with the wisdom that the eternal Self is untouched by any deed. True knowledge dissolves the very concepts of killer and killed at the ultimate level."
+        },
+        "turkish": {
+          "translation": "Ey Partha, Benliği yok edilemez, ebedi, doğmamış ve bozulmaz olarak bilen kişi—böyle bir kişi nasıl birini öldürebilir veya birinin öldürmesine neden olabilir?",
+          "commentary": "Krishna paradoksu pekiştirir: Benliğin ebedi doğasını gerçekten anlayan kişi gerçekten öldüremez veya öldürülemez. Benliğin yok edilemezliğine dair bilgi ('veda'), kişinin eylem anlayışını dönüştürür. Bu, eylemsizliği savunmaz, ancak ebedi Benliğin hiçbir eylemden etkilenmediği bilgeliğiyle gerçekleştirilen eylemi savunur. Gerçek bilgi, nihai düzeyde katil ve katledilen kavramlarını dağıtır."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "वासांसि जीर्णानि यथा विहाय नवानि गृह्णाति नरोऽपराणि। तथा शरीराणि विहाय जीर्णान्यन्यानि संयाति नवानि देही।।",
+        "transliteration": "vāsāṁsi jīrṇāni yathā vihāya navāni gṛhṇāti naro'parāṇi | tathā śarīrāṇi vihāya jīrṇāny anyāni saṁyāti navāni dehī ||",
+        "english": {
+          "translation": "Just as a person casts off worn-out garments and puts on new ones, so too the embodied soul casts off worn-out bodies and enters into new ones.",
+          "commentary": "This is one of the Gita's most famous analogies. Just as we discard old clothes without grief, the soul (dehi) changes bodies without loss of identity. The body is like a garment—temporary covering for the eternal essence. This teaching provides tremendous comfort regarding death: it's not annihilation but transition. The metaphor makes the abstract concept of reincarnation accessible and removes the terror of physical death."
+        },
+        "turkish": {
+          "translation": "Bir kişi nasıl eski giysileri çıkarıp yenilerini giyerse, bedenlenmiş ruh da öylece eski bedenleri bırakır ve yenilerine girer.",
+          "commentary": "Bu, Gita'nın en ünlü benzetmelerinden biridir. Eski giysileri keder olmadan çıkardığımız gibi, ruh (dehi) de kimlik kaybı olmadan bedenleri değiştirir. Beden bir giysi gibidir—ebedi öz için geçici örtü. Bu öğreti ölüm konusunda muazzam bir rahatlık sağlar: yok olma değil geçiştir. Metafor, reenkarnasyon kavramını soyuttan erişilebilir hale getirir ve fiziksel ölüm korkusunu kaldırır."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "नैनं छिन्दन्ति शस्त्राणि नैनं दहति पावकः। न चैनं क्लेदयन्त्यापो न शोषयति मारुतः।।",
+        "transliteration": "nainaṁ chindanti śastrāṇi nainaṁ dahati pāvakaḥ | na cainaṁ kledayanty āpo na śoṣayati mārutaḥ ||",
+        "english": {
+          "translation": "Weapons cannot cut it, fire cannot burn it, water cannot wet it, and wind cannot dry it.",
+          "commentary": "This verse describes the transcendent nature of the Self through negation. The four elements (earth/weapons, fire, water, air) cannot affect the soul. While all material objects are subject to these forces, consciousness itself remains untouched. This establishes the categorical difference between spirit and matter. The Self is not within the causal chain of material forces—it witnesses them but is never their object."
+        },
+        "turkish": {
+          "translation": "Silahlar onu kesemez, ateş onu yakamaz, su onu ıslatamaz ve rüzgar onu kurutamaz.",
+          "commentary": "Bu ayet, Benliğin aşkın doğasını olumsuzlama yoluyla tanımlar. Dört element (toprak/silahlar, ateş, su, hava) ruhu etkileyemez. Tüm maddi nesneler bu kuvvetlere tabi iken, bilincin kendisi dokunulmadan kalır. Bu, ruh ve madde arasındaki kategorik farkı tesis eder. Benlik, maddi kuvvetlerin nedensel zinciri içinde değildir—onlara tanıklık eder ama asla onların nesnesi değildir."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "अच्छेद्योऽयमदाह्योऽयमक्लेद्योऽशोष्य एव च। नित्यः सर्वगतः स्थाणुरचलोऽयं सनातनः।।",
+        "transliteration": "acchedyo'yam adāhyo'yam akledyo'śoṣya eva ca | nityaḥ sarva-gataḥ sthāṇur acalo'yaṁ sanātanaḥ ||",
+        "english": {
+          "translation": "This Self cannot be cut, cannot be burned, cannot be wetted, and cannot be dried. It is eternal, all-pervading, unchanging, immovable, and everlasting.",
+          "commentary": "Building on the previous verse, Krishna lists positive attributes of the Self: eternal (nitya), all-pervading (sarva-gata), unchanging (sthanu), immovable (achala), and everlasting (sanatana). While material objects are subject to change and transformation, the Self is the unchanging witness of all change. The term 'sarva-gata' (all-pervading) is particularly profound—consciousness is not located in space but pervades all of space."
+        },
+        "turkish": {
+          "translation": "Bu Benlik kesilemez, yakılamaz, ıslatılamaz ve kurutulamaz. Ebedi, her yere nüfuz eden, değişmez, hareketsiz ve süreklidir.",
+          "commentary": "Önceki ayete dayanarak, Krishna Benliğin olumlu özelliklerini sıralar: ebedi (nitya), her yere nüfuz eden (sarva-gata), değişmez (sthanu), hareketsiz (achala) ve sürekli (sanatana). Maddi nesneler değişime ve dönüşüme tabi iken, Benlik tüm değişimin değişmez tanığıdır. 'Sarva-gata' (her yere nüfuz eden) terimi özellikle derindir—bilinç uzayda konumlanmamıştır ama tüm uzaya nüfuz eder."
+        }
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "अव्यक्तोऽयमचिन्त्योऽयमविकार्योऽयमुच्यते। तस्मादेवं विदित्वैनं नानुशोचितुमर्हसि।।",
+        "transliteration": "avyakto'yam acintyo'yam avikāryo'yam ucyate | tasmād evaṁ viditvainaṁ nānuśocitum arhasi ||",
+        "english": {
+          "translation": "This Self is said to be unmanifest, unthinkable, and unchangeable. Therefore, knowing it thus, you should not grieve.",
+          "commentary": "Three profound characteristics: unmanifest (avyakta—beyond sensory perception), unthinkable (achintya—beyond conceptual grasp), and unchangeable (avikara—immutable). The Self cannot be known through ordinary means—it is the knower, not the known. Understanding this, grief becomes inappropriate. Krishna concludes this section by connecting metaphysical truth to ethical action: proper understanding eliminates sorrow."
+        },
+        "turkish": {
+          "translation": "Bu Benlik açığa çıkmamış, düşünülemez ve değiştirilemez olarak anılır. Bu nedenle, onu böylece bilerek, yas tutmamalısın.",
+          "commentary": "Üç derin özellik: açığa çıkmamış (avyakta—duyusal algının ötesinde), düşünülemez (achintya—kavramsal kavrayışın ötesinde) ve değiştirilemez (avikara—değişmez). Benlik sıradan yollarla bilinemez—o bilen, bilinen değildir. Bunu anlayarak, keder uygunsuz hale gelir. Krishna bu bölümü metafizik gerçekliği etik eyleme bağlayarak sonlandırır: doğru anlayış acıyı ortadan kaldırır."
+        }
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "अथ चैनं नित्यजातं नित्यं वा मन्यसे मृतम्। तथापि त्वं महाबाहो नैनं शोचितुमर्हसि।।",
+        "transliteration": "atha cainaṁ nitya-jātaṁ nityaṁ vā manyase mṛtam | tathāpi tvaṁ mahā-bāho nainaṁ śocitum arhasi ||",
+        "english": {
+          "translation": "Even if you think that the Self is perpetually born and perpetually dies, even then, O mighty-armed one, you should not grieve for it.",
+          "commentary": "Krishna addresses an alternative view—even if one believes in constant birth and death (perhaps the materialist position), grief is still inappropriate. If death is constant and inevitable, accepting it philosophically makes more sense than mourning. This rhetorical strategy is brilliant: whether you accept the eternal Self or material annihilation, either way, grief is unwarranted. Krishna meets Arjuna wherever his understanding might be."
+        },
+        "turkish": {
+          "translation": "Benliğin sürekli doğduğunu ve sürekli öldüğünü düşünsen bile, o zaman bile, ey güçlü kollu, onun için yas tutmamalısın.",
+          "commentary": "Krishna alternatif bir görüşe değinir—sürekli doğum ve ölüme inanan biri bile olsa (belki materyalist pozisyon), keder yine de uygunsuz. Ölüm sürekli ve kaçınılmazsa, onu felsefi olarak kabul etmek yas tutmaktan daha mantıklıdır. Bu retorik strateji parlaktır: ebedi Benliği veya maddi yok oluşu kabul etseniz de, her iki durumda da keder haksızdır. Krishna, Arjuna'yı anlayışının nerede olabileceğine göre karşılar."
+        }
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "जातस्य हि ध्रुवो मृत्युर्ध्रुवं जन्म मृतस्य च। तस्मादपरिहार्येऽर्थे न त्वं शोचितुमर्हसि।।",
+        "transliteration": "jātasya hi dhruvo mṛtyur dhruvaṁ janma mṛtasya ca | tasmād aparihārye'rthe na tvaṁ śocitum arhasi ||",
+        "english": {
+          "translation": "For one who is born, death is certain; and for one who dies, birth is certain. Therefore, you should not grieve over the inevitable.",
+          "commentary": "This verse states the universal law: birth inevitably leads to death, and death (according to the doctrine of reincarnation) leads to rebirth. Since this cycle is 'apariharyah' (inevitable/unavoidable), grief is futile. This reflects both Hindu cosmology and practical wisdom: accepting the inevitable brings peace. Fighting against the fundamental laws of existence causes suffering. Wisdom means recognizing what can and cannot be changed."
+        },
+        "turkish": {
+          "translation": "Doğan için ölüm kesindir; ölen için de doğum kesindir. Bu nedenle, kaçınılmaz olan için yas tutmamalısın.",
+          "commentary": "Bu ayet evrensel yasayı belirtir: doğum kaçınılmaz olarak ölüme yol açar ve ölüm (reenkarnasyon doktrinine göre) yeniden doğuma yol açar. Bu döngü 'apariharyah' (kaçınılmaz) olduğundan, keder boşunadır. Bu hem Hindu kozmolojisini hem de pratik bilgeliği yansıtır: kaçınılmazı kabul etmek huzur getirir. Varoluşun temel yasalarına karşı savaşmak acıya neden olur. Bilgelik, neyin değiştirilebileceğini ve neyin değiştirilemeyeceğini tanımak demektir."
+        }
+      },
+      {
+        "verse_number": 28,
+        "sanskrit": "अव्यक्तादीनि भूतानि व्यक्तमध्यानि भारत। अव्यक्तनिधनान्येव तत्र का परिदेवना।।",
+        "transliteration": "avyaktādīni bhūtāni vyakta-madhyāni bhārata | avyakta-nidhanāny eva tatra kā paridevanā ||",
+        "english": {
+          "translation": "Beings are unmanifest in their beginning, manifest in the middle, and unmanifest again in their end, O Bharata. What is there to lament in this?",
+          "commentary": "Krishna presents the cycle of manifestation: beings emerge from the unmanifest (avyakta), become visible in the middle state (vyakta), and return to the unmanifest. This applies to all phenomena—individuals, species, worlds. The rhetorical question 'what is there to lament?' emphasizes the natural, orderly process. Things appear and disappear like waves on the ocean—the ocean (ultimate reality) remains unchanged. Understanding this cosmic rhythm brings equanimity."
+        },
+        "turkish": {
+          "translation": "Varlıklar başlangıçta açığa çıkmamış, ortada açığa çıkmış ve sonunda yine açığa çıkmamış haldedir, ey Bharata. Bunda yas tutulacak ne var?",
+          "commentary": "Krishna tezahür döngüsünü sunar: varlıklar açığa çıkmamış olandan (avyakta) çıkar, orta durumda görünür hale gelir (vyakta) ve açığa çıkmamış olana geri döner. Bu tüm fenomenlere uygulanır—bireyler, türler, dünyalar. 'Yas tutulacak ne var?' retorik sorusu doğal, düzenli süreci vurgular. Şeyler okyanus üzerindeki dalgalar gibi görünür ve kaybolur—okyanus (nihai gerçeklik) değişmeden kalır. Bu kozmik ritmi anlamak sükunet getirir."
+        }
+      },
+      {
+        "verse_number": 29,
+        "sanskrit": "आश्चर्यवत्पश्यति कश्चिदेनमाश्चर्यवद्वदति तथैव चान्यः। आश्चर्यवच्चैनमन्यः शृणोति श्रुत्वाप्येनं वेद न चैव कश्चित्।।",
+        "transliteration": "āścaryavat paśyati kaścid enam āścaryavad vadati tathaiva cānyaḥ | āścaryavac cainam anyaḥ śṛṇoti śrutvāpy enaṁ veda na caiva kaścit ||",
+        "english": {
+          "translation": "One sees the Self as a wonder, another speaks of it as a wonder, another hears of it as a wonder, yet even after hearing, no one truly knows it.",
+          "commentary": "This verse captures the mystery of Self-knowledge. Though people may see, speak, or hear about the Self with wonder, true understanding remains elusive to most. The Self is 'ascharyavat'—wondrous, marvelous. This isn't ordinary knowledge but a transformative realization. Intellectual understanding differs from experiential knowledge. Many discuss spirituality, but few realize it. This verse humbles us: the ultimate reality cannot be fully grasped by words or concepts alone."
+        },
+        "turkish": {
+          "translation": "Biri Benliği bir mucize olarak görür, başkası ondan bir mucize olarak bahseder, başkası onu bir mucize olarak duyar, ancak duyduktan sonra bile hiç kimse onu gerçekten bilmez.",
+          "commentary": "Bu ayet, Benlik bilgisinin gizemini yakalar. İnsanlar Benliği hayretle görebilir, konuşabilir veya duyabilir, ancak gerçek anlayış çoğu için zor kalır. Benlik 'ascharyavat'tır—harika, muhteşem. Bu sıradan bilgi değil, dönüştürücü bir kavrayıştır. Entelektüel anlayış, deneyimsel bilgiden farklıdır. Birçoğu maneviyat hakkında konuşur ama çok azı onu gerçekleştirir. Bu ayet bizi alçaltır: nihai gerçeklik yalnızca kelimeler veya kavramlarla tam olarak kavranamaz."
+        }
+      },
+      {
+        "verse_number": 30,
+        "sanskrit": "देही नित्यमवध्योऽयं देहे सर्वस्य भारत। तस्मात्सर्वाणि भूतानि न त्वं शोचितुमर्हसि।।",
+        "transliteration": "dehī nityam avadhyo'yaṁ dehe sarvasya bhārata | tasmāt sarvāṇi bhūtāni na tvaṁ śocitum arhasi ||",
+        "english": {
+          "translation": "The embodied Self in the body of everyone is eternal and indestructible, O Bharata. Therefore, you should not grieve for any being.",
+          "commentary": "Krishna concludes the metaphysical section by reiterating the core teaching: the Self (dehi) dwelling in all bodies is eternally indestructible (avadhya). Since this applies to all beings universally, grief for anyone is inappropriate. This teaching promotes both fearlessness regarding one's own death and compassion for all beings (recognizing the same eternal Self in all). Understanding this transforms both how we face death and how we relate to life."
+        },
+        "turkish": {
+          "translation": "Herkesin bedenindeki bedenlenmiş Benlik ebedi ve yok edilemezdir, ey Bharata. Bu nedenle, hiçbir varlık için yas tutmamalısın.",
+          "commentary": "Krishna, metafizik bölümü ana öğretiyi yineleyerek sonlandırır: tüm bedenlerde ikamet eden Benlik (dehi) ebedi olarak yok edilemezdir (avadhya). Bu evrensel olarak tüm varlıklara uygulandığından, herhangi biri için keder uygunsuz. Bu öğreti hem kişinin kendi ölümüne dair korkusuzluğu hem de tüm varlıklara karşı şefkati (hepsinde aynı ebedi Benliği tanımak) teşvik eder. Bunu anlamak hem ölümle yüzleşme şeklimizi hem de yaşamla ilişki kurma şeklimizi dönüştürür."
+        }
+      },
+      {
+        "verse_number": 31,
+        "sanskrit": "स्वधर्ममपि चावेक्ष्य न विकम्पितुमर्हसि। धर्म्याद्धि युद्धाच्छ्रेयोऽन्यत्क्षत्रियस्य न विद्यते।।",
+        "transliteration": "sva-dharmam api cāvekṣya na vikampitum arhasi | dharmyād dhi yuddhāc chreyonya kṣatriyasya na vidyate ||",
+        "english": {
+          "translation": "Further, considering your own dharma, you should not waver. For a warrior, there is nothing better than a righteous war.",
+          "commentary": "Krishna shifts from metaphysics to ethics, introducing the concept of svadharma (one's own duty). For a Kshatriya (warrior class), righteous battle is the highest duty. The term 'dharmyad yuddhat' (righteous war) indicates warfare conducted according to ethical principles. This isn't glorifying violence but recognizing that different roles have different duties. Arjuna's dharma as a warrior is to fight injustice. Abandoning this would be abandoning his essential nature and social responsibility."
+        },
+        "turkish": {
+          "translation": "Ayrıca, kendi dharmana bakarak, tereddüt etmemelisin. Bir savaşçı için, haklı bir savaştan daha iyi bir şey yoktur.",
+          "commentary": "Krishna, metafizikten etiğe geçiş yapar ve svadharma (kişinin kendi görevi) kavramını sunar. Bir Kshatriya (savaşçı sınıfı) için, haklı savaş en yüksek görevdir. 'Dharmyad yuddhat' (haklı savaş) terimi, etik ilkelere göre yürütülen savaşı gösterir. Bu, şiddeti yüceltmek değil, farklı rollerin farklı görevleri olduğunu kabul etmektir. Arjuna'nın savaşçı olarak dharması adaletsizlikle savaşmaktır. Bunu terk etmek, temel doğasını ve sosyal sorumluluğunu terk etmek olurdu."
+        }
+      },
+      {
+        "verse_number": 32,
+        "sanskrit": "यदृच्छया चोपन्नं स्वर्गद्वारमपावृतम्। सुखिनः क्षत्रियाः पार्थ लभन्ते युद्धमीदृशम्।।",
+        "transliteration": "yadṛcchayā copannaṁ svarga-dvāram apāvṛtam | sukhinaḥ kṣatriyāḥ pārtha labhante yuddham īdṛśam ||",
+        "english": {
+          "translation": "O Partha, fortunate are the warriors who obtain such a war, which comes unsought and opens the gates of heaven.",
+          "commentary": "Krishna presents the battle as an opportunity, not a burden. Such a righteous war comes 'yadricchaya' (unsought/by fortune), like an open door to heaven (svarga-dvara). Warriors who get such a chance are 'sukhinah' (blessed/fortunate). This reflects the warrior ethos: honorable combat for dharma is the path to both earthly glory and spiritual merit. The verse reframes Arjuna's dilemma: what he sees as tragedy is actually divine providence offering him the ultimate test of his dharma."
+        },
+        "turkish": {
+          "translation": "Ey Partha, böyle bir savaşı elde eden savaşçılar şanslıdır, bu savaş aranmadan gelir ve cennetin kapılarını açar.",
+          "commentary": "Krishna, savaşı bir yük değil, bir fırsat olarak sunar. Böyle haklı bir savaş 'yadricchaya' (aranmadan/şans eseri) gelir, cennete (svarga-dvara) açık bir kapı gibi. Böyle bir şans elde eden savaşçılar 'sukhinah'tır (mübarek/şanslı). Bu, savaşçı ahlakını yansıtır: dharma için onurlu mücadele hem dünyevi şan hem de ruhani erdem yoludur. Ayet, Arjuna'nın ikilemini yeniden çerçevelendirir: trajedi olarak gördüğü şey aslında ona dharmasının nihai testini sunan ilahi takdirdir."
+        }
+      },
+      {
+        "verse_number": 33,
+        "sanskrit": "अथ चेत्त्वमिमं धर्म्यं संग्रामं न करिष्यसि। ततः स्वधर्मं कीर्तिं च हित्वा पापमवाप्स्यसि।।",
+        "transliteration": "atha cet tvam imaṁ dharmyaṁ saṅgrāmaṁ na kariṣyasi | tataḥ sva-dharmaṁ kīrtiṁ ca hitvā pāpam avāpsyasi ||",
+        "english": {
+          "translation": "But if you do not engage in this righteous war, then you will abandon your own dharma and glory, and you will incur sin.",
+          "commentary": "Krishna presents the consequences of inaction. Refusing to fight means: (1) abandoning svadharma (one's own duty), (2) losing kirti (fame/honor), and (3) incurring papa (sin). This is crucial: inaction in the face of injustice is itself a moral failure. Dharma requires action, not passive acceptance of wrong. For Arjuna, refusing to fight the unjust Kauravas would be complicity with evil. Sometimes non-violence toward the wicked is violence toward the good."
+        },
+        "turkish": {
+          "translation": "Ama bu haklı savaşa katılmazsan, kendi dharmanı ve şanını terk edeceksin ve günah işlemiş olacaksın.",
+          "commentary": "Krishna, eylemsizliğin sonuçlarını sunar. Savaşmayı reddetmek şu anlama gelir: (1) svadharma'yı (kişinin kendi görevini) terk etmek, (2) kirti'yi (şan/onur) kaybetmek ve (3) papa'yı (günah) işlemek. Bu çok önemlidir: adaletsizlik karşısında eylemsizlik, ahlaki bir başarısızlıktır. Dharma eylem gerektirir, yanlışın pasif kabulünü değil. Arjuna için, adaletsiz Kaurava'lara karşı savaşmayı reddetmek kötülükle suç ortaklığı olurdu. Bazen kötülere karşı şiddetsizlik, iyilere karşı şiddet demektir."
+        }
+      },
+      {
+        "verse_number": 34,
+        "sanskrit": "अकीर्तिं चापि भूतानि कथयिष्यन्ति तेऽव्ययाम्। सम्भावितस्य चाकीर्तिर्मरणादतिरिच्यते।।",
+        "transliteration": "akīrtiṁ cāpi bhūtāni kathayiṣyanti te'vyayām | sambhāvitasya cākīrtir maraṇād atiricyate ||",
+        "english": {
+          "translation": "People will speak of your everlasting dishonor; and for one who has been honored, dishonor is worse than death.",
+          "commentary": "Krishna appeals to Arjuna's sense of honor. The disgrace ('akirti') of fleeing battle will be everlasting ('avyayam'). For someone respected ('sambhavitasya'), such dishonor is worse than death itself. This addresses the warrior culture's values: reputation matters profoundly. While modern readers might question this emphasis, it shows Krishna's pedagogical skill—he meets Arjuna where he is, using arguments that resonate with his worldview while gradually elevating his understanding."
+        },
+        "turkish": {
+          "translation": "İnsanlar senin ebedi onursuzluğundan bahsedecek; saygı görmüş biri için, onursuzluk ölümden daha kötüdür.",
+          "commentary": "Krishna, Arjuna'nın onur duygusuna hitap eder. Savaştan kaçmanın ayıbı ('akirti') ebedi olacaktır ('avyayam'). Saygı görülen biri ('sambhavitasya') için, böyle bir onursuzluk ölümün kendisinden daha kötüdür. Bu, savaşçı kültürünün değerlerini ele alır: itibar derinden önemlidir. Modern okuyucular bu vurguyu sorgulayabilir, ancak bu Krishna'nın pedagojik becerisini gösterir—Arjuna'yı olduğu yerde karşılar, onun dünya görüşüyle yankılanan argümanları kullanarak kademeli olarak anlayışını yükseltir."
+        }
+      },
+      {
+        "verse_number": 35,
+        "sanskrit": "भयाद्रणादुपरतं मंस्यन्ते त्वां महारथाः। येषां च त्वं बहुमतो भूत्वा यास्यसि लाघवम्।।",
+        "transliteration": "bhayād raṇād uparataṁ maṁsyante tvāṁ mahā-rathāḥ | yeṣāṁ ca tvaṁ bahu-mato bhūtvā yāsyasi lāghavam ||",
+        "english": {
+          "translation": "The great warriors will think you have withdrawn from battle out of fear. You will fall from esteem in the eyes of those who have held you in high regard.",
+          "commentary": "Krishna continues addressing reputation. The great warriors ('maha-rathah'—mighty chariot warriors) will misinterpret Arjuna's withdrawal as cowardice. He will lose respect ('laghavam'—lightness/insignificance) among peers who once held him in high esteem. This is psychological pressure, but it also reflects a deeper truth: actions are judged by their appearance. Even noble motives can result in disgrace if the action appears ignoble. Sometimes fulfilling duty requires facing misunderstanding."
+        },
+        "turkish": {
+          "translation": "Büyük savaşçılar, korkudan savaştan çekildiğini düşünecekler. Sana büyük saygı duymuş olanların gözünde itibarını kaybedeceksin.",
+          "commentary": "Krishna, itibar konusuna devam eder. Büyük savaşçılar ('maha-rathah'—güçlü savaş arabası savaşçıları) Arjuna'nın geri çekilmesini korkaklık olarak yanlış yorumlayacaktır. Bir zamanlar ona büyük saygı duyan akranları arasında saygıyı ('laghavam'—hafiflik/önemsizlik) kaybedecektir. Bu psikolojik baskıdır, ancak daha derin bir gerçeği de yansıtır: eylemler görünüşlerine göre yargılanır. Asil güdüler bile, eylem asil görünmüyorsa ayıpla sonuçlanabilir. Bazen görevi yerine getirmek yanlış anlaşılmayı kabul etmeyi gerektirir."
+        }
+      },
+      {
+        "verse_number": 36,
+        "sanskrit": "अवाच्यवादांश्च बहून्वदिष्यन्ति तवाहिताः। निन्दन्तस्तव सामर्थ्यं ततो दुःखतरं नु किम्।।",
+        "transliteration": "avācya-vādāṁś ca bahūn vadiṣyanti tavāhitāḥ | nindantas tava sāmarthyaṁ tato duḥkhataraṁ nu kim ||",
+        "english": {
+          "translation": "Your enemies will speak many unspeakable words, scorning your ability. What could be more painful than that?",
+          "commentary": "Krishna escalates the argument. Enemies will not just criticize but will speak 'avacya-vadan' (unspeakable/obscene words), mocking Arjuna's capability. The rhetorical question 'what could be more painful?' suggests that such humiliation would be unbearable. This verse uses peer pressure and shame as motivators. While it may seem manipulative, it reflects the reality that social context shapes our duties. For a warrior prince, such mockery would indeed be devastating."
+        },
+        "turkish": {
+          "translation": "Düşmanların yeteneğini küçümseyerek, söylenemez birçok söz söyleyecekler. Bundan daha acı ne olabilir?",
+          "commentary": "Krishna argümanı yoğunlaştırır. Düşmanlar sadece eleştirmeyecek, 'avacya-vadan' (söylenemez/müstehcen sözler) söyleyerek Arjuna'nın yeteneğini alay edecekler. 'Bundan daha acı ne olabilir?' retorik sorusu, böyle bir aşağılanmanın dayanılmaz olacağını ima eder. Bu ayet, akran baskısını ve utancı motive edici olarak kullanır. Manipülatif görünebilir, ancak sosyal bağlamın görevlerimizi şekillendirdiği gerçeğini yansıtır. Bir savaşçı prens için, böyle bir alay gerçekten yıkıcı olurdu."
+        }
+      },
+      {
+        "verse_number": 37,
+        "sanskrit": "हतो वा प्राप्स्यसि स्वर्गं जित्वा वा भोक्ष्यसे महीम्। तस्मादुत्तिष्ठ कौन्तेय युद्धाय कृतनिश्चयः।।",
+        "transliteration": "hato vā prāpsyasi svargaṁ jitvā vā bhokṣyase mahīm | tasmād uttiṣṭha kaunteya yuddhāya kṛta-niścayaḥ ||",
+        "english": {
+          "translation": "Slain, you will attain heaven; victorious, you will enjoy the earth. Therefore, arise, O son of Kunti, resolved to fight.",
+          "commentary": "Krishna presents a win-win scenario: either death leads to heaven (svarga) or victory brings earthly sovereignty. Both outcomes are desirable according to the warrior ethos. The imperative 'uttishtha' (arise) returns, now with 'krita-nishchayah' (with firm resolve). This verse encapsulates the pragmatic argument: no matter the outcome, fighting is beneficial. However, this is still preliminary teaching—later Krishna will transcend both heaven and earth, teaching about liberation beyond both."
+        },
+        "turkish": {
+          "translation": "Öldürülürsen cennete ulaşacaksın; kazanırsan dünyadan zevk alacaksın. Bu nedenle, kalk ey Kunti oğlu, savaşmaya kararlı ol.",
+          "commentary": "Krishna, kazan-kazan senaryosu sunar: ya ölüm cennete (svarga) götürür ya da zafer dünyevi egemenlik getirir. Her iki sonuç da savaşçı ahlakına göre arzu edilir. 'Uttishtha' (kalk) emri geri döner, şimdi 'krita-nishchayah' (sağlam kararlılıkla) ile. Bu ayet pragmatik argümanı özetler: sonuç ne olursa olsun, savaşmak faydalıdır. Ancak bu hala ön öğretidir—daha sonra Krishna hem cenneti hem dünyayı aşacak, her ikisinin de ötesinde kurtuluş hakkında öğretecektir."
+        }
+      },
+      {
+        "verse_number": 38,
+        "sanskrit": "सुखदुःखे समे कृत्वा लाभालाभौ जयाजयौ। ततो युद्धाय युज्यस्व नैवं पापमवाप्स्यसि।।",
+        "transliteration": "sukha-duḥkhe same kṛtvā lābhālābhau jayājayau | tato yuddhāya yujyasva naivaṁ pāpam avāpsyasi ||",
+        "english": {
+          "translation": "Treating pleasure and pain, gain and loss, victory and defeat as equal, engage in battle. Thus you will not incur sin.",
+          "commentary": "This crucial verse introduces the concept of equanimity (samatva). Krishna advises Arjuna to remain balanced toward dualities: pleasure-pain, profit-loss, victory-defeat. Fighting with this attitude of equanimity prevents sin. This is the transition from karma (action) to karma-yoga (action with detachment). The same action performed with ego leads to bondage; performed with equanimity leads to freedom. This is a foundational teaching that transforms duty into spiritual practice."
+        },
+        "turkish": {
+          "translation": "Haz ve acıyı, kazanç ve kaybı, zafer ve yenilgiyi eşit sayarak, savaşa gir. Böylece günah işlemeyeceksin.",
+          "commentary": "Bu önemli ayet, sükunet (samatva) kavramını sunar. Krishna, Arjuna'ya ikili durumlara karşı dengeli kalmasını öğütler: haz-acı, kar-zarar, zafer-yenilgi. Bu sükunet tavrıyla savaşmak günahı önler. Bu, karma'dan (eylem) karma-yoga'ya (bağımsızlıkla eylem) geçiştir. Egoyla yapılan aynı eylem bağlılığa yol açar; sükunetle yapılan özgürlüğe yol açar. Bu, görevi manevi pratiğe dönüştüren temel bir öğretidir."
+        }
+      },
+      {
+        "verse_number": 39,
+        "sanskrit": "एषा तेऽभिहिता साङ्ख्ये बुद्धिर्योगे त्विमां शृणु। बुद्ध्या युक्तो यया पार्थ कर्मबन्धं प्रहास्यसि।।",
+        "transliteration": "eṣā te'bhihitā sāṅkhye buddhir yoge tv imāṁ śṛṇu | buddhyā yukto yayā pārtha karma-bandhaṁ prahāsyasi ||",
+        "english": {
+          "translation": "This wisdom has been imparted to you from the perspective of Sankhya (knowledge). Now listen to it from the perspective of Yoga, endowed with which, O Partha, you will cast off the bondage of karma.",
+          "commentary": "This transitional verse marks a major shift in the Gita. Krishna has presented Sankhya (the philosophical analysis of reality). Now he introduces Yoga (the practical method of liberation). The wisdom ('buddhi') of Yoga will free Arjuna from 'karma-bandha' (bondage of action). This announces that mere intellectual understanding isn't enough—one needs the practical discipline of yoga. The chapter thus moves from theory to practice, from knowledge to application."
+        },
+        "turkish": {
+          "translation": "Bu bilgelik sana Sankhya (bilgi) perspektifinden verildi. Şimdi onu Yoga perspektifinden dinle, bununla donanmış olarak, ey Partha, karmanın bağlarını atacaksın.",
+          "commentary": "Bu geçiş ayeti, Gita'da önemli bir değişime işaret eder. Krishna, Sankhya'yı (gerçekliğin felsefi analizi) sunmuştur. Şimdi Yoga'yı (kurtuluşun pratik yöntemini) tanıtır. Yoga'nın bilgeliği ('buddhi') Arjuna'yı 'karma-bandha'dan (eylem bağından) kurtaracaktır. Bu, salt entelektüel anlayışın yeterli olmadığını duyurur—kişinin yoga'nın pratik disiplinine ihtiyacı vardır. Böylece bölüm teoriden pratiğe, bilgiden uygulamaya geçer."
+        }
+      },
+      {
+        "verse_number": 40,
+        "sanskrit": "नेहाभिक्रमनाशोऽस्ति प्रत्यवायो न विद्यते। स्वल्पमप्यस्य धर्मस्य त्रायते महतो भयात्।।",
+        "transliteration": "nehābhikrama-nāśo'sti pratyavāyo na vidyate | svalpam apy asya dharmasya trāyate mahato bhayāt ||",
+        "english": {
+          "translation": "In this path there is no loss of effort, nor is there any harm. Even a little practice of this dharma protects one from great fear.",
+          "commentary": "This verse offers tremendous encouragement. In karma-yoga: (1) no effort is wasted ('abhikrama-nasha'—loss of beginning), (2) there's no adverse effect ('pratyavaya'), and (3) even minimal practice ('svalpam api') brings great benefit—protection from the ultimate fear (death/rebirth). Unlike worldly endeavors where failure means loss, spiritual practice accumulates. Every step on the path has value. This teaching removes the fear of inadequacy that often prevents spiritual practice."
+        },
+        "turkish": {
+          "translation": "Bu yolda çabanın kaybı yoktur, zarar da yoktur. Bu dharmanın biraz bile uygulanması, kişiyi büyük korkudan korur.",
+          "commentary": "Bu ayet muazzam cesaret verir. Karma-yoga'da: (1) hiçbir çaba boşa gitmez ('abhikrama-nasha'—başlangıcın kaybı), (2) olumsuz etki yoktur ('pratyavaya'), ve (3) minimal pratik bile ('svalpam api') büyük fayda getirir—nihai korkudan (ölüm/yeniden doğuş) koruma. Başarısızlığın kayıp anlamına geldiği dünyevi çabaların aksine, manevi pratik birikir. Yoldaki her adımın değeri vardır. Bu öğreti, genellikle manevi pratiği engelleyen yetersizlik korkusunu kaldırır."
+        }
+      },
+      {
+        "verse_number": 41,
+        "sanskrit": "व्यवसायात्मिका बुद्धिरेकेह कुरुनन्दन। बहुशाखा ह्यनन्ताश्च बुद्धयोऽव्यवसायिनाम्।।",
+        "transliteration": "vyavasāyātmikā buddhir ekeha kuru-nandana | bahu-śākhā hy anantāś ca buddhayo'vyavasāyinām ||",
+        "english": {
+          "translation": "O descendent of Kuru, the resolute intellect is single-pointed here; but the thoughts of the irresolute are many-branched and endless.",
+          "commentary": "This verse contrasts focused determination ('vyavasayatmika buddhi') with scattered thinking. The yogic mind has one aim—liberation—while the unfocused mind branches infinitely. 'Ekeha' (singular here) emphasizes unity of purpose. The undisciplined intellect pursues countless desires, never finding satisfaction. This introduces the concept of ekagrata (one-pointedness), essential for both meditation and effective action. Mental discipline means bringing scattered energies to a single focus."
+        },
+        "turkish": {
+          "translation": "Ey Kuru soyundan gelen, burada kararlı akıl tek noktaya odaklıdır; ama kararsızların düşünceleri çok dallı ve sonsuzdur.",
+          "commentary": "Bu ayet, odaklanmış kararlılığı ('vyavasayatmika buddhi') dağınık düşünceyle karşılaştırır. Yogik zihin tek hedefe sahiptir—kurtuluş—odaksız zihin ise sonsuza dek dallanır. 'Ekeha' (burada tekil) amaç birliğini vurgular. Disiplinsiz akıl sayısız arzuyu takip eder, asla tatmin bulamaz. Bu, hem meditasyon hem de etkili eylem için gerekli olan ekagrata (tek noktaya odaklanma) kavramını sunar. Zihinsel disiplin, dağınık enerjileri tek bir odağa getirmek demektir."
+        }
+      },
+      {
+        "verse_number": 42,
+        "sanskrit": "यामिमां पुष्पितां वाचं प्रवदन्त्यविपश्चितः। वेदवादरताः पार्थ नान्यदस्तीति वादिनः।।",
+        "transliteration": "yām imāṁ puṣpitāṁ vācaṁ pravadanty avipaścitaḥ | veda-vāda-ratāḥ pārtha nānyad astīti vādinaḥ ||",
+        "english": {
+          "translation": "The unwise, who delight in the flowery words of the Vedas, O Partha, and who claim that there is nothing beyond the Vedas.",
+          "commentary": "Krishna begins criticizing ritualistic religion that misses deeper truth. 'Pushpitam vacham' (flowery speech) refers to elaborate Vedic rituals promising heavenly rewards. 'Avipashchitah' (unwise) are those who think sensory pleasures and rituals are ultimate. The phrase 'nanyad asti' (nothing else exists) indicates their materialism—even within religious framework. This critiques hollow religiosity that focuses on external observances while missing the inner spiritual reality. True wisdom transcends ritual for direct realization."
+        },
+        "turkish": {
+          "translation": "Vedaların çiçekli sözlerinden zevk alan bilgisizler, ey Partha, Vedaların ötesinde hiçbir şey olmadığını iddia edenler.",
+          "commentary": "Krishna, daha derin gerçeği kaçıran törensel dini eleştirmeye başlar. 'Pushpitam vacham' (çiçekli konuşma), cennet ödülleri vaat eden ayrıntılı Vedik ritüellere atıfta bulunur. 'Avipashchitah' (bilgisiz), duyusal zevklerin ve ritüellerin nihai olduğunu düşünenlerdir. 'Nanyad asti' (başka bir şey yok) ifadesi, onların materyalizmini gösterir—dini çerçevede bile. Bu, dış gözlemlere odaklanan ancak iç manevi gerçekliği kaçıran içi boş dindarlığı eleştirir. Gerçek bilgelik, doğrudan kavrayış için ritüeli aşar."
+        }
+      },
+      {
+        "verse_number": 43,
+        "sanskrit": "कामात्मानः स्वर्गपरा जन्मकर्मफलप्रदाम्। क्रियाविशेषबहुलां भोगैश्वर्यगतिं प्रति।।",
+        "transliteration": "kāmātmānaḥ svarga-parā janma-karma-phala-pradām | kriyā-viśeṣa-bahulāṁ bhogaiśvarya-gatiṁ prati ||",
+        "english": {
+          "translation": "They are full of desires, intent on heaven, proclaiming elaborate rituals that promise rebirth as reward for action, leading to enjoyment and power.",
+          "commentary": "This verse describes those driven by 'kama' (desire), whose highest goal is 'svarga' (heaven). They believe in 'janma-karma-phala' (birth as the fruit of action)—good deeds lead to better rebirth. They practice 'kriya-vishesha' (special rituals) for 'bhoga-aishvarya' (enjoyment and lordship). This isn't wrong per se, but it's limited. Such religion remains transactional: do ritual, get reward. Krishna points beyond this to disinterested action and ultimate liberation, not just better births."
+        },
+        "turkish": {
+          "translation": "Arzularla dolular, cennete niyetlidirler, eylemin karşılığı olarak yeniden doğuşu vaat eden ayrıntılı ritüelleri ilan ederek, zevk ve güce yol açarlar.",
+          "commentary": "Bu ayet, 'kama' (arzu) tarafından yönlendirilenleri, en yüksek amacı 'svarga' (cennet) olanları anlatır. 'Janma-karma-phala'ya (eylemin meyvesi olarak doğuş) inanırlar—iyi işler daha iyi yeniden doğuşa yol açar. 'Bhoga-aishvarya' (zevk ve hakimiyet) için 'kriya-vishesha' (özel ritüeller) uygularlar. Bu kendi başına yanlış değil ama sınırlıdır. Böyle bir din işlemsel kalır: ritüel yap, ödül al. Krishna bunun ötesinde çıkarsız eylemi ve nihai kurtuluşu işaret eder, sadece daha iyi doğuşları değil."
+        }
+      },
+      {
+        "verse_number": 44,
+        "sanskrit": "भोगैश्वर्यप्रसक्तानां तयापहृतचेतसाम्। व्यवसायात्मिका बुद्धिः समाधौ न विधीयते।।",
+        "transliteration": "bhogaiśvarya-prasaktānāṁ tayāpahṛta-cetasām | vyavasāyātmikā buddhiḥ samādhau na vidhīyate ||",
+        "english": {
+          "translation": "For those who are attached to pleasure and power, whose minds are carried away by such teachings, the resolute intellect is not established in samadhi (meditative absorption).",
+          "commentary": "The consequence of desire-driven religion: minds attached to enjoyment and power cannot achieve 'samadhi' (deep meditative concentration/absorption). 'Apahrita-chetasam' (those whose minds are stolen away) are unable to develop 'vyavasayatmika buddhi' (resolute intellect). Constant craving for results prevents the mental stillness needed for spiritual realization. This verse links ethical life to contemplative capacity—a scattered, desirous mind cannot meditate deeply. Detachment is prerequisite for concentration."
+        },
+        "turkish": {
+          "translation": "Zevk ve güce bağlı olanlar için, zihinleri bu öğretilerle alınıp götürülenler için, kararlı akıl samadhi'de (meditatif absorpsiyon) yerleşmez.",
+          "commentary": "Arzu güdümlü dinin sonucu: zevk ve güce bağlı zihinler 'samadhi'yi (derin meditatif konsantrasyon/absorpsiyon) başaramaz. 'Apahrita-chetasam' (zihinleri çalınmış olanlar) 'vyavasayatmika buddhi' (kararlı akıl) geliştiremez. Sonuçlar için sürekli arzu, manevi gerçekleşme için gereken zihinsel durgunluğu engeller. Bu ayet, etik yaşamı kontemplatif kapasiteye bağlar—dağınık, arzulu bir zihin derinden meditasyon yapamaz. Bağımsızlık, konsantrasyon için ön koşuldur."
+        }
+      },
+      {
+        "verse_number": 45,
+        "sanskrit": "त्रैगुण्यविषया वेदा निस्त्रैगुण्यो भवार्जुन। निर्द्वन्द्वो नित्यसत्त्वस्थो निर्योगक्षेम आत्मवान्।।",
+        "transliteration": "trai-guṇya-viṣayā vedā nistrai-guṇyo bhavārjuna | nirdvandvo nitya-sattva-stho niryoga-kṣema ātmavān ||",
+        "english": {
+          "translation": "The Vedas deal with the three gunas (qualities of nature). Be free from these three gunas, O Arjuna. Be free from dualities, ever established in sattva, free from acquisition and preservation, and be self-possessed.",
+          "commentary": "Profound teaching on transcendence. The Vedas address the three gunas (sattva-rajas-tamas, the qualities constituting nature). Krishna urges Arjuna to transcend them ('nistraigunya'). Further: transcend dualities ('nirdvandva'), remain in pure being ('nitya-sattva-stha'), don't worry about gain or security ('niryoga-kshema'), and be self-established ('atmavan'). This goes beyond conventional religion to non-dual realization. Even spiritual practices based on the gunas must be transcended for ultimate freedom."
+        },
+        "turkish": {
+          "translation": "Vedalar üç guna'yla (doğanın nitelikleri) ilgilenir. Bu üç guna'dan özgür ol, ey Arjuna. İkililiklerden özgür ol, sürekli sattva'da yerleş, kazanma ve korumadan özgür ol ve kendine sahip ol.",
+          "commentary": "Aşma üzerine derin öğreti. Vedalar üç guna'yı (sattva-rajas-tamas, doğayı oluşturan nitelikler) ele alır. Krishna, Arjuna'yı onları aşmaya teşvik eder ('nistraigunya'). Ayrıca: ikililikleri aş ('nirdvandva'), saf varlıkta kal ('nitya-sattva-stha'), kazanç veya güvenlik için endişelenme ('niryoga-kshema') ve kendinde yerleş ('atmavan'). Bu, geleneksel dinin ötesinde ikili olmayan kavrayışa gider. Gunaları temel alan manevi pratikler bile nihai özgürlük için aşılmalıdır."
+        }
+      },
+      {
+        "verse_number": 46,
+        "sanskrit": "यावानर्थ उदपाने सर्वतः सम्प्लुतोदके। तावान्सर्वेषु वेदेषु ब्राह्मणस्य विजानतः।।",
+        "transliteration": "yāvān artha udapāne sarvataḥ samplutodake | tāvān sarveṣu vedeṣu brāhmaṇasya vijānataḥ ||",
+        "english": {
+          "translation": "Whatever purpose a well serves can be served by a large body of water. Similarly, all the Vedas serve the purpose for the enlightened brahmin who knows.",
+          "commentary": "A striking analogy: when one has access to a vast reservoir, a small well becomes redundant. Similarly, for one who has realized Brahman (the ultimate reality), ritualistic religion becomes unnecessary. This doesn't denigrate the Vedas but contextualizes them—they're like a well, useful until you find the ocean. The 'brahmana vijanatah' (knowing brahmin) is one who has direct spiritual realization, for whom scriptures become obsolete. The finger pointing at the moon becomes unnecessary once you see the moon."
+        },
+        "turkish": {
+          "translation": "Bir kuyunun hizmet ettiği amaç her ne ise, büyük bir su kütlesi de aynı amaca hizmet eder. Benzer şekilde, bilen aydınlanmış brahmin için tüm Vedalar amaca hizmet eder.",
+          "commentary": "Çarpıcı bir benzetme: geniş bir rezervuara erişiminiz olduğunda, küçük bir kuyu gereksiz hale gelir. Benzer şekilde, Brahman'ı (nihai gerçeklik) gerçekleştiren biri için, törensel din gereksiz hale gelir. Bu, Vedaları küçümsemez ama bağlamsallaştırır—okyansu bulana kadar kullanışlı olan bir kuyu gibidirler. 'Brahmana vijanatah' (bilen brahmin), doğrudan manevi gerçekleştirmeye sahip olan kişidir, onun için kutsal yazılar modası geçmiş hale gelir. Aya işaret eden parmak, ayı gördüğünüzde gereksiz hale gelir."
+        }
+      },
+      {
+        "verse_number": 47,
+        "sanskrit": "कर्मण्येवाधिकारस्ते मा फलेषु कदाचन। मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि।।",
+        "transliteration": "karmaṇy evādhikāras te mā phaleṣu kadācana | mā karma-phala-hetur bhūr mā te saṅgo'stv akarmaṇi ||",
+        "english": {
+          "translation": "You have a right to perform your duty, but never to the fruits thereof. Let not the fruit of action be your motive, nor let your attachment be to inaction.",
+          "commentary": "This is perhaps the most famous verse of the Gita, encapsulating karma-yoga. Three principles: (1) 'adhikara' (right/authority) is only over action, not results; (2) don't act for results ('ma karma-phala-hetuh'); (3) don't be attached to inaction. This teaching resolves the action-inaction dilemma: act fully but without attachment to outcomes. Results depend on countless factors beyond our control; we control only our effort. This liberates from both anxiety about success and paralysis from fear of failure."
+        },
+        "turkish": {
+          "translation": "Görevini yerine getirme hakkın var, ama asla meyvelerine değil. Eylemin meyvesi senin güdün olmasın, ne de bağlılığın eylemsizliğe olsun.",
+          "commentary": "Bu, belki de Gita'nın en ünlü ayetidir, karma-yoga'yı özetler. Üç ilke: (1) 'adhikara' (hak/yetki) sadece eylem üzerindedir, sonuçlar üzerinde değil; (2) sonuçlar için eylemde bulunma ('ma karma-phala-hetuh'); (3) eylemsizliğe bağlı olma. Bu öğreti, eylem-eylemsizlik ikilemini çözümler: tam olarak eylemde bulun ama sonuçlara bağlılık olmadan. Sonuçlar kontrolümüz dışındaki sayısız faktöre bağlıdır; sadece çabamızı kontrol ederiz. Bu hem başarı kaygısından hem de başarısızlık korkusundan felçten kurtarır."
+        }
+      },
+      {
+        "verse_number": 48,
+        "sanskrit": "योगस्थः कुरु कर्माणि सङ्गं त्यक्त्वा धनञ्जय। सिद्ध्यसिद्ध्योः समो भूत्वा समत्वं योग उच्यते।।",
+        "transliteration": "yoga-sthaḥ kuru karmāṇi saṅgaṁ tyaktvā dhanañjaya | siddhy-asiddhyoḥ samo bhūtvā samatvaṁ yoga ucyate ||",
+        "english": {
+          "translation": "Established in yoga, perform actions, abandoning attachment, O Dhananjaya (Arjuna). Remaining the same in success and failure—such equanimity is called yoga.",
+          "commentary": "This verse defines yoga as equanimity ('samatva'). 'Yoga-sthah' means established in this balanced state. Acting from this center, one abandons attachment ('sangam tyaktva') and remains equal in success and failure ('siddhi-asiddhyoh samah'). This redefines yoga—not just meditation techniques but a state of inner balance maintained through all activities. When the mind remains unshaken by outcomes, that is yoga. This practical definition makes yoga accessible in daily life, not just on the meditation cushion."
+        },
+        "turkish": {
+          "translation": "Yoga'da yerleşmiş olarak, bağlılığı terk ederek eylemleri yap, ey Dhananjaya (Arjuna). Başarı ve başarısızlıkta aynı kalarak—böyle bir sükunet yoga olarak adlandırılır.",
+          "commentary": "Bu ayet, yoga'yı sükunet ('samatva') olarak tanımlar. 'Yoga-sthah', bu dengeli durumda yerleşmiş olmak demektir. Bu merkezden hareket eden kişi, bağlılığı terk eder ('sangam tyaktva') ve başarı ile başarısızlıkta eşit kalır ('siddhi-asiddhyoh samah'). Bu, yoga'yı yeniden tanımlar—sadece meditasyon teknikleri değil, tüm aktiviteler boyunca sürdürülen bir iç denge durumu. Zihin sonuçlar karşısında sarsılmadan kaldığında, bu yogadır. Bu pratik tanım, yoga'yı sadece meditasyon yastığında değil, günlük yaşamda erişilebilir kılar."
+        }
+      },
+      {
+        "verse_number": 49,
+        "sanskrit": "दूरेण ह्यवरं कर्म बुद्धियोगाद्धनञ्जय। बुद्धौ शरणमन्विच्छ कृपणाः फलहेतवः।।",
+        "transliteration": "dūreṇa hy avaraṁ karma buddhi-yogād dhanañjaya | buddhau śaraṇam anviccha kṛpaṇāḥ phala-hetavaḥ ||",
+        "english": {
+          "translation": "Action performed with desire for reward is far inferior to action performed with wisdom, O Dhananjaya. Seek refuge in wisdom; wretched are those who are motivated by results.",
+          "commentary": "Krishna establishes a hierarchy: buddhi-yoga (yoga of wisdom/equanimous action) is vastly superior to desire-driven action. The phrase 'durenam hi avaram' (far inferior) emphasizes the difference. 'Kripanah' (wretched/pitiable) describes those motivated by results—they're enslaved to outcomes, perpetually anxious. 'Buddhau sharanam anviccha' (seek refuge in wisdom) advises making equanimity one's shelter. The wise act fully but internally remain free, while the result-oriented are internally enslaved even while acting."
+        },
+        "turkish": {
+          "translation": "Ödül arzusuyla yapılan eylem, bilgelikle yapılan eylemden çok daha aşağıdır, ey Dhananjaya. Bilgelikte sığınak ara; sonuçlarla motive olanlar zavallıdır.",
+          "commentary": "Krishna bir hiyerarşi kurar: buddhi-yoga (bilgelik/sükunetli eylem yogası) arzu güdümlü eylemden çok daha üstündür. 'Durenam hi avaram' (çok daha aşağı) ifadesi farkı vurgular. 'Kripanah' (zavallı/acınası), sonuçlarla motive olanları tanımlar—sonuçlara köledirler, sürekli endişelidirler. 'Buddhau sharanam anviccha' (bilgelikte sığınak ara), sükuneti kişinin sığınağı yapmayı tavsiye eder. Bilge tam olarak eylemde bulunur ama içsel olarak özgür kalır, sonuç odaklı ise eylemde bulunurken bile içsel olarak köledir."
+        }
+      },
+      {
+        "verse_number": 50,
+        "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते। तस्माद्योगाय युज्यस्व योगः कर्मसु कौशलम्।।",
+        "transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte | tasmād yogāya yujyasva yogaḥ karmasu kauśalam ||",
+        "english": {
+          "translation": "Endowed with wisdom, one casts off both good and evil deeds in this life. Therefore, strive for yoga. Yoga is skill in action.",
+          "commentary": "A profound statement: the wise transcend even the duality of good and evil ('sukrita-dushkrita'). This doesn't mean amorality but going beyond karma itself—actions done without ego don't bind. The famous definition: 'yogah karmasu kaushalam' (yoga is skill/excellence in action). This skill isn't technical proficiency but performing action while remaining inwardly free. Like a lotus in water—engaged but untouched. This is liberation through action, not from action."
+        },
+        "turkish": {
+          "translation": "Bilgelikle donanmış olan, bu yaşamda hem iyi hem de kötü işleri atar. Bu nedenle, yoga için çabayla. Yoga, eylemde beceridir.",
+          "commentary": "Derin bir ifade: bilge kişi iyi ve kötü ('sukrita-dushkrita') ikililiğini bile aşar. Bu ahlaksızlık değil, karmanın kendisini aşmak demektir—ego olmadan yapılan eylemler bağlamaz. Ünlü tanım: 'yogah karmasu kaushalam' (yoga eylemde beceri/mükemmeliyettir). Bu beceri teknik yeterlilik değil, içsel olarak özgür kalarak eylem gerçekleştirmektir. Sudaki nilüfer gibi—meşgul ama dokunulmamış. Bu, eylemden değil, eylem yoluyla kurtuluştur."
+        }
+      },
+      {
+        "verse_number": 51,
+        "sanskrit": "कर्मजं बुद्धियुक्ता हि फलं त्यक्त्वा मनीषिणः। जन्मबन्धविनिर्मुक्ताः पदं गच्छन्त्यनामयम्।।",
+        "transliteration": "karma-jaṁ buddhi-yuktā hi phalaṁ tyaktvā manīṣiṇaḥ | janma-bandha-vinirmuktāḥ padaṁ gacchanty anāmayam ||",
+        "english": {
+          "translation": "The wise, endowed with equanimous intellect and renouncing the fruits of action, become freed from the bondage of birth and attain the state beyond suffering.",
+          "commentary": "This verse describes the ultimate goal. The wise ('manishinah') with balanced intellect ('buddhi-yukta'), having renounced fruits of action ('phalam tyaktva'), achieve liberation from the cycle of rebirth ('janma-bandha-vinirmuktah'). They reach 'padam anamayam' (the state beyond suffering/disease-free state)—referring to moksha or liberation. This establishes karma-yoga's efficacy: not just ethical living but a path to ultimate freedom. Right action with right understanding liberates."
+        },
+        "turkish": {
+          "translation": "Eşit akılla donanmış ve eylemin meyvelerini terk eden bilgeler, doğum bağlarından kurtulur ve acının ötesindeki duruma ulaşırlar.",
+          "commentary": "Bu ayet nihai amacı tanımlar. Dengeli akla ('buddhi-yukta') sahip bilge kişiler ('manishinah'), eylemin meyvelerini terk ederek ('phalam tyaktva'), yeniden doğuş döngüsünden kurtuluşu ('janma-bandha-vinirmuktah') başarırlar. 'Padam anamayam'a (acının ötesindeki durum/hastalıksız durum) ulaşırlar—moksha veya kurtuluşa atıfta bulunur. Bu, karma-yoga'nın etkinliğini tesis eder: sadece etik yaşam değil, nihai özgürlüğe bir yol. Doğru anlayışla doğru eylem özgürleştirir."
+        }
+      },
+      {
+        "verse_number": 52,
+        "sanskrit": "यदा ते मोहकलिलं बुद्धिर्व्यतितरिष्यति। तदा गन्तासि निर्वेदं श्रोतव्यस्य श्रुतस्य च।।",
+        "transliteration": "yadā te moha-kalilaṁ buddhir vyatitariṣyati | tadā gantāsi nirvedaṁ śrotavyasya śrutasya ca ||",
+        "english": {
+          "translation": "When your intellect crosses beyond the mire of delusion, then you will attain indifference to what has been heard and what is yet to be heard.",
+          "commentary": "This verse describes transcending scriptural dependency. When wisdom ('buddhi') crosses the 'moha-kalilam' (mire/thicket of delusion), one reaches 'nirveda' (dispassion/indifference) toward both learned and yet-to-be-learned teachings. This doesn't mean rejecting scripture but transcending it through direct realization. The enlightened don't need constant reference to texts—they've realized what scriptures point to. Knowledge transitions from conceptual to experiential, from borrowed to intrinsic."
+        },
+        "turkish": {
+          "translation": "Aklın yanılsamanın bataklığını aştığında, duyulmuş ve henüz duyulmamış olana karşı kayıtsızlığa ulaşacaksın.",
+          "commentary": "Bu ayet, kutsal yazıya bağımlılığı aşmayı tanımlar. Bilgelik ('buddhi') 'moha-kalilam'ı (yanılsamanın bataklığı/çalılığı) aştığında, kişi hem öğrenilmiş hem de henüz öğrenilmemiş öğretilere karşı 'nirveda'ya (tutkusuzluk/kayıtsızlık) ulaşır. Bu, kutsal yazıyı reddetmek değil, doğrudan gerçekleştirme yoluyla aşmak demektir. Aydınlanmış kişi metinlere sürekli başvurmaya ihtiyaç duymaz—kutsal yazıların işaret ettiği şeyi gerçekleştirmişlerdir. Bilgi, kavramsal olandan deneyimsel olana, ödünç alınmış olandan içsel olana geçiş yapar."
+        }
+      },
+      {
+        "verse_number": 53,
+        "sanskrit": "श्रुतिविप्रतिपन्ना ते यदा स्थास्यति निश्चला। समाधावचला बुद्धिस्तदा योगमवाप्स्यसि।।",
+        "transliteration": "śruti-vipratipannā te yadā sthāsyati niścalā | samādhāv acalā buddhis tadā yogam avāpsyasi ||",
+        "english": {
+          "translation": "When your intellect, confused by conflicting scriptural texts, stands firm and steady in samadhi, then you will attain yoga.",
+          "commentary": "The culmination of the teaching: when intellect ('buddhi'), previously confused by various interpretations ('shruti-vipratipanna'), becomes unwavering ('nishchala') in samadhi (meditative absorption), yoga is attained. This describes the transition from intellectual confusion to experiential certainty. Multiple teachings can confuse; direct realization clarifies. The goal isn't collecting knowledge but achieving the stable, absorbed state where knowledge becomes being. This steady state is true yoga—union with ultimate reality."
+        },
+        "turkish": {
+          "translation": "Aklın, çelişen kutsal metinlerle karıştırılmış iken, samadhi'de sabit ve kararlı durduğunda, o zaman yoga'yı elde edeceksin.",
+          "commentary": "Öğretinin doruk noktası: akıl ('buddhi'), daha önce çeşitli yorumlarla karıştırılmış ('shruti-vipratipanna') iken, samadhi'de (meditatif absorpsiyon) sarsılmaz ('nishchala') hale geldiğinde, yoga elde edilir. Bu, entelektüel kafa karışıklığından deneyimsel kesinliğe geçişi tanımlar. Çoklu öğretiler kafa karıştırabilir; doğrudan gerçekleştirme netleştirir. Amaç bilgi toplamak değil, bilginin varlık haline geldiği kararlı, absorbe olmuş durumu başarmaktır. Bu kararlı durum gerçek yogadır—nihai gerçeklikle birlik."
+        }
+      },
+      {
+        "verse_number": 54,
+        "sanskrit": "अर्जुन उवाच। स्थितप्रज्ञस्य का भाषा समाधिस्थस्य केशव। स्थितधीः किं प्रभाषेत किमासीत व्रजेत किम्।।",
+        "transliteration": "arjuna uvāca | sthita-prajñasya kā bhāṣā samādhi-sthasya keśava | sthita-dhīḥ kiṁ prabhāṣeta kim āsīta vrajeta kim ||",
+        "english": {
+          "translation": "Arjuna said: O Keshava (Krishna), what is the description of one with steady wisdom, established in samadhi? How does one of steady intellect speak, sit, and walk?",
+          "commentary": "Arjuna asks the practical question: how to recognize the enlightened person? He inquires about the 'sthita-prajna' (one of steady wisdom) or 'sthita-dhi' (one of steady intellect). The three verbs—speak ('prabhaseta'), sit ('asita'), walk ('vrajeta')—encompass all activities. Arjuna wants concrete signs of realization. This question shifts the discourse from abstract philosophy to lived reality. The following verses (55-72) describe the enlightened sage, providing a practical ideal for spiritual aspirants."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi: Ey Keshava (Krishna), samadhi'de yerleşmiş, kararlı bilgeliğe sahip kişinin tanımı nedir? Kararlı akla sahip kişi nasıl konuşur, oturur ve yürür?",
+          "commentary": "Arjuna pratik soruyu sorar: aydınlanmış kişi nasıl tanınır? 'Sthita-prajna' (kararlı bilgeliğe sahip) veya 'sthita-dhi' (kararlı akla sahip) hakkında sorar. Üç fiil—konuşmak ('prabhaseta'), oturmak ('asita'), yürümek ('vrajeta')—tüm aktiviteleri kapsar. Arjuna gerçekleştirmenin somut işaretlerini ister. Bu soru, söylemi soyut felsefeden yaşanan gerçekliğe kaydırır. Takip eden ayetler (55-72) aydınlanmış bilgeyi tanımlar, manevi adaylar için pratik bir ideal sağlar."
+        }
+      },
+      {
+        "verse_number": 55,
+        "sanskrit": "श्रीभगवानुवाच। प्रजहाति यदा कामान्सर्वान्पार्थ मनोगतान्। आत्मन्येवात्मना तुष्टः स्थितप्रज्ञस्तदोच्यते।।",
+        "transliteration": "śrī-bhagavān uvāca | prajahāti yadā kāmān sarvān pārtha mano-gatān | ātmany evātmanā tuṣṭaḥ sthita-prajñas tadocyate ||",
+        "english": {
+          "translation": "The Blessed Lord said: When one completely casts off all desires dwelling in the mind, O Partha, and is satisfied in the Self by the Self alone, then one is said to be of steady wisdom.",
+          "commentary": "Krishna begins his description of the liberated sage. The first characteristic: complete renunciation of mental desires ('kaman sarvan mano-gatan'). More importantly, being 'atmani eva atmana tushtah' (satisfied in the Self by the Self alone)—self-sufficient, needing nothing external for fulfillment. This isn't suppression but transcendence: desires dissolve when one discovers the complete fullness within. The enlightened find in themselves what others seek in objects, relationships, or achievements."
+        },
+        "turkish": {
+          "translation": "Yüce Tanrı dedi: Kişi zihninde ikamet eden tüm arzuları tamamen attığında, ey Partha, ve Benlikte yalnızca Benlik tarafından tatmin olduğunda, o zaman kararlı bilgeliğe sahip olduğu söylenir.",
+          "commentary": "Krishna, özgürleşmiş bilgenin tanımına başlar. İlk özellik: zihinsel arzuların tamamen terk edilmesi ('kaman sarvan mano-gatan'). Daha da önemlisi, 'atmani eva atmana tushtah' (yalnızca Benlik tarafından Benlikte tatmin olmak) olmak—kendi kendine yeterli, tatmin için dışsal hiçbir şeye ihtiyaç duymamak. Bu bastırma değil aşmadır: kişi içindeki tam bütünlüğü keşfettiğinde arzular eriyip gider. Aydınlanmış kişi, başkalarının nesnelerde, ilişkilerde veya başarılarda aradığını kendisinde bulur."
+        }
+      },
+      {
+        "verse_number": 56,
+        "sanskrit": "दुःखेष्वनुद्विग्नमनाः सुखेषु विगतस्पृहः। वीतरागभयक्रोधः स्थितधीर्मुनिरुच्यते।।",
+        "transliteration": "duḥkheṣv anudvigna-manāḥ sukheṣu vigata-spṛhaḥ | vīta-rāga-bhaya-krodhaḥ sthita-dhīr munir ucyate ||",
+        "english": {
+          "translation": "One whose mind is undisturbed in sorrow, free from desire for pleasures, and devoid of attachment, fear, and anger—such a person of steady intellect is called a sage.",
+          "commentary": "Further characteristics of the sage: (1) 'anudvigna-manah' (undisturbed mind in sorrow), (2) 'vigata-sprihah' (free from craving for pleasure), (3) 'vita-raga' (without attachment), (4) 'vita-bhaya' (without fear), (5) 'vita-krodha' (without anger). This describes emotional freedom—not suppression but genuine transcendence. The sage isn't indifferent but unshaken. They experience life fully but aren't controlled by circumstances. This is the fruit of self-knowledge: spontaneous freedom from psychological disturbance."
+        },
+        "turkish": {
+          "translation": "Kederde zihni rahatsız olmayan, zevkler için arzudan uzak ve bağlılık, korku ve öfkeden yoksun kişi—böyle kararlı akla sahip kişiye bilge denir.",
+          "commentary": "Bilgenin diğer özellikleri: (1) 'anudvigna-manah' (kederde rahatsız olmayan zihin), (2) 'vigata-sprihah' (zevk için tutkudan uzak), (3) 'vita-raga' (bağlılık olmadan), (4) 'vita-bhaya' (korku olmadan), (5) 'vita-krodha' (öfke olmadan). Bu, duygusal özgürlüğü tanımlar—bastırma değil gerçek aşma. Bilge kayıtsız değil sarsılmazdır. Yaşamı tam olarak deneyimlerler ama koşullar tarafından kontrol edilmezler. Bu, benlik bilgisinin meyvesidir: psikolojik rahatsızlıktan kendiliğinden özgürlük."
+        }
+      },
+      {
+        "verse_number": 57,
+        "sanskrit": "यः सर्वत्रानभिस्नेहस्तत्तत्प्राप्य शुभाशुभम्। नाभिनन्दति न द्वेष्टि तस्य प्रज्ञा प्रतिष्ठिता।।",
+        "transliteration": "yaḥ sarvatrānabhisnehas tat tat prāpya śubhāśubham | nābhinandati na dveṣṭi tasya prajñā pratiṣṭhitā ||",
+        "english": {
+          "translation": "One who is everywhere without attachment, who neither rejoices on obtaining good nor grieves on obtaining evil—the wisdom of such a one is firmly established.",
+          "commentary": "The sage is 'sarvatra anabhisnehah' (everywhere without attachment)—not coldness but equanimity. Receiving good ('shubham'), they don't rejoice excessively ('na abhinandati'); receiving evil ('ashubham'), they don't hate ('na dveshti'). This balanced response indicates 'prajna pratishthita' (firmly established wisdom). The enlightened see the transient nature of all phenomena—both pleasant and unpleasant pass. This isn't indifference but perspective: understanding the temporary nature of all conditions brings stability amid change."
+        },
+        "turkish": {
+          "translation": "Her yerde bağlılık olmadan olan, iyiyi elde ederken neşelenmeyen veya kötüyü elde ederken keder duymayan kişi—böyle birinin bilgeliği sağlam şekilde yerleşmiştir.",
+          "commentary": "Bilge 'sarvatra anabhisnehah'tır (her yerde bağlılık olmadan)—soğukluk değil sükunet. İyiyi ('shubham') alırken aşırı neşelenmez ('na abhinandati'); kötüyü ('ashubham') alırken nefret etmez ('na dveshti'). Bu dengeli tepki 'prajna pratishthita'yı (sağlam şekilde yerleşmiş bilgelik) gösterir. Aydınlanmış kişi tüm fenomenlerin geçici doğasını görür—hem hoş hem de hoş olmayan geçer. Bu kayıtsızlık değil perspektiftir: tüm koşulların geçici doğasını anlamak, değişim ortasında istikrar getirir."
+        }
+      },
+      {
+        "verse_number": 58,
+        "sanskrit": "यदा संहरते चायं कूर्मोऽङ्गानीव सर्वशः। इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता।।",
+        "transliteration": "yadā saṁharate cāyaṁ kūrmo'ṅgānīva sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā ||",
+        "english": {
+          "translation": "When one can completely withdraw the senses from their objects, as a tortoise withdraws its limbs, then one's wisdom is firmly established.",
+          "commentary": "Famous analogy: like a tortoise withdrawing limbs into its shell, the sage withdraws senses from objects at will. This is 'pratyahara' (sense-withdrawal) in yoga. It doesn't mean permanent sensory shutdown but the ability to control sensory engagement. The enlightened can fully engage the world yet remain inwardly detached. They're not at the mercy of sensory stimulation. This control indicates mastery—senses serve the sage rather than enslaving them. It's freedom in engagement, not escape through avoidance."
+        },
+        "turkish": {
+          "translation": "Kişi duyuları nesnelerinden tamamen geri çekebildiğinde, bir kaplumbağa uzuvlarını geri çektiği gibi, o kişinin bilgeliği sağlam şekilde yerleşmiştir.",
+          "commentary": "Ünlü benzetme: bilge, kaplumbağa uzuvlarını kabuğuna çektiği gibi, duyuları nesnelerden istediği zaman geri çeker. Bu, yoga'da 'pratyahara' (duyu geri çekme) dır. Kalıcı duyusal kapatma değil, duyusal bağlantıyı kontrol etme yeteneği demektir. Aydınlanmış kişi dünyayı tam olarak meşgul edebilir ancak içsel olarak bağımsız kalır. Duyusal uyarımanın merhametinde değillerdir. Bu kontrol ustalığı gösterir—duyular bilgeyi köleleştirmek yerine ona hizmet eder. Kaçınma yoluyla kaçış değil, meşgul olmada özgürlüktür."
+        }
+      },
+      {
+        "verse_number": 59,
+        "sanskrit": "विषया विनिवर्तन्ते निराहारस्य देहिनः। रसवर्जं रसोऽप्यस्य परं दृष्ट्वा निवर्तते।।",
+        "transliteration": "viṣayā vinivartante nirāhārasya dehinaḥ | rasa-varjaṁ raso'py asya paraṁ dṛṣṭvā nivartate ||",
+        "english": {
+          "translation": "Sense objects fall away from the abstinent person, but the taste for them remains. Even this taste ceases for one who has seen the Supreme.",
+          "commentary": "Profound distinction: through discipline ('niraharasya'—abstinence), one can abstain from objects ('vishaya vinivartante'), but the craving ('rasa'—taste/relish) persists. True transcendence occurs only when one perceives the Supreme ('param drishtva')—then even the taste disappears. This teaches that mere behavioral control isn't liberation. Willpower can suppress desire but doesn't eliminate it. Only higher experience—tasting the infinite—naturally dissolves lower cravings. Spiritual fulfillment, not just discipline, brings genuine freedom."
+        },
+        "turkish": {
+          "translation": "Duyu nesneleri, perhizli kişiden uzaklaşır, ama onlar için istek kalır. Bu istek bile, Yüce'yi görmüş olan için sona erer.",
+          "commentary": "Derin ayrım: disiplin yoluyla ('niraharasya'—perhiz), kişi nesnelerden ('vishaya vinivartante') kaçınabilir, ama arzu ('rasa'—tat/zevk) devam eder. Gerçek aşma, yalnızca Yüce'yi ('param drishtva') algıladığında gerçekleşir—o zaman tat bile kaybolur. Bu, salt davranışsal kontrolün kurtuluş olmadığını öğretir. İrade gücü arzuyu bastırabilir ama ortadan kaldıramaz. Yalnızca daha yüksek deneyim—sonsuzun tadına varmak—doğal olarak daha düşük arzuları çözümler. Manevi tatmin, sadece disiplin değil, gerçek özgürlüğü getirir."
+        }
+      },
+      {
+        "verse_number": 60,
+        "sanskrit": "यततो ह्यपि कौन्तेय पुरुषस्य विपश्चितः। इन्द्रियाणि प्रमाथीनि हरन्ति प्रसभं मनः।।",
+        "transliteration": "yatato hy api kaunteya puruṣasya vipaścitaḥ | indriyāṇi pramāthīni haranti prasabhaṁ manaḥ ||",
+        "english": {
+          "translation": "O son of Kunti, the turbulent senses forcibly carry away the mind even of a wise person who is striving for perfection.",
+          "commentary": "A sobering warning: even the wise ('vipashchitah') who strive ('yatatah') can be overcome by turbulent senses ('indriyani pramathini'). The senses 'prasabham haranti' (forcibly carry away) the mind. This highlights the power of sensory drives and the difficulty of the spiritual path. Even with knowledge and effort, one can fall. This isn't to discourage but to inspire vigilance and humility. The path requires constant awareness, not just initial determination. It acknowledges the real challenges practitioners face."
+        },
+        "turkish": {
+          "translation": "Ey Kunti oğlu, çalkantılı duyular, mükemmellik için çabalayan bilge bir kişinin bile zihnini zorla alıp götürür.",
+          "commentary": "Ayıklatan bir uyarı: çabalayan ('yatatah') bilge kişi bile ('vipashchitah') çalkantılı duyular ('indriyani pramathini') tarafından alt edilebilir. Duyular zihni 'prasabham haranti' (zorla alıp götürür). Bu, duyusal dürtülerin gücünü ve manevi yolun zorluğunu vurgular. Bilgi ve çabayla bile, kişi düşebilir. Bu cesareti kırmak için değil, uyanıklık ve alçakgönüllülüğü ilham vermek içindir. Yol, sadece ilk kararlılık değil, sürekli farkındalık gerektirir. Uygulayıcıların karşılaştığı gerçek zorlukları kabul eder."
+        }
+      },
+      {
+        "verse_number": 61,
+        "sanskrit": "तानि सर्वाणि संयम्य युक्त आसीत मत्परः। वशे हि यस्येन्द्रियाणि तस्य प्रज्ञा प्रतिष्ठिता।।",
+        "transliteration": "tāni sarvāṇi saṁyamya yukta āsīta mat-paraḥ | vaśe hi yasyendriyāṇi tasya prajñā pratiṣṭhitā ||",
+        "english": {
+          "translation": "Having restrained all the senses, one should remain steadfast in yoga, intent on Me. For one whose senses are under control, wisdom is firmly established.",
+          "commentary": "The solution to verse 60's problem: restrain senses ('samyamya'), remain in yoga ('yukta asita'), and focus on the divine ('mat-parah'—devoted to Me). When senses are controlled ('vashe indriyani'), wisdom stabilizes. This introduces bhakti (devotion) as the means to self-control. Not mere willpower but surrender to the Supreme provides the strength to master senses. Devotion gives purpose and power to discipline. The combination of self-effort and divine grace enables victory over lower nature."
+        },
+        "turkish": {
+          "translation": "Tüm duyuları dizginleyerek, kişi yoga'da kararlı kalmalı, Bana niyetli olmalı. Duyuları kontrol altında olan kişinin bilgeliği sağlam şekilde yerleşmiştir.",
+          "commentary": "60. ayetin sorununa çözüm: duyuları dizginle ('samyamya'), yoga'da kal ('yukta asita') ve ilahiye odaklan ('mat-parah'—Bana adanmış). Duyular kontrol altına alındığında ('vashe indriyani'), bilgelik stabilize olur. Bu, bhakti'yi (bağlılık) kendini kontrol etme aracı olarak tanıtır. Salt irade gücü değil, Yüce'ye teslim olmak duyulara hakim olmak için güç sağlar. Bağlılık, disipline amaç ve güç verir. Kendine çaba ve ilahi lütfun kombinasyonu, alt doğaya karşı zaferi mümkün kılar."
+        }
+      },
+      {
+        "verse_number": 62,
+        "sanskrit": "ध्यायतो विषयान्पुंसः सङ्गस्तेषूपजायते। सङ्गात्सञ्जायते कामः कामात्क्रोधोऽभिजायते।।",
+        "transliteration": "dhyāyato viṣayān puṁsaḥ saṅgas teṣūpajāyate | saṅgāt sañjāyate kāmaḥ kāmāt krodho'bhijāyate ||",
+        "english": {
+          "translation": "For one who contemplates sense objects, attachment to them arises. From attachment springs desire, and from desire comes anger.",
+          "commentary": "This begins the famous chain of degradation. The sequence: (1) contemplation of objects ('dhyayato vishayan'), (2) attachment develops ('sangah upajayate'), (3) desire arises ('kamah sanjayate'), (4) anger emerges ('krodhah abhijayate'). This psychological analysis shows how dwelling on objects leads to bondage. The process is subtle—it begins with seemingly innocent thought. This teaches vigilance at the level of attention itself. What we mentally dwell on shapes our emotional life and destiny."
+        },
+        "turkish": {
+          "translation": "Duyu nesneleri üzerinde düşünen kişi için, onlara bağlılık doğar. Bağlılıktan arzu doğar ve arzudan öfke gelir.",
+          "commentary": "Bu, ünlü yozlaşma zincirini başlatır. Sıra: (1) nesneler üzerinde düşünme ('dhyayato vishayan'), (2) bağlılık gelişir ('sangah upajayate'), (3) arzu doğar ('kamah sanjayate'), (4) öfke çıkar ('krodhah abhijayate'). Bu psikolojik analiz, nesneler üzerinde durmak nasıl bağlılığa yol açtığını gösterir. Süreç incedir—görünüşte masum düşünceyle başlar. Bu, dikkat düzeyinde uyanıklık öğretir. Zihinsel olarak üzerinde durduğumuz şey duygusal yaşamımızı ve kaderimizi şekillendirir."
+        }
+      },
+      {
+        "verse_number": 63,
+        "sanskrit": "क्रोधाद्भवति सम्मोहः सम्मोहात्स्मृतिविभ्रमः। स्मृतिभ्रंशाद् बुद्धिनाशो बुद्धिनाशात्प्रणश्यति।।",
+        "transliteration": "krodhād bhavati sammohaḥ sammohāt smṛti-vibhramaḥ | smṛti-bhraṁśād buddhi-nāśo buddhi-nāśāt praṇaśyati ||",
+        "english": {
+          "translation": "From anger comes delusion, from delusion loss of memory, from loss of memory destruction of discrimination, and from destruction of discrimination one perishes.",
+          "commentary": "The chain continues: (5) anger leads to delusion ('krodhad bhavati sammohah'), (6) delusion causes memory loss ('smriti-vibhramah'—forgetting one's values/purpose), (7) loss of memory destroys discrimination ('buddhi-nashah'), (8) destruction of discrimination leads to complete ruin ('pranashyati'). This maps the complete psychological descent from thought to destruction. Each step follows inevitably from the previous. This profound analysis shows how spiritual practice can unravel through inattention to mental processes."
+        },
+        "turkish": {
+          "translation": "Öfkeden yanılsama gelir, yanılsamadan hafıza kaybı, hafıza kaybından ayırt etme yetisinin yok olması ve ayırt etme yetisinin yok olmasından kişi mahvolur.",
+          "commentary": "Zincir devam eder: (5) öfke yanılsamaya yol açar ('krodhad bhavati sammohah'), (6) yanılsama hafıza kaybına neden olur ('smriti-vibhramah'—değerleri/amacı unutma), (7) hafıza kaybı ayırt etmeyi yok eder ('buddhi-nashah'), (8) ayırt etmenin yok olması tam yıkıma yol açar ('pranashyati'). Bu, düşünceden yıkıma kadar tam psikolojik düşüşü haritalandırır. Her adım öncekinden kaçınılmaz olarak takip eder. Bu derin analiz, manevi pratiğin zihinsel süreçlere dikkat etmemek yoluyla nasıl çözülebileceğini gösterir."
+        }
+      },
+      {
+        "verse_number": 64,
+        "sanskrit": "रागद्वेषवियुक्तैस्तु विषयानिन्द्रियैश्चरन्। आत्मवश्यैर्विधेयात्मा प्रसादमधिगच्छति।।",
+        "transliteration": "rāga-dveṣa-viyuktais tu viṣayān indriyaiś caran | ātma-vaśyair vidheyātmā prasādam adhigacchati ||",
+        "english": {
+          "translation": "But one who moves among sense objects with senses under self-control, free from attraction and aversion, and who is self-disciplined, attains tranquility.",
+          "commentary": "The antidote to verses 62-63's downward spiral: engage objects ('vishayan charan') with controlled senses ('atma-vashyaih indriyaih'), free from attachment and aversion ('raga-dvesha-viyuktaih'), and self-mastered ('vidheyatma'). This leads to 'prasadam' (tranquility/grace). This isn't withdrawal from life but transformed engagement. The key is internal freedom while externally active. One can live fully in the world without being enslaved by it. This is the practical synthesis: action with detachment, engagement with freedom."
+        },
+        "turkish": {
+          "translation": "Ama duyu nesneleri arasında, kendini kontrol altında duyularla, çekim ve itimden uzak ve kendine hakim olarak hareket eden kişi, sükunete ulaşır.",
+          "commentary": "62-63. ayetlerin aşağı doğru spiralinin panzehiri: kontrollü duyularla ('atma-vashyaih indriyaih'), bağlılık ve tiksintiden uzak ('raga-dvesha-viyuktaih') ve kendine hakim ('vidheyatma') olarak nesneleri meşgul et ('vishayan charan'). Bu 'prasadam'a (sükunet/lütuf) yol açar. Bu yaşamdan çekilme değil, dönüştürülmüş meşguliyet. Anahtar, dışsal olarak aktifken içsel özgürlüktür. Kişi dünyada tam olarak yaşayabilir, ona köleleşmeden. Bu pratik sentezdir: bağımsızlıkla eylem, özgürlükle meşguliyet."
+        }
+      },
+      {
+        "verse_number": 65,
+        "sanskrit": "प्रसादे सर्वदुःखानां हानिरस्योपजायते। प्रसन्नचेतसो ह्याशु बुद्धिः पर्यवतिष्ठते।।",
+        "transliteration": "prasāde sarva-duḥkhānāṁ hānir asyopajāyate | prasanna-cetaso hy āśu buddhiḥ paryavatiṣṭhate ||",
+        "english": {
+          "translation": "In tranquility, all sorrows are destroyed; for the intellect of one whose mind is peaceful soon becomes firmly established.",
+          "commentary": "The fruits of tranquility ('prasada'): (1) all sorrows cease ('sarva-duhkhanam hanir'), (2) intellect becomes established ('buddhih paryavatishthate'). 'Prasanna-chetasah' (clear/peaceful mind) quickly attains stability. This shows the positive feedback loop: inner peace destroys suffering and stabilizes wisdom, which in turn deepens peace. The spiral upward mirrors the downward spiral of verses 62-63. One leads to destruction, the other to liberation. The choice of what we mentally dwell on determines which spiral we enter."
+        },
+        "turkish": {
+          "translation": "Sükunette, tüm kederler yok edilir; zihni huzurlu olan kişinin aklı yakında sağlam şekilde yerleşir.",
+          "commentary": "Sükunetin ('prasada') meyveleri: (1) tüm kederler sona erer ('sarva-duhkhanam hanir'), (2) akıl yerleşir ('buddhih paryavatishthate'). 'Prasanna-chetasah' (berrak/huzurlu zihin) hızla istikrar kazanır. Bu, olumlu geri bildirim döngüsünü gösterir: iç huzur acıyı yok eder ve bilgeliği stabilize eder, bu da huzuru derinleştirir. Yukarı doğru spiral, 62-63. ayetlerin aşağı doğru spiralini yansıtır. Biri yıkıma, diğeri kurtuluşa yol açar. Zihinsel olarak üzerinde durduğumuz şeyin seçimi hangi spirale gireceğimizi belirler."
+        }
+      },
+      {
+        "verse_number": 66,
+        "sanskrit": "नास्ति बुद्धिरयुक्तस्य न चायुक्तस्य भावना। न चाभावयतः शान्तिरशान्तस्य कुतः सुखम्।।",
+        "transliteration": "nāsti buddhir ayuktasya na cāyuktasya bhāvanā | na cābhāvayataḥ śāntir aśāntasya kutaḥ sukham ||",
+        "english": {
+          "translation": "There is no wisdom for one not in yoga, nor contemplation for one not in yoga. For one without contemplation there is no peace, and for one without peace, how can there be happiness?",
+          "commentary": "A logical chain establishing the necessity of yoga: (1) without yoga, no wisdom ('nasti buddhih ayuktasya'), (2) without yoga, no meditation ('na bhavana'), (3) without meditation, no peace ('na shantih'), (4) without peace, no happiness ('kutah sukham'). This shows the interconnection of spiritual practices. Yoga (discipline/union) is the foundation enabling wisdom, contemplation, peace, and ultimately happiness. The rhetorical question 'how can there be happiness?' emphasizes the impossibility of true joy without spiritual foundation."
+        },
+        "turkish": {
+          "translation": "Yoga'da olmayan için bilgelik yoktur, yoga'da olmayan için düşünce de yoktur. Düşünce olmayanın huzuru yoktur ve huzuru olmayanın mutluluğu nasıl olabilir?",
+          "commentary": "Yoga'nın gerekliliğini tesis eden mantıksal bir zincir: (1) yoga olmadan, bilgelik yok ('nasti buddhih ayuktasya'), (2) yoga olmadan, meditasyon yok ('na bhavana'), (3) meditasyon olmadan, huzur yok ('na shantih'), (4) huzur olmadan, mutluluk yok ('kutah sukham'). Bu, manevi pratiklerin birbirine bağlılığını gösterir. Yoga (disiplin/birlik), bilgelik, kontemplatif düşünce, huzur ve nihayetinde mutluluğu mümkün kılan temeldir. 'Mutluluk nasıl olabilir?' retorik sorusu, manevi temel olmadan gerçek neşenin imkansızlığını vurgular."
+        }
+      },
+      {
+        "verse_number": 67,
+        "sanskrit": "इन्द्रियाणां हि चरतां यन्मनोऽनुविधीयते। तदस्य हरति प्रज्ञां वायुर्नावमिवाम्भसि।।",
+        "transliteration": "indriyāṇāṁ hi caratāṁ yan mano'nuvidhīyate | tad asya harati prajñāṁ vāyur nāvam ivāmbhasi ||",
+        "english": {
+          "translation": "For the mind that follows the wandering senses carries away one's wisdom, as wind carries away a ship on water.",
+          "commentary": "Another vivid analogy: when mind follows roaming senses ('indriyanan charatan'), wisdom is swept away ('harati prajnam') like a ship blown by wind on water. The ship without anchor (discrimination) is at the mercy of wind (senses). This reinforces verse 60's warning. The mind must control senses, not be controlled by them. Without this mastery, even acquired wisdom can be lost. The metaphor emphasizes the passive helplessness of one whose mind is sense-driven—blown about with no direction or control."
+        },
+        "turkish": {
+          "translation": "Başıboş duyuları takip eden zihin, kişinin bilgeliğini alıp götürür, rüzgar suda bir gemiyi götürdüğü gibi.",
+          "commentary": "Başka bir canlı benzetme: zihin dolaşan duyuları ('indriyanan charatan') takip ettiğinde, bilgelik süpürülür ('harati prajnam') suda rüzgardan savrulan bir gemi gibi. Çapası olmayan gemi (ayırt etme), rüzgarın (duyular) merhametindedir. Bu, 60. ayetin uyarısını güçlendirir. Zihin duyuları kontrol etmeli, onlar tarafından kontrol edilmemeli. Bu ustalık olmadan, edinilmiş bilgelik bile kaybolabilir. Metafor, zihni duyu güdümlü olan kişinin pasif çaresizliğini vurgular—yön veya kontrol olmadan savrulur."
+        }
+      },
+      {
+        "verse_number": 68,
+        "sanskrit": "तस्माद्यस्य महाबाहो निगृहीतानि सर्वशः। इन्द्रियाणीन्द्रियार्थेभ्यस्तस्य प्रज्ञा प्रतिष्ठिता।।",
+        "transliteration": "tasmād yasya mahā-bāho nigṛhītāni sarvaśaḥ | indriyāṇīndriyārthebhyas tasya prajñā pratiṣṭhitā ||",
+        "english": {
+          "translation": "Therefore, O mighty-armed one, one whose senses are completely restrained from their objects—the wisdom of such a person is firmly established.",
+          "commentary": "Krishna concludes this section by reiterating the core teaching: complete sense-restraint ('nigrahitani sarvashah') from objects leads to established wisdom ('prajna pratishthita'). The epithet 'maha-baho' (mighty-armed) reminds Arjuna of his strength—he has the power to achieve this control. This verse bookends the discussion of senses (begun in verse 58), emphasizing that sensory mastery is both prerequisite and sign of wisdom. Control isn't suppression but redirection of energy toward higher purpose."
+        },
+        "turkish": {
+          "translation": "Bu nedenle, ey güçlü kollu, duyuları nesnelerinden tamamen dizginlenmiş olan kişinin—böyle bir kişinin bilgeliği sağlam şekilde yerleşmiştir.",
+          "commentary": "Krishna, bu bölümü ana öğretiyi yineleyerek sonlandırır: nesnelerden tam duyu dizginlemesi ('nigrahitani sarvashah'), yerleşik bilgeliğe ('prajna pratishthita') yol açar. 'Maha-baho' (güçlü kollu) lakabı, Arjuna'ya gücünü hatırlatır—bu kontrolü başarma gücüne sahiptir. Bu ayet, duyular tartışmasını (58. ayette başlayan) tamamlar, duyusal ustalığın hem bilgeliğin ön koşulu hem de işareti olduğunu vurgular. Kontrol, bastırma değil, enerjinin daha yüksek amaca yönlendirilmesidir."
+        }
+      },
+      {
+        "verse_number": 69,
+        "sanskrit": "या निशा सर्वभूतानां तस्यां जागर्ति संयमी। यस्यां जाग्रति भूतानि सा निशा पश्यतो मुनेः।।",
+        "transliteration": "yā niśā sarva-bhūtānāṁ tasyāṁ jāgarti saṁyamī | yasyāṁ jāgrati bhūtāni sā niśā paśyato muneḥ ||",
+        "english": {
+          "translation": "What is night for all beings is the time of waking for the self-controlled; and what is the time of waking for all beings is night for the sage who sees.",
+          "commentary": "A profound paradox using night-day metaphor. What ordinary people sleep through (spiritual reality—'nisha sarva-bhutanam'), the sage is awake to ('jāgarti samyami'). What ordinary people are awake to (sensory world—'yasyam jagrati bhutani'), the sage treats as night/illusion ('nisha pashyato muneh'). This describes inverted perception: the worldly think the material real and spiritual unreal; the sage sees the spiritual as real and material as relatively unreal. True awakening means seeing what others miss."
+        },
+        "turkish": {
+          "translation": "Tüm varlıklar için gece olan, kendini kontrol eden için uyanıklık zamanıdır; tüm varlıklar için uyanıklık zamanı olan, gören bilge için gecedir.",
+          "commentary": "Gece-gündüz metaforunu kullanan derin bir paradoks. Sıradan insanların uyuduğu şey (manevi gerçeklik—'nisha sarva-bhutanam'), bilge onun için uyanıktır ('jāgarti samyami'). Sıradan insanların uyanık olduğu şey (duyusal dünya—'yasyam jagrati bhutani'), bilge onu gece/illüzyon olarak görür ('nisha pashyato muneh'). Bu, tersine çevrilmiş algıyı tanımlar: dünyevi insanlar maddi olanı gerçek ve manevi olanı gerçek dışı düşünür; bilge manevi olanı gerçek ve maddi olanı nispeten gerçek dışı görür. Gerçek uyanış, başkalarının kaçırdığını görmek demektir."
+        }
+      },
+      {
+        "verse_number": 70,
+        "sanskrit": "आपूर्यमाणमचलप्रतिष्ठं समुद्रमापः प्रविशन्ति यद्वत्। तद्वत्कामा यं प्रविशन्ति सर्वे स शान्तिमाप्नोति न कामकामी।।",
+        "transliteration": "āpūryamāṇam acala-pratiṣṭhaṁ samudram āpaḥ praviśanti yadvat | tadvat kāmā yaṁ praviśanti sarve sa śāntim āpnoti na kāma-kāmī ||",
+        "english": {
+          "translation": "Just as the ocean remains undisturbed by the waters that constantly flow into it, so the sage into whom all desires enter without disturbing remains at peace, not one who desires fulfillment of desires.",
+          "commentary": "Magnificent ocean analogy: as rivers enter the ocean without affecting its level or calm, desires may enter the sage without disturbing peace. The ocean is 'achala-pratishtham' (immovably established) and 'apuryamanam' (being filled yet full). Similarly, the sage remains undisturbed when desires arise. Not 'kama-kami' (desirer of desires) but one who lets desires come and go. This isn't suppression but transcendence through fullness. Like the complete ocean, the self-realized person is already full, so additions change nothing."
+        },
+        "turkish": {
+          "translation": "Sular sürekli okyanusu doldursa da, okyanus nasıl sarsılmadan kalırsa, tüm arzular ona girse de rahatsız etmeyen bilge de huzurda kalır, arzuların tatminini arzu eden değil.",
+          "commentary": "Muhteşem okyanus benzetmesi: nehirler okyanusa girse de seviyesini veya sakinliğini etkilemez, arzular bilgeye girse de huzuru bozmaz. Okyanus 'achala-pratishtham'dır (sarsılmaz şekilde yerleşmiş) ve 'apuryamanam' (doldurulmakta ama dolu). Benzer şekilde, bilge arzular doğduğunda rahatsız olmaz. 'Kama-kami' (arzuları arzu eden) değil, arzuların gidip gelmesine izin veren. Bu, bastırma değil, doluluk yoluyla aşmadır. Tam okyanus gibi, benliğini gerçekleştirmiş kişi zaten doludur, bu yüzden eklemeler hiçbir şeyi değiştirmez."
+        }
+      },
+      {
+        "verse_number": 71,
+        "sanskrit": "विहाय कामान्यः सर्वान्पुमांश्चरति निःस्पृहः। निर्ममो निरहङ्कारः स शान्तिमधिगच्छति।।",
+        "transliteration": "vihāya kāmān yaḥ sarvān pumāṁś carati niḥspṛhaḥ | nirmamo nirahaṅkāraḥ sa śāntim adhigacchati ||",
+        "english": {
+          "translation": "The person who abandons all desires, who acts free from longing, without sense of 'mine' and without ego—such a person attains peace.",
+          "commentary": "This verse describes the liberated state with three key renunciations: (1) abandoning desires ('vihaya kaman sarvan'), (2) without possessiveness ('nirmamah'—no sense of 'mine'), (3) without ego ('nirahankara'). One who acts from this state of inner freedom ('nihsprihah'—without craving) attains lasting peace ('shantim adhigacchati'). This isn't passive withdrawal but active engagement without psychological bondage. Actions continue but the sense of doership and ownership dissolves. This is liberation in life (jivanmukti)—freedom while living."
+        },
+        "turkish": {
+          "translation": "Tüm arzuları terk eden, özlem olmadan, 'benim' hissi olmadan ve ego olmadan hareket eden kişi—böyle bir kişi huzura ulaşır.",
+          "commentary": "Bu ayet, özgürleşmiş durumu üç anahtar feragat ile tanımlar: (1) arzuları terk etme ('vihaya kaman sarvan'), (2) sahip olmaksızın ('nirmamah'—'benim' hissi yok), (3) ego olmaksızın ('nirahankara'). Bu iç özgürlük durumundan ('nihsprihah'—arzu olmaksızın) hareket eden kişi kalıcı huzura ('shantim adhigacchati') ulaşır. Bu pasif çekilme değil, psikolojik esaret olmaksızın aktif meşguliyettir. Eylemler devam eder ama faillik ve sahiplenme hissi eriyip gider. Bu, yaşamdaki kurtuluştur (jivanmukti)—yaşarken özgürlük."
+        }
+      },
+      {
+        "verse_number": 72,
+        "sanskrit": "एषा ब्राह्मी स्थितिः पार्थ नैनां प्राप्य विमुह्यति। स्थित्वास्यामन्तकालेऽपि ब्रह्मनिर्वाणमृच्छति।।",
+        "transliteration": "eṣā brāhmī sthitiḥ pārtha naināṁ prāpya vimuhyati | sthitvāsyām anta-kāle'pi brahma-nirvāṇam ṛcchati ||",
+        "english": {
+          "translation": "This is the state of Brahman, O Partha. Having attained this, one is never again deluded. Established in this state even at the time of death, one attains liberation in Brahman.",
+          "commentary": "The chapter's concluding verse. This is 'brahmi sthiti' (the state of Brahman)—the ultimate realization. Once attained ('prāpya'), delusion never returns ('na vimuhyati'). Even if realized at death's moment ('anta-kale api'), one achieves 'brahma-nirvana' (extinction/liberation in Brahman). This teaches that liberation is irreversible and can occur at any time. The entire chapter has built to this: from Arjuna's despair to the promise of ultimate freedom. This is the goal Krishna has been revealing—union with the absolute, transcendence of suffering, eternal peace."
+        },
+        "turkish": {
+          "translation": "Bu Brahman durumudur, ey Partha. Buna ulaştıktan sonra, kişi bir daha asla aldanmaz. Ölüm anında bile bu durumda yerleşmiş olan, Brahman'da kurtuluşa ulaşır.",
+          "commentary": "Bölümün sonuç ayeti. Bu 'brahmi sthiti'dir (Brahman durumu)—nihai gerçekleştirme. Bir kez ulaşıldığında ('prāpya'), yanılsama asla geri dönmez ('na vimuhyati'). Ölüm anında bile gerçekleştirilse ('anta-kale api'), kişi 'brahma-nirvana'yı (Brahman'da yok oluş/kurtuluş) başarır. Bu, kurtuluşun geri döndürülemez olduğunu ve herhangi bir zamanda gerçekleşebileceğini öğretir. Tüm bölüm buna inşa edilmiştir: Arjuna'nın umutsuzluğundan nihai özgürlük vaadine. Bu, Krishna'nın açıkladığı hedeftir—mutlakla birlik, acıyı aşma, ebedi huzur."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "verses_translated": 72,
+    "expected_verses": 72,
+    "complete": true,
+    "missing_verses": []
+  }
+}

@@ -395,7 +395,234 @@
           "translation": "Gandiva (yay) elimden kayıyor ve derim her yerde yanıyor. Ayakta duramıyorum ve zihnim dönüyor.",
           "commentary": "Arjuna'nın efsanevi yayı Gandiva—savaşçı kimliğinin sembolü—elinden kayar ve amaç duygusunun çöküşünü temsil eder. Yanan derisi ve ayakta duramayışı tam fiziksel hareketsizliği gösterir. En kritik olarak, zihni 'dönüyor' (bhramati), zihinsel netlik ve istikrar kaybını gösterir. Bu tam çöküş—fiziksel, psikolojik ve entelektüel—Krishna'nın kapsamlı öğretisine ihtiyaç yaratır."
         }
+      },
+      {
+        "verse_number": 31,
+        "sanskrit": "निमित्तानि च पश्यामि विपरीतानि केशव। न च श्रेयोऽनुपश्यामि हत्वा स्वजनमाहवे॥",
+        "transliteration": "nimittāni ca paśyāmi viparītāni keśava | na ca śreyo 'nupaśyāmi hatvā sva-janam āhave ||",
+        "english": {
+          "translation": "I see adverse omens, O Keshava, and I foresee no good in slaying my own kinsmen in battle.",
+          "commentary": "Arjuna observes inauspicious signs (nimittāni viparītāni) that trouble him deeply. He addresses Krishna as Keśava (slayer of the demon Keshi, or one with beautiful hair). Ironically, while Krishna destroys demons, Arjuna cannot see how destroying his relatives could bring śreyas (good/welfare). This verse marks his crisis of conscience as he contemplates the consequences of fratricide."
+        },
+        "turkish": {
+          "translation": "Ey Keşava, uğursuz belirtiler görüyorum ve savaşta kendi akrabalarımı öldürerek hiçbir hayır elde edeceğimi göremiyorum.",
+          "commentary": "Arjuna, onu derinden rahatsız eden uğursuz işaretler (nimittāni viparītāni) görür. Krishna'ya Keśava (Keşi iblisini öldüren ya da güzel saçlı) diye hitap eder. İronik bir şekilde, Krishna iblisleri yok ederken, Arjuna akrabalarını yok etmenin nasıl śreyas (iyilik/refah) getireceğini göremez. Bu ayet, kardeş katilinin sonuçlarını düşünürken yaşadığı vicdan krizini işaretler."
+        }
+      },
+      {
+        "verse_number": 32,
+        "sanskrit": "न काङ्क्षे विजयं कृष्ण न च राज्यं सुखानि च। किं नो राज्येन गोविन्द किं भोगैर्जीवितेन वा॥",
+        "transliteration": "na kāṅkṣe vijayaṁ kṛṣṇa na ca rājyaṁ sukhāni ca | kiṁ no rājyena govinda kiṁ bhogair jīvitena vā ||",
+        "english": {
+          "translation": "I desire neither victory, O Krishna, nor kingdom, nor pleasures. What use is kingdom to us, O Govinda, what use are enjoyments or even life itself?",
+          "commentary": "Arjuna renounces all worldly ambitions—victory (vijaya), kingship (rājya), and pleasures (sukhāni). He addresses Krishna as Govinda (protector of cows/earth, or finder of cows). His rhetorical questions express deepening despair and question the value of material gains when obtained through killing loved ones. This sets up the philosophical dialogue where Krishna will address the true purpose of action beyond material results."
+        },
+        "turkish": {
+          "translation": "Ey Krishna, ne zafer ne krallık ne de zevkler istiyorum. Ey Govinda, krallığın bize ne faydası var, zevklerin ya da hayatın bile ne faydası var?",
+          "commentary": "Arjuna tüm dünyevi hırslarından vazgeçer—zafer (vijaya), krallık (rājya) ve zevkler (sukhāni). Krishna'ya Govinda (ineklerin/dünyanın koruyucusu veya inekleri bulan) diye hitap eder. Retorik soruları derinleşen umutsuzluğunu ifade eder ve sevdiklerini öldürerek elde edilen maddi kazançların değerini sorgular. Bu, Krishna'nın maddi sonuçların ötesinde eylemin gerçek amacını ele alacağı felsefi diyaloğu hazırlar."
+        }
+      },
+      {
+        "verse_number": 33,
+        "sanskrit": "येषामर्थे काङ्क्षितं नो राज्यं भोगाः सुखानि च। त इमेऽवस्थिता युद्धे प्राणांस्त्यक्त्वा धनानि च॥",
+        "transliteration": "yeṣām arthe kāṅkṣitaṁ no rājyaṁ bhogāḥ sukhāni ca | ta ime 'vasthitā yuddhe prāṇāṁs tyaktvā dhanāni ca ||",
+        "english": {
+          "translation": "Those for whose sake we desire kingdom, enjoyments, and pleasures—they stand here in battle, having abandoned life and wealth.",
+          "commentary": "Arjuna highlights the tragic irony: the very people (yeṣām arthe—for whose sake) one seeks power and prosperity are now arrayed as enemies, ready to sacrifice their lives (prāṇān tyaktvā) and wealth (dhanāni). This verse exposes the futility he perceives—fighting for a kingdom when those who would share in its benefits must be killed to obtain it. The circular logic intensifies his paralysis."
+        },
+        "turkish": {
+          "translation": "Krallığı, zevkleri ve mutlulukları onlar için arzuladığımız kimseler—işte onlar burada savaşta duruyorlar, hayatlarını ve servetlerini terk etmiş olarak.",
+          "commentary": "Arjuna trajik ironiyi vurgular: güç ve refah aranan insanlar (yeṣām arthe—onlar için) artık düşman olarak dizilmiş, hayatlarını (prāṇān tyaktvā) ve servetlerini (dhanāni) feda etmeye hazır durumdadır. Bu ayet algıladığı boşluğu ortaya koyar—faydalarını paylaşacak olanlar onu elde etmek için öldürülmek zorunda kalındığında krallık için savaşmak. Döngüsel mantık felcini yoğunlaştırır."
+        }
+      },
+      {
+        "verse_number": 34,
+        "sanskrit": "आचार्याः पितरः पुत्रास्तथैव च पितामहाः। मातुलाः श्वशुराः पौत्राः श्यालाः सम्बन्धिनस्तथा॥",
+        "transliteration": "ācāryāḥ pitaraḥ putrās tathaiva ca pitāmahāḥ | mātulāḥ śvaśurāḥ pautrāḥ śyālāḥ sambandhinaḥ tathā ||",
+        "english": {
+          "translation": "Teachers, fathers, sons, and also grandfathers, maternal uncles, fathers-in-law, grandsons, brothers-in-law, and other kinsmen.",
+          "commentary": "Arjuna enumerates the familial and social relationships: ācāryas (teachers/spiritual guides), pitaras (fathers), pitāmahas (grandfathers), mātulas (maternal uncles), śvaśuras (fathers-in-law), śyālas (brothers-in-law), and sambandhinaḥ (other relatives). This comprehensive list emphasizes the sacred bonds that would be violated by warfare. In Vedic culture, these relationships carried profound dharmic obligations of respect, protection, and service that Arjuna feels he cannot transgress."
+        },
+        "turkish": {
+          "translation": "Öğretmenler, babalar, oğullar ve ayrıca büyükbabalar, dayılar, kayınbabalar, torunlar, kayınbiraderler ve diğer akrabalar.",
+          "commentary": "Arjuna ailevi ve sosyal ilişkileri sıralar: ācāryalar (öğretmenler/ruhsal rehberler), pitaralar (babalar), pitāmahalar (büyükbabalar), mātulalar (dayılar), śvaśuralar (kayınbabalar), śyālalar (kayınbiraderler) ve sambandhinaḥ (diğer akrabalar). Bu kapsamlı liste, savaşla ihlal edilecek kutsal bağları vurgular. Vedik kültüründe bu ilişkiler, Arjuna'nın ihlal edemeyeceğini hissettiği saygı, koruma ve hizmetin derin dharmik yükümlülüklerini taşıyordu."
+        }
+      },
+      {
+        "verse_number": 35,
+        "sanskrit": "एतान्न हन्तुमिच्छामि घ्नतोऽपि मधुसूदन। अपि त्रैलोक्यराज्यस्य हेतोः किं नु महीकृते॥",
+        "transliteration": "etān na hantum icchāmi ghnato 'pi madhusūdana | api trailokya-rājyasya hetoḥ kiṁ nu mahī-kṛte ||",
+        "english": {
+          "translation": "I do not wish to kill these, O Madhusudana, even if I am killed by them—not even for sovereignty of the three worlds, much less for this earthly kingdom.",
+          "commentary": "Arjuna addresses Krishna as Madhusūdana (slayer of the demon Madhu), implicitly seeking help against his inner demons of doubt. He declares he would rather be killed (ghnataḥ api—even if being killed) than kill his relatives, even for rulership of trailokya (the three worlds: heaven, earth, netherworld). This hyperbolic statement reveals the depth of his moral paralysis—no worldly gain, however vast, justifies fratricide."
+        },
+        "turkish": {
+          "translation": "Ey Madhusudana, onlar tarafından öldürülsem bile bunları öldürmek istemiyorum—üç dünyanın egemenliği için bile değil, bu dünya krallığı için hiç değil.",
+          "commentary": "Arjuna, Krishna'ya Madhusūdana (Madhu iblisini öldüren) diye hitap eder ve dolaylı olarak şüphe iblislerine karşı yardım ister. Akrabalarını öldürmeyi, trailokya'nın (üç dünya: cennet, dünya, yeraltı) yönetimi için bile kabul etmeyeceğini açıklar (ghnataḥ api—öldürülse bile). Bu abartılı ifade, ahlaki felcinin derinliğini ortaya koyar—ne kadar geniş olursa olsun hiçbir dünyevi kazanç kardeş katilini haklı çıkarmaz."
+        }
+      },
+      {
+        "verse_number": 36,
+        "sanskrit": "निहत्य धार्तराष्ट्रान्नः का प्रीतिः स्याज्जनार्दन। पापमेवाश्रयेदस्मान्हत्वैतानाततायिनः॥",
+        "transliteration": "nihatya dhārtarāṣṭrān naḥ kā prītiḥ syāj janārdana | pāpam evāśrayed asmān hatvaitān ātatāyinaḥ ||",
+        "english": {
+          "translation": "What joy could we have, O Janardana, by killing the sons of Dhritarashtra? Only sin would accrue to us by slaying even these aggressors.",
+          "commentary": "Arjuna questions what prīti (joy/satisfaction) could come from killing the Dhārtarāṣṭras (sons of Dhritarashtra). Even though they are ātatāyins (aggressors/violent attackers—those who deserve punishment), killing them would bring only pāpa (sin). This reflects his confusion about dharma in complex situations where multiple moral principles conflict. Classical texts permit killing ātatāyins in self-defense, yet Arjuna sees only sin in this action."
+        },
+        "turkish": {
+          "translation": "Ey Janardana, Dhritarashtra'nın oğullarını öldürerek ne sevinç alabiliriz? Bu saldırganları öldürerek bile bize sadece günah gelir.",
+          "commentary": "Arjuna, Dhārtarāṣṭraları (Dhritarashtra'nın oğullarını) öldürmekten ne prīti (sevinç/tatmin) gelebileceğini sorgular. Her ne kadar onlar ātatāyinler (saldırganlar/şiddetli saldırganlar—ceza hak edenler) olsalar da, onları öldürmek sadece pāpa (günah) getirir. Bu, birden fazla ahlaki ilkenin çatıştığı karmaşık durumlarda dharma konusundaki karışıklığını yansıtır. Klasik metinler meşru müdafaada ātatāyinleri öldürmeye izin verir, ancak Arjuna bu eylemde sadece günah görür."
+        }
+      },
+      {
+        "verse_number": 37,
+        "sanskrit": "तस्मान्नार्हा वयं हन्तुं धार्तराष्ट्रान्स्वबान्धवान्। स्वजनं हि कथं हत्वा सुखिनः स्याम माधव॥",
+        "transliteration": "tasmān nārhā vayaṁ hantuṁ dhārtarāṣṭrān sva-bāndhavān | sva-janaṁ hi kathaṁ hatvā sukhinaḥ syāma mādhava ||",
+        "english": {
+          "translation": "Therefore, we should not kill the sons of Dhritarashtra, our own kinsmen. How can we be happy, O Madhava, by killing our own people?",
+          "commentary": "Arjuna concludes (tasmāt—therefore) that killing the Kauravas, who are sva-bāndhavān (one's own relatives), is not justified (na arhāḥ—not proper/deserving). He addresses Krishna as Mādhava (descendant of Madhu, husband of Lakshmi). His rhetorical question—how can happiness (sukhinaḥ) come from killing sva-janam (one's own people)—encapsulates his moral dilemma: warrior dharma requires fighting, but killing family seems fundamentally wrong and incompatible with well-being."
+        },
+        "turkish": {
+          "translation": "Bu nedenle, Dhritarashtra'nın oğullarını, kendi akrabalarımızı öldürmemeliyiz. Ey Madhava, kendi halkımızı öldürerek nasıl mutlu olabiliriz?",
+          "commentary": "Arjuna, sva-bāndhavān (kişinin kendi akrabaları) olan Kaurava'ları öldürmenin haklı olmadığı (na arhāḥ—uygun/layık değil) sonucuna varır (tasmāt—bu nedenle). Krishna'ya Mādhava (Madhu'nun soyundan, Lakshmi'nin eşi) diye hitap eder. Retorik sorusu—sva-janam'ı (kendi halkını) öldürmekten nasıl mutluluk (sukhinaḥ) gelebilir—ahlaki ikilemini özetler: savaşçı dharması savaşmayı gerektirir, ama aileyi öldürmek temelden yanlış ve refaha uyumsuz görünür."
+        }
+      },
+      {
+        "verse_number": 38,
+        "sanskrit": "यद्यप्येते न पश्यन्ति लोभोपहतचेतसः। कुलक्षयकृतं दोषं मित्रद्रोहे च पातकम्॥",
+        "transliteration": "yady apy ete na paśyanti lobhopahata-cetasaḥ | kula-kṣaya-kṛtaṁ doṣaṁ mitra-drohe ca pātakam ||",
+        "english": {
+          "translation": "Even though these men, with minds overpowered by greed, see no fault in the destruction of family and no sin in treachery to friends,",
+          "commentary": "Arjuna acknowledges that the Kauravas, described as lobhopahata-cetasaḥ (those whose minds/consciousness are afflicted by greed), cannot perceive the doṣa (fault/evil) in kula-kṣaya (family destruction) or pātaka (sin/crime) in mitra-droha (betrayal of friends). Their moral vision is clouded by lobha (greed/avarice). This verse demonstrates Arjuna's superior moral awareness—he can see the consequences that his enemies, corrupted by greed, cannot perceive."
+        },
+        "turkish": {
+          "translation": "Her ne kadar bu adamlar, açgözlülük tarafından ele geçirilmiş zihinlerle, ailenin yıkımında kusur ve arkadaşlara ihanette günah görmeseler de,",
+          "commentary": "Arjuna, lobhopahata-cetasaḥ (bilinçleri açgözlülük tarafından etkilenmiş olanlar) olarak tanımlanan Kaurava'ların, kula-kṣaya'da (aile yıkımı) doṣa (kusur/kötülük) ya da mitra-droha'da (arkadaşlara ihanet) pātaka (günah/suç) algılayamadıklarını kabul eder. Ahlaki görüşleri lobha (açgözlülük/tamahkarlık) tarafından bulanıklaştırılmıştır. Bu ayet Arjuna'nın üstün ahlaki farkındalığını gösterir—açgözlülük tarafından yozlaştırılmış düşmanlarının algılayamadığı sonuçları o görebilir."
+        }
+      },
+      {
+        "verse_number": 39,
+        "sanskrit": "कथं न ज्ञेयमस्माभिः पापादस्मान्निवर्तितुम्। कुलक्षयकृतं दोषं प्रपश्यद्भिर्जनार्दन॥",
+        "transliteration": "kathaṁ na jñeyam asmābhiḥ pāpād asmān nivartitum | kula-kṣaya-kṛtaṁ doṣaṁ prapaśyadbhir janārdana ||",
+        "english": {
+          "translation": "Why should we not have the wisdom to turn away from this sin, O Janardana, we who clearly see the evil in the destruction of family?",
+          "commentary": "Arjuna argues that since he and his brothers prapaśyadbhiḥ (clearly see/perceive) the doṣa in kula-kṣaya, they should possess jñeya (knowledge/wisdom) to nivartitum (turn away from) this pāpa (sin). He appeals to Krishna as Janārdana (one worshipped by all people, or one who agitates/moves people). This rhetorical question asserts that moral clarity obligates right action—or in this case, restraint from action deemed sinful."
+        },
+        "turkish": {
+          "translation": "Ey Janardana, ailenin yıkımındaki kötülüğü açıkça gören bizler, neden bu günahtan uzaklaşma bilgeliğine sahip olmamalıyız?",
+          "commentary": "Arjuna, kendisi ve kardeşlerinin kula-kṣaya'daki doṣa'yı prapaśyadbhiḥ (açıkça görmek/algılamak) için bu pāpa'dan (günah) nivartitum (uzaklaşmak) için jñeya'ya (bilgi/bilgelik) sahip olmaları gerektiğini savunur. Krishna'ya Janārdana (herkes tarafından tapınılan ya da insanları harekete geçiren) diye hitap eder. Bu retorik soru, ahlaki netliğin doğru eylemi—ya da bu durumda günahlı olarak görülen eylemden kaçınmayı—zorunlu kıldığını ileri sürer."
+        }
+      },
+      {
+        "verse_number": 40,
+        "sanskrit": "कुलक्षये प्रणश्यन्ति कुलधर्माः सनातनाः। धर्मे नष्टे कुलं कृत्स्नमधर्मोऽभिभवत्युत॥",
+        "transliteration": "kula-kṣaye praṇaśyanti kula-dharmāḥ sanātanāḥ | dharme naṣṭe kulaṁ kṛtsnam adharmo 'bhibhavaty uta ||",
+        "english": {
+          "translation": "With the destruction of the family, the ancient family traditions perish. When dharma is destroyed, adharma overwhelms the entire family.",
+          "commentary": "Arjuna explains cascading consequences: when kula-kṣaya (family destruction) occurs, kula-dharmāḥ sanātanāḥ (the eternal/ancient family duties/traditions) praṇaśyanti (perish utterly). When these dharmas are naṣṭa (destroyed), adharma (unrighteousness/lawlessness) abhibhavati (overpowers/overwhelms) the kṛtsnam kulam (entire family). This reflects Vedic belief that families are repositories of dharma transmitted across generations; their destruction causes comprehensive moral and social collapse."
+        },
+        "turkish": {
+          "translation": "Ailenin yıkımıyla, eski aile gelenekleri yok olur. Dharma yok olduğunda, adharma tüm aileyi etkisi altına alır.",
+          "commentary": "Arjuna kademeli sonuçları açıklar: kula-kṣaya (aile yıkımı) gerçekleştiğinde, kula-dharmāḥ sanātanāḥ (ebedi/eski aile görevleri/gelenekleri) praṇaśyanti (tamamen yok olur). Bu dharmalar naṣṭa (yok edildiğinde), adharma (dinsizlik/yasasızlık) kṛtsnam kulam'ı (tüm aileyi) abhibhavati (alt eder/etkisi altına alır). Bu, ailelerin nesiller boyunca aktarılan dharma hazineleri olduğuna dair Vedik inancı yansıtır; onların yıkımı kapsamlı ahlaki ve sosyal çöküşe neden olur."
+        }
+      },
+      {
+        "verse_number": 41,
+        "sanskrit": "अधर्माभिभवात्कृष्ण प्रदुष्यन्ति कुलस्त्रियः। स्त्रीषु दुष्टासु वार्ष्णेय जायते वर्णसङ्करः॥",
+        "transliteration": "adharmābhibhavāt kṛṣṇa praduṣyanti kula-striyaḥ | strīṣu duṣṭāsu vārṣṇeya jāyate varṇa-saṅkaraḥ ||",
+        "english": {
+          "translation": "When unrighteousness prevails, O Krishna, the women of the family become corrupted. When women are corrupted, O Varshneya, there arises intermixing of castes.",
+          "commentary": "Arjuna describes how adharmābhibhavāt (from the predominance of adharma), kula-striyaḥ praduṣyanti (family women become corrupted/polluted). This leads to varṇa-saṅkara (intermixing of varnas/castes). He addresses Krishna as Vārṣṇeya (descendant of Vrishni). This reflects ancient concerns about social order and lineage purity. Modern interpretations focus on the broader principle that moral breakdown in society's institutions leads to chaos and loss of stable social structure and values."
+        },
+        "turkish": {
+          "translation": "Ey Krishna, dinsizlik hüküm sürdüğünde, ailenin kadınları yozlaşır. Ey Varshneya, kadınlar yozlaştığında, kastların karışması ortaya çıkar.",
+          "commentary": "Arjuna, adharmābhibhavāt'tan (adharma'nın baskınlığından) kula-striyaḥ praduṣyanti'nin (aile kadınlarının yozlaşması/kirlenmesi) nasıl gerçekleştiğini anlatır. Bu, varṇa-saṅkara'ya (varna/kast karışımı) yol açar. Krishna'ya Vārṣṇeya (Vrishni'nin soyundan) diye hitap eder. Bu, sosyal düzen ve soy saflığına dair eski kaygıları yansıtır. Modern yorumlar, toplumun kurumlarındaki ahlaki çöküşün kaosa ve istikrarlı sosyal yapı ve değerlerin kaybına yol açtığı daha geniş ilkeye odaklanır."
+        }
+      },
+      {
+        "verse_number": 42,
+        "sanskrit": "सङ्करो नरकायैव कुलघ्नानां कुलस्य च। पतन्ति पितरो ह्येषां लुप्तपिण्डोदकक्रियाः॥",
+        "transliteration": "saṅkaro narakāyaiva kula-ghnānāṁ kulasya ca | patanti pitaro hy eṣāṁ lupta-piṇḍodaka-kriyāḥ ||",
+        "english": {
+          "translation": "This intermixing leads to hell for the destroyers of the family and for the family itself. The ancestors fall, being deprived of the offerings of rice-balls and water.",
+          "commentary": "Arjuna warns that saṅkara (intermixing) brings naraka (hell) to both kula-ghnānām (family destroyers) and kulasya (the family lineage). The pitaras (ancestors) patanti (fall/suffer) because they become lupta-piṇḍodaka-kriyāḥ (deprived of piṇḍa/rice-ball and water offerings). This reflects Vedic belief that descendants have sacred obligations to perform śrāddha rituals; failure causes spiritual harm to ancestors across generations. The living sustain the dead through ritual offerings."
+        },
+        "turkish": {
+          "translation": "Bu karışım, ailenin yıkıcıları ve ailenin kendisi için cehenneme götürür. Atalar düşer, pirinç topları ve su adaklarından mahrum bırakılarak.",
+          "commentary": "Arjuna, saṅkara'nın (karışım) hem kula-ghnānām'a (aile yıkıcılarına) hem de kulasya'ya (aile soyuna) naraka (cehennem) getirdiğini uyarır. Pitaralar (atalar) patanti (düşer/acı çeker) çünkü lupta-piṇḍodaka-kriyāḥ (piṇḍa/pirinç topu ve su adaklarından mahrum) olurlar. Bu, torunların śrāddha ritüellerini gerçekleştirme kutsal yükümlülüklerine sahip olduğuna dair Vedik inancı yansıtır; başarısızlık atalara nesiller boyunca ruhsal zarar verir. Yaşayanlar ritüel adaklar yoluyla ölüleri ayakta tutar."
+        }
+      },
+      {
+        "verse_number": 43,
+        "sanskrit": "अधर्माभिभवात्कृष्ण जायते कुलसङ्करः। तस्माद्युध्यस्व भारत धर्म्याद्धर्मं त्यज न सदा॥",
+        "transliteration": "adharmābhibhavāt kṛṣṇa jāyate kula-saṅkaraḥ | tasmād yudhyasva bhārata dharmyāddharmaṁ tyaja na sadā ||",
+        "english": {
+          "translation": "O Krishna, from the predominance of unrighteousness arises intermixing of family lines. Therefore, O Bharata, fight for dharma; never abandon dharma.",
+          "commentary": "Arjuna concludes that adharmābhibhavāt (from the predominance of adharma), kula-saṅkaraḥ (intermixing of family lines) jāyate (arises). He urges Krishna as Bharata (descendant of King Bharata) to yudhyasva (fight) for dharma and to tyaja na sadā (never abandon) it. This verse encapsulates the core message: despite the moral complexities, upholding dharma through righteous action is paramount. It sets the stage for Krishna's teachings on duty, righteousness, and the nature of action."
+        },
+        "turkish": {
+          "translation": "Ey Krishna, dinsizlik baskınlığından aile çizgilerinin karışması ortaya çıkar. Bu nedenle, ey Bharata, dharma için savaş; dharmayı asla terk etme.",
+          "commentary": "Arjuna, adharmābhibhavāt'tan (adharma'nın baskınlığından) kula-saṅkaraḥ'ın (aile çizgilerinin karışımı) jāyate'nin (ortaya çıktığını) sonucuna varır. Krishna'ya Bharata (Kral Bharata'nın soyundan) olarak dharma için yudhyasva'ya (savaşmaya) ve tyaja na sadā'ya (asla terk etmemeye) çağrıda bulunur. Bu ayet temel mesajı özetler: ahlaki karmaşıklıklara rağmen, doğru eylem yoluyla dharma'yı sürdürmek en önemlisidir. Bu, Krishna'nın görev, doğruluk ve eylemin doğası üzerine öğretileri için zemin hazırlar."
+        }
+      },
+      {
+        "verse_number": 44,
+        "sanskrit": "उत्सन्नकुलधर्माणां मनुष्याणां जनार्दन। नरके नियतं वासो भवतीत्यनुशुश्रुम॥",
+        "transliteration": "utsanna-kula-dharmāṇāṁ manuṣyāṇāṁ janārdana | narake niyataṁ vāso bhavatīty anuśuśruma ||",
+        "english": {
+          "translation": "O Janardana, we have heard from sacred tradition that men whose family duties have been destroyed dwell in hell for an indefinite period.",
+          "commentary": "Arjuna cites traditional teachings through anuśuśruma (we have heard from authorities/tradition) that those who are utsanna-kula-dharmāṇām (whose family duties have been destroyed) suffer niyatam vāsa (fixed/certain dwelling) in naraka. The phrase indicates prolonged, possibly endless suffering. This appeal to scriptural authority (śruti and smṛti) demonstrates Arjuna grounding his moral reasoning in sacred texts rather than mere emotion, showing he's wrestling with dharmic principles, not just fear."
+        },
+        "turkish": {
+          "translation": "Ey Janardana, aile görevleri yok edilmiş insanların belirsiz bir süre boyunca cehennemde yaşadıklarını kutsal gelenekten duyduk.",
+          "commentary": "Arjuna, utsanna-kula-dharmāṇām (aile görevleri yok edilmiş) olanların naraka'da niyatam vāsa (belirli/kesin ikamet) çektiğine dair geleneksel öğretileri anuśuśruma (otoritelerden/gelenekten duyduk) yoluyla aktarır. İfade uzun, muhtemelen sonsuz acıyı ima eder. Kutsal otoriteye (śruti ve smṛti) bu başvuru, Arjuna'nın ahlaki mantığını salt duygular yerine kutsal metinlere dayandırdığını gösterir ve sadece korkuyla değil dharmik ilkelerle boğuştuğunu ortaya koyar."
+        }
+      },
+      {
+        "verse_number": 45,
+        "sanskrit": "अहो बत महत्पापं कर्तुं व्यवसिता वयम्। यद्राज्यसुखलोभेन हन्तुं स्वजनमुद्यताः॥",
+        "transliteration": "aho bata mahat pāpaṁ kartuṁ vyavasitā vayam | yad rājya-sukha-lobhena hantuṁ sva-janam udyatāḥ ||",
+        "english": {
+          "translation": "Alas! What a great sin we have resolved to commit, that driven by greed for the pleasures of kingship, we are prepared to kill our own kinsmen.",
+          "commentary": "Arjuna laments with profound remorse using aho bata (alas! how strange/unfortunate!) that he and his brothers are vyavasitāḥ (resolved/determined) to commit mahat pāpam (great sin). He recognizes their motivation is rājya-sukha-lobhena (greed for royal pleasures)—the very vice he earlier attributed to the Kauravas. This moment of self-awareness shows Arjuna questioning whether he is morally superior to those he condemns, adding another layer to his paralysis."
+        },
+        "turkish": {
+          "translation": "Eyvah! Ne büyük bir günah işlemeye kararlıyız, krallık zevkleri için açgözlülük tarafından sürüklenip kendi akrabalarımızı öldürmeye hazırız.",
+          "commentary": "Arjuna, aho bata (eyvah! ne garip/talihsiz!) kullanarak derin bir pişmanlıkla kendisinin ve kardeşlerinin mahat pāpam (büyük günah) işlemeye vyavasitāḥ (kararlı/azimli) olduklarından yakınır. Motivasyonlarının rājya-sukha-lobhena (kraliyet zevkleri için açgözlülük) olduğunu—daha önce Kaurava'lara atfettiği kusur—fark eder. Bu öz-farkındalık anı, Arjuna'nın kınadığı kişilerden ahlaki olarak üstün olup olmadığını sorguladığını gösterir ve felcine başka bir katman ekler."
+        }
+      },
+      {
+        "verse_number": 46,
+        "sanskrit": "यदि मामप्रतीकारमशस्त्रं शस्त्रपाणयः। धार्तराष्ट्रा रणे हन्युस्तन्मे क्षेमतरं भवेत्॥",
+        "transliteration": "yadi mām apratīkāram aśastraṁ śastra-pāṇayaḥ | dhārtarāṣṭrā raṇe hanyus tan me kṣemataraṁ bhavet ||",
+        "english": {
+          "translation": "If the sons of Dhritarashtra, with weapons in hand, should slay me in battle while I am unarmed and unresisting, that would be better for me.",
+          "commentary": "Arjuna declares that being killed apratīkāram (without resistance/defense) and aśastram (unarmed/weaponless) by śastra-pāṇayaḥ (those bearing weapons) would be kṣemataram (more conducive to welfare/better/safer) for him. This dramatic statement reveals his complete moral collapse—he prefers death to fulfilling his kṣatriya duty. The verse captures his state of utter dejection where even self-preservation seems preferable to fighting his relatives."
+        },
+        "turkish": {
+          "translation": "Eğer Dhritarashtra'nın oğulları, ellerinde silahlarla, ben silahsız ve direnmezken beni savaşta öldürseler, bu benim için daha iyi olurdu.",
+          "commentary": "Arjuna, śastra-pāṇayaḥ (silah taşıyanlar) tarafından apratīkāram (direniş/savunma olmadan) ve aśastram (silahsız) öldürülmenin kendisi için kṣemataram (refaha daha elverişli/daha iyi/daha güvenli) olacağını beyan eder. Bu dramatik ifade, tam ahlaki çöküşünü ortaya koyar—kṣatriya görevini yerine getirmektense ölümü tercih eder. Ayet, akrabalarıyla savaşmaya kıyasla kendini koruma bile tercih edilebilir göründüğü tam bir keder halini yakalar."
+        }
+      },
+      {
+        "verse_number": 47,
+        "sanskrit": "सञ्जय उवाच। एवमुक्त्वार्जुनः सङ्ख्ये रथोपस्थ उपाविशत्। विसृज्य सशरं चापं शोकसंविग्नमानसः॥",
+        "transliteration": "sañjaya uvāca | evam uktvārjunaḥ saṅkhye rathopastha upāviśat | visṛjya sa-śaraṁ cāpaṁ śoka-saṁvigna-mānasaḥ ||",
+        "english": {
+          "translation": "Sanjaya said: Having spoken thus on the battlefield, Arjuna sank down on the seat of his chariot, casting aside his bow and arrows, his mind overwhelmed with sorrow.",
+          "commentary": "Sanjaya concludes the chapter describing Arjuna's physical and mental collapse. Arjuna upāviśat (sat down/sank) on the rathopastha (chariot seat), visṛjya (casting aside/throwing down) his sa-śaram cāpam (bow along with arrows). He is śoka-saṁvigna-mānasaḥ (mind agitated/overwhelmed by grief). This complete breakdown—warrior unable to fight, dropping his weapons—sets the stage for Krishna's teachings. The chapter ends with Arjuna in total dejection, creating the necessity for the Bhagavad Gita's wisdom."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi: Savaş alanında böyle konuştuktan sonra Arjuna, yayını ve oklarını bir kenara bırakarak, zihin kedere boğulmuş olarak arabasının koltuğuna çöktü.",
+          "commentary": "Sanjaya, Arjuna'nın fiziksel ve zihinsel çöküşünü anlatarak bölümü sonlandırır. Arjuna, sa-śaram cāpam'ı (yay ve oklarını) visṛjya (bir kenara bırakarak/fırlatarak) rathopastha'ya (araba koltuğuna) upāviśat (oturdu/çöktü). Kendisi śoka-saṁvigna-mānasaḥ (keder tarafından huzursuz/boğulmuş zihin) durumdadır. Bu tam çöküş—savaşamayan savaşçı, silahlarını bırakan—Krishna'nın öğretileri için sahne hazırlar. Bölüm, Arjuna'nın tam keder içinde olmasıyla biter ve Bhagavad Gita'nın bilgeliğinin gerekliliğini yaratır."
+        }
       }
     ]
-  }
+  },
+    "verification": {
+      "verses_translated": 47,
+      "expected_verses": 47,
+      "complete": true,
+      "missing_verses": []
+    }
 }
