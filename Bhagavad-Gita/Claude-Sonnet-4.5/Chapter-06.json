@@ -1,0 +1,492 @@
+{
+    "chapter": {
+        "number": 6,
+        "title_sanskrit": "ध्यानयोग",
+        "title_english": "The Yoga of Meditation",
+        "title_turkish": "Meditasyon Yogası",
+        "total_verses": 47,
+        "verses": [
+            {
+                "verse_number": 1,
+                "sanskrit": "श्रीभगवानुवाच। अनाश्रितः कर्मफलं कार्यं कर्म करोति यः। स संन्यासी च योगी च न निरग्निर्न चाक्रियः।।",
+                "transliteration": "śrī-bhagavān uvāca | anāśritaḥ karma-phalaṁ kāryaṁ karma karoti yaḥ | sa sannyāsī ca yogī ca na niragnir na cākriyaḥ ||",
+                "english": {
+                    "translation": "The Blessed Lord said: One who performs his prescribed duty without depending on the fruits of action—he is a sannyāsī and a yogī, not one who merely lights no fire or performs no action.",
+                    "commentary": "Krishna redefines renunciation (sannyāsa) and yoga not as mere external practices but as internal attitudes. True renunciation is performing duty without attachment to results, not simply abandoning rituals or activity. This establishes the core principle of karma-yoga—action without desire for personal gain."
+                },
+                "turkish": {
+                    "translation": "Yüce Tanrı dedi ki: Eylemin meyvesine bağımlı olmadan görevini yerine getiren kişi—o gerçek sannyāsī ve yogidir, ateş yakmayan ya da hiçbir eylem gerçekleştirmeyen değil.",
+                    "commentary": "Krishna, sannyāsa (feragat) ve yogayı yalnızca dışsal pratikler olarak değil, içsel tutumlar olarak yeniden tanımlar. Gerçek feragat, ritüelleri veya eylemi terk etmek değil, sonuçlara bağlılık olmadan görevi yerine getirmektir. Bu, karma-yoga'nın temel ilkesini oluşturur—kişisel kazanç arzusu olmadan eylem."
+                }
+            },
+            {
+                "verse_number": 2,
+                "sanskrit": "यं संन्यासमिति प्राहुर्योगं तं विद्धि पाण्डव। न ह्यसंन्यस्तसङ्कल्पो योगी भवति कश्चन।।",
+                "transliteration": "yaṁ sannyāsam iti prāhur yogaṁ taṁ viddhi pāṇḍava | na hy asannyasta-saṅkalpo yogī bhavati kaścana ||",
+                "english": {
+                    "translation": "What they call renunciation, know that to be yoga, O Pāṇḍava. No one becomes a yogī without renouncing selfish desires and intentions.",
+                    "commentary": "Krishna equates renunciation with yoga, clarifying that they are not separate paths but two aspects of the same spiritual discipline. The key is renouncing saṅkalpa (desire-driven intentions), not external activities. This verse bridges the apparent divide between action and renunciation."
+                },
+                "turkish": {
+                    "translation": "Ey Pāṇḍava, feragat dedikleri şeyin yoga olduğunu bil. Kimse bencil arzuları ve niyetleri terk etmeden yogi olamaz.",
+                    "commentary": "Krishna, feragat ile yogayı eşitler ve bunların ayrı yollar değil, aynı ruhani disiplinin iki yönü olduğunu açıklar. Anahtar, dışsal faaliyetleri değil saṅkalpa'yı (arzu odaklı niyetler) terk etmektir. Bu ayet, eylem ile feragat arasındaki görünür uçurumu kapatır."
+                }
+            },
+            {
+                "verse_number": 3,
+                "sanskrit": "आरुरुक्षोर्मुनेर्योगं कर्म कारणमुच्यते। योगारूढस्य तस्यैव शमः कारणमुच्यते।।",
+                "transliteration": "ārurukṣor muner yogaṁ karma kāraṇam ucyate | yogārūḍhasya tasyaiva śamaḥ kāraṇam ucyate ||",
+                "english": {
+                    "translation": "For a sage who seeks to attain yoga, action is said to be the means; for one who has already attained yoga, tranquility (cessation of action) is said to be the means.",
+                    "commentary": "This verse outlines the progressive stages of spiritual development. Initially, disciplined action (karma-yoga) purifies the mind and develops concentration. Once established in yoga, the practitioner naturally progresses to meditation and inner stillness. The path adapts to the aspirant's level of spiritual maturity."
+                },
+                "turkish": {
+                    "translation": "Yogaya ulaşmayı isteyen bilge için eylem araç olarak söylenir; yogaya zaten ulaşmış olan için ise sükunet (eylemin durması) araç olarak söylenir.",
+                    "commentary": "Bu ayet, ruhani gelişimin aşamalı evrelerini özetler. Başlangıçta, disiplinli eylem (karma-yoga) zihni arındırır ve konsantrasyonu geliştirir. Yogada yerleştiğinde, uygulayıcı doğal olarak meditasyon ve iç dinginliğe ilerler. Yol, aspiranın ruhani olgunluk düzeyine uyum sağlar."
+                }
+            },
+            {
+                "verse_number": 4,
+                "sanskrit": "यदा हि नेन्द्रियार्थेषु न कर्मस्वनुषज्जते। सर्वसङ्कल्पसंन्यासी योगारूढस्तदोच्यते।।",
+                "transliteration": "yadā hi nendriyārtheṣu na karmasv anuṣajjate | sarva-saṅkalpa-sannyāsī yogārūḍhas tadocyate ||",
+                "english": {
+                    "translation": "When one is not attached to sense objects or to actions, having renounced all desires and intentions, then one is said to have attained yoga.",
+                    "commentary": "This verse describes the characteristics of yogārūḍha (one established in yoga). Such a person has transcended both sensory attachments and compulsive action. The emphasis on renouncing all saṅkalpa indicates freedom from ego-driven motivations, resulting in spontaneous, non-attached functioning."
+                },
+                "turkish": {
+                    "translation": "Kişi ne duyu nesnelerine ne de eylemlere bağlandığında, tüm arzu ve niyetleri terk ettiğinde, o zaman yogaya ulaşmış olduğu söylenir.",
+                    "commentary": "Bu ayet, yogārūḍha'nın (yogada yerleşmiş olanın) özelliklerini tanımlar. Böyle bir kişi hem duyusal bağlılıkları hem de zorlayıcı eylemi aşmıştır. Tüm saṅkalpa'yı terk etme vurgusu, ego odaklı motivasyonlardan özgürlüğü gösterir ve kendiliğinden, bağlılık olmayan bir işleyişle sonuçlanır."
+                }
+            },
+            {
+                "verse_number": 5,
+                "sanskrit": "उद्धरेदात्मनात्मानं नात्मानमवसादयेत्। आत्मैव ह्यात्मनो बन्धुरात्मैव रिपुरात्मनः।।",
+                "transliteration": "uddhared ātmanātmānaṁ nātmānam avasādayet | ātmaiva hy ātmano bandhur ātmaiva ripur ātmanaḥ ||",
+                "english": {
+                    "translation": "Let one lift oneself by one's own Self; let one not degrade oneself. For the Self alone is the friend of the self, and the Self alone is the enemy of the self.",
+                    "commentary": "This profound verse emphasizes individual responsibility in spiritual development. The term ātman here functions at multiple levels—the lower conditioned self and the higher Self. Through disciplined effort, one must elevate the lower self to realize the higher Self. The mind can be our greatest ally or worst enemy, depending on whether we control it or let it control us."
+                },
+                "turkish": {
+                    "translation": "Kişi kendini kendi Benliği aracılığıyla yükseltmeli; kendini aşağılamamalı. Çünkü Benlik, benliğin dostu da düşmanı da yalnızca Benliğin kendisidir.",
+                    "commentary": "Bu derin ayet, ruhani gelişimde bireysel sorumluluğu vurgular. Ātman terimi burada birden fazla düzeyde işlev görür—alt koşullanmış benlik ve yüksek Benlik. Disiplinli çaba yoluyla, kişi alt benliği yükselterek yüksek Benliği gerçekleştirmelidir. Zihin, onu kontrol edip etmediğimize bağlı olarak en büyük müttefikimiz veya en kötü düşmanımız olabilir."
+                }
+            },
+            {
+                "verse_number": 6,
+                "sanskrit": "बन्धुरात्मात्मनस्तस्य येनात्मैवात्मना जितः। अनात्मनस्तु शत्रुत्वे वर्तेतात्मैव शत्रुवत्।।",
+                "transliteration": "bandhur ātmātmanas tasya yenātmaivātmanā jitaḥ | anātmanas tu śatrutve vartetātmaiva śatruvat ||",
+                "english": {
+                    "translation": "The Self is a friend to one who has conquered the self by the Self; but for one who has not conquered the self, the Self remains hostile, like an enemy.",
+                    "commentary": "This verse elaborates on the previous teaching. When through self-discipline we master the mind and senses (lower self), the higher Self becomes our ally in spiritual progress. However, an uncontrolled mind, dominated by desires and impulses, becomes our greatest obstacle, sabotaging our efforts toward peace and liberation."
+                },
+                "turkish": {
+                    "translation": "Benlik, benliği Benlik tarafından fethedilmiş olan için bir dosttur; ama benliği fethetmemiş olan için Benlik, bir düşman gibi düşmanca kalır.",
+                    "commentary": "Bu ayet, bir önceki öğretiyi detaylandırır. Öz-disiplin yoluyla zihni ve duyuları (alt benlik) ustalıkla yönettiğimizde, yüksek Benlik ruhani ilerlemede müttefikimiz olur. Ancak, arzular ve dürtüler tarafından domine edilen kontrolsüz bir zihin, en büyük engelimiz olur ve barış ve kurtuluşa yönelik çabalarımızı sabote eder."
+                }
+            },
+            {
+                "verse_number": 7,
+                "sanskrit": "जितात्मनः प्रशान्तस्य परमात्मा समाहितः। शीतोष्णसुखदुःखेषु तथा मानापमानयोः।।",
+                "transliteration": "jitātmanaḥ praśāntasya paramātmā samāhitaḥ | śītoṣṇa-sukha-duḥkheṣu tathā mānāpamānayoḥ ||",
+                "english": {
+                    "translation": "For one who has conquered the self and is peaceful, the Supreme Self is steadily established—in cold and heat, pleasure and pain, as well as in honor and dishonor.",
+                    "commentary": "This verse describes the equanimity (samatva) achieved by the self-realized person. Having mastered the mind, such an individual remains established in the Supreme Self (Paramātmā) regardless of external circumstances. The pairs of opposites (dvandva)—temperature, sensation, social regard—no longer disturb the inner peace of one anchored in the transcendent Self."
+                },
+                "turkish": {
+                    "translation": "Benliği fethetmiş ve huzurlu olan için, Yüce Benlik istikrarlı bir şekilde yerleşmiştir—soğuk ve sıcakta, zevk ve acıda, ayrıca şeref ve onursuzlukta.",
+                    "commentary": "Bu ayet, benliğini gerçekleştirmiş kişinin elde ettiği eşitlik durumunu (samatva) tanımlar. Zihni ustalıkla yönetmiş böyle bir birey, dış koşullardan bağımsız olarak Yüce Benlik'te (Paramātmā) yerleşik kalır. Karşıt çiftler (dvandva)—sıcaklık, his, sosyal saygı—aşkın Benlik'te demirlenmiş olanın iç huzurunu artık rahatsız etmez."
+                }
+            },
+            {
+                "verse_number": 8,
+                "sanskrit": "ज्ञानविज्ञानतृप्तात्मा कूटस्थो विजितेन्द्रियः। युक्त इत्युच्यते योगी समलोष्टाश्मकाञ्चनः।।",
+                "transliteration": "jñāna-vijñāna-tṛptātmā kūṭa-stho vijitendriyaḥ | yukta ity ucyate yogī sama-loṣṭāśma-kāñcanaḥ ||",
+                "english": {
+                    "translation": "One whose soul is satisfied with knowledge and realization, who is unchanging and has conquered the senses, is called a yogī established in union—one to whom a clod of earth, a stone, and gold are the same.",
+                    "commentary": "This verse presents the marks of a perfected yogī. Jñāna (theoretical knowledge) and vijñāna (experiential realization) bring complete contentment. Kūṭa-stha means 'standing at the peak' or unchanging like an anvil. The ability to view earth, stone, and gold with equal regard demonstrates transcendence of material valuation and complete sensory mastery."
+                },
+                "turkish": {
+                    "translation": "Ruhu bilgi ve gerçekleştirme ile tatmin olmuş, değişmez ve duyuları fethetmiş olan kişiye, birleşmede yerleşmiş yogi denir—bir toprak parçası, taş ve altının aynı olduğu kişi.",
+                    "commentary": "Bu ayet, mükemmelleşmiş bir yogi'nin işaretlerini sunar. Jñāna (teorik bilgi) ve vijñāna (deneyimsel gerçekleştirme) tam bir tatmin getirir. Kūṭa-stha, 'zirvede durmak' veya bir örs gibi değişmez olmak anlamına gelir. Toprak, taş ve altına eşit gözle bakabilme, maddi değerlendirmeyi aşmayı ve tam duyusal hakimiyeti gösterir."
+                }
+            },
+            {
+                "verse_number": 9,
+                "sanskrit": "सुहृन्मित्रार्युदासीनमध्यस्थद्वेष्यबन्धुषु। साधुष्वपि च पापेषु समबुद्धिर्विशिष्यते।।",
+                "transliteration": "suhṛn-mitrāry-udāsīna-madhyastha-dveṣya-bandhuṣu | sādhuṣv api ca pāpeṣu sama-buddhir viśiṣyate ||",
+                "english": {
+                    "translation": "One who is impartial toward well-wishers, friends, enemies, the neutral, the hateful, relatives, the righteous, and even the sinful—such a person excels.",
+                    "commentary": "This verse extends the concept of equanimity to relationships. The advanced yogī maintains sama-buddhi (equal vision) toward all people regardless of their relationship or moral standing. This doesn't mean lack of discrimination or appropriate action, but rather freedom from personal emotional reactivity. Such impartiality represents a high spiritual achievement, seeing the divine essence in all beings."
+                },
+                "turkish": {
+                    "translation": "İyilikseverlere, dostlara, düşmanlara, tarafsızlara, nefret edilenlere, akrabalara, erdemlilere ve hatta günahkarlara karşı tarafsız olan kişi—böyle biri üstünlük sağlar.",
+                    "commentary": "Bu ayet, eşitlik durumu kavramını ilişkilere genişletir. İleri düzey yogi, tüm insanlara ilişkilerinden veya ahlaki durumlarından bağımsız olarak sama-buddhi (eşit görüş) korur. Bu, ayırt etme yoksunluğu veya uygun eylem eksikliği anlamına gelmez, aksine kişisel duygusal tepkisellikten özgürlüktür. Bu tarafsızlık, tüm varlıklarda ilahi özü görerek yüksek bir ruhani başarıyı temsil eder."
+                }
+            },
+            {
+                "verse_number": 10,
+                "sanskrit": "योगी युञ्जीत सततमात्मानं रहसि स्थितः। एकाकी यतचित्तात्मा निराशीरपरिग्रहः।।",
+                "transliteration": "yogī yuñjīta satatam ātmānaṁ rahasi sthitaḥ | ekākī yata-cittātmā nirāśīr aparigrahaḥ ||",
+                "english": {
+                    "translation": "Let the yogī constantly practice union with the Self, remaining in solitude, alone, with mind and body controlled, free from desires and possessions.",
+                    "commentary": "Krishna now provides practical instructions for meditation. Satata (constant practice) emphasizes regularity and persistence. Rahasi (in solitude) indicates the need for a distraction-free environment. The qualities—being alone, controlling mind/body, freedom from expectations and accumulation—create optimal conditions for inward focus and self-realization."
+                },
+                "turkish": {
+                    "translation": "Yogi, inzivada kalarak, yalnız, zihin ve bedeni kontrol altında, arzulardan ve sahipliklerden uzak olarak, sürekli Benlik ile birleşmeyi pratik etmelidir.",
+                    "commentary": "Krishna şimdi meditasyon için pratik talimatlar verir. Satata (sürekli pratik) düzenlilik ve ısrarı vurgular. Rahasi (inzivada) dikkat dağıtıcı olmayan bir ortam ihtiyacını belirtir. Özellikler—yalnız olmak, zihin/bedeni kontrol etmek, beklentiler ve biriktirmeden özgürlük—içe dönük odaklanma ve benlik gerçekleştirme için optimal koşullar yaratır."
+                }
+            },
+            {
+                "verse_number": 11,
+                "sanskrit": "शुचौ देशे प्रतिष्ठाप्य स्थिरमासनमात्मनः। नात्युच्छ्रितं नातिनीचं चैलाजिनकुशोत्तरम्।।",
+                "transliteration": "śucau deśe pratiṣṭhāpya sthiram āsanam ātmanaḥ | nāty-ucchritaṁ nāti-nīcaṁ cailājina-kuśottaram ||",
+                "english": {
+                    "translation": "In a clean place, having established for oneself a firm seat—neither too high nor too low—covered with cloth, deerskin, and kuśa grass, one upon the other.",
+                    "commentary": "This verse describes the physical setup for meditation. Śuci (pure/clean) refers to both physical cleanliness and spiritual sanctity. The seat should be stable (sthira) and at a comfortable height. The traditional covering of cloth, deerskin, and sacred kuśa grass serves practical purposes (comfort, insulation) and symbolic ones (purity, tradition). These external preparations support internal practice."
+                },
+                "turkish": {
+                    "translation": "Temiz bir yerde, kendisi için—ne çok yüksek ne de çok alçak—kumaş, geyik derisi ve kuśa otu ile üst üste örtülmüş sağlam bir oturak kurarak.",
+                    "commentary": "Bu ayet, meditasyon için fiziksel düzenlemeyi tanımlar. Śuci (saf/temiz) hem fiziksel temizliği hem de ruhani kutsallığı ifade eder. Oturak sabit (sthira) ve rahat bir yükseklikte olmalıdır. Kumaş, geyik derisi ve kutsal kuśa otunun geleneksel örtüsü pratik amaçlara (konfor, yalıtım) ve sembolik amaçlara (saflık, gelenek) hizmet eder. Bu dış hazırlıklar iç pratiği destekler."
+                }
+            },
+            {
+                "verse_number": 12,
+                "sanskrit": "तत्रैकाग्रं मनः कृत्वा यतचित्तेन्द्रियक्रियः। उपविश्यासने युञ्ज्याद्योगमात्मविशुद्धये।।",
+                "transliteration": "tatraikāgraṁ manaḥ kṛtvā yata-cittendriya-kriyaḥ | upaviśyāsane yuñjyād yogam ātma-viśuddhaye ||",
+                "english": {
+                    "translation": "There, making the mind one-pointed, with the activities of mind and senses controlled, sitting on the seat, one should practice yoga for self-purification.",
+                    "commentary": "Ekāgra (one-pointed concentration) is the key mental state for meditation. By controlling thought patterns and sensory impulses, the practitioner purifies the self (ātma-viśuddhi). This purification involves removing mental impurities—desires, aversions, delusions—that obscure one's true nature. The practice integrates physical posture, mental focus, and spiritual intention."
+                },
+                "turkish": {
+                    "translation": "Orada, zihni tek-noktalı yaparak, zihin ve duyuların faaliyetleri kontrol altında, oturağa oturarak, benliğin arınması için yoga pratiği yapmalıdır.",
+                    "commentary": "Ekāgra (tek noktalı konsantrasyon) meditasyon için anahtar zihinsel durumdur. Düşünce kalıplarını ve duyusal dürtüleri kontrol ederek, uygulayıcı benliği arındırır (ātma-viśuddhi). Bu arınma, kişinin gerçek doğasını gizleyen zihinsel kirliliklerini—arzular, itişler, yanılsamalar—temizlemeyi içerir. Pratik, fiziksel duruş, zihinsel odaklanma ve ruhani niyeti entegre eder."
+                }
+            },
+            {
+                "verse_number": 13,
+                "sanskrit": "समं कायशिरोग्रीवं धारयन्नचलं स्थिरः। सम्प्रेक्ष्य नासिकाग्रं स्वं दिशश्चानवलोकयन्।।",
+                "transliteration": "samaṁ kāya-śiro-grīvaṁ dhārayann acalaṁ sthiraḥ | samprekṣya nāsikāgraṁ svaṁ diśaś cānavalokayan ||",
+                "english": {
+                    "translation": "Holding the body, head, and neck erect and still, steady and unmoving, gazing at the tip of one's nose, not looking around in other directions.",
+                    "commentary": "This verse prescribes the classical meditation posture. The alignment of body, head, and neck (sama) promotes both physical stability and energy flow. Gazing at the nose-tip (nāsikāgra) or between the eyebrows is a traditional technique to internalize attention and prevent visual distraction. Immobility (acala) of body cultivates mental stillness and deepens concentration."
+                },
+                "turkish": {
+                    "translation": "Bedeni, başı ve boynu dik ve hareketsiz tutarak, sabit ve kıpırdamadan, kendi burun ucuna bakarak, başka yönlere bakmadan.",
+                    "commentary": "Bu ayet, klasik meditasyon duruşunu belirtir. Beden, baş ve boynun hizalanması (sama) hem fiziksel istikrarı hem de enerji akışını destekler. Burun ucuna (nāsikāgra) veya kaşların arasına bakmak, dikkati içselleştirmek ve görsel dikkat dağınıklığını önlemek için geleneksel bir tekniktir. Bedenin hareketsizliği (acala), zihinsel dinginlik geliştirir ve konsantrasyonu derinleştirir."
+                }
+            },
+            {
+                "verse_number": 14,
+                "sanskrit": "प्रशान्तात्मा विगतभीर्ब्रह्मचारिव्रते स्थितः। मनः संयम्य मच्चित्तो युक्त आसीत मत्परः।।",
+                "transliteration": "praśāntātmā vigata-bhīr brahmacāri-vrate sthitaḥ | manaḥ saṁyamya mac-citto yukta āsīta mat-paraḥ ||",
+                "english": {
+                    "translation": "Serene in mind, fearless, established in the vow of celibacy, having controlled the mind with thoughts fixed on Me, let one sit united in yoga, regarding Me as the Supreme Goal.",
+                    "commentary": "This verse emphasizes the mental and spiritual dimensions of meditation. Praśānta (serenity) and vigata-bhīr (fearlessness) are prerequisites for deep meditation. Brahmacārya (celibacy or sexual restraint) conserves vital energy for spiritual practice. The culmination is mat-para—establishing the Supreme as one's ultimate goal, transforming meditation into devotional communion."
+                },
+                "turkish": {
+                    "translation": "Zihinde sakin, korkusuz, bekarlık yeminine yerleşmiş, zihni kontrol ederek düşünceleri Bana sabitlenmiş, birleşmiş yogada otursun, Beni Yüce Amaç olarak kabul ederek.",
+                    "commentary": "Bu ayet, meditasyonun zihinsel ve ruhani boyutlarını vurgular. Praśānta (huzur) ve vigata-bhīr (korkusuzluk), derin meditasyon için ön koşullardır. Brahmacārya (bekarlık veya cinsel kısıtlama), ruhani pratik için hayati enerjiyi korur. Doruk nokta mat-para'dır—Yüce'yi nihai amaç olarak belirlemek, meditasyonu adanmış birliğe dönüştürmek."
+                }
+            },
+            {
+                "verse_number": 15,
+                "sanskrit": "युञ्जन्नेवं सदात्मानं योगी नियतमानसः। शान्तिं निर्वाणपरमां मत्संस्थामधिगच्छति।।",
+                "transliteration": "yuñjann evaṁ sadātmānaṁ yogī niyata-mānasaḥ | śāntiṁ nirvāṇa-paramāṁ mat-saṁsthām adhigacchati ||",
+                "english": {
+                    "translation": "Thus always uniting the self with the Self, the yogī of controlled mind attains the supreme peace of nirvāṇa, which abides in Me.",
+                    "commentary": "This verse describes the culmination of meditation practice. Through constant practice (sadā), the yogī achieves union of the individual self with the Universal Self. Nirvāṇa here means liberation—extinguishing the fires of desire and ego. Mat-saṁsthā indicates this supreme peace is not mere void but conscious abiding in the Divine. This is the goal of dhyāna-yoga."
+                },
+                "turkish": {
+                    "translation": "Böylece benliği her zaman Benlik ile birleştiren, kontrollü zihinli yogi, Bende var olan nirvāṇa'nın yüce barışına ulaşır.",
+                    "commentary": "Bu ayet, meditasyon pratiğinin doruğunu tanımlar. Sürekli pratik (sadā) yoluyla, yogi bireysel benliği Evrensel Benlik ile birleştirir. Nirvāṇa burada kurtuluş anlamına gelir—arzu ve egonun ateşlerini söndürmek. Mat-saṁsthā, bu yüce barışın yalnızca boşluk değil, İlahi'de bilinçli kalma olduğunu gösterir. Bu, dhyāna-yoga'nın amacıdır."
+                }
+            },
+            {
+                "verse_number": 16,
+                "sanskrit": "नात्यश्नतस्तु योगोऽस्ति न चैकान्तमनश्नतः। न चातिस्वप्नशीलस्य जाग्रतो नैव चार्जुन।।",
+                "transliteration": "nāty-aśnatas tu yogo 'sti na caikāntam anaśnataḥ | na cāti-svapna-śīlasya jāgrato naiva cārjuna ||",
+                "english": {
+                    "translation": "Yoga is not for one who eats too much, nor for one who does not eat at all; not for one who sleeps too much, nor for one who stays awake, O Arjuna.",
+                    "commentary": "Krishna emphasizes the principle of moderation (madhyama-mārga or middle path). Extremes in eating, fasting, sleeping, or wakefulness disturb both body and mind, making meditation impossible. This teaching advocates balance in all physical activities as essential foundation for spiritual practice. The yogic path requires practical wisdom about bodily needs."
+                },
+                "turkish": {
+                    "translation": "Yoga, çok fazla yiyen için değildir, hiç yemeyen için de değildir; çok fazla uyuyan için değildir, uyanık kalan için de değildir, ey Arjuna.",
+                    "commentary": "Krishna, ılımlılık ilkesini (madhyama-mārga veya orta yol) vurgular. Yeme, oruç, uyku veya uyanıklıkta aşırılıklar hem bedeni hem de zihni rahatsız eder ve meditasyonu imkansız kılar. Bu öğreti, tüm fiziksel aktivitelerde dengeyi ruhani pratik için temel temel olarak savunur. Yogi yolu, bedensel ihtiyaçlar hakkında pratik bilgelik gerektirir."
+                }
+            },
+            {
+                "verse_number": 17,
+                "sanskrit": "युक्ताहारविहारस्य युक्तचेष्टस्य कर्मसु। युक्तस्वप्नावबोधस्य योगो भवति दुःखहा।।",
+                "transliteration": "yuktāhāra-vihārasya yukta-ceṣṭasya karmasu | yukta-svapnāvabodhasya yogo bhavati duḥkha-hā ||",
+                "english": {
+                    "translation": "For one who is moderate in eating and recreation, moderate in exertion in activities, moderate in sleep and wakefulness—yoga becomes the destroyer of sorrow.",
+                    "commentary": "Yukta (moderate, balanced) is repeated five times, emphasizing its importance. This verse applies moderation to diet, recreation, work effort, and sleep-wake cycles. When these aspects of life are balanced, the body-mind complex becomes a suitable vehicle for yoga practice. Such yoga becomes duḥkha-hā—the remover of all suffering, both physical and psychological."
+                },
+                "turkish": {
+                    "translation": "Yeme ve eğlencede ılımlı, faaliyetlerde çabada ılımlı, uyku ve uyanıklıkta ılımlı olan için—yoga, acının yok edicisi olur.",
+                    "commentary": "Yukta (ılımlı, dengeli) beş kez tekrarlanır ve önemini vurgular. Bu ayet, ılımlılığı diyet, eğlence, iş çabası ve uyku-uyanıklık döngülerine uygular. Yaşamın bu yönleri dengelendiğinde, beden-zihin kompleksi yoga pratiği için uygun bir araç olur. Böyle bir yoga duḥkha-hā olur—hem fiziksel hem de psikolojik tüm acıyı ortadan kaldıran."
+                }
+            },
+            {
+                "verse_number": 18,
+                "sanskrit": "यदा विनियतं चित्तमात्मन्येवावतिष्ठते। निःस्पृहः सर्वकामेभ्यो युक्त इत्युच्यते तदा।।",
+                "transliteration": "yadā viniyataṁ cittam ātmany evāvatiṣṭhate | niḥspṛhaḥ sarva-kāmebhyo yukta ity ucyate tadā ||",
+                "english": {
+                    "translation": "When the perfectly controlled mind rests in the Self alone, free from longing for all desires, then one is said to be established in yoga.",
+                    "commentary": "This verse defines the state of yoga-siddhi (perfection in yoga). The mind becomes viniyata (perfectly regulated) and rests naturally in the ātman. Niḥspṛha (free from longing) indicates not mere suppression but actual transcendence of desire. When wanting ceases and awareness rests in its source, true yoga is achieved—a state of effortless being rather than effortful doing."
+                },
+                "turkish": {
+                    "translation": "Mükemmel kontrol edilmiş zihin yalnızca Benlik'te durduğunda, tüm arzular için özlemden uzak olduğunda, o zaman yogada yerleşmiş olduğu söylenir.",
+                    "commentary": "Bu ayet, yoga-siddhi (yogada mükemmellik) durumunu tanımlar. Zihin viniyata (mükemmel düzenlenmiş) olur ve ātman'da doğal olarak dinlenir. Niḥspṛha (özlemden uzak), yalnızca bastırmayı değil, arzuyu gerçekten aşmayı gösterir. İsteme sona erdiğinde ve farkındalık kaynağında durduğunda, gerçek yoga elde edilir—çabalı yapma yerine çabasız olma durumu."
+                }
+            },
+            {
+                "verse_number": 19,
+                "sanskrit": "यथा दीपो निवातस्थो नेङ्गते सोपमा स्मृता। योगिनो यतचित्तस्य युञ्जतो योगमात्मनः।।",
+                "transliteration": "yathā dīpo nivāta-stho neṅgate sopamā smṛtā | yogino yata-cittasya yuñjato yogam ātmanaḥ ||",
+                "english": {
+                    "translation": "As a lamp in a windless place does not flicker—this simile is used for a yogī of controlled mind practicing yoga of the Self.",
+                    "commentary": "This beautiful metaphor illustrates mental stability in meditation. A lamp in still air burns steady and bright, just as the controlled mind remains unwavering in self-realization. The absence of wind represents freedom from mental disturbances—thoughts, emotions, sensory impulses. This steadiness (sthiratva) is both the means and the sign of deep meditation."
+                },
+                "turkish": {
+                    "translation": "Rüzgarsız bir yerdeki bir lamba titremediği gibi—bu benzetme, Benliğin yogasını uygulayan, kontrollü zihinli bir yogi için kullanılır.",
+                    "commentary": "Bu güzel metafor, meditasyonda zihinsel istikrarı gösterir. Durgun havadaki bir lamba sabit ve parlak yanar, tıpkı kontrollü zihnin benlik-gerçekleştirmede sarsılmaz kalması gibi. Rüzgarın yokluğu, zihinsel rahatsızlıklardan—düşünceler, duygular, duyusal dürtüler—özgürlüğü temsil eder. Bu kararlılık (sthiratva), derin meditasyonun hem aracı hem de işaretidir."
+                }
+            },
+            {
+                "verse_number": 20,
+                "sanskrit": "यत्रोपरमते चित्तं निरुद्धं योगसेवया। यत्र चैवात्मनात्मानं पश्यन्नात्मनि तुष्यति।।",
+                "transliteration": "yatroparamate cittaṁ niruddhaṁ yoga-sevayā | yatra caivātmanātmānaṁ paśyann ātmani tuṣyati ||",
+                "english": {
+                    "translation": "When the mind, restrained by the practice of yoga, attains stillness; and when, seeing the Self by the Self, one is satisfied in the Self alone.",
+                    "commentary": "This verse describes the experience of deep meditation. Uparama (cessation) indicates the mind's thought-activity subsides through yoga practice. In this stillness, pure consciousness perceives itself—the Self becomes both subject and object of awareness. Tuṣṭi (satisfaction) arises not from external objects but from the Self's intrinsic fullness and bliss."
+                },
+                "turkish": {
+                    "translation": "Zihin, yoga pratiği ile kısıtlandığında, durgunluğa ulaştığında; ve Benliği Benlik tarafından görerek, kişi yalnızca Benlik'te tatmin olduğunda.",
+                    "commentary": "Bu ayet, derin meditasyon deneyimini tanımlar. Uparama (durma), zihnin düşünce faaliyetinin yoga pratiği yoluyla azaldığını gösterir. Bu durgunlukta, saf bilinç kendini algılar—Benlik, farkındalığın hem öznesi hem de nesnesi olur. Tuṣṭi (tatmin), dışsal nesnelerden değil, Benliğin içsel dolgunluğundan ve mutluluğundan kaynaklanır."
+                }
+            },
+            {
+                "verse_number": 31,
+                "sanskrit": "सर्वभूतस्थितं यो मां भजत्येकत्वमास्थितः। सर्वथा वर्तमानोऽपि स योगी मयि वर्तते।।",
+                "transliteration": "sarva-bhūta-sthitaṁ yo māṁ bhajaty ekatvam āsthitaḥ | sarvathā vartamāno 'pi sa yogī mayi vartate ||",
+                "english": {
+                    "translation": "One who, established in unity, worships Me dwelling in all beings—whatever such a yogī's mode of living, that yogī abides in Me.",
+                    "commentary": "This verse reveals the freedom of the realized soul. Ekatva (unity consciousness) means perceiving the Divine in all beings. Such a yogī worships God everywhere and in everyone. Sarvathā vartamāna (existing in all conditions/modes) indicates that external lifestyle becomes irrelevant—whether engaged in activity or renunciation, the yogī remains established in Divine consciousness (mayi vartate)."
+                },
+                "turkish": {
+                    "translation": "Birlikte yerleşmiş olarak, tüm varlıklarda ikamet eden Bana tapan—böyle bir yogi'nin yaşam tarzı ne olursa olsun, o yogi Bende kalır.",
+                    "commentary": "Bu ayet, gerçekleşmiş ruhun özgürlüğünü ortaya çıkarır. Ekatva (birlik bilinci), tüm varlıklarda İlahi'yi algılamak demektir. Böyle bir yogi, Tanrı'ya her yerde ve herkeste tapınır. Sarvathā vartamāna (tüm koşullarda/tarzlarda var olmak), dışsal yaşam tarzının ilgisiz hale geldiğini gösterir—eylemde veya feragatte olsun, yogi İlahi bilinçte (mayi vartate) yerleşik kalır."
+                }
+            },
+            {
+                "verse_number": 32,
+                "sanskrit": "आत्मौपम्येन सर्वत्र समं पश्यति योऽर्जुन। सुखं वा यदि वा दुःखं स योगी परमो मतः।।",
+                "transliteration": "ātmaupamyena sarvatra samaṁ paśyati yo 'rjuna | sukhaṁ vā yadi vā duḥkhaṁ sa yogī paramo mataḥ ||",
+                "english": {
+                    "translation": "One who, by comparison with one's own self, sees equality everywhere, O Arjuna, whether in pleasure or in pain—such a yogī is considered supreme.",
+                    "commentary": "Ātmaupamya (comparison with one's own self) means judging others' experiences by one's own sensitivity. The supreme yogī feels others' joy and suffering as their own, showing complete empathy. This sama-darśana (equal vision) in both sukha (pleasure) and duḥkha (pain) represents the highest ethical and spiritual development—universal compassion arising from unity consciousness."
+                },
+                "turkish": {
+                    "translation": "Kendi benliği ile kıyaslayarak, her yerde eşitlik gören, ey Arjuna, zevkte veya acıda—böyle bir yogi en yüce kabul edilir.",
+                    "commentary": "Ātmaupamya (kendi benliği ile kıyaslama), başkalarının deneyimlerini kendi duyarlılığı ile yargılamak demektir. En yüce yogi, başkalarının sevinç ve acısını kendi gibi hisseder ve tam empati gösterir. Hem sukha'da (zevk) hem duḥkha'da (acı) bu sama-darśana (eşit görüş), en yüksek etik ve ruhani gelişimi temsil eder—birlik bilincinden kaynaklanan evrensel merhamet."
+                }
+            },
+            {
+                "verse_number": 33,
+                "sanskrit": "अर्जुन उवाच। योऽयं योगस्त्वया प्रोक्तः साम्येन मधुसूदन। एतस्याहं न पश्यामि चञ्चलत्वात्स्थितिं स्थिराम्।।",
+                "transliteration": "arjuna uvāca | yo 'yaṁ yogas tvayā proktaḥ sāmyena madhusūdana | etasyāhaṁ na paśyāmi cañcalatvāt sthitiṁ sthirām ||",
+                "english": {
+                    "translation": "Arjuna said: This yoga of equanimity that You have declared, O Madhusūdana, I do not see how it can have a stable foundation, due to the restlessness of the mind.",
+                    "commentary": "Arjuna voices a universal concern: the practical difficulty of meditation. He questions the stability (sthira sthiti) of yoga given the mind's cañcalatva (restlessness). This honest doubt makes the teaching relatable—even a great warrior like Arjuna struggles with mental control. His question prompts Krishna to provide practical wisdom about managing the turbulent mind."
+                },
+                "turkish": {
+                    "translation": "Arjuna dedi ki: Senin bildirdiğin bu eşitlik yogası, ey Madhusūdana, zihnin huzursuzluğu nedeniyle nasıl istikrarlı bir temele sahip olabileceğini göremiyorum.",
+                    "commentary": "Arjuna evrensel bir endişeyi dile getirir: meditasyonun pratik zorluğu. Zihnin cañcalatva'sı (huzursuzluğu) göz önüne alındığında yoga'nın istikrarını (sthira sthiti) sorgular. Bu dürüst şüphe, öğretiyi ilişkilendirilebilir kılar—Arjuna gibi büyük bir savaşçı bile zihinsel kontrol ile mücadele eder. Sorusu, Krishna'yı çalkantılı zihni yönetme hakkında pratik bilgelik sağlamaya teşvik eder."
+                }
+            },
+            {
+                "verse_number": 34,
+                "sanskrit": "चञ्चलं हि मनः कृष्ण प्रमाथि बलवद्दृढम्। तस्याहं निग्रहं मन्ये वायोरिव सुदुष्करम्।।",
+                "transliteration": "cañcalaṁ hi manaḥ kṛṣṇa pramāthi balavad dṛḍham | tasyāhaṁ nigrahaṁ manye vāyor iva suduṣkaram ||",
+                "english": {
+                    "translation": "The mind is indeed restless, O Krishna, turbulent, powerful, and obstinate. I consider controlling it as difficult as controlling the wind.",
+                    "commentary": "Arjuna characterizes the mind with four powerful adjectives: cañcala (restless), pramāthi (turbulent/disturbing), balavat (powerful), and dṛḍha (obstinate/unyielding). His simile—controlling the mind is like controlling the wind—expresses the seeming impossibility of the task. This vivid description resonates with anyone who has attempted meditation, validating the difficulty while setting up Krishna's encouraging response."
+                },
+                "turkish": {
+                    "translation": "Zihin gerçekten huzursuzdur, ey Krishna, çalkantılı, güçlü ve inatçıdır. Onu kontrol etmeyi, rüzgarı kontrol etmek kadar zor görüyorum.",
+                    "commentary": "Arjuna, zihni dört güçlü sıfatla karakterize eder: cañcala (huzursuz), pramāthi (çalkantılı/rahatsız edici), balavat (güçlü) ve dṛḍha (inatçı/esnemeyen). Benzetmesi—zihni kontrol etmek rüzgarı kontrol etmek gibidir—görevin görünür imkansızlığını ifade eder. Bu canlı tanım, meditasyon denemiş herkesle yankılanır, zorluğu doğrular ve Krishna'nın cesaret verici cevabını hazırlar."
+                }
+            },
+            {
+                "verse_number": 35,
+                "sanskrit": "श्रीभगवानुवाच। असंशयं महाबाहो मनो दुर्निग्रहं चलम्। अभ्यासेन तु कौन्तेय वैराग्येण च गृह्यते।।",
+                "transliteration": "śrī-bhagavān uvāca | asaṁśayaṁ mahā-bāho mano durnigrahaṁ calam | abhyāsena tu kaunteya vairāgyeṇa ca gṛhyate ||",
+                "english": {
+                    "translation": "The Blessed Lord said: Undoubtedly, O mighty-armed one, the mind is difficult to control and restless. But it can be controlled, O son of Kuntī, through practice and dispassion.",
+                    "commentary": "Krishna validates Arjuna's observation (asaṁśaya—without doubt) but offers hope. Two methods control the mind: abhyāsa (repeated practice) and vairāgya (dispassion/non-attachment). Abhyāsa means persistent, patient effort to focus the mind. Vairāgya means cultivating detachment from objects of desire that pull the mind outward. Together, these create the conditions for mental mastery. This is yoga's practical formula."
+                },
+                "turkish": {
+                    "translation": "Yüce Tanrı dedi ki: Şüphesiz, ey güçlü kollı, zihin kontrol edilmesi zor ve huzursuzdur. Ama kontrol edilebilir, ey Kuntī'nin oğlu, pratik ve tutkusuzluk yoluyla.",
+                    "commentary": "Krishna, Arjuna'nın gözlemini doğrular (asaṁśaya—şüphesiz) ama umut sunar. İki yöntem zihni kontrol eder: abhyāsa (tekrarlanan pratik) ve vairāgya (tutkusuzluk/bağlılık olmama). Abhyāsa, zihni odaklamak için ısrarlı, sabırlı çaba demektir. Vairāgya, zihni dışa çeken arzu nesnelerinden kopma geliştirmek demektir. Birlikte, bunlar zihinsel hakimiyet için koşullar yaratır. Bu, yoga'nın pratik formülüdür."
+                }
+            },
+            {
+                "verse_number": 36,
+                "sanskrit": "असंयतात्मना योगो दुष्प्राप इति मे मतिः। वश्यात्मना तु यतता शक्योऽवाप्तुमुपायतः।।",
+                "transliteration": "asaṁyatātmanā yogo duṣprāpa iti me matiḥ | vaśyātmanā tu yatatā śakyo 'vāptum upāyataḥ ||",
+                "english": {
+                    "translation": "Yoga is difficult to attain for one whose self is uncontrolled, this is My view. But for one who is self-controlled and striving, it can be attained through proper means.",
+                    "commentary": "Krishna provides realistic assessment. For asaṁyatātman (one with uncontrolled self), yoga remains duṣprāpa (difficult to attain). However, for vaśyātman (one with controlled self) who is yatata (striving), success is śakya (possible) through upāya (proper means). This emphasizes personal responsibility—success depends on self-discipline and right method, not mere wishful thinking or grace alone."
+                },
+                "turkish": {
+                    "translation": "Benliği kontrolsüz olan için yoga elde edilmesi zordur, bu Benim görüşümdür. Ama kendini kontrol eden ve çabalayan için, uygun araçlarla elde edilebilir.",
+                    "commentary": "Krishna, gerçekçi değerlendirme sunar. Asaṁyatātman (kontrolsüz benlikli) için yoga duṣprāpa (elde edilmesi zor) kalır. Ancak, yatata (çabalayan) vaśyātman (kontrollü benlikli) için başarı, upāya (uygun araçlar) yoluyla śakya'dır (mümkün). Bu, kişisel sorumluluğu vurgular—başarı, yalnızca dilekli düşünce veya lütuf değil, öz-disiplin ve doğru yönteme bağlıdır."
+                }
+            },
+            {
+                "verse_number": 37,
+                "sanskrit": "अर्जुन उवाच। अयतिः श्रद्धयोपेतो योगाच्चलितमानसः। अप्राप्य योगसंसिद्धिं कां गतिं कृष्ण गच्छति।।",
+                "transliteration": "arjuna uvāca | ayatiḥ śraddhayopeto yogāc calita-mānasaḥ | aprāpya yoga-saṁsiddhiṁ kāṁ gatiṁ kṛṣṇa gacchati ||",
+                "english": {
+                    "translation": "Arjuna said: One who has faith but lacks effort, whose mind wanders away from yoga without attaining perfection in yoga—what destination does such a person reach, O Krishna?",
+                    "commentary": "Arjuna raises a compassionate concern about sincere but unsuccessful aspirants. Such a person has śraddhā (faith) but is ayati (lacking sufficient effort) and becomes calita-mānasa (wandering in mind). Having failed to achieve yoga-saṁsiddhi (perfection in yoga), what becomes of them? This question addresses the fate of those who start the spiritual path but don't complete it in one lifetime."
+                },
+                "turkish": {
+                    "translation": "Arjuna dedi ki: İnancı olan ama çabadan yoksun, zihni yogadan sapmış ve yogada mükemmelliğe ulaşmamış olan—böyle bir kişi hangi hedefe ulaşır, ey Krishna?",
+                    "commentary": "Arjuna, samimi ama başarısız aspiranlar hakkında şefkatli bir endişe dile getirir. Böyle bir kişinin śraddhā'sı (inanç) vardır ama ayati'dir (yeterli çaba eksikliği) ve calita-mānasa (zihinde gezinen) olur. Yoga-saṁsiddhi'yi (yogada mükemmellik) başaramadığında, onlara ne olur? Bu soru, ruhani yolu başlayan ama bir yaşamda tamamlamayanların kaderine değinir."
+                }
+            },
+            {
+                "verse_number": 38,
+                "sanskrit": "कच्चिन्नोभयविभ्रष्टश्छिन्नाभ्रमिव नश्यति। अप्रतिष्ठो महाबाहो विमूढो ब्रह्मणः पथि।।",
+                "transliteration": "kaccin nobhaya-vibhraṣṭaś chinnābhram iva naśyati | apratiṣṭho mahā-bāho vimūḍho brahmaṇaḥ pathi ||",
+                "english": {
+                    "translation": "Does such a person not perish like a scattered cloud, O mighty-armed one, having fallen from both paths, without foundation, bewildered on the path to Brahman?",
+                    "commentary": "Arjuna expresses his fear vividly: does the failed yogī become ubhaya-vibhraṣṭa (fallen from both)—neither enjoying worldly success nor achieving spiritual liberation? The simile of chinna-abhra (torn cloud) suggests complete dissolution without trace. Apratiṣṭha (without foundation) and vimūḍha (bewildered) convey the anxiety about being lost between two worlds. This sets up Krishna's reassuring answer."
+                },
+                "turkish": {
+                    "translation": "Böyle bir kişi, ey güçlü kollı, dağılmış bir bulut gibi yok olmaz mı, her iki yoldan da düşmüş, temel olmadan, Brahman yolunda şaşkın?",
+                    "commentary": "Arjuna, korkusunu canlı bir şekilde ifade eder: başarısız yogi ubhaya-vibhraṣṭa (her ikisinden de düşmüş) olur mu—ne dünyevi başarının tadını çıkarır ne de ruhani kurtuluşa ulaşır? Chinna-abhra (yırtık bulut) benzetmesi, iz bırakmadan tam bir çözülmeyi önermektedir. Apratiṣṭha (temel olmadan) ve vimūḍha (şaşkın), iki dünya arasında kaybolma hakkındaki endişeyi iletir. Bu, Krishna'nın güven verici cevabını hazırlar."
+                }
+            },
+            {
+                "verse_number": 39,
+                "sanskrit": "एतन्मे संशयं कृष्ण छेत्तुमर्हस्यशेषतः। त्वदन्यः संशयस्यास्य छेत्ता न ह्युपपद्यते।।",
+                "transliteration": "etan me saṁśayaṁ kṛṣṇa chettum arhasy aśeṣataḥ | tvad-anyaḥ saṁśayasyāsya chettā na hy upapadyate ||",
+                "english": {
+                    "translation": "This doubt of mine, O Krishna, You should completely dispel. For there is no one other than You who can remove this doubt.",
+                    "commentary": "Arjuna appeals to Krishna as the ultimate authority. He asks for complete (aśeṣataḥ) resolution of his saṁśaya (doubt). Acknowledging that only Krishna can chettā (cut/remove) this doubt shows both his humility and recognition of Krishna's supreme knowledge. This verse transitions to Krishna's comprehensive answer about the security of spiritual aspirants."
+                },
+                "turkish": {
+                    "translation": "Bu şüphemi, ey Krishna, tamamen dağıtmalısın. Çünkü bu şüpheyi giderebilecek Senden başka kimse yoktur.",
+                    "commentary": "Arjuna, Krishna'ya nihai otorite olarak başvurur. Saṁśaya'sının (şüphe) aśeṣataḥ (tam) çözümünü ister. Yalnızca Krishna'nın bu şüpheyi chettā (kesebilir/kaldırabilir) olduğunu kabul etmek, hem tevazuunu hem de Krishna'nın yüce bilgisinin tanınmasını gösterir. Bu ayet, Krishna'nın ruhani aspiranların güvenliği hakkındaki kapsamlı cevabına geçiş yapar."
+                }
+            },
+            {
+                "verse_number": 40,
+                "sanskrit": "श्रीभगवानुवाच। पार्थ नैवेह नामुत्र विनाशस्तस्य विद्यते। न हि कल्याणकृत्कश्चिद्दुर्गतिं तात गच्छति।।",
+                "transliteration": "śrī-bhagavān uvāca | pārtha naiveha nāmutra vināśas tasya vidyate | na hi kalyāṇa-kṛt kaścid durgatiṁ tāta gacchati ||",
+                "english": {
+                    "translation": "The Blessed Lord said: O Pārtha, neither here nor hereafter is there destruction for such a one. No one who does good, dear friend, ever comes to a bad end.",
+                    "commentary": "Krishna provides profound reassurance with this categorical statement. The sincere spiritual aspirant faces vināśa (destruction) neither iha (here/in this world) nor amutra (hereafter/after death). The principle: na kalyāṇa-kṛt kaścit durgatiṁ gacchati (no doer of good ever goes to an evil state). This establishes that sincere spiritual effort is never wasted; it carries forward across lifetimes."
+                },
+                "turkish": {
+                    "translation": "Yüce Tanrı dedi ki: Ey Pārtha, böyle biri için ne burada ne de öte dünyada yok oluş yoktur. İyilik yapan kimse, sevgili dost, asla kötü bir sona gelmez.",
+                    "commentary": "Krishna, bu kategorik ifadeyle derin güvence sağlar. Samimi ruhani aspirant, ne iha'da (burada/bu dünyada) ne de amutra'da (öte dünya/ölümden sonra) vināśa (yok oluş) ile karşılaşır. İlke: na kalyāṇa-kṛt kaścit durgatiṁ gacchati (iyilik yapan hiç kimse kötü bir duruma gitmez). Bu, samimi ruhani çabanın asla boşa gitmediğini; yaşamlar boyunca ileriye taşındığını belirler."
+                }
+            },
+            {
+                "verse_number": 41,
+                "sanskrit": "प्राप्य पुण्यकृतां लोकानुषित्वा शाश्वतीः समाः। शुचीनां श्रीमतां गेहे योगभ्रष्टोऽभिजायते।।",
+                "transliteration": "prāpya puṇya-kṛtāṁ lokān uṣitvā śāśvatīḥ samāḥ | śucīnāṁ śrīmatāṁ gehe yoga-bhraṣṭo 'bhijāyate ||",
+                "english": {
+                    "translation": "Having attained the worlds of the righteous and dwelling there for many years, the one who fell from yoga is born again in the house of the pure and prosperous.",
+                    "commentary": "Krishna describes the favorable rebirth of the yoga-bhraṣṭa (one who fell from yoga). Such a person first enjoys puṇya-kṛtām lokān (worlds of meritorious deeds)—heavenly realms earned by their spiritual efforts. After śāśvatīḥ samāḥ (many years), they're reborn in ideal circumstances: śucīnām (pure/virtuous) and śrīmatām (wealthy/cultured) families. This ensures they can resume spiritual practice with advantages."
+                },
+                "turkish": {
+                    "translation": "Erdemlilerin dünyalarına ulaşarak ve orada uzun yıllar ikamet ettikten sonra, yogadan düşen kişi, saf ve müreffeh bir ailenin evinde yeniden doğar.",
+                    "commentary": "Krishna, yoga-bhraṣṭa'nın (yogadan düşenin) lehine yeniden doğumunu tanımlar. Böyle bir kişi önce puṇya-kṛtām lokān'ı (erdemli eylemlerin dünyaları) yaşar—ruhani çabalarıyla kazanılan cennet alemler. Śāśvatīḥ samāḥ'tan (uzun yıllar) sonra, ideal koşullarda yeniden doğarlar: śucīnām (saf/erdemli) ve śrīmatām (zengin/kültürlü) aileler. Bu, onların avantajlarla ruhani pratiği sürdürebilmelerini sağlar."
+                }
+            },
+            {
+                "verse_number": 42,
+                "sanskrit": "अथवा योगिनामेव कुले भवति धीमताम्। एतद्धि दुर्लभतरं लोके जन्म यदीदृशम्।।",
+                "transliteration": "athavā yoginām eva kule bhavati dhīmatām | etad dhi durlabhataraṁ loke janma yad īdṛśam ||",
+                "english": {
+                    "translation": "Or, one is born in a family of wise yogīs themselves. Such a birth as this is indeed very rare to obtain in the world.",
+                    "commentary": "Krishna presents an even more favorable possibility: birth in a yoginām kula (family of yogīs) who are dhīmat (wise, spiritually advanced). This is durlabhatara (rarer still) because being born to spiritual practitioners provides direct guidance, conducive environment, and inherited spiritual inclinations (saṁskāras). Such birth offers maximum advantage for completing the spiritual journey interrupted in a previous life."
+                },
+                "turkish": {
+                    "translation": "Veya, kişi bilge yogilerin ailesinde doğar. Dünyada bunun gibi bir doğum gerçekten çok nadirdir.",
+                    "commentary": "Krishna daha da elverişli bir olasılık sunar: dhīmat (bilge, ruhani olarak gelişmiş) yoginām kula'da (yogilerin ailesinde) doğum. Bu durlabhatara'dır (daha nadirdir) çünkü ruhani uygulayıcılara doğmak, doğrudan rehberlik, elverişli ortam ve kalıtsal ruhani eğilimler (saṁskāras) sağlar. Böyle bir doğum, önceki yaşamda kesintiye uğrayan ruhani yolculuğu tamamlamak için maksimum avantaj sunar."
+                }
+            },
+            {
+                "verse_number": 43,
+                "sanskrit": "तत्र तं बुद्धिसंयोगं लभते पौर्वदेहिकम्। यतते च ततो भूयः संसिद्धौ कुरुनन्दन।।",
+                "transliteration": "tatra taṁ buddhi-saṁyogaṁ labhate paurva-dehikam | yatate ca tato bhūyaḥ saṁsiddhau kuru-nandana ||",
+                "english": {
+                    "translation": "There, one regains the wisdom-union from the previous body, and strives once more, O joy of the Kurus, toward perfection.",
+                    "commentary": "A crucial teaching: buddhi-saṁyoga paurva-dehika (the intellectual/spiritual connection from the previous body) is automatically regained. Past spiritual impressions (saṁskāras) resurface, giving one a head-start. The person naturally yatate (strives) again toward saṁsiddhi (complete perfection). This demonstrates the cumulative nature of spiritual progress—nothing is lost, everything continues."
+                },
+                "turkish": {
+                    "translation": "Orada, kişi önceki bedenden bilgelik-birliğini yeniden kazanır ve bir kez daha, ey Kuru'ların sevinci, mükemmelliğe doğru çabalar.",
+                    "commentary": "Kritik bir öğreti: buddhi-saṁyoga paurva-dehika (önceki bedenden entelektüel/ruhani bağlantı) otomatik olarak yeniden kazanılır. Geçmiş ruhani izlenimler (saṁskāras) yeniden su yüzüne çıkar ve kişiye avantaj sağlar. Kişi doğal olarak saṁsiddhi'ye (tam mükemmellik) doğru yatate (çabalar). Bu, ruhani ilerlemenin kümülatif doğasını gösterir—hiçbir şey kaybolmaz, her şey devam eder."
+                }
+            },
+            {
+                "verse_number": 44,
+                "sanskrit": "पूर्वाभ्यासेन तेनैव ह्रियते ह्यवशोऽपि सः। जिज्ञासुरपि योगस्य शब्दब्रह्मातिवर्तते।।",
+                "transliteration": "pūrvābhyāsena tenaiva hriyate hy avaśo 'pi saḥ | jijñāsur api yogasya śabda-brahmātivartate ||",
+                "english": {
+                    "translation": "By that previous practice alone, one is carried forward involuntarily. Even one who merely inquires about yoga transcends the ritualistic Vedas.",
+                    "commentary": "Pūrvābhyāsa (previous practice) creates such momentum that the person is hriyate (carried forward) avaśa (involuntarily)—spiritual seeking becomes natural, not forced. Even a jijñāsu (mere inquirer) about yoga transcends śabda-brahma (ritualistic Vedic injunctions). This shows how yoga represents a higher path than mere ritual, and how past spiritual efforts create irresistible spiritual momentum."
+                },
+                "turkish": {
+                    "translation": "O önceki pratik tek başına, kişiyi istemsizce ileriye taşır. Yoga hakkında yalnızca soru soran bile ritüelistik Vedaları aşar.",
+                    "commentary": "Pūrvābhyāsa (önceki pratik), kişinin hriyate (ileriye taşınması) avaśa (istemsizce) olacak kadar momentum yaratır—ruhani arayış zorlanmış değil, doğal olur. Yoga hakkında bir jijñāsu (yalnızca sorgulayan) bile śabda-brahma'yı (ritüelistik Vedik emirler) aşar. Bu, yoga'nın yalnızca ritüelden daha yüksek bir yolu nasıl temsil ettiğini ve geçmiş ruhani çabaların karşı konulamaz ruhani momentum yarattığını gösterir."
+                }
+            },
+            {
+                "verse_number": 45,
+                "sanskrit": "प्रयत्नाद्यतमानस्तु योगी संशुद्धकिल्बिषः। अनेकजन्मसंसिद्धस्ततो याति परां गतिम्।।",
+                "transliteration": "prayatnād yatamānas tu yogī saṁśuddha-kilbiṣaḥ | aneka-janma-saṁsiddhas tato yāti parāṁ gatim ||",
+                "english": {
+                    "translation": "But the yogī who strives with effort, purified of all impurities, perfected through many births, then attains the Supreme Goal.",
+                    "commentary": "This verse describes the culmination. Through prayatna (diligent effort), the yogī becomes saṁśuddha-kilbiṣa (completely purified of karmic impurities). Aneka-janma-saṁsiddha (perfected through many births) indicates spiritual evolution across multiple lifetimes. Eventually, such dedication leads to parā gati (the Supreme Goal)—liberation. This validates the long-term nature of spiritual evolution while assuring ultimate success."
+                },
+                "turkish": {
+                    "translation": "Ama çabayla çalışan yogi, tüm kirliliklerden arınmış, birçok doğumda mükemmelleşmiş, sonra Yüce Hedefe ulaşır.",
+                    "commentary": "Bu ayet, doruğu tanımlar. Prayatna (dikkatli çaba) yoluyla, yogi saṁśuddha-kilbiṣa (karmik kirliliklerden tamamen arınmış) olur. Aneka-janma-saṁsiddha (birçok doğumda mükemmelleşmiş), birden fazla yaşam boyunca ruhani evrimi gösterir. Sonunda, böyle bir adanmışlık parā gati'ye (Yüce Hedef) yol açar—kurtuluş. Bu, ruhani evrimin uzun vadeli doğasını doğrular ve nihai başarıyı garanti eder."
+                }
+            },
+            {
+                "verse_number": 46,
+                "sanskrit": "तपस्विभ्योऽधिको योगी ज्ञानिभ्योऽपि मतोऽधिकः। कर्मिभ्यश्चाधिको योगी तस्माद्योगी भवार्जुन।।",
+                "transliteration": "tapasvibhyo 'dhiko yogī jñānibhyo 'pi mato 'dhikaḥ | karmibhyaś cādhiko yogī tasmād yogī bhavārjuna ||",
+                "english": {
+                    "translation": "The yogī is superior to the ascetics, considered superior even to the scholars, and superior to the performers of ritual action. Therefore, be a yogī, O Arjuna.",
+                    "commentary": "Krishna ranks spiritual paths: the yogī is adhika (superior to) tapasvi (ascetics practicing austerity), jñāni (scholars of scripture), and karmi (ritualists). This doesn't invalidate other paths but establishes yoga—integration of knowledge, devotion, and action—as the most comprehensive. The imperative 'yogī bhava' (be a yogī) is Krishna's direct call to Arjuna to embrace this integrated spiritual path."
+                },
+                "turkish": {
+                    "translation": "Yogi, çilekeşlerden üstündür, bilginlerden bile üstün kabul edilir ve ritüel eylem gerçekleştirenlerden üstündür. Bu nedenle, bir yogi ol, ey Arjuna.",
+                    "commentary": "Krishna, ruhani yolları sıralar: yogi, tapasvi'den (çilecilik uygulayan keşişler), jñāni'den (yazı bilginleri) ve karmi'den (ritüalistler) adhika'dır (üstün). Bu, diğer yolları geçersiz kılmaz ama yoga'yı—bilgi, adanmışlık ve eylemin entegrasyonunu—en kapsamlı olarak belirler. 'Yogī bhava' (yogi ol) emri, Krishna'nın Arjuna'ya bu bütünleşik ruhani yolu benimsemesi için doğrudan çağrısıdır."
+                }
+            },
+            {
+                "verse_number": 47,
+                "sanskrit": "योगिनामपि सर्वेषां मद्गतेनान्तरात्मना। श्रद्धावान्भजते यो मां स मे युक्ततमो मतः।।",
+                "transliteration": "yoginām api sarveṣāṁ mad-gatenāntarātmanā | śraddhāvān bhajate yo māṁ sa me yuktatamo mataḥ ||",
+                "english": {
+                    "translation": "And among all yogīs, one who worships Me with faith, with inner self absorbed in Me—that one is considered by Me to be the most united.",
+                    "commentary": "The chapter's pinnacle: among all yogīs, the bhakti-yogī (devotional yogī) is yuktatama (most united/highest). This yogī has mad-gata-antarātman (inner self absorbed in Me) and bhajate with śraddhā (worships with faith). Krishna thus elevates devotional yoga as the culmination of all yoga paths. The chapter that began with action-renunciation concludes with loving devotion as the supreme spiritual practice."
+                },
+                "turkish": {
+                    "translation": "Ve tüm yogiler arasında, Bana inançla tapınan, iç benliği Bende absorbe olmuş olan—o Benim tarafımdan en birleşmiş olarak kabul edilir.",
+                    "commentary": "Bölümün zirvesi: tüm yogiler arasında, bhakti-yogī (adanmış yogi) yuktatama'dır (en birleşmiş/en yüksek). Bu yogi'nin mad-gata-antarātman'ı (Bende absorbe olmuş iç benlik) vardır ve śraddhā ile bhajate (inançla tapınır). Krishna böylece adanmış yogayı tüm yoga yollarının doruğu olarak yükseltir. Eylem-feragat ile başlayan bölüm, sevgi dolu adanmışlığın en yüce ruhani pratik olarak sonuçlanır."
+                }
+            }
+        ]
+    }
+}

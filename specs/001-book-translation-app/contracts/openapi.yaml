@@ -1,0 +1,325 @@
+openapi: 3.0.3
+info:
+  title: Book Translation App (CLI Contracts)
+  version: 0.1.0
+  description: |
+    This repository is CLI-first. These contracts describe the command I/O as if it were an API.
+    All JSON output is emitted to stdout when --json is provided; errors are emitted to stderr.
+
+servers: []
+
+paths:
+  /cli/book/store:
+    post:
+      summary: Store book structure (title, chapters, verses)
+      operationId: cliBookStore
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/StoreBookRequest'
+      responses:
+        '200':
+          description: Book stored
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/StoreBookResponse'
+        '400':
+          description: Validation error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '409':
+          description: Conflict (duplicate keys)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /cli/chapter/generate:
+    post:
+      summary: Generate first-pass chapter content from a prompt template
+      operationId: cliChapterGenerate
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/GenerateChapterRequest'
+      responses:
+        '200':
+          description: Chapter generated (complete or in_progress)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GenerateChapterResponse'
+        '400':
+          description: Validation error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '502':
+          description: Provider failure
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /cli/verse/translate:
+    post:
+      summary: Translate one or more verses
+      operationId: cliVerseTranslate
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/TranslateVersesRequest'
+      responses:
+        '200':
+          description: Translation(s) stored
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/TranslateVersesResponse'
+        '400':
+          description: Validation error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '502':
+          description: Provider failure
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+        '409':
+          description: Conflict (existing translation)
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+  /cli/translations/get:
+    post:
+      summary: Retrieve translations for a verse
+      operationId: cliTranslationsGet
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/GetTranslationsRequest'
+      responses:
+        '200':
+          description: Translations returned
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/GetTranslationsResponse'
+        '400':
+          description: Validation error
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ErrorResponse'
+
+components:
+  schemas:
+    StoreBookRequest:
+      type: object
+      additionalProperties: false
+      required: [title, chapters]
+      properties:
+        title:
+          type: string
+          minLength: 1
+        author:
+          type: string
+        slug:
+          type: string
+        chapters:
+          type: array
+          items:
+            $ref: '#/components/schemas/ChapterInput'
+
+    ChapterInput:
+      type: object
+      additionalProperties: false
+      required: [number, verses]
+      properties:
+        number:
+          type: integer
+          minimum: 1
+        expectedVerseCount:
+          type: integer
+          minimum: 1
+        verses:
+          type: array
+          items:
+            $ref: '#/components/schemas/VerseInput'
+
+    VerseInput:
+      type: object
+      additionalProperties: false
+      required: [number]
+      properties:
+        number:
+          type: integer
+          minimum: 1
+        sourceText:
+          type: string
+
+    StoreBookResponse:
+      type: object
+      additionalProperties: false
+      required: [book]
+      properties:
+        book:
+          $ref: '#/components/schemas/BookRef'
+
+    BookRef:
+      type: object
+      additionalProperties: false
+      required: [id, title]
+      properties:
+        id:
+          type: string
+        title:
+          type: string
+        slug:
+          type: string
+
+    GenerateChapterRequest:
+      type: object
+      additionalProperties: false
+      required: [book, chapterNumber, expectedVerseCount, templateName, provider]
+      properties:
+        book:
+          type: string
+        chapterNumber:
+          type: integer
+          minimum: 1
+        expectedVerseCount:
+          type: integer
+          minimum: 1
+        templateName:
+          type: string
+        provider:
+          type: string
+        model:
+          type: string
+        resumeFromVerse:
+          type: integer
+          minimum: 1
+
+    GenerateChapterResponse:
+      type: object
+      additionalProperties: false
+      required: [book, chapterNumber, status, expectedVerseCount]
+      properties:
+        book:
+          type: string
+        chapterNumber:
+          type: integer
+        expectedVerseCount:
+          type: integer
+        status:
+          type: string
+          enum: [in_progress, complete, failed]
+        lastCompletedVerse:
+          type: integer
+        validationError:
+          type: string
+
+    TranslateVersesRequest:
+      type: object
+      additionalProperties: false
+      required: [book, chapterNumber, verseNumbers, targetLanguage, provider]
+      properties:
+        book:
+          type: string
+        chapterNumber:
+          type: integer
+          minimum: 1
+        verseNumbers:
+          type: array
+          minItems: 1
+          items:
+            type: integer
+            minimum: 1
+        targetLanguage:
+          type: string
+          minLength: 2
+        provider:
+          type: string
+        model:
+          type: string
+        overwrite:
+          type: boolean
+          default: false
+
+    TranslateVersesResponse:
+      type: object
+      additionalProperties: false
+      required: [stored]
+      properties:
+        stored:
+          type: integer
+          minimum: 0
+
+    GetTranslationsRequest:
+      type: object
+      additionalProperties: false
+      required: [book, chapterNumber, verseNumber]
+      properties:
+        book:
+          type: string
+        chapterNumber:
+          type: integer
+          minimum: 1
+        verseNumber:
+          type: integer
+          minimum: 1
+
+    GetTranslationsResponse:
+      type: object
+      additionalProperties: false
+      required: [translations]
+      properties:
+        translations:
+          type: array
+          items:
+            $ref: '#/components/schemas/TranslationOut'
+
+    TranslationOut:
+      type: object
+      additionalProperties: false
+      required: [languageCode, provider, text]
+      properties:
+        languageCode:
+          type: string
+        provider:
+          type: string
+        model:
+          type: string
+        text:
+          type: string
+
+    ErrorResponse:
+      type: object
+      additionalProperties: false
+      required: [code, message]
+      properties:
+        code:
+          type: string
+        message:
+          type: string
+        details:
+          type: object
+          additionalProperties: true

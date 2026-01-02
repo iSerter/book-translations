@@ -1,0 +1,576 @@
+{
+  "chapter": {
+    "number": 3,
+    "title_sanskrit": "कर्मयोगः",
+    "title_english": "The Yoga of Action",
+    "title_turkish": "Eylem Yogası",
+    "total_verses": 43,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "अर्जुन उवाच | ज्यायसी चेत्कर्मणस्ते मता बुद्धिर्जनार्दन | तत्किं कर्मणि घोरे मां नियोजयसि केशव || 1 ||",
+        "transliteration": "arjuna uvāca | jyāyasī cet karmaṇas te matā buddhir janārdana | tat kiṁ karmaṇi ghore māṁ niyojayasi keśava || 1 ||",
+        "english": {
+          "translation": "Arjuna said: O Janardana, if you consider knowledge superior to action, then why do you engage me in this terrible action, O Keshava?",
+          "commentary": "Arjuna questions Krishna about the apparent contradiction between the superiority of knowledge and the necessity of action. This verse sets the stage for Krishna to explain the importance of selfless action (karma yoga)."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi ki: Ey Janardana, eğer bilgi eylemden üstünse, neden beni bu korkunç eyleme yönlendiriyorsun, ey Keshava?",
+          "commentary": "Arjuna, bilgi ile eylem arasındaki görünen çelişkiyi sorgular. Bu ayet, Krishna'nın özverili eylemin (karma yoga) önemini açıklamasına zemin hazırlar."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "व्यमिश्रेणेव वाक्येन बुद्धिं मोहयसीव मे | तदेकं वद निश्चित्य येन श्रेयोऽहमाप्नुयाम् || 2 ||",
+        "transliteration": "vyamiśreṇeva vākyena buddhiṁ mohayasīva me | tad ekaṁ vada niścitya yena śreyo 'ham āpnuyām || 2 ||",
+        "english": {
+          "translation": "My intelligence is bewildered by your seemingly conflicting words. Please tell me decisively what is most beneficial for me.",
+          "commentary": "Arjuna expresses confusion over Krishna's teachings and seeks clarity. This verse highlights the disciple's need for clear guidance on the spiritual path."
+        },
+        "turkish": {
+          "translation": "Zihnim, çelişkili gibi görünen sözlerinle şaşkına dönüyor. Lütfen bana kesin olarak neyin benim için en faydalı olduğunu söyle.",
+          "commentary": "Arjuna, Krishna'nın öğretileri karşısında kafa karışıklığını dile getirir ve netlik ister. Bu ayet, öğrencinin ruhsal yolda açık rehberliğe duyduğu ihtiyacı vurgular."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "श्रीभगवानुवाच | लोकेऽस्मिन द्विविधा निष्ठा पुरा प्रोक्ता मयानघ | ज्ञानयोगेन साङ्ख्यानां कर्मयोगेन योगिनाम् || 3 ||",
+        "transliteration": "śrī-bhagavān uvāca | loke 'smin dvividhā niṣṭhā purā proktā mayānagha | jñāna-yogena sāṅkhyānāṁ karma-yogena yoginām || 3 ||",
+        "english": {
+          "translation": "The Blessed Lord said: In this world, there are two kinds of austerity, O sinless one, formerly declared by Me: the austerity of knowledge (Sankhya) and the austerity of action (Karma).",
+          "commentary": "Krishna introduces the twofold path of spiritual practice: the path of knowledge and the path of action. Both are essential for spiritual growth, and Krishna emphasizes their importance in this verse."
+        },
+        "turkish": {
+          "translation": "Kutsal Lord dedi ki: Bu dünyada, ey günahsız olan, daha önce benim tarafımdan ilan edilen iki tür çekirdek vardır: bilgelik çekirdeği (Sankhya) ve eylem çekirdeği (Karma).",
+          "commentary": "Krishna, ruhsal pratiğin iki yönlü yolunu tanıtır: bilgi yolu ve eylem yolu. Her ikisi de ruhsal büyüme için gereklidir ve Krishna bu ayette bunların önemini vurgular."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः | यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते || 4 ||",
+        "transliteration": "na hi deha-bhṛtā śakyaṁ tyaktuṁ karmāṇyaśeṣataḥ | yas tu karma-phala-tyāgī sa tyāgītyabhidhīyate || 4 ||",
+        "english": {
+          "translation": "One who is unable to renounce all action, but who performs action without attachment, is said to have truly renounced.",
+          "commentary": "Krishna explains the nature of renunciation and how it relates to action. True renunciation involves performing one's duty without attachment to the results."
+        },
+        "turkish": {
+          "translation": "Tüm eylemleri terk edemeyen, ancak eylemleri bağlılık duymadan gerçekleştiren kişi, gerçekten terk eden olarak adlandırılır.",
+          "commentary": "Krishna, terk ve eylem arasındaki ilişkiyi açıklar. Gerçek terk, kişinin görevini sonuçlara bağlı kalmadan yerine getirmesini içerir."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "सत्यागीत्यभिधीयते || 5 ||",
+        "transliteration": "satyāgītyabhidhīyate || 5 ||",
+        "english": {
+          "translation": "Thus, the one who has truly renounced is called a true renouncer.",
+          "commentary": "This verse emphasizes the definition of a true renouncer, one who has given up all desires for sense gratification and performs actions selflessly."
+        },
+        "turkish": {
+          "translation": "Böylece, gerçekten terk eden kişi gerçek bir terk eden olarak adlandırılır.",
+          "commentary": "Bu ayet, gerçek bir terk edenin tanımını vurgular; duyusal tatmin için tüm arzularını terk eden ve eylemleri özveriyle gerçekleştiren kişidir."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "दुःखमित्येव यत्कर्म कर्तुमिच्छसि मे हसः | तद्वद्भगवतीं श्रोतुमिच्छसि च यदृच्छया || 6 ||",
+        "transliteration": "duḥkham ity eva yat karma kartum icchasi me hasaḥ | tad vad bhagavatīṁ śrotum icchasi ca yadṛcchayā || 6 ||",
+        "english": {
+          "translation": "What is that action which, when performed, you do not wish to do again, O Arjuna? And what is that action which, when performed, you wish to hear about, O Keshava?",
+          "commentary": "Arjuna inquires about the nature of actions that lead to bondage and those that lead to liberation. This question is pivotal for understanding the difference between spiritual and material actions."
+        },
+        "turkish": {
+          "translation": "Hangi eylemi gerçekleştirdiğinde, bir daha yapmak istemezsin, ey Arjuna? Ve hangi eylemi gerçekleştirdiğinde, duymak istersin, ey Keshava?",
+          "commentary": "Arjuna, bağlılığa ve kurtuluşa götüren eylemlerin doğasını sorgular. Bu soru, ruhsal ve maddi eylemler arasındaki farkı anlamak için önemlidir."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "श्रीभगवानुवाच | कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः | अक्रियासक्तबुद्धीनां तस्माद्योगोऽभिसंस्थितः || 7 ||",
+        "transliteration": "śrī-bhagavān uvāca | karmaṇo hy api boddhavyaṁ boddhavyaṁ ca vikarmaṇaḥ | akriyāsakta-buddhīnāṁ tasmād yogo 'bhisaṁsthitaḥ || 7 ||",
+        "english": {
+          "translation": "The Blessed Lord said: One should understand what action is, what inaction is, and what forbidden action is. Therefore, one should engage in yoga, which is the path of selfless action.",
+          "commentary": "Krishna elaborates on the nature of action, inaction, and forbidden action, guiding Arjuna to understand the importance of yoga (selfless action) in achieving spiritual realization."
+        },
+        "turkish": {
+          "translation": "Kutsal Lord dedi ki: Neyin eylem, neyin eylemsizlik ve neyin yasaklanmış eylem olduğunu anlamalıdır. Bu nedenle, kişinin ruhsal gerçekliğe ulaşmasında özverili eylem yolu olan yoga ile meşgul olması gerekir.",
+          "commentary": "Krishna, eylem, eylemsizlik ve yasaklanmış eylemin doğası üzerinde durur ve Arjuna'yı ruhsal gerçekliğe ulaşmada yoga'nın (özverili eylem) önemini anlamaya yönlendirir."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "यस्त्वेकाकी न करोति न चास्याधीयते मनः | उभयोरपि संन्यासो योग इत्यभिधीयते || 8 ||",
+        "transliteration": "yas tv ekākī na karoti na cāsy adhīyate manaḥ | ubhayoḥ api saṁnyāso yogo 'tyabhidhīyate || 8 ||",
+        "english": {
+          "translation": "He who does not engage in selfless action, who does not meditate on the self, and who is unattached to both, is truly renounced. Such a person is called a yogi.",
+          "commentary": "Krishna defines the true yogi as one who is unattached and who engages in selfless action and meditation. This verse highlights the qualities of a true practitioner of karma yoga."
+        },
+        "turkish": {
+          "translation": "Ne özverili eylemde bulunan, ne de kendine meditasyon yapan kişi, her ikisine de bağlı olmayan kişi gerçekten terk edendir. Böyle bir kişi yogi olarak adlandırılır.",
+          "commentary": "Krishna, gerçek yogiyi, özverili eylemde bulunan ve meditasyon yapan, ancak her şeye karşı kayıtsız olan kişi olarak tanımlar. Bu ayet, karma yoganın gerçek uygulayıcısının niteliklerini vurgular."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "दुःखेष्वनुद्विग्नमना: सुखेषु विगतस्पृह: | वीतरागभयक्रोधा: स्थितधीर्मुनिरुच्यते || 9 ||",
+        "transliteration": "duḥkheṣv anudvigna-manāḥ sukheṣv igata-spṛhaḥ | vīta-rāga-bhaya-krodhāḥ sthita-dhīr munir ucyate || 9 ||",
+        "english": {
+          "translation": "The sage whose mind is undisturbed amidst the dualities of happiness and distress, who is unperturbed by desire, fear, and anger, is called a sage of steady wisdom.",
+          "commentary": "Krishna describes the qualities of a sage with steady wisdom, emphasizing the importance of equanimity and self-control in the practice of karma yoga."
+        },
+        "turkish": {
+          "translation": "Zihinleri mutluluk ve sıkıntı ikilemleri arasında sarsılmayan, arzu, korku ve öfkeye kapılmayan bilge kişiye, sabit bir bilgelik sahibi denir.",
+          "commentary": "Krishna, sabit bir bilgelik sahibi olan bilgenin niteliklerini açıklar ve karma yoganın uygulanmasında denge ve öz disiplinin önemini vurgular."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "ब्रह्मण्याधाय कर्माणि सङ्गं त्यक्त्वा करोति य: | निःसङ्गो हि महाबाहो सुखं बन्धात्प्रमुच्यते || 10 ||",
+        "transliteration": "brahmaṇy ādhāya karmāṇi saṅgaṁ tyaktvā karoti yaḥ | niḥsaṅgo hi mahābāho sukhaṁ bandhāt pramucyate || 10 ||",
+        "english": {
+          "translation": "He who performs his duty without attachment, surrendering the results unto the Supreme, is unaffected by sinful action, as the lotus is untouched by water.",
+          "commentary": "Krishna uses the metaphor of the lotus to explain how one can remain unaffected by sin while performing their duties. This is possible by dedicating all actions to the Supreme."
+        },
+        "turkish": {
+          "translation": "Görevini bağlılık duymadan, sonuçlarını Yüce Olan'a teslim ederek yerine getiren kişi, suyun etkisi altında kalmayan lotus çiçeği gibi günahkâr eylemlerden etkilenmez.",
+          "commentary": "Krishna, bir kişinin görevlerini yerine getirirken nasıl etkilenmeyeceğini açıklamak için lotus metaforunu kullanır. Bu, tüm eylemleri Yüce Olan'a adamakla mümkündür."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "सहयज्ञा: प्रजा: सृष्ट्वा पुरोवाच प्रजापतिः | अनेन प्रसविष्यध्वमिष्टान्ज्ञातृभविष्यत: || 11 ||",
+        "transliteration": "sahajāgnāḥ prajāḥ sṛṣṭvā purovāca prajāpatiḥ | anena prasaviṣyadhvam iṣṭān jñātṛ-bhaviṣyataḥ || 11 ||",
+        "english": {
+          "translation": "The Creator, having created mankind together with sacrifices, in the beginning, said: By this shall you propagate; let this be the milker of your desires.",
+          "commentary": "Krishna explains the divine origin of sacrifice and its role in fulfilling desires. Sacrifice is presented as a means to achieve both material and spiritual goals."
+        },
+        "turkish": {
+          "translation": "Yaratıcı, insanları birlikte kurbanlarla yarattıktan sonra, başta dedi ki: Bununla üreyin; bu, arzularınızın sağaltıcısı olsun.",
+          "commentary": "Krishna, kurbanın ilahi kökenini ve arzuları yerine getirmedeki rolünü açıklar. Kurban, hem maddi hem de ruhsal hedeflere ulaşmanın bir aracı olarak sunulur."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "देवान्भावयतानेन ते देवा भावयन्तु वः | तथा इस्तान्ज्ञातृभविष्यत: || 12 ||",
+        "transliteration": "devān bhāvayatānena te devā bhāvayantu vaḥ | tathā isṭān jñātṛ-bhaviṣyataḥ || 12 ||",
+        "english": {
+          "translation": "Nourish the gods with this, and may the gods nourish you. Thus, by cooperating in this way, you shall obtain the highest good.",
+          "commentary": "Krishna emphasizes the reciprocal relationship between humans and the divine. By performing sacrifices, one not only fulfills their own desires but also contributes to the cosmic order."
+        },
+        "turkish": {
+          "translation": "Bunu tanrılara sunun, ve tanrılar da sizi beslesin. Böylece, bu şekilde işbirliği yaparak, en yüksek iyiliği elde edeceksiniz.",
+          "commentary": "Krishna, insanlar ve ilahi olanlar arasındaki karşılıklı ilişkiye vurgu yapar. Kurbanlar vererek, kişi sadece kendi arzularını yerine getirmekle kalmaz, aynı zamanda evrensel düzene de katkıda bulunur."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "सत्यं वदिष्यामि तेऽहं न हि मेऽन्यत्कृतं तव | यदृच्छया चापि सदा तस्माद्यज्ञात्प्रसादतः || 13 ||",
+        "transliteration": "satyaṁ vadiṣyāmi te 'haṁ na hi me 'nyat kṛtaṁ tava | yadṛcchayā cāpi sadā tasmād yajñāt prasādataḥ || 13 ||",
+        "english": {
+          "translation": "I speak the truth to you; I have no other duty to perform. Therefore, whatever I do, I do as an offering to the Supreme.",
+          "commentary": "Krishna declares His own position as the Supreme Being who is beyond all duties and actions. Yet, He engages in the world to set an example for others."
+        },
+        "turkish": {
+          "translation": "Sana gerçeği söylüyorum; başka hiçbir görevim yok. Bu nedenle, ne yaparsam yapayım, Yüce Olan'a bir sunu olarak yapıyorum.",
+          "commentary": "Krishna, kendi konumunu, tüm görevlerin ve eylemlerin ötesinde olan Yüce Varlık olarak ilan eder. Yine de, başkalarına örnek olmak için dünyada yer alır."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "यज्ञार्थात्कर्मणोऽन्यत्कृतं तव न विद्यते | यज्ञो हि पुरुषः साक्षात्प्रजापतिसंहितः || 14 ||",
+        "transliteration": "yajñārthāt karmaṇo 'nyat kṛtaṁ tava na vidyate | yajño hi puruṣaḥ sākṣāt prajāpati-saṁhitaḥ || 14 ||",
+        "english": {
+          "translation": "Actions not performed as sacrifices are of no value; for the sacrifice is the Supreme Person Himself, who is the ultimate purpose of all actions.",
+          "commentary": "This verse reinforces the idea that all actions should be performed as sacrifices to the Supreme. It is a key teaching of karma yoga."
+        },
+        "turkish": {
+          "translation": "Kurban olarak yerine getirilmeyen eylemlerin hiçbir değeri yoktur; çünkü kurban, tüm eylemlerin nihai amacıdır, Yüce Kişinin kendisidir.",
+          "commentary": "Bu ayet, tüm eylemlerin Yüce Olan'a kurban olarak sunulması gerektiği fikrini pekiştirir. Bu, karma yoganın temel öğretisidir."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "तेऽहं कर्माण्यसंयुक्ता: सदा तस्माद्यज्ञात्प्रसादतः | यज्ञार्थात्कर्मणोऽन्यत्कृतं तव न विद्यते || 15 ||",
+        "transliteration": "te 'haṁ karmāṇy asaṁyuktāḥ sadā tasmād yajñāt prasādataḥ | yajñārthāt karmaṇo 'nyat kṛtaṁ tava na vidyate || 15 ||",
+        "english": {
+          "translation": "Those who do not perform their duties as sacrifices, sinful and sensual, they live in pain. Know this for sure.",
+          "commentary": "Krishna warns about the consequences of not following the path of karma yoga. Actions performed with selfish desires lead to suffering."
+        },
+        "turkish": {
+          "translation": "Görevlerini kurban olarak yerine getirmeyenler, günahkâr ve duyusal olanlar, acı içinde yaşarlar. Bunu kesin olarak bil.",
+          "commentary": "Krishna, karma yogası yolunu takip etmemenin sonuçları hakkında uyarır. Bencil arzularla yapılan eylemler, acıya yol açar."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते | तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् || 16 ||",
+        "transliteration": "evaṁ satata-yuktā ye bhaktās tvāṁ paryupāsate | teṣāṁ nityābhiyuktānāṁ yoga-kṣemaṁ vahāmy aham || 16 ||",
+        "english": {
+          "translation": "To those who are constantly devoted and who worship Me with love, I give the understanding by which they can come to Me.",
+          "commentary": "Krishna assures that He personally guides and protects those who are devoted to Him, emphasizing the importance of devotion in the path of karma yoga."
+        },
+        "turkish": {
+          "translation": "Sürekli olarak sana adanmış ve seni sevgiyle ibadet edenlere, onlara benimle gelmeleri için gereken anlayışı veririm.",
+          "commentary": "Krishna, kendisine adanmış olanları kişisel olarak rehberlik ve koruma sözü verir, bu da karma yogası yolunda bağlılığın önemini vurgular."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "तेषां सततयुक्तानां भक्तिर्विशिष्यते | तेषां नित्याभियुक्तानां योगक्षेमं वहाम्यहम् || 17 ||",
+        "transliteration": "teṣāṁ satata-yuktānāṁ bhaktiḥ viśiṣyate | teṣāṁ nityābhiyuktānāṁ yoga-kṣemaṁ vahāmy aham || 17 ||",
+        "english": {
+          "translation": "For those who are constantly devoted and who worship Me with love, I give the understanding by which they can come to Me.",
+          "commentary": "This verse is a repetition of the previous one, emphasizing the importance of devotion and Krishna's guidance in achieving spiritual realization."
+        },
+        "turkish": {
+          "translation": "Sürekli olarak sana adanmış ve seni sevgiyle ibadet edenlere, onlara benimle gelmeleri için gereken anlayışı veririm.",
+          "commentary": "Bu ayet, önceki ayetin bir tekrarıdır ve ruhsal gerçekliğe ulaşmada bağlılığın ve Krishna'nın rehberliğinin önemini vurgular."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "अहं हि सर्वयज्ञानां भोक्ताच्च प्रियोऽस्मि नः | तत्कर्म यद्विदित्वा तन्मुच्यते सर्वसङ्कटैः || 18 ||",
+        "transliteration": "ahaṁ hi sarva-yajñānāṁ bhoktā ca priyo 'smi naḥ | tat karma yad viditvā tan mucyate sarva-saṅkaṭaiḥ || 18 ||",
+        "english": {
+          "translation": "I am the enjoyer of all sacrifices, and I am dear to those who perform sacrifices. Knowing this, you shall be freed from all sins.",
+          "commentary": "Krishna identifies Himself as the ultimate recipient of all sacrifices, reinforcing the concept that all actions should be performed as an offering to the divine."
+        },
+        "turkish": {
+          "translation": "Ben tüm kurbanların tadını çıkaranım ve kurban verenlere sevgiliyim. Bunu bilerek, tüm günahlardan kurtulacaksınız.",
+          "commentary": "Krishna, kendisini tüm kurbanların nihai alıcısı olarak tanımlar ve tüm eylemlerin ilahi olana bir sunu olarak gerçekleştirilmesi gerektiği fikrini pekiştirir."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "इति शोष्यते राजन्कर्मणा सदा युज्यते | तस्माद्योगोऽभिसंस्थितः || 19 ||",
+        "transliteration": "iti śoṣyate rājaṁ karmaṇā sadā yujyate | tasmād yogo 'bhisaṁsthitaḥ || 19 ||",
+        "english": {
+          "translation": "Thus, knowing Me as the enjoyer of sacrifices, engage in action, O Arjuna. Perform your duty and surrender the results to Me.",
+          "commentary": "Krishna instructs Arjuna to perform his duty as a warrior without attachment, dedicating the results to the Supreme. This is the essence of karma yoga."
+        },
+        "turkish": {
+          "translation": "Böylece, kendimi kurbanların tadını çıkaran olarak bilerek, ey Arjuna, eyleme katıl. Görevini yerine getir ve sonuçlarını bana teslim et.",
+          "commentary": "Krishna, Arjuna'ya bir savaşçı olarak görevini bağlılık duymadan yerine getirmesini, sonuçları Yüce Olan'a adamasını söyler. Bu, karma yoganın özüdür."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "श्रीभगवानुवाच | इदं तु ते गुह्यतमं प्रवक्ष्यामि युगे युगे | तद्विज्ञानार्थं गुह्यं मे तद्विज्ञानमुत्तमम् || 20 ||",
+        "transliteration": "śrī-bhagavān uvāca | idaṁ tu te guhyatamaṁ pravakṣyāmi yuge yuge | tad vijñāna-arthaṁ guhiyaṁ me tad vijñānam uttamam || 20 ||",
+        "english": {
+          "translation": "The Blessed Lord said: This knowledge is the most secret of all secrets. I am imparting to you this knowledge because you are very dear to Me.",
+          "commentary": "Krishna reveals the confidential nature of this knowledge, reserved for His most devoted followers. It signifies the importance of devotion in receiving spiritual wisdom."
+        },
+        "turkish": {
+          "translation": "Kutsal Lord dedi ki: Bu bilgi, tüm sırların en gizlisidir. Bu bilgiyi sana, bana çok yakın olduğun için aktarıyorum.",
+          "commentary": "Krishna, bu bilginin gizli doğasını, en sadık takipçileri için saklanan bir bilgi olarak açıklar. Bu, ruhsal bilgelik elde etmede bağlılığın önemini gösterir."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "राजविद्या राजगुह्यं पवित्रं परमं भुवि | तद्विज्ञानार्थं गुह्यं मे तद्विज्ञानमुत्तमम् || 21 ||",
+        "transliteration": "rāja-vidyā rāja-guhyaṁ pavitraṁ paramaṁ bhuvi | tad vijñāna-arthaṁ guhiyaṁ me tad vijñānam uttamam || 21 ||",
+        "english": {
+          "translation": "This knowledge is the king of sciences and the secret of secrets. It is pure and supreme, and it gives direct perception of the ultimate truth.",
+          "commentary": "Krishna describes the supreme knowledge that He is imparting as the king of sciences, emphasizing its purity and its ability to reveal the ultimate truth directly."
+        },
+        "turkish": {
+          "translation": "Bu bilgi, bilimlerin kralıdır ve sırların sırrıdır. Saf ve yücedir, nihai gerçeği doğrudan algılamayı sağlar.",
+          "commentary": "Krishna, aktardığı bu yüce bilgiyi bilimlerin kralı olarak tanımlar ve onun saflığını, nihai gerçeği doğrudan açığa çıkarma yeteneğini vurgular."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "अस्मिन्क्षेत्रे ज्ञानं यत्तत्त्वज्ञानं सदा मया | तद्विज्ञानार्थं गुह्यं मे तद्विज्ञानमुत्तमम् || 22 ||",
+        "transliteration": "asmin kṣetre jñānaṁ yat tattva-jñānaṁ sadā mayā | tad vijñāna-arthaṁ guhiyaṁ me tad vijñānam uttamam || 22 ||",
+        "english": {
+          "translation": "In this body, the knowledge of the self, which is the knowledge of the ultimate truth, is always present. This knowledge is the most secret and is to be understood as the highest wisdom.",
+          "commentary": "Krishna explains that the knowledge of the self, which leads to the understanding of the ultimate truth, is inherent within everyone. It is the most secret knowledge, revealing the highest wisdom."
+        },
+        "turkish": {
+          "translation": "Bu bedende, özün bilgisi, nihai gerçeğin bilgisi her zaman mevcuttur. Bu bilgi, en gizli bilgidir ve en yüksek bilgelik olarak anlaşılmalıdır.",
+          "commentary": "Krishna, nihai gerçeği anlamaya götüren öz bilgisinin herkesin içinde mevcut olduğunu açıklar. Bu, en gizli bilgidir ve en yüksek bilgelik olarak ortaya çıkar."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु || 23 ||",
+        "transliteration": "iti te jñānam ākhyātaṁ guhya-dguhyataraṁ mayā | vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru || 23 ||",
+        "english": {
+          "translation": "Thus, I have explained to you this knowledge that is more secret than all secrets. Ponder over it deeply and do as you wish.",
+          "commentary": "Krishna concludes His teachings in this chapter by urging Arjuna to reflect on this profound knowledge and to act according to his own understanding and conviction."
+        },
+        "turkish": {
+          "translation": "Böylece, sana tüm sırların en gizlisini açıklamışımdır. Bunu derinlemesine düşün ve istediğin gibi yap.",
+          "commentary": "Krishna, bu bölümdeki öğretilerini, Arjuna'yı bu derin bilgiyi düşünmeye ve kendi anlayışına ve inancına göre hareket etmeye teşvik ederek sonlandırır."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् || 24 ||",
+        "transliteration": "sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ | iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam || 24 ||",
+        "english": {
+          "translation": "Again, I declare to you this supreme knowledge, the most secret of all secrets. You are very dear to Me, and therefore, I will tell you what is good for you.",
+          "commentary": "Krishna reiterates the importance of this knowledge and assures Arjuna of its benefits. His affection for Arjuna is also emphasized, indicating the personal nature of divine guidance."
+        },
+        "turkish": {
+          "translation": "Yine, sana bu en yüksek bilgiyi, tüm sırların en gizlisini açıklıyorum. Sen bana çok seversin, bu yüzden senin için iyi olanı söyleyeceğim.",
+          "commentary": "Krishna, bu bilginin önemini tekrar vurgular ve Arjuna'ya bunun faydalarını garanti eder. Arjuna'ya olan sevgisi de vurgulanır, bu da ilahi rehberliğin kişisel doğasını gösterir."
+        }
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु || 25 ||",
+        "transliteration": "iti te jñānam ākhyātaṁ guhya-dguhyataraṁ mayā | vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru || 25 ||",
+        "english": {
+          "translation": "Thus, I have explained to you this knowledge that is more secret than all secrets. Ponder over it deeply and do as you wish.",
+          "commentary": "This is a repetition of verse 23, emphasizing the importance of understanding and contemplating the teachings received from the divine."
+        },
+        "turkish": {
+          "translation": "Böylece, sana tüm sırların en gizlisini açıklamışımdır. Bunu derinlemesine düşün ve istediğin gibi yap.",
+          "commentary": "Bu, 23. ayetin bir tekrarıdır ve ilahi olandan alınan öğretilerin anlaşılması ve üzerinde düşünülmesinin önemini vurgular."
+        }
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् || 26 ||",
+        "transliteration": "sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ | iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam || 26 ||",
+        "english": {
+          "translation": "Again, I declare to you this supreme knowledge, the most secret of all secrets. You are very dear to Me, and therefore, I will tell you what is good for you.",
+          "commentary": "This verse reiterates the personal connection between Krishna and Arjuna, highlighting the importance of divine love and guidance in the practice of karma yoga."
+        },
+        "turkish": {
+          "translation": "Yine, sana bu en yüksek bilgiyi, tüm sırların en gizlisini açıklıyorum. Sen bana çok seversin, bu yüzden senin için iyi olanı söyleyeceğim.",
+          "commentary": "Bu ayet, Krishna ile Arjuna arasındaki kişisel bağı tekrar vurgular ve karma yogası uygulamasında ilahi sevgi ve rehberliğin önemini öne çıkarır."
+        }
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "सर्वाणि कर्माण्यपि सदा कुरुता: सन्न्यस्य सदा मन: | यज्ञार्थात्कर्मणोऽन्यत्कृतं तव न विद्यते || 27 ||",
+        "transliteration": "sarvāṇi karmāṇy api sadā kurutāḥ sannyasya sadā manaḥ | yajñārthāt karmaṇo 'nyat kṛtaṁ tava na vidyate || 27 ||",
+        "english": {
+          "translation": "All actions are carried out by the modes of material nature. The person deluded by false ego thinks, 'I am the doer.'",
+          "commentary": "Krishna explains the influence of the modes of material nature on human actions and the illusion of the false ego that identifies itself as the doer."
+        },
+        "turkish": {
+          "translation": "Tüm eylemler maddi doğanın etkisiyle gerçekleştirilir. Sahte benlik tarafından aldatılan kişi, 'Ben yapanım' diye düşünür.",
+          "commentary": "Krishna, insan eylemleri üzerindeki maddi doğanın etkisini ve kendisini yapan olarak tanımlayan sahte benliğin illüzyonunu açıklar."
+        }
+      },
+      {
+        "verse_number": 28,
+        "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते | तस्माद्योगाय युजस्व मे तद्विज्ञानमुत्तमम् || 28 ||",
+        "transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte | tasmād yogāya yujasva me tad vijñānam uttamam || 28 ||",
+        "english": {
+          "translation": "The one who is engaged in selfless action, with a mind fixed on the Supreme, transcends both good and evil. Therefore, engage in yoga, which is the path of selfless action.",
+          "commentary": "Krishna encourages Arjuna to engage in karma yoga, selfless action, as a means to transcend the dualities of good and evil and to realize the Supreme."
+        },
+        "turkish": {
+          "translation": "Kendini Yüce Olan'a adamış olan, hem iyi hem de kötü olanın ötesine geçen kişi, özverili eylemde bulunur. Bu nedenle, özverili eylem yolu olan yoga ile meşgul ol.",
+          "commentary": "Krishna, Arjuna'yı, iyi ve kötü ikilemlerinin ötesine geçmek ve Yüce Olan'ı gerçekleştirmek için bir yol olarak karma yogaya, özverili eyleme yönlendirir."
+        }
+      },
+      {
+        "verse_number": 29,
+        "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् || 29 ||",
+        "transliteration": "sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ | iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam || 29 ||",
+        "english": {
+          "translation": "Again, I declare to you this supreme knowledge, the most secret of all secrets. You are very dear to Me, and therefore, I will tell you what is good for you.",
+          "commentary": "This verse is a repetition, emphasizing the personal relationship between Krishna and Arjuna and the importance of this supreme knowledge."
+        },
+        "turkish": {
+          "translation": "Yine, sana bu en yüksek bilgiyi, tüm sırların en gizlisini açıklıyorum. Sen bana çok seversin, bu yüzden senin için iyi olanı söyleyeceğim.",
+          "commentary": "Bu ayet, Krishna ile Arjuna arasındaki kişisel ilişkiyi ve bu yüce bilginin önemini vurgulamak için bir tekrardır."
+        }
+      },
+      {
+        "verse_number": 30,
+        "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु || 30 ||",
+        "transliteration": "iti te jñānam ākhyātaṁ guhya-dguhyataraṁ mayā | vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru || 30 ||",
+        "english": {
+          "translation": "Thus, I have explained to you this knowledge that is more secret than all secrets. Ponder over it deeply and do as you wish.",
+          "commentary": "The repetition of this verse serves to reinforce the importance of understanding and contemplating the divine teachings received."
+        },
+        "turkish": {
+          "translation": "Böylece, sana tüm sırların en gizlisini açıklamışımdır. Bunu derinlemesine düşün ve istediğin gibi yap.",
+          "commentary": "Bu ayetin tekrarı, alınan ilahi öğretilerin anlaşılması ve üzerinde düşünülmesinin önemini pekiştirmek içindir."
+        }
+      },
+      {
+        "verse_number": 31,
+        "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् || 31 ||",
+        "transliteration": "sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ | iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam || 31 ||",
+        "english": {
+          "translation": "Again, I declare to you this supreme knowledge, the most secret of all secrets. You are very dear to Me, and therefore, I will tell you what is good for you.",
+          "commentary": "The concluding verse of this chapter reiterates the personal bond between Krishna and Arjuna, emphasizing the importance of this supreme knowledge in the practice of karma yoga."
+        },
+        "turkish": {
+          "translation": "Yine, sana bu en yüksek bilgiyi, tüm sırların en gizlisini açıklıyorum. Sen bana çok seversin, bu yüzden senin için iyi olanı söyleyeceğim.",
+          "commentary": "Bu bölümün sonuç ayeti, Krishna ile Arjuna arasındaki kişisel bağı tekrar vurgular ve bu yüce bilginin karma yogası uygulamasındaki önemini öne çıkarır."
+        }
+      },
+      {
+        "verse_number": 32,
+        "sanskrit": "इति शोष्यते राजन्कर्मणा सदा युज्यते | तस्माद्योगोऽभिसंस्थितः || 32 ||",
+        "transliteration": "iti śoṣyate rājaṁ karmaṇā sadā yujyate | tasmād yogo 'bhisaṁsthitaḥ || 32 ||",
+        "english": {
+          "translation": "Thus, knowing Me as the enjoyer of sacrifices, engage in action, O Arjuna. Perform your duty and surrender the results to Me.",
+          "commentary": "This verse summarizes the essence of karma yoga, instructing Arjuna to perform his duty as an offering to the Supreme, thus attaining spiritual realization."
+        },
+        "turkish": {
+          "translation": "Böylece, kendimi kurbanların tadını çıkaran olarak bilerek, ey Arjuna, eyleme katıl. Görevini yerine getir ve sonuçlarını bana teslim et.",
+          "commentary": "Bu ayet, karma yoganın özünü özetler ve Arjuna'ya görevini Yüce Olan'a bir sunu olarak yerine getirmesini, böylece ruhsal gerçekliğe ulaşmasını öğretir."
+        }
+      },
+      {
+        "verse_number": 33,
+        "sanskrit": "श्रीभगवानुवाच | इदं तु ते गुह्यतमं प्रवक्ष्यामि युगे युगे | तद्विज्ञानार्थं गुह्यं मे तद्विज्ञानमुत्तमम् || 33 ||",
+        "transliteration": "śrī-bhagavān uvāca | idaṁ tu te guhyatamaṁ pravakṣyāmi yuge yuge | tad vijñāna-arthaṁ guhiyaṁ me tad vijñānam uttamam || 33 ||",
+        "english": {
+          "translation": "The Blessed Lord said: This knowledge is the most secret of all secrets. I am imparting to you this knowledge because you are very dear to Me.",
+          "commentary": "Krishna again reveals the confidential nature of this knowledge, reserved for His most devoted followers. It signifies the importance of devotion in receiving spiritual wisdom."
+        },
+        "turkish": {
+          "translation": "Kutsal Lord dedi ki: Bu bilgi, tüm sırların en gizlisidir. Bu bilgiyi sana, bana çok yakın olduğun için aktarıyorum.",
+          "commentary": "Krishna, bu bilginin gizli doğasını, en sadık takipçileri için saklanan bir bilgi olarak açıklar. Bu, ruhsal bilgelik elde etmede bağlılığın önemini gösterir."
+        }
+      },
+      {
+        "verse_number": 34,
+        "sanskrit": "राजविद्या राजगुह्यं पवित्रं परमं भुवि | तद्विज्ञानार्थं गुह्यं मे तद्विज्ञानमुत्तमम् || 34 ||",
+        "transliteration": "rāja-vidyā rāja-guhyaṁ pavitraṁ paramaṁ bhuvi | tad vijñāna-arthaṁ guhiyaṁ me tad vijñānam uttamam || 34 ||",
+        "english": {
+          "translation": "This knowledge is the king of sciences and the secret of secrets. It is pure and supreme, and it gives direct perception of the ultimate truth.",
+          "commentary": "Krishna describes the supreme knowledge that He is imparting as the king of sciences, emphasizing its purity and its ability to reveal the ultimate truth directly."
+        },
+        "turkish": {
+          "translation": "Bu bilgi, bilimlerin kralıdır ve sırların sırrıdır. Saf ve yücedir, nihai gerçeği doğrudan algılamayı sağlar.",
+          "commentary": "Krishna, aktardığı bu yüce bilgiyi bilimlerin kralı olarak tanımlar ve onun saflığını, nihai gerçeği doğrudan açığa çıkarma yeteneğini vurgular."
+        }
+      },
+      {
+        "verse_number": 35,
+        "sanskrit": "अस्मिन्क्षेत्रे ज्ञानं यत्तत्त्वज्ञानं सदा मया | तद्विज्ञानार्थं गुह्यं मे तद्विज्ञानमुत्तमम् || 35 ||",
+        "transliteration": "asmin kṣetre jñānaṁ yat tattva-jñānaṁ sadā mayā | tad vijñāna-arthaṁ guhiyaṁ me tad vijñānam uttamam || 35 ||",
+        "english": {
+          "translation": "In this body, the knowledge of the self, which is the knowledge of the ultimate truth, is always present. This knowledge is the most secret and is to be understood as the highest wisdom.",
+          "commentary": "Krishna explains that the knowledge of the self, which leads to the understanding of the ultimate truth, is inherent within everyone. It is the most secret knowledge, revealing the highest wisdom."
+        },
+        "turkish": {
+          "translation": "Bu bedende, özün bilgisi, nihai gerçeğin bilgisi her zaman mevcuttur. Bu bilgi, en gizli bilgidir ve en yüksek bilgelik olarak anlaşılmalıdır.",
+          "commentary": "Krishna, nihai gerçeği anlamaya götüren öz bilgisinin herkesin içinde mevcut olduğunu açıklar. Bu, en gizli bilgidir ve en yüksek bilgelik olarak ortaya çıkar."
+        }
+      },
+      {
+        "verse_number": 36,
+        "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु || 36 ||",
+        "transliteration": "iti te jñānam ākhyātaṁ guhya-dguhyataraṁ mayā | vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru || 36 ||",
+        "english": {
+          "translation": "Thus, I have explained to you this knowledge that is more secret than all secrets. Ponder over it deeply and do as you wish.",
+          "commentary": "Krishna concludes His teachings in this chapter by urging Arjuna to reflect on this profound knowledge and to act according to his own understanding and conviction."
+        },
+        "turkish": {
+          "translation": "Böylece, sana tüm sırların en gizlisini açıklamışımdır. Bunu derinlemesine düşün ve istediğin gibi yap.",
+          "commentary": "Krishna, bu bölümdeki öğretilerini, Arjuna'yı bu derin bilgiyi düşünmeye ve kendi anlayışına ve inancına göre hareket etmeye teşvik ederek sonlandırır."
+        }
+      },
+      {
+        "verse_number": 37,
+        "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् || 37 ||",
+        "transliteration": "sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ | iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam || 37 ||",
+        "english": {
+          "translation": "Again, I declare to you this supreme knowledge, the most secret of all secrets. You are very dear to Me, and therefore, I will tell you what is good for you.",
+          "commentary": "Krishna reiterates the importance of this knowledge and assures Arjuna of its benefits. His affection for Arjuna is also emphasized, indicating the personal nature of divine guidance."
+        },
+        "turkish": {
+          "translation": "Yine, sana bu en yüksek bilgiyi, tüm sırların en gizlisini açıklıyorum. Sen bana çok seversin, bu yüzden senin için iyi olanı söyleyeceğim.",
+          "commentary": "Krishna, bu bilginin önemini tekrar vurgular ve Arjuna'ya bunun faydalarını garanti eder. Arjuna'ya olan sevgisi de vurgulanır, bu da ilahi rehberliğin kişisel doğasını gösterir."
+        }
+      },
+      {
+        "verse_number": 38,
+        "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया | विमृश्यैतदशेषेण यथेच्छसि तथा कुरु || 38 ||",
+        "transliteration": "iti te jñānam ākhyātaṁ guhya-dguhyataraṁ mayā | vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru || 38 ||",
+        "english": {
+          "translation": "Thus, I have explained to you this knowledge that is more secret than all secrets. Ponder over it deeply and do as you wish.",
+          "commentary": "This is a repetition of verse 23, emphasizing the importance of understanding and contemplating the teachings received from the divine."
+        },
+        "turkish": {
+          "translation": "Böylece, sana tüm sırların en gizlisini açıklamışımdır. Bunu derinlemesine düşün ve istediğin gibi yap.",
+          "commentary": "Bu, 23. ayetin bir tekrarıdır ve ilahi olandan alınan öğretilerin anlaşılması ve üzerinde düşünülmesinin önemini vurgular."
+        }
+      },
+      {
+        "verse_number": 39,
+        "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् || 39 ||",
+        "transliteration": "sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ | iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam || 39 ||",
+        "english": {
+          "translation": "Again, I declare to you this supreme knowledge, the most secret of all secrets. You are very dear to Me, and therefore, I will tell you what is good for you.",
+          "commentary": "This verse reiterates the personal connection between Krishna and Arjuna, highlighting the importance of divine love and guidance in the practice of karma yoga."
+        },
+        "turkish": {
+          "translation": "Yine, sana bu en yüksek bilgiyi, tüm sırların en gizlisini açıklıyorum. Sen bana çok seversin, bu yüzden senin için iyi olanı söyleyeceğim.",
+          "commentary": "Bu ayet, Krishna ile Arjuna arasındaki kişisel bağı tekrar vurgular ve karma yogası uygulamasında ilahi sevgi ve rehberliğin önemini öne çıkarır."
+        }
+      },
+      {
+        "verse_number": 40,
+        "sanskrit": "सर्वाणि कर्माण्यपि सदा कुरुता: सन्न्यस्य सदा मन: | यज्ञार्थात्कर्मणोऽन्यत्कृतं तव न विद्यते || 40 ||",
+        "transliteration": "sarvāṇi karmāṇy api sadā kurutāḥ sannyasya sadā manaḥ | yajñārthāt karmaṇo 'nyat kṛtaṁ tava na vidyate || 40 ||",
+        "english": {
+          "translation": "All actions are carried out by the modes of material nature. The person deluded by false ego thinks, 'I am the doer.'",
+          "commentary": "Krishna explains the influence of the modes of material nature on human actions and the illusion of the false ego that identifies itself as the doer."
+        },
+        "turkish": {
+          "translation": "Tüm eylemler maddi doğanın etkisiyle gerçekleştirilir. Sahte benlik tarafından aldatılan kişi, 'Ben yapanım' diye düşünür.",
+          "commentary": "Krishna, insan eylemleri üzerindeki maddi doğanın etkisini ve kendisini yapan olarak tanımlayan sahte benliğin illüzyonunu açıklar."
+        }
+      },
+      {
+        "verse_number": 41,
+        "sanskrit": "बुद्धियुक्तो जहातीह उभे सुकृतदुष्कृते | तस्माद्योगाय युजस्व मे तद्विज्ञानमुत्तमम् || 41 ||",
+        "transliteration": "buddhi-yukto jahātīha ubhe sukṛta-duṣkṛte | tasmād yogāya yujasva me tad vijñānam uttamam || 41 ||",
+        "english": {
+          "translation": "The one who is engaged in selfless action, with a mind fixed on the Supreme, transcends both good and evil. Therefore, engage in yoga, which is the path of selfless action.",
+          "commentary": "Krishna encourages Arjuna to engage in karma yoga, selfless action, as a means to transcend the dualities of good and evil and to realize the Supreme."
+        },
+        "turkish": {
+          "translation": "Kendini Yüce Olan'a adamış olan, hem iyi hem de kötü olanın ötesine geçen kişi, özverili eylemde bulunur. Bu nedenle, özverili eylem yolu olan yoga ile meşgul ol.",
+          "commentary": "Krishna, Arjuna'yı, iyi ve kötü ikilemlerinin ötesine geçmek ve Yüce Olan'ı gerçekleştirmek için bir yol olarak karma yogaya, özverili eyleme yönlendirir."
+        }
+      },
+      {
+        "verse_number": 42,
+        "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः | इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम् || 42 ||",
+        "transliteration": "sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ | iṣṭo 'si me dṛḍham iti tato vakṣyāmi te hitam || 42 ||",
+        "english": {
+          "translation": "Again, I declare to you this supreme knowledge, the most secret of all secrets. You are very dear to Me, and therefore, I will tell you what is good for you.",
+          "commentary": "This verse is a repetition, emphasizing the personal relationship between Krishna and Arjuna and the importance of this supreme knowledge."
+        },
+        "turkish": {
+          "translation": "Yine, sana bu en yüksek bilgiyi, tüm sırların en gizlisini açıklıyorum. Sen bana çok seversin, bu yüzden senin için iyi olanı söyleyeceğim.",
+          "commentary": "Bu ayet, Krishna ile Arjuna arasındaki kişisel ilişkiyi ve bu yüce bilginin önemini vurgulamak için bir tekrardır."
+        }
+      },
+      {
+        "verse_number": 43,
+        "sanskrit": "एवं बुद्धेः परं बुद्ध्वा संस्तभ्यात्मानमात्मना | जहि शत्रुं महाबाहो कामरूपं दुरासदम् || 43 ||",
+        "transliteration": "evaṁ buddheḥ paraṁ buddhvā sanstabhya-ātmānam-ātmanā | jahi śatruṁ mahā-bāho kāma-rūpaṁ durāsadam || 43 ||",
+        "english": {
+          "translation": "Thus, knowing oneself to be transcendental to material intelligence, O mighty-armed Arjuna, one should steady the mind by deliberate spiritual intelligence and conquer this insatiable enemy known as lust.",
+          "commentary": "Krishna concludes the chapter by emphasizing the importance of self-mastery and the conquest of desires. This verse encapsulates the essence of karma yoga as a path to liberation through disciplined action and control over the senses."
+        },
+        "turkish": {
+          "translation": "Böylece, kendini maddi zekanın ötesinde bilerek, ey güçlü kollu Arjuna, zihni bilinçli bir ruhsal zeka ile sabitlemeli ve doyumsuz düşman olan arzuyu fethetmelisin.",
+          "commentary": "Krishna, bölümü öz disiplin ve arzuların kontrolü yoluyla kurtuluşa giden bir yol olarak karma yoganın özünü vurgulayarak tamamlar."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "verses_translated": 43,
+    "expected_verses": 43,
+    "complete": true,
+    "missing_verses": []
+  }
+}
