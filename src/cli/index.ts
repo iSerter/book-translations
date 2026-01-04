@@ -8,6 +8,7 @@ import { registerTemplateCommands } from "./commands/template.js";
 import { registerChapterCommands } from "./commands/chapter.js";
 import { registerVerseCommands } from "./commands/verse.js";
 import { registerTranslationsCommands } from "./commands/translations.js";
+import { registerDbCommands } from "./commands/db.js";
 import { registerProviders } from "../providers/index.js";
 
 export async function main(argv: string[] = process.argv): Promise<void> {
@@ -30,6 +31,7 @@ function buildProgram(): Command {
   registerChapterCommands(program);
   registerVerseCommands(program);
   registerTranslationsCommands(program);
+  registerDbCommands(program);
 
   program.action(async () => {
     program.outputHelp();

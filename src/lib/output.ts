@@ -1,3 +1,4 @@
+import util from "node:util";
 import { AppError, ExitCode, toExitCode } from "./errors.js";
 
 export type OutputMode = "json" | "text";
@@ -17,7 +18,11 @@ export function printResult(result: unknown, mode: OutputMode, targets: OutputTa
     targets.stdout.write(JSON.stringify(result, null, 2) + "\n");
     return;
   }
-  targets.stdout.write(String(result) + "\n");
+  if (typeof result === "object" && result !== null) {
+      targets.stdout.write(util.inspect(result, { colors: true, depth: null }) + "\n");
+  } else {
+      targets.stdout.write(String(result) + "\n");
+  }
 }
 
 export function printError(error: unknown, mode: OutputMode, targets: OutputTargets = defaultTargets): ExitCode {

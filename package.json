@@ -7,7 +7,7 @@
     "node": ">=22 <23"
   },
   "scripts": {
-    "build": "tsc -p tsconfig.json",
+    "build": "tsc -p tsconfig.json && mkdir -p dist/db/migrations && cp src/db/migrations/*.sql dist/db/migrations/",
     "lint": "eslint . --ext .ts",
     "format": "prettier --check .",
     "format:write": "prettier --write .",

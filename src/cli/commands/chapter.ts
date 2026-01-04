@@ -18,6 +18,7 @@ export function registerChapterCommands(program: Command) {
     .requiredOption("-p, --provider <name>", "Provider name")
     .option("-m, --model <name>", "Model name")
     .option("-r, --resume", "Resume generation if interrupted")
+    .option("--format <type>", "Output format (simple, sanskrit-scripture)")
     .action(wrapAction(program, async (options: any) => {
       const { config, outputMode } = buildContext(program);
       const db = openDatabase(config.dbPath);
@@ -32,7 +33,8 @@ export function registerChapterCommands(program: Command) {
           templateName: options.template,
           providerName: options.provider,
           model: options.model,
-          resume: options.resume
+          resume: options.resume,
+          format: options.format
       });
 
       printResult({ success: true, data: result }, outputMode);

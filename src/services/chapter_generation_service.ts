@@ -4,6 +4,7 @@ import { getTemplate } from "./prompt_template_service.js";
 import { startRun, failRun, completeRun, getLatestRun } from "./generation_run_service.js";
 import { validateChapterPackage } from "./chapter_package_validator.js";
 import { generationProviderRegistry } from "../providers/provider_registry.js";
+import { insertTranslation, findTranslation } from "../db/repositories/translations.js"; // Import translation repo
 import { AppError, ExitCode } from "../lib/errors.js";
 
 export type GenerateChapterInput = {
@@ -14,9 +15,11 @@ export type GenerateChapterInput = {
     providerName: string;
     model?: string;
     resume?: boolean;
+    format?: string;
 };
 
 export async function generateChapter(db: Database, input: GenerateChapterInput) {
+    // ... (Steps 1-4 same)
     // 1. Resolve Book
     const book = findBookBySlug(db, input.bookSlug);
     if (!book) {
@@ -24,7 +27,6 @@ export async function generateChapter(db: Database, input: GenerateChapterInput)
     }
 
     // 2. Resolve/Create Chapter
-    // We upsert to ensure expectedVerseCount is set/updated
     const chapter = upsertChapter(db, {
         bookId: book.id,
         number: input.chapterNumber,
@@ -73,52 +75,55 @@ export async function generateChapter(db: Database, input: GenerateChapterInput)
     try {
         // 6. Call Provider
         const provider = generationProviderRegistry.get(input.providerName);
-        const pkg = await provider.generateChapter({ prompt, model: input.model });
+        const pkg = await provider.generateChapter({ 
+            prompt, 
+            model: input.model,
+            format: input.format 
+        });
 
         // 7. Validate
-        // If resuming, the package should contain verses startVerse..endVerse.
-        // The validator expects 1..N usually.
-        // If I pass verses 6..10 to validator, it checks if they are sequential?
-        // My validator implementation checks "start with 1".
-        // This breaks resume!
-        
-        // I need to adjust validator usage or logic.
-        // I should normalize the package or check manually here?
-        // Or update validator to accept `startVerse` option.
-        // Updating validator is better.
-
-        // Let's assume I update validator to accept `startVerse`.
-        // I'll fix validator below.
-        
-        // For now, let's assume validator handles it.
         const validation = validateChapterPackage(pkg, count, startVerse); 
-        // If validator enforces start=1, this fails for resume.
-        // I MUST update validator.
         
         if (!validation.isValid) {
              throw new Error(validation.error);
         }
         
-        // Also check if verses start at startVerse.
-        // If validator checks 1..count, but we have startVerse..endVerse.
-        // I should re-map them for validator? No, validator should check what is there.
-        // I'll update validator in next step or use a localized check.
-        
-        // 8. Store Verses
+        // 8. Store Verses AND Translations
         db.transaction(() => {
              for (const v of pkg.verses) {
-                 upsertVerse(db, {
+                 const verse = upsertVerse(db, {
                      chapterId: chapter.id,
-                     number: v.number, // v.number should be absolute (e.g. 6)
+                     number: v.number,
                      sourceText: v.text
                  });
+
+                 if (v.translations) {
+                     for (const t of v.translations) {
+                         // Check existence first or just handle conflict?
+                         // insertTranslation handles conflict by throwing.
+                         // We should maybe use upsert logic or ignore if exists?
+                         // Since this is generation, we probably want to save it.
+                         // But insertTranslation uses SQL `INSERT`.
+                         // Let's check first.
+                         const existing = findTranslation(db, verse.id, t.languageCode, t.provider || input.providerName, null);
+                         if (!existing) {
+                             insertTranslation(db, {
+                                 verseId: verse.id,
+                                 languageCode: t.languageCode,
+                                 provider: t.provider || input.providerName,
+                                 text: t.text,
+                                 model: input.model
+                             });
+                         }
+                     }
+                 }
              }
              
              // 9. Complete Run
-             completeRun(db, run.id, input.expectedVerseCount); // Assuming we got all
+             completeRun(db, run.id, input.expectedVerseCount); 
         })();
         
-        return completeRun(db, run.id, input.expectedVerseCount); // Return updated run
+        return completeRun(db, run.id, input.expectedVerseCount);
         
     } catch (err: any) {
         failRun(db, run.id, err.message);

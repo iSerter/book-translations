@@ -54,5 +54,9 @@ export interface CreateVerseInput {
 }
 
 export type ChapterPackage = {
-  verses: { number: number; text: string }[];
+  verses: { 
+    number: number; 
+    text: string;
+    translations?: { languageCode: string; text: string; provider?: string }[];
+  }[];
 };
