@@ -24,6 +24,7 @@ export function insertTranslation(
   db: BetterSqlite3Database,
   input: InsertTranslationInput,
 ): TranslationRecord {
+  const model = input.model ?? "";
   try {
     db.prepare(`
       INSERT INTO translations (verse_id, language_code, provider, model, text)
@@ -32,7 +33,7 @@ export function insertTranslation(
       verseId: input.verseId,
       languageCode: input.languageCode,
       provider: input.provider,
-      model: input.model ?? null,
+      model: model,
       text: input.text,
     });
   } catch (error) {
@@ -46,13 +47,13 @@ export function insertTranslation(
     .prepare(
       `SELECT id, verse_id as verseId, language_code as languageCode, provider, model, text, created_at as createdAt
        FROM translations
-       WHERE verse_id = @verseId AND language_code = @languageCode AND provider = @provider AND (model IS @model OR model = @model)`,
+       WHERE verse_id = @verseId AND language_code = @languageCode AND provider = @provider AND model = @model`,
     )
     .get({
       verseId: input.verseId,
       languageCode: input.languageCode,
       provider: input.provider,
-      model: input.model ?? null,
+      model: model,
     });
 
   if (!row) {
@@ -68,13 +69,14 @@ export function findTranslation(
   provider: string,
   model: string | null,
 ): TranslationRecord | undefined {
+  const modelVal = model ?? "";
   const row = db
     .prepare(
       `SELECT id, verse_id as verseId, language_code as languageCode, provider, model, text, created_at as createdAt
        FROM translations
-       WHERE verse_id = @verseId AND language_code = @languageCode AND provider = @provider AND (model IS @model OR model = @model)`,
+       WHERE verse_id = @verseId AND language_code = @languageCode AND provider = @provider AND model = @model`,
     )
-    .get({ verseId, languageCode, provider, model });
+    .get({ verseId, languageCode, provider, model: modelVal });
   return row ? mapTranslation(row) : undefined;
 }
 
@@ -98,7 +100,7 @@ function mapTranslation(row: any): TranslationRecord {
     verseId: row.verseId,
     languageCode: row.languageCode,
     provider: row.provider,
-    model: row.model ?? null,
+    model: row.model === "" ? null : row.model,
     text: row.text,
     createdAt: row.createdAt,
   };

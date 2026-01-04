@@ -3,8 +3,15 @@ import { fileURLToPath } from "node:url";
 import { Command } from "commander";
 
 import { buildContext, run } from "./run.js";
+import { registerBookCommands } from "./commands/book.js";
+import { registerTemplateCommands } from "./commands/template.js";
+import { registerChapterCommands } from "./commands/chapter.js";
+import { registerVerseCommands } from "./commands/verse.js";
+import { registerTranslationsCommands } from "./commands/translations.js";
+import { registerProviders } from "../providers/index.js";
 
 export async function main(argv: string[] = process.argv): Promise<void> {
+  registerProviders();
   const program = buildProgram();
   await run(program, argv, () => buildContext(program));
 }
@@ -17,6 +24,12 @@ function buildProgram(): Command {
     .description("CLI for storing books, generating chapters, and translating verses")
     .option("-j, --json", "Output JSON to stdout", false)
     .option("--db <path>", "Path to SQLite database file");
+
+  registerBookCommands(program);
+  registerTemplateCommands(program);
+  registerChapterCommands(program);
+  registerVerseCommands(program);
+  registerTranslationsCommands(program);
 
   program.action(async () => {
     program.outputHelp();

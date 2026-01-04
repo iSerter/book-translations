@@ -43,8 +43,10 @@ function ensureSchemaVersionTable(db: BetterSqlite3Database): void {
 }
 
 function getAppliedVersions(db: BetterSqlite3Database): number[] {
-  const rows = db.prepare("SELECT version FROM schema_version ORDER BY version ASC").all();
-  return rows.map((row: { version: number }) => row.version);
+  const rows = db.prepare("SELECT version FROM schema_version ORDER BY version ASC").all() as {
+    version: number;
+  }[];
+  return rows.map((row) => row.version);
 }
 
 function runMigration(db: BetterSqlite3Database, migration: Migration): void {

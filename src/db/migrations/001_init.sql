@@ -37,7 +37,7 @@ CREATE TABLE translations (
 	verse_id INTEGER NOT NULL REFERENCES verses(id) ON DELETE CASCADE,
 	language_code TEXT NOT NULL,
 	provider TEXT NOT NULL,
-	model TEXT,
+	model TEXT NOT NULL DEFAULT '',
 	text TEXT NOT NULL,
 	created_at TEXT NOT NULL DEFAULT (datetime('now')),
 	UNIQUE (verse_id, language_code, provider, model)

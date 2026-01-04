@@ -1,4 +1,6 @@
 import { AppError, ExitCode } from "../lib/errors.js";
+import type { GenerationProvider } from "./generation_provider.js";
+import type { TranslationProvider } from "./translation_provider.js";
 
 export type ProviderRegistry<T> = {
   register(name: string, provider: T): void;
@@ -60,5 +62,5 @@ export function createProviderRegistry<T>(kind: string): ProviderRegistry<T> {
   return { register, get, resolve, has, list, clear };
 }
 
-export const generationProviderRegistry = createProviderRegistry<unknown>("generation");
-export const translationProviderRegistry = createProviderRegistry<unknown>("translation");
+export const generationProviderRegistry = createProviderRegistry<GenerationProvider>("generation");
+export const translationProviderRegistry = createProviderRegistry<TranslationProvider>("translation");

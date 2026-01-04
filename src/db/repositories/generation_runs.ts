@@ -40,7 +40,7 @@ export function createGenerationRun(
   db: BetterSqlite3Database,
   input: CreateGenerationRunInput,
 ): GenerationRunRecord {
-  db.prepare(
+  const info = db.prepare(
     `INSERT INTO generation_runs (
       book_id,
       chapter_number,
@@ -74,20 +74,12 @@ export function createGenerationRun(
     validationError: input.validationError ?? null,
   });
 
-  const row = db
-    .prepare(
-      `SELECT id, book_id as bookId, chapter_number as chapterNumber, expected_verse_count as expectedVerseCount, provider, model, status, started_at as startedAt, completed_at as completedAt, last_completed_verse as lastCompletedVerse, validation_error as validationError
-       FROM generation_runs
-       WHERE book_id = @bookId AND chapter_number = @chapterNumber
-       ORDER BY started_at DESC
-       LIMIT 1`,
-    )
-    .get({ bookId: input.bookId, chapterNumber: input.chapterNumber });
+  const row = getGenerationRunById(db, info.lastInsertRowid as number);
 
   if (!row) {
     throw new AppError("Failed to create generation run", { code: ExitCode.Unknown });
   }
-  return mapGenerationRun(row);
+  return row;
 }
 
 export function updateGenerationRun(

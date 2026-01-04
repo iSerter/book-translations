@@ -14,10 +14,15 @@
     "test": "tsx --test \"tests/**/*.test.ts\""
   },
   "dependencies": {
+    "@ai-sdk/openai": "^3.0.2",
+    "ai": "^6.0.6",
     "better-sqlite3": "^9.4.3",
-    "commander": "^12.1.0"
+    "commander": "^12.1.0",
+    "deepl-node": "^1.24.0",
+    "zod": "^4.3.4"
   },
   "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
     "@types/node": "^22.9.0",
     "@typescript-eslint/eslint-plugin": "^8.10.0",
     "@typescript-eslint/parser": "^8.10.0",

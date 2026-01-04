@@ -1,0 +1,17 @@
+{
+  "title": "The Little Schemer",
+  "author": "Daniel P. Friedman",
+  "slug": "the-little-schemer",
+  "chapters": [
+    {
+      "number": 1,
+      "title": "Toys",
+      "expected_verse_count": 10
+    },
+    {
+      "number": 2,
+      "title": "Do It, Do It Again",
+      "expected_verse_count": 5
+    }
+  ]
+}
