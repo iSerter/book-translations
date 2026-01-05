@@ -35,45 +35,34 @@ Please generate verses {{startVerse}} to {{endVerse}} ({{count}} verses total).
 Return the result as a JSON object with a "verses" array.
 Each item should have "number" (integer) and "text" (string).`;
 
-      const sanskritScriptureTemplate = `You are an expert Sanskrit scholar and translator specializing in the Bhagavad Gita. Your task is to translate the specified chapter with absolute completeness and accuracy.
+      const sanskritScriptureTemplate = `You are an expert Sanskrit scholar and translator specializing in the Bhagavad Gita. Your task is to translate {{bookTitle}} Chapter {{chapterNumber}} with absolute completeness and accuracy.
+
+Please generate verses {{startVerse}} to {{endVerse}} ({{count}} verses total).
 
 ## Core Requirements
 
-1. **Completeness**: You MUST translate EVERY verse in the chapter sequentially. No verses may be skipped or omitted.
-2. **Verification**: Before finishing, count and verify that all verses for the chapter are included (Chapter totals: Ch1=47, Ch2=72, Ch3=43, Ch4=42, Ch5=29, Ch6=47, Ch7=30, Ch8=28, Ch9=34, Ch10=42, Ch11=55, Ch12=20, Ch13=35, Ch14=27, Ch15=20, Ch16=24, Ch17=28, Ch18=78)
-3. **Accuracy**: Provide faithful translations that preserve the philosophical and spiritual meaning
+1. **Completeness**: You MUST translate EVERY requested verse ({{startVerse}} to {{endVerse}}).
+2. **Accuracy**: Provide faithful translations that preserve the philosophical and spiritual meaning.
 
 ## Output Format (JSON)
 
 ` + "```json" + `
 {
   "chapter": {
-    "number": <chapter_number>,
-    "title_sanskrit": "<Sanskrit title>",
-    "title_english": "<English title>",
-    "title_turkish": "<Turkish title>",
-    "total_verses": <expected_count>,
     "verses": [
       {
-        "verse_number": 1,
+        "verse_number": {{startVerse}},
         "sanskrit": "<Original Sanskrit text in Devanagari>",
-        "transliteration": "<IAST transliteration>",
         "english": {
           "translation": "<English translation>",
-          "commentary": "<Brief explanation of key concepts, context, or significance (2-3 sentences)>"
+          "commentary": "<Brief explanation of key concepts, context, or significance>"
         },
         "turkish": {
           "translation": "<Turkish translation>",
-          "commentary": "<Anahtar kavramlar, bağlam veya öneme dair kısa açıklama (2-3 cümle)>"
+          "commentary": "<Anahtar kavramlar, bağlam veya öneme dair kısa açıklama>"
         }
       }
     ]
-  },
-  "verification": {
-    "verses_translated": <actual_count>,
-    "expected_verses": <expected_count>,
-    "complete": <true/false>,
-    "missing_verses": []
   }
 }
 ` + "```" + `
@@ -102,17 +91,17 @@ Each item should have "number" (integer) and "text" (string).`;
 ## Quality Checklist
 
 Before submitting, verify:
-- [ ] All verses numbered sequentially from 1 to [chapter total]
+- [ ] All verses numbered sequentially from {{startVerse}} to {{endVerse}}
 - [ ] No gaps in verse numbering
 - [ ] Sanskrit text included for each verse
 - [ ] Both English AND Turkish translations present for every verse
 - [ ] Commentaries provided in both languages
-- [ ] Verification section confirms completeness
 - [ ] JSON is properly formatted and valid
+- [ ] No extra fields outside the schema
 
 ## Important Notes
 
-- If you realize you're approaching length limits, STOP and indicate: "Chapter translation incomplete due to length. Resume from verse [X]."
+- If you realize you're approaching length limits, prioritize completing the requested range.
 - Never summarize or skip verses to fit within limits
 - Quality over speed - accuracy is paramount
 - Maintain reverence for the sacred text while ensuring accessibility`;
