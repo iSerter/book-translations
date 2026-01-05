@@ -1,0 +1,563 @@
+{
+    "chapter": {
+        "number": 10,
+        "title_sanskrit": "विभूतियोग",
+        "title_english": "The Yoga of Divine Manifestations",
+        "title_turkish": "İlahi Tezahürlerin Yogası",
+        "total_verses": 42,
+        "verses": [
+            {
+                "verse_number": 1,
+                "sanskrit": "श्रीभगवानुवाच। भूय एव महाबाहो शृणु मे परमं वचः। यत्तेऽहं प्रीयमाणाय वक्ष्यामि हितकाम्यया।।१।।",
+                "transliteration": "śrī-bhagavān uvāca | bhūya eva mahā-bāho śṛṇu me paramaṃ vacaḥ | yat te'haṃ prīyamāṇāya vakṣyāmi hita-kāmyayā ||1||",
+                "english": {
+                    "translation": "The Blessed Lord said: Again, O mighty-armed one, listen to My supreme word, which I shall speak to you, who are dear to Me, desiring your welfare.",
+                    "commentary": "Krishna begins Chapter 10 by emphasizing that what follows is 'paramam vachah' (supreme word)—even more elevated teaching than previous chapters. He addresses Arjuna affectionately as 'maha-baho' (mighty-armed) and notes that this teaching is given because Arjuna is 'priyamanaya' (dear to Him). Krishna speaks from 'hita-kamyaya' (desire for welfare)—showing that divine revelation comes from love and the wish to benefit the devotee. This personal dimension frames the cosmic knowledge that follows."
+                },
+                "turkish": {
+                    "translation": "Kutsal Efendi dedi ki: Yine, ey güçlü kollu, Bana sevgili olan senin iyiliğini arzulayarak, sana söyleyeceğim Benim en yüce sözümü dinle.",
+                    "commentary": "Krishna, Bölüm 10'a takip edecek şeyin 'paramam vachah' (en yüce söz) olduğunu vurgulayarak başlar—önceki bölümlerden daha yüksek öğreti. Arjuna'ya sevgiyle 'maha-baho' (güçlü kollu) olarak hitap eder ve bu öğretinin Arjuna'nın 'priyamanaya' (O'na sevgili) olduğu için verildiğini belirtir. Krishna 'hita-kamyaya' (iyilik arzusu) dan konuşur—ilahi vahyin sevgiden ve bağlıya fayda sağlama isteğinden geldiğini gösterir. Bu kişisel boyut, takip eden kozmik bilgiyi çerçeveler."
+                }
+            },
+            {
+                "verse_number": 2,
+                "sanskrit": "न मे विदुः सुरगणाः प्रभवं न महर्षयः। अहमादिर्हि देवानां महर्षीणां च सर्वशः।।२।।",
+                "transliteration": "na me viduḥ sura-gaṇāḥ prabhavaṃ na maharṣayaḥ | aham ādir hi devānāṃ maharṣīṇāṃ ca sarvaśaḥ ||2||",
+                "english": {
+                    "translation": "Neither the hosts of gods nor the great sages know My origin, for I am the source of all the gods and great sages.",
+                    "commentary": "Krishna reveals His supreme transcendence: even celestial beings (sura-ganah—hosts of gods) and great sages (maharshis) don't know His 'prabhavam' (origin/manifestation). The reason is profound—He is their source (adi). The effect cannot fully comprehend its cause; the created cannot fully know the Creator. This establishes epistemological humility—even the highest beings have limited understanding of God's nature. True knowledge of Krishna comes not through speculation but through His self-revelation, as given in the Gita."
+                },
+                "turkish": {
+                    "translation": "Ne tanrı toplulukları ne de büyük bilgeler Benim kökenimi bilir, çünkü Ben tüm tanrıların ve büyük bilgelerin kaynağıyım.",
+                    "commentary": "Krishna en yüce aşkınlığını ortaya çıkarır: göksel varlıklar bile (sura-ganah—tanrı toplulukları) ve büyük bilgeler (maharshiler) O'nun 'prabhavam' (kökeni/tezahürü) nü bilmezler. Sebep derindir—O onların kaynağıdır (adi). Etki, nedenini tam olarak kavrayamaz; yaratılmış, Yaratıcı'yı tam olarak bilemez. Bu, epistemolojik alçakgönüllülük kurar—en yüksek varlıklar bile Tanrı'nın doğasına dair sınırlı anlayışa sahiptir. Krishna'nın gerçek bilgisi spekülasyondan değil, Gita'da verildiği gibi O'nun kendini açığa çıkarmasından gelir."
+                }
+            },
+            {
+                "verse_number": 3,
+                "sanskrit": "यो मामजमनादिं च वेत्ति लोकमहेश्वरम्। असम्मूढः स मर्त्येषु सर्वपापैः प्रमुच्यते।।३।।",
+                "transliteration": "yo mām ajam anādiṃ ca vetti loka-maheśvaram | asammūḍhaḥ sa martyeṣu sarva-pāpaiḥ pramucyate ||3||",
+                "english": {
+                    "translation": "One who knows Me as unborn and beginningless, the great Lord of the worlds—that person, undeluded among mortals, is freed from all sins.",
+                    "commentary": "Krishna describes the liberating knowledge: knowing Him as 'ajam' (unborn), 'anadim' (without beginning), and 'loka-maheshvaram' (great Lord of worlds). One with this knowledge is 'asammudha' (undeluded) among mortals and becomes 'pramuchyate' (freed) from all sins. This isn't mere intellectual knowledge but realized understanding that transforms consciousness. Recognizing God's eternal, transcendent nature while He appears in form dissolves the binding power of karma. True knowledge of the Divine is itself purifying and liberating."
+                },
+                "turkish": {
+                    "translation": "Beni doğmamış ve başlangıçsız, dünyaların büyük Efendisi olarak bilen kişi—o kişi, ölümlüler arasında aldatılmamış, tüm günahlardan özgürdür.",
+                    "commentary": "Krishna kurtarıcı bilgiyi tanımlar: O'nu 'ajam' (doğmamış), 'anadim' (başlangıçsız) ve 'loka-maheshvaram' (dünyaların büyük Efendisi) olarak bilmek. Bu bilgiye sahip olan 'asammudha' (aldatılmamış) dır ve tüm günahlardan 'pramuchyate' (özgür) olur. Bu sadece entelektüel bilgi değil, bilinci dönüştüren gerçekleşmiş anlayıştır. Tanrı'nın formda görünürken sonsuz, aşkın doğasını tanımak, karmanın bağlayıcı gücünü eritir. İlahi'nin gerçek bilgisi kendisi arıtıcı ve kurtarıcıdır."
+                }
+            },
+            {
+                "verse_number": 4,
+                "sanskrit": "बुद्धिर्ज्ञानमसम्मोहः क्षमा सत्यं दमः शमः। सुखं दुःखं भवोऽभावो भयं चाभयमेव च।।४।।",
+                "transliteration": "buddhir jñānam asammohaḥ kṣamā satyaṃ damaḥ śamaḥ | sukhaṃ duḥkhaṃ bhavo'bhāvo bhayaṃ cābhayam eva ca ||4||",
+                "english": {
+                    "translation": "Intellect, knowledge, non-delusion, forgiveness, truthfulness, self-control, tranquility, pleasure, pain, birth, death, fear, and fearlessness—",
+                    "commentary": "Krishna begins enumerating divine qualities and cosmic phenomena that originate from Him. This verse lists psychological and experiential states: buddhi (intellect), jnana (knowledge), asammoha (non-delusion), kshama (forgiveness), satya (truthfulness), dama (sense control), shama (mental tranquility), and pairs of opposites—pleasure/pain, birth/death, fear/fearlessness. The inclusion of opposites is significant—Krishna is the source not just of positive qualities but of all dualities in existence. This comprehensive list shows the totality of His creative power."
+                },
+                "turkish": {
+                    "translation": "Zeka, bilgi, aldanmazlık, bağışlama, doğruluk, kendini kontrol, dinginlik, zevk, acı, doğum, ölüm, korku ve korkusuzluk—",
+                    "commentary": "Krishna, O'ndan kaynaklanan ilahi nitelikleri ve kozmik olayları saymaya başlar. Bu ayet psikolojik ve deneyimsel durumları listeler: buddhi (zeka), jnana (bilgi), asammoha (aldanmazlık), kshama (bağışlama), satya (doğruluk), dama (duyuları kontrol), shama (zihinsel dinginlik) ve karşıtlık çiftleri—zevk/acı, doğum/ölüm, korku/korkusuzluk. Karşıtlıkların dahil edilmesi önemlidir—Krishna sadece olumlu niteliklerin değil, varoluştaki tüm ikililiklerin kaynağıdır. Bu kapsamlı liste, O'nun yaratıcı gücünün bütünlüğünü gösterir."
+                }
+            },
+            {
+                "verse_number": 5,
+                "sanskrit": "अहिंसा समता तुष्टिस्तपो दानं यशोऽयशः। भवन्ति भावा भूतानां मत्त एव पृथग्विधाः।।५।।",
+                "transliteration": "ahiṃsā samatā tuṣṭis taho dānaṃ yaśo'yaśaḥ | bhavanti bhāvā bhūtānāṃ matta eva pṛthag-vidhāḥ ||5||",
+                "english": {
+                    "translation": "Non-violence, equanimity, contentment, austerity, charity, fame, and infamy—the various states of beings arise from Me alone.",
+                    "commentary": "The enumeration continues with more virtues: ahimsa (non-violence), samata (equanimity), tushti (contentment), tapas (austerity), dana (charity), and another pair—fame (yashas) and infamy (ayashas). Krishna declares 'matta eva' (from Me alone) come all these 'prithag-vidhah' (various kinds) of states. This comprehensive sourcing means Krishna is responsible for all conditions and qualities in creation. Understanding this prevents spiritual pride—even one's virtues ultimately come from God, not from personal achievement. All qualities flow from the divine source."
+                },
+                "turkish": {
+                    "translation": "Şiddetsizlik, eşitlik, memnuniyet, çile, hayır, şöhret ve rezalet—varlıkların çeşitli durumları yalnızca Benden doğar.",
+                    "commentary": "Sayma daha fazla erdemle devam eder: ahimsa (şiddetsizlik), samata (eşitlik), tushti (memnuniyet), tapas (çile), dana (hayır) ve başka bir çift—şöhret (yashas) ve rezalet (ayashas). Krishna, tüm bu 'prithag-vidhah' (çeşitli türler) durumların 'matta eva' (yalnızca Benden) geldiğini ilan eder. Bu kapsamlı kaynak, Krishna'nın yaratımdaki tüm koşullar ve niteliklerden sorumlu olduğu anlamına gelir. Bunu anlamak ruhani gururu önler—kişinin erdemleri bile nihayetinde kişisel başarıdan değil, Tanrı'dan gelir. Tüm nitelikler ilahi kaynaktan akar."
+                }
+            },
+            {
+                "verse_number": 6,
+                "sanskrit": "महर्षयः सप्त पूर्वे चत्वारो मनवस्तथा। मद्भावा मानसा जाता येषां लोक इमाः प्रजाः।।६।।",
+                "transliteration": "maharṣayaḥ sapta pūrve catvāro manavas tathā | mad-bhāvā mānasā jātā yeṣāṃ loka imāḥ prajāḥ ||6||",
+                "english": {
+                    "translation": "The seven great sages of ancient times, and also the four Manus, born from My mind and partaking of My nature—from them all these creatures in the world have descended.",
+                    "commentary": "Krishna traces cosmic genealogy: the seven great sages (sapta maharshi—like Vasishtha, Vishvamitra, etc.) and four Manus (progenitors of humanity in different epochs) were 'manasa jata' (born from His mind) and possessed His nature (mad-bhava). All humanity (imah prajah) descended from these mind-born beings. This establishes Krishna as the ultimate ancestor of all—not through physical lineage but as the conscious source from which even the first sages emerged. The universe originates from divine consciousness, not material processes."
+                },
+                "turkish": {
+                    "translation": "Eski zamanların yedi büyük bilgesi ve ayrıca dört Manu, Benim zihnimden doğmuş ve Benim doğamı paylaşarak—onlardan dünyadaki tüm bu yaratıklar türemiştir.",
+                    "commentary": "Krishna kozmik soyağacını izler: yedi büyük bilge (sapta maharshi—Vasishtha, Vishvamitra gibi) ve dört Manu (farklı çağlarda insanlığın ataları) 'manasa jata' (O'nun zihninden doğmuş) ve O'nun doğasına sahipti (mad-bhava). Tüm insanlık (imah prajah) bu zihin doğumlu varlıklardan türedi. Bu, Krishna'yı herkesin nihai atası olarak kurar—fiziksel soy yoluyla değil, ilk bilgelerin bile çıktığı bilinçli kaynak olarak. Evren, maddi süreçlerden değil, ilahi bilinçten kaynaklanır."
+                }
+            },
+            {
+                "verse_number": 7,
+                "sanskrit": "एतां विभूतिं योगं च मम यो वेत्ति तत्त्वतः। सोऽविकम्पेन योगेन युज्यते नात्र संशयः।।७।।",
+                "transliteration": "etāṃ vibhūtiṃ yogaṃ ca mama yo vetti tattvataḥ | so'vikampena yogena yujyate nātra saṃśayaḥ ||7||",
+                "english": {
+                    "translation": "One who truly knows this glory and yoga power of Mine becomes established in unshakeable yoga; of this there is no doubt.",
+                    "commentary": "Krishna defines the result of understanding His divine manifestations (vibhuti) and mystic power (yoga). One who knows these 'tattvatah' (in truth/reality—not merely intellectually) becomes united through 'avikampena yogena' (unshakeable yoga—unwavering spiritual connection). The phrase 'natra samshaya' (no doubt about this) emphasizes certainty. Understanding God's omnipresence and power naturally leads to steady devotion because one sees Krishna everywhere and in everything. This vision of divine presence stabilizes spiritual practice and prevents wavering."
+                },
+                "turkish": {
+                    "translation": "Benim bu görkemimi ve yoga gücümü gerçekten bilen, sarsılmaz yogada yerleşir; bunda hiçbir şüphe yoktur.",
+                    "commentary": "Krishna, O'nun ilahi tezahürlerini (vibhuti) ve mistik gücünü (yoga) anlamanın sonucunu tanımlar. Bunları 'tattvatah' (gerçekte/gerçeklikte—sadece entelektüel olarak değil) bilen, 'avikampena yogena' (sarsılmaz yoga—sarsılmaz ruhani bağlantı) ile birleşir. 'Natra samshaya' (bunda şüphe yok) ifadesi kesinliği vurgular. Tanrı'nın her yerde var oluşunu ve gücünü anlamak doğal olarak istikrarlı bağlılığa götürür çünkü kişi Krishna'yı her yerde ve her şeyde görür. Bu ilahi varlık vizyonu ruhani pratiği stabilize eder ve sallanmayı önler."
+                }
+            },
+            {
+                "verse_number": 8,
+                "sanskrit": "अहं सर्वस्य प्रभवो मत्तः सर्वं प्रवर्तते। इति मत्वा भजन्ते मां बुधा भावसमन्विताः।।८।।",
+                "transliteration": "ahaṃ sarvasya prabhavo mattaḥ sarvaṃ pravartate | iti matvā bhajante māṃ budhā bhāva-samanvitāḥ ||8||",
+                "english": {
+                    "translation": "I am the source of all; from Me everything proceeds. Understanding this, the wise worship Me with loving consciousness.",
+                    "commentary": "Krishna makes His central declaration: 'aham sarvasya prabhavo' (I am the source of all) and 'mattah sarvam pravartate' (from Me everything proceeds). This is the fundamental truth of divine origin and sustenance. The wise (budha) who understand this 'bhajante mam' (worship Me) with 'bhava-samanvitah' (filled with loving emotion/devotion). Intellectual understanding must transform into emotional devotion—knowing God as the source should naturally lead to love and worship. Mere philosophical comprehension without devotional response remains incomplete."
+                },
+                "turkish": {
+                    "translation": "Ben her şeyin kaynağıyım; Benden her şey ilerler. Bunu anlayan bilgeler, sevgi dolu bilinçle Bana ibadet ederler.",
+                    "commentary": "Krishna merkezi bildirimini yapar: 'aham sarvasya prabhavo' (Ben her şeyin kaynağıyım) ve 'mattah sarvam pravartate' (Benden her şey ilerler). Bu, ilahi köken ve sürdürmenin temel gerçeğidir. Bunu anlayan bilgeler (budha) 'bhava-samanvitah' (sevgi dolu duygu/bağlılıkla dolu) ile 'bhajante mam' (Bana ibadet ederler). Entelektüel anlayış duygusal bağlılığa dönüşmelidir—Tanrı'yı kaynak olarak bilmek doğal olarak sevgi ve ibadete götürmelidir. Bağlılık yanıtı olmadan sadece felsefi kavrayış eksik kalır."
+                }
+            },
+            {
+                "verse_number": 9,
+                "sanskrit": "मच्चित्ता मद्गतप्राणा बोधयन्तः परस्परम्। कथयन्तश्च मां नित्यं तुष्यन्ति च रमन्ति च।।९।।",
+                "transliteration": "mac-cittā mad-gata-prāṇā bodhayantaḥ parasparam | kathayantaś ca māṃ nityaṃ tuṣyanti ca ramanti ca ||9||",
+                "english": {
+                    "translation": "With minds fixed on Me and lives dedicated to Me, enlightening one another and constantly speaking of Me, they are satisfied and delighted.",
+                    "commentary": "Krishna describes the life of devotees: 'mac-chitta' (mind fixed on Me), 'mad-gata-prana' (life-breath dedicated to Me), 'bodhayantah parasparam' (enlightening each other), and 'kathayantah' (speaking of Me constantly). The result is 'tushyanti' (satisfaction) and 'ramanti' (delight). This depicts spiritual community—devotees gathering to discuss Krishna, inspiring each other, finding joy in divine topics. Spiritual life isn't solitary struggle but joyful communion with like-minded souls. Speaking and hearing about God brings satisfaction that worldly pleasures cannot provide."
+                },
+                "turkish": {
+                    "translation": "Zihinleri Bana sabitlenerek ve yaşamları Bana adanarak, birbirlerini aydınlatarak ve sürekli Benden bahsederek, tatmin olurlar ve zevk alırlar.",
+                    "commentary": "Krishna bağlıların yaşamını tanımlar: 'mac-chitta' (zihin Bana sabitlenmiş), 'mad-gata-prana' (yaşam nefesi Bana adanmış), 'bodhayantah parasparam' (birbirlerini aydınlatma) ve 'kathayantah' (sürekli Benden bahsetme). Sonuç 'tushyanti' (tatmin) ve 'ramanti' (zevk) dir. Bu ruhani topluluğu tasvir eder—bağlılar Krishna'yı tartışmak için toplanır, birbirlerine ilham verirler, ilahi konularda neşe bulurlar. Ruhani yaşam yalnız mücadele değil, benzer düşünceli ruhlarla neşeli birlik olma halidir. Tanrı hakkında konuşmak ve duymak, dünyevi zevklerin sağlayamayacağı tatmin getirir."
+                }
+            },
+            {
+                "verse_number": 10,
+                "sanskrit": "तेषां सततयुक्तानां भजतां प्रीतिपूर्वकम्। ददामि बुद्धियोगं तं येन मामुपयान्ति ते।।१०।।",
+                "transliteration": "teṣāṃ satata-yuktānāṃ bhajatāṃ prīti-pūrvakam | dadāmi buddhi-yogaṃ taṃ yena mām upayānti te ||10||",
+                "english": {
+                    "translation": "To those constantly united with Me, who worship with love, I give the yoga of understanding by which they come to Me.",
+                    "commentary": "Krishna promises divine assistance: to those 'satata-yuktanam' (constantly united) who worship 'priti-purvakam' (with love), He gives 'buddhi-yogam' (yoga of understanding/divine intelligence). This is grace—God personally guides sincere devotees by enlightening their intelligence. The understanding given leads them directly to Him (yena mam upayanti te). This verse reveals that spiritual progress isn't achieved through human effort alone; God actively helps those who love Him by granting the intelligence needed to understand and reach Him. Divine grace completes human effort."
+                },
+                "turkish": {
+                    "translation": "Sürekli Benimle birleşmiş, sevgiyle ibadet edenlere, onları Bana götüren anlayış yogasını veririm.",
+                    "commentary": "Krishna ilahi yardımı vaat eder: 'satata-yuktanam' (sürekli birleşmiş) olanlara, 'priti-purvakam' (sevgiyle) ibadet edenlere, 'buddhi-yogam' (anlayış yogası/ilahi zeka) verir. Bu lütuftur—Tanrı samimi bağlıları zekalarını aydınlatarak şahsen yönlendirir. Verilen anlayış onları doğrudan O'na götürür (yena mam upayanti te). Bu ayet, ruhani ilerlemenin sadece insan çabasıyla başarılmadığını ortaya çıkarır; Tanrı, O'nu sevenlere O'nu anlamak ve O'na ulaşmak için gerekli zekayı vererek aktif olarak yardım eder. İlahi lütuf, insan çabasını tamamlar."
+                }
+            },
+            {
+                "verse_number": 11,
+                "sanskrit": "तेषामेवानुकम्पार्थमहमज्ञानजं तमः। नाशयाम्यात्मभावस्थो ज्ञानदीपेन भास्वता।।११।।",
+                "transliteration": "teṣām evānukampārtham aham ajñāna-jaṃ tamaḥ | nāśayāmy ātma-bhāva-stho jñāna-dīpena bhāsvatā ||11||",
+                "english": {
+                    "translation": "Out of compassion for them, dwelling within their hearts, I destroy the darkness born of ignorance with the luminous lamp of knowledge.",
+                    "commentary": "Krishna reveals His intimate involvement: from 'anukampa' (compassion), while dwelling 'atma-bhava-stho' (in their hearts/in their very being), He destroys 'ajnana-jam tamah' (darkness born of ignorance) with the 'jnana-dipena' (lamp of knowledge). This is the Paramatma (Supersoul) function—God dwelling in every heart as the inner witness and guide. For devotees, He actively dispels ignorance from within. The metaphor of light destroying darkness perfectly captures how knowledge eliminates ignorance. This divine intervention comes from God's compassionate presence within the devotee's own consciousness."
+                },
+                "turkish": {
+                    "translation": "Onlara şefkatten dolayı, kalplerinde otururken, cehaletten doğan karanlığı parlak bilgi lambası ile yok ederim.",
+                    "commentary": "Krishna yakın katılımını ortaya çıkarır: 'anukampa' (şefkat) tan, 'atma-bhava-stho' (kalplerinde/varlıklarında) otururken, 'ajnana-jam tamah' (cehaletten doğan karanlık) ı 'jnana-dipena' (bilgi lambası) ile yok eder. Bu Paramatma (Üst-ruh) işlevidir—her kalpte iç tanık ve rehber olarak oturan Tanrı. Bağlılar için, içeriden cehalet aktif olarak dağıtır. Işığın karanlığı yok etmesi metaforu, bilginin cehaleti nasıl ortadan kaldırdığını mükemmel şekilde yakalar. Bu ilahi müdahale, Tanrı'nın bağlının kendi bilinci içindeki şefkatli varlığından gelir."
+                }
+            },
+            {
+                "verse_number": 12,
+                "sanskrit": "अर्जुन उवाच। परं ब्रह्म परं धाम पवित्रं परमं भवान्। पुरुषं शाश्वतं दिव्यमादिदेवमजं विभुम्।।१२।।",
+                "transliteration": "arjuna uvāca | paraṃ brahma paraṃ dhāma pavitraṃ paramaṃ bhavān | puruṣaṃ śāśvataṃ divyam ādi-devam ajaṃ vibhum ||12||",
+                "english": {
+                    "translation": "Arjuna said: You are the Supreme Brahman, the Supreme Abode, the Supreme Purifier, the eternal Divine Person, the primordial God, unborn, and all-pervading.",
+                    "commentary": "Arjuna responds with a magnificent declaration of Krishna's identity, using multiple epithets: param brahma (Supreme Absolute), param dhama (Supreme Abode), pavitram paramam (Supreme Purifier), purusham shashvatam (eternal Person), divyam (divine), adi-devam (primordial God), ajam (unborn), and vibhum (all-pervading). This comprehensive acknowledgment shows Arjuna has understood Krishna's teaching. He recognizes Krishna as simultaneously personal (purusha) and absolute (Brahman), transcendent (param dhama) and immanent (vibhum). This integrated vision prevents sectarian one-sidedness."
+                },
+                "turkish": {
+                    "translation": "Arjuna dedi ki: Sen En Yüce Tanrı, En Yüce Mesken, En Yüce Arıtıcı, sonsuz İlahi Kişi, ilk Tanrı, doğmamış ve her yere nüfuz edensin.",
+                    "commentary": "Arjuna, Krishna'nın kimliğini birden fazla sıfat kullanarak muhteşem bir bildirimle yanıtlar: param brahma (En Yüce Mutlak), param dhama (En Yüce Mesken), pavitram paramam (En Yüce Arıtıcı), purusham shashvatam (sonsuz Kişi), divyam (ilahi), adi-devam (ilk Tanrı), ajam (doğmamış) ve vibhum (her yere nüfuz eden). Bu kapsamlı kabul, Arjuna'nın Krishna'nın öğretisini anladığını gösterir. Krishna'yı aynı anda hem kişisel (purusha) hem de mutlak (Tanrı), hem aşkın (param dhama) hem de içkin (vibhum) olarak tanır. Bu entegre vizyon, mezhepçi tek taraflılığı önler."
+                }
+            },
+            {
+                "verse_number": 13,
+                "sanskrit": "आहुस्त्वामृषयः सर्वे देवर्षिर्नारदस्तथा। असितो देवलो व्यासः स्वयं चैव ब्रवीषि मे।।१३।।",
+                "transliteration": "āhus tvām ṛṣayaḥ sarve devarṣir nāradas tathā | asito devalo vyāsaḥ svayaṃ caiva bravīṣi me ||13||",
+                "english": {
+                    "translation": "All the sages declare this of You—the divine sage Narada, as well as Asita, Devala, and Vyasa—and now You Yourself are telling me.",
+                    "commentary": "Arjuna validates his understanding by citing authorities: all sages (sarve rishayah) proclaim Krishna's supremacy, specifically naming Narada (the celestial sage), Asita, Devala, and Vyasa (compiler of the Vedas). The phrase 'svayam chaiva bravishi me' (and You Yourself are telling me) is significant—Arjuna receives both scriptural authority and direct revelation. This combines shruti (revealed scripture) with direct experience (pratyaksha), the two valid means of spiritual knowledge. Personal revelation from Krishna confirms what the scriptures teach, creating unshakeable conviction."
+                },
+                "turkish": {
+                    "translation": "Tüm bilgeler Senin hakkında bunu söyler—ilahi bilge Narada, ayrıca Asita, Devala ve Vyasa—ve şimdi Sen Kendin bana söylüyorsun.",
+                    "commentary": "Arjuna, otoriteleri alıntılayarak anlayışını doğrular: tüm bilgeler (sarve rishayah) Krishna'nın üstünlüğünü ilan eder, özellikle Narada (göksel bilge), Asita, Devala ve Vyasa (Vedaların derleyicisi) nı adlandırır. 'Svayam chaiva bravishi me' (ve Sen Kendin bana söylüyorsun) ifadesi önemlidir—Arjuna hem kutsal kitap otoritesini hem de doğrudan vahyi alır. Bu, shruti (vahyedilmiş kutsal kitap) ile doğrudan deneyimi (pratyaksha), ruhani bilginin iki geçerli aracını birleştirir. Krishna'dan kişisel vahiy, kutsal kitapların öğrettiklerini doğrular, sarsılmaz kanaat yaratır."
+                }
+            },
+            {
+                "verse_number": 14,
+                "sanskrit": "सर्वमेतदृतं मन्ये यन्मां वदसि केशव। न हि ते भगवन्व्यक्तिं विदुर्देवा न दानवाः।।१४।।",
+                "transliteration": "sarvam etad ṛtaṃ manye yan māṃ vadasi keśava | na hi te bhagavan vyaktiṃ vidur devā na dānavāḥ ||14||",
+                "english": {
+                    "translation": "I believe all that You tell me to be true, O Keshava. Indeed, O Lord, neither the gods nor the demons know Your manifestation.",
+                    "commentary": "Arjuna declares complete faith: 'sarvam etad ritam manye' (I believe all this to be true). He acknowledges that neither gods (deva) nor demons (danava) understand Krishna's 'vyaktim' (manifestation/personality). The word 'ritam' is significant—not just truth but cosmic truth/dharma. Even celestial beings cannot fully comprehend God's nature. This establishes that divine knowledge comes only through grace and self-revelation, not through speculation or even elevated consciousness. Arjuna's faith is based on direct relationship with Krishna, transcending intellectual limitations."
+                },
+                "turkish": {
+                    "translation": "Bana söylediğin her şeyin doğru olduğuna inanıyorum, ey Keshava. Gerçekten, ey Efendi, ne tanrılar ne de iblisler Senin tezahürünü bilir.",
+                    "commentary": "Arjuna tam inancı ilan eder: 'sarvam etad ritam manye' (tüm bunun doğru olduğuna inanıyorum). Ne tanrıların (deva) ne de iblislerin (danava) Krishna'nın 'vyaktim' (tezahür/kişilik) ini anlamadığını kabul eder. 'Ritam' kelimesi önemlidir—sadece doğru değil, kozmik doğru/dharma. Göksel varlıklar bile Tanrı'nın doğasını tam olarak kavrayamaz. Bu, ilahi bilginin sadece lütuf ve kendini açığa çıkarma yoluyla geldiğini, spekülasyon veya yüksek bilinçle bile gelmediğini ortaya koyar. Arjuna'nın inancı, entelektüel sınırları aşan, Krishna ile doğrudan ilişkiye dayanır."
+                }
+            },
+            {
+                "verse_number": 15,
+                "sanskrit": "स्वयमेवात्मनात्मानं वेत्थ त्वं पुरुषोत्तम। भूतभावन भूतेश देवदेव जगत्पते।।१५।।",
+                "transliteration": "svayam evātmanātmānaṃ vettha tvaṃ puruṣottama | bhūta-bhāvana bhūteśa deva-deva jagat-pate ||15||",
+                "english": {
+                    "translation": "You alone know Yourself by Yourself, O Supreme Person, O Source of beings, O Lord of beings, O God of gods, O Lord of the universe.",
+                    "commentary": "Arjuna acknowledges that Krishna alone has complete self-knowledge: 'svayam eva atmanatmanam vettha' (You know Yourself by Yourself). He uses powerful epithets: Purushottama (Supreme Person), bhuta-bhavana (creator of beings), bhuta-isha (lord of beings), deva-deva (God of gods), jagat-pate (lord of universe). This verse recognizes God's unique position—only He has complete self-awareness. All others, including gods, know God only partially through His grace. Self-knowledge in the absolute sense belongs only to the Absolute Being."
+                },
+                "turkish": {
+                    "translation": "Yalnızca Sen Kendini Kendin tarafından bilirsin, ey En Yüce Kişi, ey varlıkların Kaynağı, ey varlıkların Efendisi, ey tanrıların Tanrısı, ey evrenin Efendisi.",
+                    "commentary": "Arjuna, yalnızca Krishna'nın tam öz-bilgiye sahip olduğunu kabul eder: 'svayam eva atmanatmanam vettha' (Sen Kendini Kendin tarafından bilirsin). Güçlü sıfatlar kullanır: Purushottama (En Yüce Kişi), bhuta-bhavana (varlıkların yaratıcısı), bhuta-isha (varlıkların efendisi), deva-deva (tanrıların Tanrısı), jagat-pate (evrenin efendisi). Bu ayet, Tanrı'nın benzersiz konumunu tanır—yalnızca O tam öz-farkındalığa sahiptir. Tanrılar dahil diğerleri, Tanrı'yı yalnızca O'nun lütfuyla kısmen bilirler. Mutlak anlamda öz-bilgi yalnızca Mutlak Varlık'a aittir."
+                }
+            },
+            {
+                "verse_number": 16,
+                "sanskrit": "वक्तुमर्हस्यशेषेण दिव्या ह्यात्मविभूतयः। याभिर्विभूतिभिर्लोकानिमांस्त्वं व्याप्य तिष्ठसि।।१६।।",
+                "transliteration": "vaktum arhasy aśeṣeṇa divyā hy ātma-vibhūtayaḥ | yābhir vibhūtibhir lokān imāṃs tvaṃ vyāpya tiṣṭhasi ||16||",
+                "english": {
+                    "translation": "Please tell me in full of Your divine glories by which You pervade all these worlds and remain present.",
+                    "commentary": "Arjuna requests comprehensive teaching: 'vaktum arhasi asheṣena' (please tell completely) about Krishna's 'divya atma-vibhutayah' (divine glories of the Self). These vibhutis are the specific manifestations through which Krishna 'vyapya tishthasi' (pervading, remains) in all worlds. This question leads to Krishna's famous enumeration of His prominent manifestations in the remaining verses. Arjuna seeks to know not just that Krishna is everything, but how to recognize Him in everything—practical knowledge for developing God-consciousness in daily life."
+                },
+                "turkish": {
+                    "translation": "Lütfen Senin tüm bu dünyalara nüfuz ettiğin ve mevcut kaldığın ilahi görkemlerini tam olarak anlat.",
+                    "commentary": "Arjuna kapsamlı öğreti ister: 'vaktum arhasi asheṣena' (lütfen tamamen anlat) Krishna'nın 'divya atma-vibhutayah' (Benliğin ilahi görkemleri) hakkında. Bu vibhutiler, Krishna'nın tüm dünyalarda 'vyapya tishthasi' (nüfuz ederek, kalır) özel tezahürlerdir. Bu soru, geri kalan ayetlerde Krishna'nın ünlü önde gelen tezahürler sayımına yol açar. Arjuna sadece Krishna'nın her şey olduğunu değil, O'nu her şeyde nasıl tanıyacağını bilmek ister—günlük yaşamda Tanrı-bilinci geliştirmek için pratik bilgi."
+                }
+            },
+            {
+                "verse_number": 17,
+                "sanskrit": "कथं विद्यामहं योगिंस्त्वां सदा परिचिन्तयन्। केषु केषु च भावेषु चिन्त्योऽसि भगवन्मया।।१७।।",
+                "transliteration": "kathaṃ vidyām ahaṃ yogiṃs tvāṃ sadā paricintayan | keṣu keṣu ca bhāveṣu cintyo'si bhagavan mayā ||17||",
+                "english": {
+                    "translation": "How may I know You, O Yogi, by constantly meditating on You? In what various forms should I meditate on You, O Lord?",
+                    "commentary": "Arjuna asks two practical questions: (1) 'katham vidyam' (how may I know You) through constant meditation, and (2) 'keshu keshu bhaveshu' (in what various forms/manifestations) should he meditate. He addresses Krishna as 'yogin'—master of yoga/mystic power. These aren't philosophical questions but practical ones about meditation technique. Arjuna wants to know the specific objects of meditation that will help maintain constant remembrance of Krishna. This reflects the devotional approach—not abstract meditation but concrete visualization of God's manifestations."
+                },
+                "turkish": {
+                    "translation": "Sürekli Sen üzerinde meditasyon yaparak Seni nasıl bilebilirim, ey Yogi? Hangi çeşitli formlarda Sen üzerinde meditasyon yapmalıyım, ey Efendi?",
+                    "commentary": "Arjuna iki pratik soru sorar: (1) 'katham vidyam' (Seni nasıl bilebilirim) sürekli meditasyon yoluyla ve (2) 'keshu keshu bhaveshu' (hangi çeşitli formlar/tezahürler) de meditasyon yapmalı. Krishna'ya 'yogin'—yoga/mistik gücün ustası olarak hitap eder. Bunlar felsefi sorular değil, meditasyon tekniği hakkında pratik sorulardır. Arjuna, Krishna'nın sürekli hatırlanmasını sürdürmeye yardımcı olacak özel meditasyon nesnelerini bilmek ister. Bu, bağlılık yaklaşımını yansıtır—soyut meditasyon değil, Tanrı'nın tezahürlerinin somut görselleştirilmesi."
+                }
+            },
+            {
+                "verse_number": 18,
+                "sanskrit": "विस्तरेणात्मनो योगं विभूतिं च जनार्दन। भूयः कथय तृप्तिर्हि शृण्वतो नास्ति मेऽमृतम्।।१८।।",
+                "transliteration": "vistareṇātmano yogaṃ vibhūtiṃ ca janārdana | bhūyaḥ kathaya tṛptir hi śṛṇvato nāsti me'mṛtam ||18||",
+                "english": {
+                    "translation": "Tell me again in detail of Your yoga power and glory, O Janardana, for I am never satisfied hearing Your nectarean words.",
+                    "commentary": "Arjuna requests more detailed explanation ('vistarena'—in detail) of Krishna's yoga power and vibhuti. His statement 'triptir hi shrinvato nasti me amritam' (I am never satisfied hearing Your nectarean words) reveals the devotional attitude—spiritual knowledge isn't burdensome but delightful, like nectar (amrita). The true devotee never tires of hearing about God. This contrasts with material topics that eventually bore us. Divine topics have infinite depth and ever-increasing sweetness. Arjuna models the proper attitude toward spiritual instruction—insatiable spiritual hunger."
+                },
+                "turkish": {
+                    "translation": "Bana yoga gücünü ve görkemini tekrar detaylı anlat, ey Janardana, çünkü Senin nektardan sözlerini dinlemekten asla tatmin olmuyorum.",
+                    "commentary": "Arjuna, Krishna'nın yoga gücü ve vibhutisinin daha detaylı açıklamasını ('vistarena'—detaylı olarak) ister. 'Triptir hi shrinvato nasti me amritam' (Senin nektardan sözlerini dinlemekten asla tatmin olmuyorum) ifadesi bağlılık tutumunu ortaya çıkarır—ruhani bilgi yük değil, nektar (amrita) gibi keyiflidir. Gerçek bağlı Tanrı hakkında duymaktan asla yorulmaz. Bu, sonunda bizi sıkan maddi konularla tezat oluşturur. İlahi konular sonsuz derinliğe ve sürekli artan tatlılığa sahiptir. Arjuna, ruhani öğretime doğru tutumu modelleştirir—doyumsuz ruhani açlık."
+                }
+            },
+            {
+                "verse_number": 19,
+                "sanskrit": "श्रीभगवानुवाच। हन्त ते कथयिष्यामि दिव्या ह्यात्मविभूतयः। प्राधान्यतः कुरुश्रेष्ठ नास्त्यन्तो विस्तरस्य मे।।१९।।",
+                "transliteration": "śrī-bhagavān uvāca | hanta te kathayiṣyāmi divyā hy ātma-vibhūtayaḥ | prādhānyataḥ kuru-śreṣṭha nāsty anto vistarasya me ||19||",
+                "english": {
+                    "translation": "The Blessed Lord said: Yes, I shall tell you of My divine glories, but only the prominent ones, O best of the Kurus, for there is no end to My manifestations.",
+                    "commentary": "Krishna agrees to describe His vibhutis but qualifies: only 'pradhanyatah' (the principal/prominent ones) because 'nasty anto vistarasya me' (there is no end to My extent/manifestation). This acknowledgment of infinity is important—Krishna's manifestations are endless, so He'll mention only the most significant. This creates humility in spiritual knowledge—even Krishna's own description cannot exhaust His nature. The infinite cannot be fully contained in finite words. This enumeration helps devotees recognize God in prominent manifestations without claiming completeness."
+                },
+                "turkish": {
+                    "translation": "Kutsal Efendi dedi ki: Evet, sana ilahi görkemlerimi anlatacağım, ama sadece önde gelen olanları, ey Kuruların en iyisi, çünkü Benim tezahürlerimde son yoktur.",
+                    "commentary": "Krishna vibhutilerini tanımlamayı kabul eder ama nitelendirir: sadece 'pradhanyatah' (ana/önde gelen olanlar) çünkü 'nasty anto vistarasya me' (Benim genişliğimde/tezahürümde son yoktur). Bu sonsuzluk kabulü önemlidir—Krishna'nın tezahürleri sınırsızdır, bu yüzden sadece en önemlilerini anacaktır. Bu, ruhani bilgide alçakgönüllülük yaratır—Krishna'nın kendi tanımlaması bile O'nun doğasını tüketemez. Sonsuz, sonlu kelimelerde tam olarak içerilemez. Bu sayım, bağlıların tamlık iddiası olmadan önde gelen tezahürlerde Tanrı'yı tanımalarına yardımcı olur."
+                }
+            },
+            {
+                "verse_number": 20,
+                "sanskrit": "अहमात्मा गुडाकेश सर्वभूताशयस्थितः। अहमादिश्च मध्यं च भूतानामन्त एव च।।२०।।",
+                "transliteration": "aham ātmā guḍākeśa sarva-bhūtāśaya-sthitaḥ | aham ādiś ca madhyaṃ ca bhūtānām anta eva ca ||20||",
+                "english": {
+                    "translation": "I am the Self, O Gudakesha, seated in the hearts of all beings. I am the beginning, the middle, and also the end of all beings.",
+                    "commentary": "Krishna begins with His most intimate manifestation: 'aham atma' (I am the Self) dwelling 'sarva-bhutashaya-sthitah' (seated in the hearts of all beings). This is the Paramatma—God's presence within each heart. He is also the beginning (adi), middle (madhya), and end (anta) of all beings—the complete span of existence. This establishes both immanence (within all hearts) and transcendence (encompassing all time). Before listing external manifestations, Krishna emphasizes His internal presence—the most important manifestation to realize."
+                },
+                "turkish": {
+                    "translation": "Ben Benim, ey Gudakesha, tüm varlıkların kalplerinde oturan. Ben başlangıç, orta ve ayrıca tüm varlıkların sonuyum.",
+                    "commentary": "Krishna en yakın tezahürüyle başlar: 'aham atma' (Ben Benim) 'sarva-bhutashaya-sthitah' (tüm varlıkların kalplerinde oturan). Bu Paramatma'dır—Tanrı'nın her kalpteki varlığı. Ayrıca tüm varlıkların başlangıcı (adi), ortası (madhya) ve sonu (anta) dur—varoluşun tam aralığı. Bu hem içkinliği (tüm kalplerin içinde) hem de aşkınlığı (tüm zamanı kapsayan) kurar. Dış tezahürleri listelemeden önce, Krishna iç varlığını vurgular—gerçekleştirilmesi gereken en önemli tezahür."
+                }
+            },
+            {
+                "verse_number": 21,
+                "sanskrit": "आदित्यानामहं विष्णुर्ज्योतिषां रविरंशुमान्। मरीचिर्मरुतामस्मि नक्षत्राणामहं शशी।।२१।।",
+                "transliteration": "ādityānām ahaṃ viṣṇur jyotiṣāṃ ravir aṃśumān | marīcir marutām asmi nakṣatrāṇām ahaṃ śaśī ||21||",
+                "english": {
+                    "translation": "Among the Adityas I am Vishnu; among lights I am the radiant sun; among the wind-gods I am Marichi; among the stars I am the moon.",
+                    "commentary": "Krishna begins enumerating specific manifestations. Among the twelve Adityas (solar deities), He is Vishnu (the all-pervading one). Among lights, He is the sun (ravi)—the source of illumination. Among Maruts (wind gods), He is Marichi (the chief). Among stars, He is the moon (shashi). The pattern emerges: Krishna identifies with the most prominent, powerful, or essential member of each category. This teaches devotees to see God in excellence wherever it appears—in the brightest light, the chief deity, the most luminous celestial body."
+                },
+                "turkish": {
+                    "translation": "Adityalar arasında Ben Vishnu'yum; ışıklar arasında parlak güneş; rüzgar tanrıları arasında Marichi; yıldızlar arasında ay.",
+                    "commentary": "Krishna belirli tezahürleri saymaya başlar. On iki Aditya (güneş tanrıları) arasında, Vishnu'dur (her yere nüfuz eden). Işıklar arasında, güneştir (ravi)—aydınlanma kaynağı. Marutlar (rüzgar tanrıları) arasında, Marichi'dir (baş). Yıldızlar arasında, aydır (shashi). Desen ortaya çıkar: Krishna kendini her kategorinin en önde gelen, güçlü veya temel üyesiyle tanımlar. Bu, bağlılara Tanrı'yı nerede görünürse görünsün mükemmellikte görmeyi öğretir—en parlak ışıkta, baş tanrıda, en parlak göksel cisimde."
+                }
+            },
+            {
+                "verse_number": 22,
+                "sanskrit": "वेदानां सामवेदोऽस्मि देवानामस्मि वासवः। इन्द्रियाणां मनश्चास्मि भूतानामस्मि चेतना।।२२।।",
+                "transliteration": "vedānāṃ sāma-vedo'smi devānām asmi vāsavaḥ | indriyāṇāṃ manaś cāsmi bhūtānām asmi cetanā ||22||",
+                "english": {
+                    "translation": "Among the Vedas I am the Sama Veda; among the gods I am Vasava (Indra); among the senses I am the mind; among beings I am consciousness.",
+                    "commentary": "Krishna continues: among Vedas, He is Sama Veda (the most melodious, used in worship). Among gods (devas), He is Vasava/Indra (king of gods). Among senses (indriyas), He is mind (manas—the coordinating sense). Among beings, He is 'chetana' (consciousness itself). These selections reveal a pattern—Krishna is the ruling principle, the most essential element. The mind rules the senses; consciousness is the foundation of being; Indra rules the gods; Sama Veda is considered the essence of Vedas. See God in whatever governs, unifies, or is most essential."
+                },
+                "turkish": {
+                    "translation": "Vedalar arasında Sama Veda'yım; tanrılar arasında Vasava (Indra); duyular arasında zihin; varlıklar arasında bilinç.",
+                    "commentary": "Krishna devam eder: Vedalar arasında, Sama Veda'dır (en melodik, ibadette kullanılan). Tanrılar (devalar) arasında, Vasava/Indra'dır (tanrıların kralı). Duyular (indriyalar) arasında, zihindir (manas—koordine edici duyu). Varlıklar arasında, 'chetana' (bilincin kendisi) dır. Bu seçimler bir desen ortaya çıkarır—Krishna yöneten ilke, en temel unsurdur. Zihin duyuları yönetir; bilinç, varlığın temelidir; Indra tanrıları yönetir; Sama Veda, Vedaların özü kabul edilir. Tanrı'yı ne yönetirse, birleştirir veya en temel olanda gör."
+                }
+            },
+            {
+                "verse_number": 23,
+                "sanskrit": "रुद्राणां शङ्करश्चास्मि वित्तेशो यक्षरक्षसाम्। वसूनां पावकश्चास्मि मेरुः शिखरिणामहम्।।२३।।",
+                "transliteration": "rudrāṇāṃ śaṅkaraś cāsmi vitteśo yakṣa-rakṣasām | vasūnāṃ pāvakaś cāsmi meruḥ śikhariṇām aham ||23||",
+                "english": {
+                    "translation": "Among the Rudras I am Shankara; among the Yakshas and Rakshasas I am Kubera; among the Vasus I am Fire; among mountains I am Meru.",
+                    "commentary": "Krishna identifies with prominent deities and natural features: among Rudras (storm gods), He is Shankara/Shiva (the beneficent destroyer). Among Yakshas (nature spirits) and Rakshasas (demons), He is Kubera/Vittesha (lord of wealth). Among Vasus (elemental gods), He is Pavaka/Agni (fire). Among mountains, He is Meru (the cosmic mountain, axis of the universe). Even among categories that include negative beings (rakshasas), Krishna identifies with the chief. This teaches that God's power manifests even in what seems demonic—there is no place He is absent."
+                },
+                "turkish": {
+                    "translation": "Rudralar arasında Shankara; Yakshalar ve Rakshasalar arasında Kubera; Vasular arasında Ateş; dağlar arasında Meru.",
+                    "commentary": "Krishna kendini önde gelen tanrılar ve doğal özelliklerle tanımlar: Rudralar (fırtına tanrıları) arasında, Shankara/Shiva'dır (hayırsever yok edici). Yakshalar (doğa ruhları) ve Rakshasalar (iblisler) arasında, Kubera/Vittesha'dır (zenginlik efendisi). Vasular (element tanrıları) arasında, Pavaka/Agni'dir (ateş). Dağlar arasında, Meru'dur (kozmik dağ, evrenin ekseni). Negatif varlıkları içeren kategoriler bile (rakshasalar), Krishna başkanla kendini tanımlar. Bu, Tanrı'nın gücünün iblisçe görünende bile tezahür ettiğini öğretir—O'nun yok olmadığı hiçbir yer yoktur."
+                }
+            },
+            {
+                "verse_number": 24,
+                "sanskrit": "पुरोधसां च मुख्यं मां विद्धि पार्थ बृहस्पतिम्। सेनानीनामहं स्कन्दः सरसामस्मि सागरः।।२४।।",
+                "transliteration": "purodhasāṃ ca mukhyaṃ māṃ viddhi pārtha bṛhaspatim | senānīnām ahaṃ skandaḥ sarasām asmi sāgaraḥ ||24||",
+                "english": {
+                    "translation": "Among priests know Me to be the chief, Brihaspati, O Partha; among generals I am Skanda; among bodies of water I am the ocean.",
+                    "commentary": "Among priests/counselors (purodhasam), Krishna is Brihaspati (Jupiter, guru of the gods, lord of wisdom). Among military commanders (senanīnam), He is Skanda/Kartikeya (the divine general, son of Shiva). Among bodies of water (sarasam), He is the ocean (sagara—the greatest and most mysterious water body). The ocean is particularly significant—it's the source of all waters, vast, deep, and containing all. Similarly, Krishna is the source of all, infinitely deep, containing everything. The ocean metaphor captures divine immensity and mystery."
+                },
+                "turkish": {
+                    "translation": "Rahipler arasında Beni baş olan Brihaspati olarak bil, ey Partha; generaller arasında Skanda; su kütleleri arasında okyanus.",
+                    "commentary": "Rahipler/danışmanlar (purodhasam) arasında, Krishna Brihaspati'dir (Jüpiter, tanrıların gurusu, bilgelik efendisi). Askeri komutanlar (senanīnam) arasında, Skanda/Kartikeya'dır (ilahi general, Shiva'nın oğlu). Su kütleleri (sarasam) arasında, okyanustur (sagara—en büyük ve en gizemli su kütlesi). Okyanus özellikle önemlidir—tüm suların kaynağıdır, geniş, derin ve her şeyi içerir. Benzer şekilde, Krishna her şeyin kaynağıdır, sonsuz derindir, her şeyi içerir. Okyanus metaforu ilahi muazzamlığı ve gizemi yakalar."
+                }
+            },
+            {
+                "verse_number": 25,
+                "sanskrit": "महर्षीणां भृगुरहं गिरामस्म्येकमक्षरम्। यज्ञानां जपयज्ञोऽस्मि स्थावराणां हिमालयः।।२५।।",
+                "transliteration": "maharṣīṇāṃ bhṛgur ahaṃ girām asmy ekam akṣaram | yajñānāṃ japa-yajño'smi sthāvarāṇāṃ himālayaḥ ||25||",
+                "english": {
+                    "translation": "Among the great sages I am Bhrigu; among words I am the single syllable OM; among sacrifices I am the sacrifice of silent repetition; among immovable things I am the Himalayas.",
+                    "commentary": "Among great sages (maharshis), Krishna is Bhrigu (ancient sage, father of Shukracharya). Among words (giram), He is 'ekam aksharam' (the single syllable—OM, the primordial sound). Among sacrifices (yajñanam), He is 'japa-yajna' (sacrifice of silent repetition/meditation—the internalized, purified form of ritual). Among immovable things, He is Himalayas (mightiest mountains). The selection of japa-yajna is significant—it elevates internal practice over external ritual. Similarly, OM is the essence of all mantras. Krishna consistently chooses the most refined, essential, or powerful representative."
+                },
+                "turkish": {
+                    "translation": "Büyük bilgeler arasında Bhrigu; kelimeler arasında tek heceli OM; kurbanlar arasında sessiz tekrarın kurbanı; hareketsiz şeyler arasında Himalayalar.",
+                    "commentary": "Büyük bilgeler (maharshiler) arasında, Krishna Bhrigu'dur (eski bilge, Shukracharya'nın babası). Kelimeler (giram) arasında, 'ekam aksharam' (tek hece—OM, ilk ses) dır. Kurbanlar (yajñanam) arasında, 'japa-yajna' (sessiz tekrar/meditasyon kurbanı—içselleştirilmiş, saflaştırılmış ritüel formu) dur. Hareketsiz şeyler arasında, Himalayalar'dır (en güçlü dağlar). Japa-yajna seçimi önemlidir—içsel pratiği dış ritüelin üstüne yükseltir. Benzer şekilde, OM tüm mantraların özüdür. Krishna tutarlı bir şekilde en rafine, temel veya güçlü temsilciyi seçer."
+                }
+            },
+            {
+                "verse_number": 26,
+                "sanskrit": "अश्वत्थः सर्ववृक्षाणां देवर्षीणां च नारदः। गन्धर्वाणां चित्ररथः सिद्धानां कपिलो मुनिः।।२६।।",
+                "transliteration": "aśvatthaḥ sarva-vṛkṣāṇāṃ devarṣīṇāṃ ca nāradaḥ | gandharvāṇāṃ citrarathaḥ siddhānāṃ kapilo muniḥ ||26||",
+                "english": {
+                    "translation": "Among all trees I am the Ashvattha; among divine sages I am Narada; among Gandharvas I am Chitraratha; among perfected beings I am the sage Kapila.",
+                    "commentary": "Among trees, Krishna is Ashvattha (sacred fig/banyan tree—revered in Indian tradition, long-lived, providing shelter). Among celestial sages (devarshis), He is Narada (the traveling sage who spreads devotion, Krishna's pure devotee). Among Gandharvas (celestial musicians), He is Chitraratha (their king). Among siddhas (perfected beings), He is Kapila (founder of Sankhya philosophy, considered an incarnation of Vishnu). Narada's inclusion is significant—among sages, Krishna chooses His own devotee, showing the exalted position of bhaktas. The greatest manifestation is the pure devotee."
+                },
+                "turkish": {
+                    "translation": "Tüm ağaçlar arasında Ashvattha; ilahi bilgeler arasında Narada; Gandharvalar arasında Chitraratha; mükemmelleşmiş varlıklar arasında bilge Kapila.",
+                    "commentary": "Ağaçlar arasında, Krishna Ashvattha'dır (kutsal incir/banyan ağacı—Hint geleneğinde saygı duyulan, uzun ömürlü, barınak sağlayan). Göksel bilgeler (devarshiler) arasında, Narada'dır (bağlılığı yayan gezgin bilge, Krishna'nın saf bağlısı). Gandharvalar (göksel müzisyenler) arasında, Chitraratha'dır (onların kralı). Siddhalar (mükemmelleşmiş varlıklar) arasında, Kapila'dır (Sankhya felsefesinin kurucusu, Vishnu'nun bir enkarnasyonu kabul edilir). Narada'nın dahil edilmesi önemlidir—bilgeler arasında, Krishna kendi bağlısını seçer, bhaktaların yüksek konumunu gösterir. En büyük tezahür saf bağlıdır."
+                }
+            },
+            {
+                "verse_number": 27,
+                "sanskrit": "उच्चैःश्रवसमश्वानां विद्धि माममृतोद्भवम्। ऐरावतं गजेन्द्राणां नराणां च नराधिपम्।।२७।।",
+                "transliteration": "uccaiḥśravasam aśvānāṃ viddhi mām amṛtodbhavam | airāvataṃ gajendrāṇāṃ narāṇāṃ ca narādhipam ||27||",
+                "english": {
+                    "translation": "Among horses know Me to be Uchchaihshravas, born of nectar; among lordly elephants I am Airavata; among men I am the king.",
+                    "commentary": "Among horses, Krishna is Uchchaihshravas (celestial horse, emerged during the churning of the cosmic ocean, 'amritodbhavam'—born of nectar/immortality). Among elephants, He is Airavata (Indra's divine elephant, also emerged from the churning). Among humans (naranam), He is 'naradhipam' (the king/ruler). These selections emphasize divine origin (born of nectar-churning), sovereignty (Indra's mount, human king), and excellence (celestial rather than earthly specimens). The king represents the principle of righteous governance and protection—divine qualities manifest in human form."
+                },
+                "turkish": {
+                    "translation": "Atlar arasında Beni nektardan doğmuş Uchchaihshravas olarak bil; efendi filler arasında Airavata; insanlar arasında kral.",
+                    "commentary": "Atlar arasında, Krishna Uchchaihshravas'tır (göksel at, kozmik okyanusun çalkalanması sırasında ortaya çıktı, 'amritodbhavam'—nektar/ölümsüzlükten doğmuş). Filler arasında, Airavata'dır (Indra'nın ilahi fili, ayrıca çalkalanmadan çıktı). İnsanlar (naranam) arasında, 'naradhipam' (kral/yönetici) dir. Bu seçimler ilahi kökeni (nektar-çalkalanmasından doğmuş), egemenliği (Indra'nın bineği, insan kralı) ve mükemmelliği (dünyevi değil göksel örnekler) vurgular. Kral, erdemli yönetim ve koruma ilkesini temsil eder—ilahi nitelikler insan formunda tezahür eder."
+                }
+            },
+            {
+                "verse_number": 28,
+                "sanskrit": "आयुधानामहं वज्रं धेनूनामस्मि कामधुक्। प्रजनश्चास्मि कन्दर्पः सर्पाणामस्मि वासुकिः।।२८।।",
+                "transliteration": "āyudhānām ahaṃ vajraṃ dhenūnām asmi kāmadhuk | prajanaś cāsmi kandarpaḥ sarpāṇām asmi vāsukiḥ ||28||",
+                "english": {
+                    "translation": "Among weapons I am the thunderbolt; among cows I am Kamadhuk, the wish-fulfilling cow; I am Kandarpa, the cause of procreation; among serpents I am Vasuki.",
+                    "commentary": "Among weapons, Krishna is vajra (Indra's thunderbolt—indestructible, irresistible power). Among cows, He is Kamadhuk/Surabhi (wish-fulfilling cow from heaven—symbol of abundance and divine blessing). As Kandarpa/Kama, He is the principle of procreation (not lust but the life-generating force). Among serpents, He is Vasuki (used as rope in churning the cosmic ocean, king of nagas). These selections span from weapons to fertility—showing Krishna in both destructive power and creative abundance. Even procreation, often considered base, is divine when understood as life's creative principle."
+                },
+                "turkish": {
+                    "translation": "Silahlar arasında yıldırım; inekler arasında dilek yerine getiren inek Kamadhuk; üreme nedeni Kandarpa; yılanlar arasında Vasuki.",
+                    "commentary": "Silahlar arasında, Krishna vajra'dır (Indra'nın yıldırımı—yok edilemez, karşı konulamaz güç). İnekler arasında, Kamadhuk/Surabhi'dir (cennetten dilek yerine getiren inek—bolluk ve ilahi bereket sembolü). Kandarpa/Kama olarak, üreme ilkesidir (şehvet değil, yaşam üreten güç). Yılanlar arasında, Vasuki'dir (kozmik okyanusun çalkalanmasında ip olarak kullanılan, nagaların kralı). Bu seçimler silahlardan doğurganlığa uzanır—Krishna'yı hem yıkıcı güçte hem de yaratıcı bolluğunda gösterir. Genellikle bayağı kabul edilen üreme bile, yaşamın yaratıcı ilkesi olarak anlaşıldığında ilahidir."
+                }
+            },
+            {
+                "verse_number": 29,
+                "sanskrit": "अनन्तश्चास्मि नागानां वरुणो यादसामहम्। पितॄणामर्यमा चास्मि यमः संयमतामहम्।।२९।।",
+                "transliteration": "anantaś cāsmi nāgānāṃ varuṇo yādasām aham | pitṝṇām aryamā cāsmi yamaḥ saṃyamatām aham ||29||",
+                "english": {
+                    "translation": "Among the Nagas I am Ananta; among aquatic beings I am Varuna; among ancestors I am Aryama; among controllers I am Yama.",
+                    "commentary": "Among Nagas (serpent beings), Krishna is Ananta/Shesha (the infinite serpent on whom Vishnu reclines—symbol of eternity). Among aquatic creatures (yadasam), He is Varuna (god of oceans and waters). Among Pitris (ancestors/manes), He is Aryama (chief of the ancestral spirits). Among controllers/restrainers (samyamatam), He is Yama (god of death and dharma, ultimate controller). These selections emphasize cosmic functions—infinity (Ananta), cosmic waters (Varuna), ancestral connection (Aryama), and ultimate regulation (Yama). Even death's controller is Krishna's manifestation."
+                },
+                "turkish": {
+                    "translation": "Nagalar arasında Ananta; su varlıkları arasında Varuna; atalar arasında Aryama; kontrolörler arasında Yama.",
+                    "commentary": "Nagalar (yılan varlıkları) arasında, Krishna Ananta/Shesha'dır (Vishnu'nun uzandığı sonsuz yılan—sonsuzluk sembolü). Su yaratıkları (yadasam) arasında, Varuna'dır (okyanusların ve suların tanrısı). Pitriler (atalar/maneler) arasında, Aryama'dır (atalar ruhlarının başı). Kontrolörler/kısıtlayıcılar (samyamatam) arasında, Yama'dır (ölüm ve dharma tanrısı, nihai kontrolör). Bu seçimler kozmik işlevleri vurgular—sonsuzluk (Ananta), kozmik sular (Varuna), atalarla bağlantı (Aryama) ve nihai düzenleme (Yama). Ölümün kontrolörü bile Krishna'nın tezahürüdür."
+                }
+            },
+            {
+                "verse_number": 30,
+                "sanskrit": "प्रह्लादश्चास्मि दैत्यानां कालः कलयतामहम्। मृगाणां च मृगेन्द्रोऽहं वैनतेयश्च पक्षिणाम्।।३०।।",
+                "transliteration": "prahlādaś cāsmi daityānāṃ kālaḥ kalayatām aham | mṛgāṇāṃ ca mṛgendro'haṃ vainateyaś ca pakṣiṇām ||30||",
+                "english": {
+                    "translation": "Among the Daityas I am Prahlada; among calculators I am Time; among beasts I am the lion; among birds I am Garuda.",
+                    "commentary": "Among Daityas (demons), Krishna is Prahlada (the demon prince who was a supreme devotee of Vishnu—showing that devotion transcends birth). Among calculators/measures (kalayatam), He is Kala (Time itself—the ultimate measurer and destroyer). Among beasts (mriganam), He is the lion (mrigendra—king of beasts). Among birds, He is Vainataya/Garuda (Vishnu's divine eagle mount). Prahlada's inclusion is profound—even among demons, Krishna manifests as the devotee, not the powerful demon king. This again shows that devotion is the highest manifestation."
+                },
+                "turkish": {
+                    "translation": "Daityalar arasında Prahlada; hesaplayıcılar arasında Zaman; hayvanlar arasında aslan; kuşlar arasında Garuda.",
+                    "commentary": "Daityalar (iblisler) arasında, Krishna Prahlada'dır (Vishnu'nun en yüce bağlısı olan iblis prensi—bağlılığın doğumu aştığını gösterir). Hesaplayıcılar/ölçüler (kalayatam) arasında, Kala'dır (Zamanın kendisi—nihai ölçücü ve yok edici). Hayvanlar (mriganam) arasında, aslandır (mrigendra—hayvanların kralı). Kuşlar arasında, Vainataya/Garuda'dır (Vishnu'nun ilahi kartal bineği). Prahlada'nın dahil edilmesi derindir—iblisler arasında bile, Krishna güçlü iblis kralı değil, bağlı olarak tezahür eder. Bu yine bağlılığın en yüksek tezahür olduğunu gösterir."
+                }
+            },
+            {
+                "verse_number": 31,
+                "sanskrit": "पवनः पवतामस्मि रामः शस्त्रभृतामहम्। झषाणां मकरश्चास्मि स्रोतसामस्मि जाह्नवी।।३१।।",
+                "transliteration": "pavanaḥ pavatām asmi rāmaḥ śastra-bhṛtām aham | jhaṣāṇāṃ makaraś cāsmi srotasām asmi jāhnavī ||31||",
+                "english": {
+                    "translation": "Among purifiers I am the wind; among wielders of weapons I am Rama; among fishes I am the shark; among rivers I am the Ganga.",
+                    "commentary": "Among purifiers (pavatam), Krishna is wind (pavana—constantly moving, purifying the atmosphere). Among weapon-wielders (shastra-bhritam), He is Rama (Ramachandra—avatar of Vishnu, ideal king and warrior). Among fishes (jhasanam), He is makara (shark/crocodile—the most powerful aquatic predator). Among rivers (srotasam), He is Jahnavi/Ganga (most sacred river, descended from heaven, purifier of sins). These selections emphasize both power (Rama, shark) and purification (wind, Ganga). The Ganga is particularly significant—physical river that accomplishes spiritual purification, connecting material and spiritual realms."
+                },
+                "turkish": {
+                    "translation": "Arıtıcılar arasında rüzgar; silah taşıyanlar arasında Rama; balıklar arasında köpekbalığı; nehirler arasında Ganj.",
+                    "commentary": "Arıtıcılar (pavatam) arasında, Krishna rüzgardır (pavana—sürekli hareket eden, atmosferi arıtan). Silah taşıyanlar (shastra-bhritam) arasında, Rama'dır (Ramachandra—Vishnu'nun avatarı, ideal kral ve savaşçı). Balıklar (jhasanam) arasında, makara'dır (köpekbalığı/timsah—en güçlü su yırtıcısı). Nehirler (srotasam) arasında, Jahnavi/Ganj'dır (en kutsal nehir, cennetten indi, günahların arıtıcısı). Bu seçimler hem gücü (Rama, köpekbalığı) hem de arınmayı (rüzgar, Ganj) vurgular. Ganj özellikle önemlidir—ruhani arınmayı gerçekleştiren fiziksel nehir, maddi ve ruhani alanları bağlar."
+                }
+            },
+            {
+                "verse_number": 32,
+                "sanskrit": "सर्गाणामादिरन्तश्च मध्यं चैवाहमर्जुन। अध्यात्मविद्या विद्यानां वादः प्रवदतामहम्।।३२।।",
+                "transliteration": "sargāṇām ādir antaś ca madhyaṃ caivāham arjuna | adhyātma-vidyā vidyānāṃ vādaḥ pravadatām aham ||32||",
+                "english": {
+                    "translation": "Of creations I am the beginning, the end, and also the middle, O Arjuna. Among sciences I am the science of the Self; among debaters I am the logical argument.",
+                    "commentary": "Krishna reiterates His all-encompassing nature: He is the beginning (adi), middle (madhya), and end (anta) of all creations—the complete span. Among sciences/knowledge (vidyanam), He is 'adhyatma-vidya' (knowledge of the Self—spiritual science, highest knowledge). Among debaters (pravadatam), He is 'vada' (logical argument/conclusive debate that establishes truth). This elevates spiritual knowledge above all other sciences. While other knowledge is valuable, self-knowledge is supreme because it addresses the fundamental question of existence. Logic that leads to truth is also divine."
+                },
+                "turkish": {
+                    "translation": "Yaratımların başlangıcı, sonu ve ayrıca ortası Benim, ey Arjuna. Bilimler arasında Benliğin bilimi; tartışmacılar arasında mantıksal argüman.",
+                    "commentary": "Krishna her şeyi kapsayan doğasını yineler: tüm yaratımların başlangıcı (adi), ortası (madhya) ve sonu (anta) dur—tam aralık. Bilimler/bilgi (vidyanam) arasında, 'adhyatma-vidya' (Benliğin bilgisi—ruhani bilim, en yüksek bilgi) dır. Tartışmacılar (pravadatam) arasında, 'vada' (gerçeği ortaya koyan mantıksal argüman/kesin tartışma) dır. Bu, ruhani bilgiyi diğer tüm bilimlerin üstüne yükseltir. Diğer bilgiler değerli olsa da, öz-bilgi en yücedir çünkü varoluşun temel sorusunu ele alır. Gerçeğe götüren mantık da ilahidir."
+                }
+            },
+            {
+                "verse_number": 33,
+                "sanskrit": "अक्षराणमकारोऽस्मि द्वन्द्वः सामासिकस्य च। अहमेवाक्षयः कालो धाताहं विश्वतोमुखः।।३३।।",
+                "transliteration": "akṣarāṇam akāro'smi dvandvaḥ sāmāsikasya ca | aham evākṣayaḥ kālo dhātāhaṃ viśvato-mukhaḥ ||33||",
+                "english": {
+                    "translation": "Among letters I am the letter A; among compounds I am the dual compound. I am indeed imperishable Time; I am the Sustainer with faces everywhere.",
+                    "commentary": "Among letters (aksharanam), Krishna is 'A' (akara—first letter of Sanskrit alphabet, foundation of all sounds). Among compound words (samasikasya), He is 'dvandva' (dual compound—copulative compound joining equals). He is 'akshaya kala' (imperishable Time—eternal duration). He is 'dhata' (Sustainer) who is 'vishvato-mukha' (facing all directions—all-seeing, omnipresent). The letter 'A' is particularly significant—it's the most basic sound, from which all others emerge. Time's imperishability contrasts with time's destructive aspect mentioned earlier—Krishna is both destroyer (as time that ends things) and sustainer (as eternal time itself)."
+                },
+                "turkish": {
+                    "translation": "Harfler arasında A harfi; bileşikler arasında ikili bileşik. Ben gerçekten değişmez Zaman; her yere bakan yüzlerle Sürdürücü.",
+                    "commentary": "Harfler (aksharanam) arasında, Krishna 'A' (akara—Sanskrit alfabesinin ilk harfi, tüm seslerin temeli) dır. Bileşik kelimeler (samasikasya) arasında, 'dvandva' (eşitleri birleştiren kopyalatif bileşik—ikili bileşik) dır. 'Akshaya kala' (değişmez Zaman—sonsuz süre) dır. 'Dhata' (Sürdürücü) dur, 'vishvato-mukha' (tüm yönlere bakan—her şeyi gören, her yerde mevcut) dır. 'A' harfi özellikle önemlidir—en temel sestir, diğerlerinin tümü ondan çıkar. Zamanın değişmezliği, daha önce bahsedilen zamanın yıkıcı yönüyle tezat oluşturur—Krishna hem yok edici (şeyleri bitiren zaman olarak) hem de sürdürücüdür (sonsuz zamanın kendisi olarak)."
+                }
+            },
+            {
+                "verse_number": 34,
+                "sanskrit": "मृत्युः सर्वहरश्चाहमुद्भवश्च भविष्यताम्। कीर्तिः श्रीर्वाक्च नारीणां स्मृतिर्मेधा धृतिः क्षमा।।३४।।",
+                "transliteration": "mṛtyuḥ sarva-haraś cāham udbhavaś ca bhaviṣyatām | kīrtiḥ śrīr vāk ca nārīṇāṃ smṛtir medhā dhṛtiḥ kṣamā ||34||",
+                "english": {
+                    "translation": "I am all-consuming death and the origin of future beings. Among feminine qualities I am fame, prosperity, speech, memory, intelligence, steadfastness, and patience.",
+                    "commentary": "Krishna is both death (mrityu sarva-hara—all-consuming death that takes everything) and the origin of what's yet to come (udbhava bhavisyatam—source of future beings). Among feminine qualities (narinam), He is seven virtues: kirti (fame), shri (prosperity/beauty), vak (speech), smriti (memory), medha (intelligence/wisdom), dhriti (steadfastness/courage), and kshama (patience/forgiveness). This simultaneous identification with death and birth, destruction and creation, shows the totality of divine manifestation. The feminine qualities listed are those that sustain and elevate civilization—culture, prosperity, communication, knowledge, resolve, and compassion."
+                },
+                "turkish": {
+                    "translation": "Her şeyi yutan ölüm ve gelecek varlıkların kökeni. Dişi nitelikler arasında şöhret, refah, konuşma, hafıza, zeka, sebat ve sabır.",
+                    "commentary": "Krishna hem ölümdür (mrityu sarva-hara—her şeyi alan her şeyi yutan ölüm) hem de gelecek olanın kökenidir (udbhava bhavisyatam—gelecek varlıkların kaynağı). Dişi nitelikler (narinam) arasında, yedi erdemdir: kirti (şöhret), shri (refah/güzellik), vak (konuşma), smriti (hafıza), medha (zeka/bilgelik), dhriti (sebat/cesaret) ve kshama (sabır/bağışlama). Bu eşzamanlı ölüm ve doğum, yıkım ve yaratım ile tanımlanma, ilahi tezahürün bütünlüğünü gösterir. Listelenen dişi nitelikler, uygarlığı sürdüren ve yükselten—kültür, refah, iletişim, bilgi, kararlılık ve şefkat—niteliklerdir."
+                }
+            },
+            {
+                "verse_number": 35,
+                "sanskrit": "बृहत्साम तथा साम्नां गायत्री छन्दसामहम्। मासानां मार्गशीर्षोऽहमृतूनां कुसुमाकरः।।३५।।",
+                "transliteration": "bṛhat-sāma tathā sāmnāṃ gāyatrī chandasām aham | māsānāṃ mārga-śīrṣo'ham ṛtūnāṃ kusumākaraḥ ||35||",
+                "english": {
+                    "translation": "Among the hymns of Sama Veda I am Brihat-sama; among meters I am Gayatri; among months I am Margashirsha; among seasons I am spring.",
+                    "commentary": "Among Sama Veda chants (samnam), Krishna is Brihat-sama (the great chant, used in important rituals). Among poetic meters (chandasam), He is Gayatri (most sacred Vedic meter, used in the holiest mantra). Among months (masanam), He is Margashirsha (November-December, pleasant season in India, time of harvest). Among seasons (ritunam), He is spring (kusumakara—literally 'flower-maker,' season of flowering and renewal). These selections emphasize beauty, sacredness, and renewal. Spring represents new beginning, vitality, and nature's creative abundance—qualities inherent in the Divine."
+                },
+                "turkish": {
+                    "translation": "Sama Veda'nın ilahileri arasında Brihat-sama; vezinler arasında Gayatri; aylar arasında Margashirsha; mevsimler arasında ilkbahar.",
+                    "commentary": "Sama Veda ilahileri (samnam) arasında, Krishna Brihat-sama'dır (önemli ritüellerde kullanılan büyük ilahi). Şiir veznleri (chandasam) arasında, Gayatri'dir (en kutsal Vedik vezin, en kutsal mantrada kullanılan). Aylar (masanam) arasında, Margashirsha'dır (Kasım-Aralık, Hindistan'da hoş mevsim, hasat zamanı). Mevsimler (ritunam) arasında, ilkbahardır (kusumakara—kelimenin tam anlamıyla 'çiçek yapıcı,' çiçeklenme ve yenilenme mevsimi). Bu seçimler güzelliği, kutsallığı ve yenilenmeyi vurgular. İlkbahar yeni başlangıcı, canlılığı ve doğanın yaratıcı bolluğunu temsil eder—İlahi'de bulunan nitelikler."
+                }
+            },
+            {
+                "verse_number": 36,
+                "sanskrit": "द्यूतं छलयतामस्मि तेजस्तेजस्विनामहम्। जयोऽस्मि व्यवसायोऽस्मि सत्त्वं सत्त्ववतामहम्।।३६।।",
+                "transliteration": "dyūtaṃ chalayatām asmi tejas tejasvinām aham | jayo'smi vyavasāyo'smi sattvaṃ sattvavatām aham ||36||",
+                "english": {
+                    "translation": "Among deceivers I am gambling; I am the splendor of the splendid. I am victory, I am effort, I am the purity of the pure.",
+                    "commentary": "Among deceivers/cheats (chalayatam), Krishna is gambling/dice (dyuta—the archetypal game of chance, which can deceive). Among the splendid (tejasvinam), He is tejas (splendor/brilliance itself). He is victory (jaya), effort/determination (vyavasaya), and the sattva (goodness/purity) of the pure (sattvavatam). The inclusion of gambling is noteworthy—even in deception, Krishna manifests as its most prominent form, showing His presence even in questionable activities. However, He also is victory, effort, and purity—the means to overcome such deception. This shows divine impartiality—Krishna exists in all, though devotees should choose what leads to purity."
+                },
+                "turkish": {
+                    "translation": "Aldatıcılar arasında kumar; parlaklığın parlaklığı. Zafer, çaba ve saf olanların saflığı.",
+                    "commentary": "Aldatıcılar/hilebazlar (chalayatam) arasında, Krishna kumardır/zar (dyuta—arketipik şans oyunu, aldatabilir). Parlak olanlar (tejasvinam) arasında, tejas'tır (parlaklığın/ışıltının kendisi). Zaferdir (jaya), çaba/kararlılıktır (vyavasaya) ve saf olanların (sattvavatam) sattva'sıdır (iyilik/saflık). Kumarın dahil edilmesi dikkate değerdir—aldatmada bile, Krishna en önde gelen formu olarak tezahür eder, şüpheli aktivitelerde bile varlığını gösterir. Ancak, ayrıca zafer, çaba ve saflıktır—böyle aldatmayı aşmanın araçları. Bu, ilahi tarafsızlığı gösterir—Krishna herkeste var olur, ancak bağlılar saflığa götüreni seçmelidir."
+                }
+            },
+            {
+                "verse_number": 37,
+                "sanskrit": "वृष्णीनां वासुदेवोऽस्मि पाण्डवानां धनञ्जयः। मुनीनामप्यहं व्यासः कवीनामुशना कविः।।३७।।",
+                "transliteration": "vṛṣṇīnāṃ vāsudevo'smi pāṇḍavānāṃ dhanañjayaḥ | munīnām apy ahaṃ vyāsaḥ kavīnām uśanā kaviḥ ||37||",
+                "english": {
+                    "translation": "Among the Vrishnis I am Vasudeva; among the Pandavas I am Dhananjaya; among sages I am Vyasa; among poets I am Ushanas.",
+                    "commentary": "Among the Vrishni clan, Krishna is Vasudeva (Krishna Himself—son of Vasudeva, directly declaring His own identity). Among Pandavas, He is Dhananjaya/Arjuna (Krishna's dear friend and devotee). Among sages (muninam), He is Vyasa (compiler of Vedas, author of Mahabharata and Puranas, considered an avatar of Vishnu). Among poets (kavinam), He is Ushanas/Shukracharya (preceptor of demons, renowned for knowledge and poetic wisdom). This verse is unique—Krishna declares Himself and His devotee (Arjuna) as His manifestations, showing the exalted position of devotees. The devotee is as much Krishna's manifestation as Krishna Himself."
+                },
+                "turkish": {
+                    "translation": "Vrishniler arasında Vasudeva; Pandavalar arasında Dhananjaya; bilgeler arasında Vyasa; şairler arasında Ushanas.",
+                    "commentary": "Vrishni klanı arasında, Krishna Vasudeva'dır (Krishna'nın Kendisi—Vasudeva'nın oğlu, doğrudan kendi kimliğini ilan eder). Pandavalar arasında, Dhananjaya/Arjuna'dır (Krishna'nın sevgili dostu ve bağlısı). Bilgeler (muninam) arasında, Vyasa'dır (Vedaların derleyicisi, Mahabharata ve Puranaların yazarı, Vishnu'nun bir avatarı kabul edilir). Şairler (kavinam) arasında, Ushanas/Shukracharya'dır (iblislerin öğretmeni, bilgi ve şiir bilgeliği ile ünlü). Bu ayet benzersizdir—Krishna Kendisini ve bağlısını (Arjuna) tezahürleri olarak ilan eder, bağlıların yüksek konumunu gösterir. Bağlı, Krishna'nın Kendisi kadar Krishna'nın tezahürüdür."
+                }
+            },
+            {
+                "verse_number": 38,
+                "sanskrit": "दण्डो दमयतामस्मि नीतिरस्मि जिगीषताम्। मौनं चैवास्मि गुह्यानां ज्ञानं ज्ञानवतामहम्।।३८।।",
+                "transliteration": "daṇḍo damayatām asmi nītir asmi jigīṣatām | maunaṃ caivāsmi guhyānāṃ jñānaṃ jñānavatām aham ||38||",
+                "english": {
+                    "translation": "Among controllers I am the rod of punishment; among those seeking victory I am statesmanship; among secrets I am silence; I am the knowledge of the knowledgeable.",
+                    "commentary": "Among those who control (damayatam), Krishna is danda (rod of punishment—symbol of justice and law enforcement). Among victory-seekers (jigishatam), He is niti (statesmanship/wise policy/ethics). Among secrets (guhyanam), He is silence (maunam—the ultimate keeper of secrets). Among the knowledgeable (jnanavatam), He is jnana (knowledge itself). These selections emphasize governance, wisdom, discretion, and knowledge. Silence as the keeper of secrets is profound—what's not spoken cannot be revealed. True knowledge doesn't need expression; silence can be wiser than speech. The wise know when to speak and when to remain silent."
+                },
+                "turkish": {
+                    "translation": "Kontrolörler arasında ceza değneği; zafer arayanlar arasında devlet adamlığı; sırlar arasında sessizlik; bilgili olanların bilgisi.",
+                    "commentary": "Kontrol edenler (damayatam) arasında, Krishna danda'dır (ceza değneği—adalet ve kanun uygulamasının sembolü). Zafer arayanlar (jigishatam) arasında, niti'dir (devlet adamlığı/akıllı politika/etik). Sırlar (guhyanam) arasında, sessizliktir (maunam—sırların nihai koruyucusu). Bilgili olanlar (jnanavatam) arasında, jnana'dır (bilginin kendisi). Bu seçimler yönetimi, bilgeliği, takdiri ve bilgiyi vurgular. Sırların koruyucusu olarak sessizlik derindir—söylenmeyenler açığa çıkarılamaz. Gerçek bilginin ifadeye ihtiyacı yoktur; sessizlik konuşmadan daha akıllı olabilir. Bilgeler ne zaman konuşup ne zaman sessiz kalacağını bilir."
+                }
+            },
+            {
+                "verse_number": 39,
+                "sanskrit": "यच्चापि सर्वभूतानां बीजं तदहमर्जुन। न तदस्ति विना यत्स्यान्मया भूतं चराचरम्।।३९।।",
+                "transliteration": "yac cāpi sarva-bhūtānāṃ bījaṃ tad aham arjuna | na tad asti vinā yat syān mayā bhūtaṃ carācaram ||39||",
+                "english": {
+                    "translation": "And whatever is the seed of all beings, that also am I, O Arjuna. There is nothing, moving or unmoving, that can exist without Me.",
+                    "commentary": "Krishna makes a comprehensive statement: He is the 'bijam' (seed) of all beings—the generative principle, the origin from which everything springs. Nothing moving (chara) or unmoving (achara) can exist 'vina maya' (without Me). This establishes absolute dependence of all existence on Krishna. The seed metaphor is powerful—just as all trees exist potentially in their seeds, all beings exist potentially in Krishna. He is both the seed (potential) and the manifestation (actual). Without this divine seed, nothing could come into existence. This verse declares Krishna's absolute necessity for all existence."
+                },
+                "turkish": {
+                    "translation": "Ve tüm varlıkların tohumu ne ise, o da Benim, ey Arjuna. Bensiz var olabilecek hareketli veya hareketsiz hiçbir şey yoktur.",
+                    "commentary": "Krishna kapsamlı bir ifade yapar: tüm varlıkların 'bijam' (tohum) udur—üretici ilke, her şeyin fırladığı köken. Hareketli (chara) veya hareketsiz (achara) hiçbir şey 'vina maya' (Bensiz) var olamaz. Bu, tüm varoluşun Krishna'ya mutlak bağımlılığını kurar. Tohum metaforu güçlüdür—tüm ağaçlar tohumlarında potansiyel olarak var olduğu gibi, tüm varlıklar Krishna'da potansiyel olarak var olur. Hem tohum (potansiyel) hem de tezahürdür (fiili). Bu ilahi tohum olmadan, hiçbir şey varlığa gelemezdi. Bu ayet, Krishna'nın tüm varoluş için mutlak gerekliliğini ilan eder."
+                }
+            },
+            {
+                "verse_number": 40,
+                "sanskrit": "नान्तोऽस्ति मम दिव्यानां विभूतीनां परन्तप। एष तूद्देशतः प्रोक्तो विभूतेर्विस्तरो मया।।४०।।",
+                "transliteration": "nānto'sti mama divyānāṃ vibhūtīnāṃ parantapa | eṣa tūddeśataḥ prokto vibhūter vistaro mayā ||40||",
+                "english": {
+                    "translation": "There is no end to My divine manifestations, O scorcher of foes. What has been declared by Me is but a brief indication of the extent of My glory.",
+                    "commentary": "Krishna concludes the enumeration by acknowledging its incompleteness: 'nanto'sti' (there is no end) to His divine vibhutis. What He has described is only 'uddeshata' (by way of example/indication), not exhaustive. The phrase 'vistaro maya' (extent by Me) acknowledges that even God Himself cannot fully enumerate His manifestations in finite words. This creates humility—the examples given are teaching tools, not complete catalogs. The infinite cannot be contained in finite categories. These prominent examples serve to train the devotee's perception to recognize Krishna everywhere."
+                },
+                "turkish": {
+                    "translation": "Benim ilahi tezahürlerimde son yoktur, ey düşmanların yakıcısı. Benim tarafımdan ilan edilen şey, görkemimin genişliğinin sadece kısa bir göstergesidir.",
+                    "commentary": "Krishna sayımı eksikliğini kabul ederek sonlandırır: O'nun ilahi vibhutilerine 'nanto'sti' (son yoktur). Tanımladığı şey sadece 'uddeshata' (örnek/gösterge yoluyla) dır, kapsamlı değil. 'Vistaro maya' (Benim tarafımdan genişlik) ifadesi, Tanrı'nın Kendisinin bile tezahürlerini sonlu kelimelerle tam olarak sayamayacağını kabul eder. Bu alçakgönüllülük yaratır—verilen örnekler öğretim araçlarıdır, tam kataloglar değil. Sonsuz, sonlu kategorilerde içerilemez. Bu önde gelen örnekler, bağlının algısını Krishna'yı her yerde tanımak için eğitmeye hizmet eder."
+                }
+            },
+            {
+                "verse_number": 41,
+                "sanskrit": "यद्यद्विभूतिमत्सत्त्वं श्रीमदूर्जितमेव वा। तत्तदेवावगच्छ त्वं मम तेजोऽंशसम्भवम्।।४१।।",
+                "transliteration": "yad yad vibhūtimat sattvaṃ śrīmad ūrjitam eva vā | tat tad evāvagaccha tvaṃ mama tejo'ṃśa-sambhavam ||41||",
+                "english": {
+                    "translation": "Whatever being has glory, prosperity, or power, know that to be a manifestation of a fragment of My splendor.",
+                    "commentary": "Krishna provides a universal principle for recognizing His presence: wherever there is 'vibhutimat' (glorious/excellent), 'shrimat' (prosperous/beautiful), or 'urjita' (powerful), know it comes from a 'tejas-amsha' (fragment of My splendor). The word 'amsha' (fragment/part) is significant—these manifestations are not the totality of Krishna but sparks of His infinite glory. This teaching enables devotees to see God everywhere—in any excellence, beauty, or power. Rather than being distracted by manifestations, use them as reminders of the divine source. Every glimpse of greatness points back to Krishna."
+                },
+                "turkish": {
+                    "translation": "Hangi varlıkta görkemlilik, refah veya güç varsa, onu Benim parlaklığımın bir parçasının tezahürü olarak bil.",
+                    "commentary": "Krishna, O'nun varlığını tanımak için evrensel bir ilke sağlar: nerede 'vibhutimat' (görkemli/mükemmel), 'shrimat' (müreffeh/güzel) veya 'urjita' (güçlü) varsa, bunun 'tejas-amsha' (Benim parlaklığımın bir parçası) ndan geldiğini bil. 'Amsha' (parça/kısım) kelimesi önemlidir—bu tezahürler Krishna'nın bütünü değil, sonsuz görkeminin kıvılcımlarıdır. Bu öğreti, bağlıların Tanrı'yı her yerde görmesini sağlar—her mükemmellikte, güzellikte veya güçte. Tezahürlerle dikkatin dağılması yerine, onları ilahi kaynağın hatırlatıcıları olarak kullan. Her büyüklük görüntüsü Krishna'ya geri işaret eder."
+                }
+            },
+            {
+                "verse_number": 42,
+                "sanskrit": "अथवा बहुनैतेन किं ज्ञातेन तवार्जुन। विष्टभ्याहमिदं कृत्स्नमेकांशेन स्थितो जगत्।।४२।।",
+                "transliteration": "athavā bahunaitena kiṃ jñātena tavārjuna | viṣṭabhyāham idaṃ kṛtsnam ekāṃśena sthito jagat ||42||",
+                "english": {
+                    "translation": "But what is the need for you to know all this in detail, O Arjuna? I exist, pervading this entire universe with just a single fragment of Myself.",
+                    "commentary": "Krishna concludes dramatically: 'athava bahuna etena kim' (but what is the use of all this detail?). The essential truth is simple: He pervades the entire universe (idam kritsnam jagat) with merely 'ekamshena' (a single fragment) of Himself. This is the ultimate teaching—even after enumerating countless manifestations, Krishna reveals that all of creation is sustained by just a portion of His being. The majority of His existence remains beyond manifestation. This humbling perspective shows that the infinite God cannot be grasped by cataloging His manifestations. Simple devotional recognition that He pervades everything is sufficient knowledge."
+                },
+                "turkish": {
+                    "translation": "Ama senin tüm bunları detaylı bilmene ne gerek var, ey Arjuna? Ben kendimin sadece tek bir parçasıyla bu tüm evrene nüfuz ederek var olurum.",
+                    "commentary": "Krishna dramatik bir şekilde sonlandırır: 'athava bahuna etena kim' (ama tüm bu detayın ne faydası var?). Temel gerçek basittir: tüm evrene (idam kritsnam jagat) sadece 'ekamshena' (Kendisinin tek bir parçasıyla) nüfuz eder. Bu nihai öğretidir—sayısız tezahürü saydıktan sonra bile, Krishna tüm yaratımın varlığının sadece bir kısmıyla sürdürüldüğünü ortaya çıkarır. Varoluşunun çoğunluğu tezahürün ötesinde kalır. Bu alçaltıcı perspektif, sonsuz Tanrı'nın tezahürlerini kataloglayarak kavranamayacağını gösterir. Her şeye nüfuz ettiğine dair basit bağlılık tanıması yeterli bilgidir."
+                }
+            }
+        ]
+    },
+    "verification": {
+        "verses_translated": 42,
+        "expected_verses": 42,
+        "complete": true,
+        "missing_verses": []
+    }
+}
