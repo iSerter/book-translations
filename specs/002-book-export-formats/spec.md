@@ -62,9 +62,9 @@ As a developer, I want to export only the JSON data so that I can inspect the st
 - **FR-006**: Users MUST be able to filter the export by Book ID (exporting the whole book).
 - **FR-007**: Users MUST be able to filter the export by Chapter Number (exporting a single chapter of a book).
 - **FR-008**: System MUST allow specifying an output directory for the generated files.
-- **FR-009**: The JSON export MUST [NEEDS CLARIFICATION: Should the JSON structure mirror the internal DB schema exactly, or follow a specific public exchange schema?]
-- **FR-010**: The Markdown and Word exports MUST [NEEDS CLARIFICATION: Are there specific styling/template requirements (e.g., specific fonts, headers, layout), or is a generic clean format sufficient?]
-- **FR-011**: The export MUST include [NEEDS CLARIFICATION: Should the export include ALL available translations for every verse, or should the user be able to filter/select specific languages?]
+- **FR-009**: The JSON export MUST use a simplified, nested structure (Book -> Chapters -> Verses) optimized for consumption by other applications.
+- **FR-010**: The Markdown and Word exports MUST use a generic, clean default format with standard headers and text.
+- **FR-011**: The export MUST support filtering to include specific translation languages via a CLI flag (e.g., `--languages`), defaulting to all if unspecified.
 
 ### Key Entities *(include if feature involves data)*
 
