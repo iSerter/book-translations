@@ -1,0 +1,381 @@
+{
+  "chapter": {
+    "number": 8,
+    "title_sanskrit": "अक्षरब्रह्मयोग",
+    "title_english": "The Yoga of the Imperishable Brahman",
+    "title_turkish": "Ebedi Tanrı'nın Yogası",
+    "total_verses": 28,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "अर्जुन उवाच। किं तद्ब्रह्म किमध्यात्मं किं कर्म पुरुषोत्तम। अधिभूतं च किं प्रोक्तमधिदैवं किमुच्यते।।१।।",
+        "transliteration": "arjuna uvāca | kiṃ tad brahma kim adhyātmaṃ kiṃ karma puruṣottama | adhibhūtaṃ ca kiṃ proktam adhidaivaṃ kim ucyate ||1||",
+        "english": {
+          "translation": "Arjuna said: O Supreme Person, what is Brahman? What is adhyatma (the individual self)? What is karma (action)? What is said to be adhibhuta (the material manifestation)? And what is called adhidaiva (the cosmic gods)?",
+          "commentary": "Arjuna asks seven fundamental questions about metaphysical concepts Krishna mentioned at the end of Chapter 7. These questions about Brahman (ultimate reality), adhyatma (self), karma (action), adhibhuta (matter), and adhidaiva (cosmic beings) set the framework for understanding the path to liberation. This systematic inquiry demonstrates Arjuna's philosophical depth and readiness for advanced spiritual knowledge."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi ki: Ey Yüce Kişi, Tanrı nedir? Adhyatma (bireysel benlik) nedir? Karma (eylem) nedir? Adhibhuta (maddi tezahür) ne olarak söylenir? Ve adhidaiva (kozmik tanrılar) ne diye adlandırılır?",
+          "commentary": "Arjuna, Krishna'nın 7. bölümün sonunda bahsettiği metafizik kavramlar hakkında yedi temel soru sorar. Tanrı (nihai gerçeklik), adhyatma (benlik), karma (eylem), adhibhuta (madde) ve adhidaiva (kozmik varlıklar) hakkındaki bu sorular, kurtuluş yolunu anlamak için çerçeve oluşturur. Bu sistematik sorgulama, Arjuna'nın felsefi derinliğini ve ileri ruhani bilgiye hazır oluşunu gösterir."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "अधियज्ञः कथं कोऽत्र देहेऽस्मिन्मधुसूदन। प्रयाणकाले च कथं ज्ञेयोऽसि नियतात्मभिः।।२।।",
+        "transliteration": "adhiyajñaḥ kathaṃ ko'tra dehe'smin madhusūdana | prayāṇa-kāle ca kathaṃ jñeyo'si niyatātmabhiḥ ||2||",
+        "english": {
+          "translation": "Who is adhiyajna (the Lord of sacrifice), and how does He dwell in this body, O Madhusudana? And how are You to be known at the time of death by those of steady mind?",
+          "commentary": "Arjuna completes his seven questions by asking about adhiyajna (the presiding deity of sacrifice) and the crucial question of how to remember God at death. The inquiry about the moment of death reflects the Vedic teaching that one's consciousness at death determines the next destination. Self-controlled souls (niyatatmabhih) must know the proper method of remembering the Divine at life's end."
+        },
+        "turkish": {
+          "translation": "Adhiyajna (kurban Efendisi) kimdir ve bu bedende nasıl oturur, ey Madhusudana? Ve ölüm anında sabit zihinli olanlar tarafından Sen nasıl bilinirsin?",
+          "commentary": "Arjuna, adhiyajna (kurbanın başkan tanrısı) ve Tanrı'yı ölümde nasıl hatırlayacağı konusundaki çok önemli soru ile yedi sorusunu tamamlar. Ölüm anına ilişkin sorgulama, kişinin ölümdeki bilincinin bir sonraki varış yerini belirlediğine dair Vedik öğretiyi yansıtır. Kendini kontrol eden ruhlar (niyatatmabhih), yaşamın sonunda İlahi'yi hatırlamanın doğru yöntemini bilmelidir."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "श्रीभगवानुवाच। अक्षरं ब्रह्म परमं स्वभावोऽध्यात्ममुच्यते। भूतभावोद्भवकरो विसर्गः कर्मसंज्ञितः।।३।।",
+        "transliteration": "śrī-bhagavān uvāca | akṣaraṃ brahma paramaṃ svabhāvo'dhyātmam ucyate | bhūta-bhāvodbhava-karo visargaḥ karma-saṃjñitaḥ ||3||",
+        "english": {
+          "translation": "The Blessed Lord said: The Supreme Imperishable is Brahman; one's own essential nature is called adhyatma (the individual self). The creative force that causes the birth of beings is called karma (action).",
+          "commentary": "Krishna begins answering Arjuna's questions systematically. Brahman is defined as akshara (imperishable, unchanging reality). Adhyatma refers to the individual soul's inherent nature. Karma here means the creative offering (visarga) that generates the cycle of birth and sustains material existence. These definitions establish the foundational metaphysical framework for spiritual understanding."
+        },
+        "turkish": {
+          "translation": "Kutsal Efendi dedi ki: En Yüce Değişmez Tanrı'dır; kişinin kendi özsel doğası adhyatma (bireysel benlik) olarak adlandırılır. Varlıkların doğumuna neden olan yaratıcı güç karma (eylem) olarak adlandırılır.",
+          "commentary": "Krishna, Arjuna'nın sorularını sistematik olarak cevaplamaya başlar. Tanrı, akshara (değişmez, değişmeyen gerçeklik) olarak tanımlanır. Adhyatma, bireysel ruhun doğasında var olan öze işaret eder. Burada karma, doğum döngüsünü üreten ve maddi varlığı sürdüren yaratıcı sunumu (visarga) anlamına gelir. Bu tanımlar, ruhani anlayış için temel metafizik çerçeveyi oluşturur."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "अधिभूतं क्षरो भावः पुरुषश्चाधिदैवतम्। अधियज्ञोऽहमेवात्र देहे देहभृतां वर।।४।।",
+        "transliteration": "adhibhūtaṃ kṣaro bhāvaḥ puruṣaś cādhidaivatam | adhiyajño'ham evātra dehe deha-bhṛtāṃ vara ||4||",
+        "english": {
+          "translation": "Adhibhuta is the perishable physical manifestation; the Purusha (Cosmic Being) is adhidaiva. I alone am adhiyajna (the Lord of sacrifice) here in this body, O best of embodied beings.",
+          "commentary": "Krishna continues defining the metaphysical categories. Adhibhuta refers to all perishable material phenomena (kshara). Adhidaiva is the Cosmic Person governing the elements and senses. Most importantly, Krishna reveals Himself as adhiyajna—the Supreme Soul dwelling in every heart, receiving all sacrifices. This establishes that the Divine is not distant but intimately present within each body."
+        },
+        "turkish": {
+          "translation": "Adhibhuta geçici fiziksel tezahürdür; Purusha (Kozmik Varlık) adhidaiva'dır. Ben yalnızca bu bedende adhiyajna'yım (kurban Efendisi), ey bedenli varlıkların en iyisi.",
+          "commentary": "Krishna, metafizik kategorileri tanımlamaya devam eder. Adhibhuta, tüm geçici maddi olaylara (kshara) işaret eder. Adhidaiva, unsurları ve duyuları yöneten Kozmik Kişi'dir. En önemlisi, Krishna kendini adhiyajna olarak—her kalpte oturan, tüm kurbanları kabul eden Yüce Ruh olarak—açığa çıkarır. Bu, İlahi'nin uzak değil, her bedenin içinde yakından var olduğunu ortaya koyar."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "अन्तकाले च मामेव स्मरन्मुक्त्वा कलेवरम्। यः प्रयाति स मद्भावं याति नास्त्यत्र संशयः।।५।।",
+        "transliteration": "anta-kāle ca mām eva smaran muktvā kalevaram | yaḥ prayāti sa mad-bhāvaṃ yāti nāsty atra saṃśayaḥ ||5||",
+        "english": {
+          "translation": "And whoever, at the time of death, leaves the body remembering Me alone, attains My state of being; of this there is no doubt.",
+          "commentary": "This is one of the Gita's most famous promises regarding the importance of consciousness at death. Remembering Krishna (or God) at life's final moment ensures attainment of His divine nature. The phrase 'no doubt' (na samshaya) emphasizes the certainty of this spiritual law. This teaching establishes the crucial practice of constant remembrance throughout life to ensure divine awareness at death."
+        },
+        "turkish": {
+          "translation": "Ve kim ölüm anında bedeni terk ederken yalnızca Beni hatırlayarak ayrılırsa, Benim varlık durumuma ulaşır; bunda hiçbir şüphe yoktur.",
+          "commentary": "Bu, ölümdeki bilincin önemi hakkında Gita'nın en ünlü vaatlerinden biridir. Yaşamın son anında Krishna'yı (veya Tanrı'yı) hatırlamak, O'nun ilahi doğasına ulaşmayı garanti eder. 'Şüphe yok' (na samshaya) ifadesi, bu ruhani yasanın kesinliğini vurgular. Bu öğreti, ölümde ilahi farkındalığı sağlamak için yaşam boyunca sürekli hatırlama pratiğinin kritik önemini ortaya koyar."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "यं यं वापि स्मरन्भावं त्यजत्यन्ते कलेवरम्। तं तमेवैति कौन्तेय सदा तद्भावभावितः।।६।।",
+        "transliteration": "yaṃ yaṃ vāpi smaran bhāvaṃ tyajaty ante kalevaram | taṃ tam evaiti kaunteya sadā tad-bhāva-bhāvitaḥ ||6||",
+        "english": {
+          "translation": "Whatever state of being one remembers when giving up the body at death, O son of Kunti, that state alone does one attain, being always absorbed in that thought.",
+          "commentary": "This verse explains the universal law of consciousness determining destiny. Whatever one constantly thinks about during life becomes one's meditation at death, and determines the next existence. The word 'bhava-bhavita' (absorbed in that state) indicates that death consciousness is formed by habitual thinking throughout life. This emphasizes the importance of cultivating divine thoughts consistently, not just at death."
+        },
+        "turkish": {
+          "translation": "Ölümde bedeni terk ederken hangi varlık durumunu hatırlıyorsa, ey Kunti oğlu, o duruma ulaşır, her zaman o düşünceye dalmış olarak.",
+          "commentary": "Bu ayet, kaderi belirleyen bilincin evrensel yasasını açıklar. Yaşam boyunca sürekli ne düşünülürse, ölümde meditasyon konusu o olur ve bir sonraki varoluşu belirler. 'Bhava-bhavita' (o duruma dalmış) kelimesi, ölüm bilincinin yaşam boyunca alışılmış düşünme ile şekillendiğini gösterir. Bu, sadece ölümde değil, tutarlı bir şekilde ilahi düşünceleri beslemenin önemini vurgular."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "तस्मात्सर्वेषु कालेषु मामनुस्मर युध्य च। मय्यर्पितमनोबुद्धिर्मामेवैष्यस्यसंशयम्।।७।।",
+        "transliteration": "tasmāt sarveṣu kāleṣu mām anusmara yudhya ca | mayy arpita-mano-buddhir mām evaiṣyasy asaṃśayam ||7||",
+        "english": {
+          "translation": "Therefore, at all times remember Me and fight. With mind and intellect offered to Me, you will doubtlessly come to Me alone.",
+          "commentary": "Krishna provides the practical instruction: constant remembrance of God while performing one's duty. This is the essence of karma yoga—working with consciousness fixed on the Divine. Arjuna is told to fight (fulfill his dharma) while simultaneously remembering Krishna. Offering mind and intellect to God means dedicating all mental and intellectual activities to the Divine, ensuring one's consciousness remains spiritually focused throughout life's activities."
+        },
+        "turkish": {
+          "translation": "Bu nedenle, her zaman Beni hatırla ve savaş. Zihin ve zeka Bana adanmış olarak, şüphesiz yalnızca Bana geleceksin.",
+          "commentary": "Krishna pratik öğretiyi verir: görevini yerine getirirken Tanrı'yı sürekli hatırlama. Bu, karma yogasının özüdür—bilinci İlahi'ye sabitlenmiş şekilde çalışmak. Arjuna'ya Krishna'yı hatırlarken savaşması (dharmasını yerine getirmesi) söylenir. Zihin ve zekayı Tanrı'ya sunmak, tüm zihinsel ve entelektüel faaliyetleri İlahi'ye adamak, yaşamın aktiviteleri boyunca bilincin ruhani odaklı kalmasını sağlamak anlamına gelir."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "अभ्यासयोगयुक्तेन चेतसा नान्यगामिना। परमं पुरुषं दिव्यं याति पार्थानुचिन्तयन्।।८।।",
+        "transliteration": "abhyāsa-yoga-yuktena cetasā nānya-gāminā | paramaṃ puruṣaṃ divyaṃ yāti pārthānucintayan ||8||",
+        "english": {
+          "translation": "With a mind disciplined by the yoga of practice, which does not wander to anything else, one reaches the Supreme Divine Person, O Partha, by constantly meditating on Him.",
+          "commentary": "This verse emphasizes abhyasa yoga—the yoga of constant practice. The phrase 'not wandering elsewhere' (nanya-gaminah) indicates a concentrated, undistracted mind achieved through regular spiritual practice. The Supreme Purusha (Divine Person) is reached not through occasional devotion but through sustained, focused meditation. Practice transforms scattered consciousness into steady divine awareness."
+        },
+        "turkish": {
+          "translation": "Başka bir şeye sapmayan, pratik yogası ile disipline edilmiş bir zihinle, ey Partha, O'nun üzerinde sürekli meditasyon yaparak En Yüce İlahi Kişi'ye ulaşılır.",
+          "commentary": "Bu ayet, abhyasa yogayı—sürekli pratiğin yogasını—vurgular. 'Başka yere sapmayan' (nanya-gaminah) ifadesi, düzenli ruhani pratik ile elde edilen konsantre, dağılmamış bir zihni gösterir. En Yüce Purusha'ya (İlahi Kişi) ara sıra bağlılıkla değil, sürekli, odaklanmış meditasyonla ulaşılır. Pratik, dağınık bilinci istikrarlı ilahi farkındalığa dönüştürür."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "कविं पुराणमनुशासितारमणोरणीयांसमनुस्मरेद्यः। सर्वस्य धातारमचिन्त्यरूपमादित्यवर्णं तमसः परस्तात्।।९।।",
+        "transliteration": "kaviṃ purāṇam anuśāsitāram aṇor aṇīyāṃsam anusmared yaḥ | sarvasya dhātāram acintya-rūpam āditya-varṇaṃ tamasaḥ parastāt ||9||",
+        "english": {
+          "translation": "One should meditate on the Omniscient, the Ancient, the Ruler, subtler than the subtlest, the Sustainer of all, of inconceivable form, effulgent like the sun, beyond darkness.",
+          "commentary": "This verse provides a meditation formula describing the Supreme Being's attributes. God is presented as simultaneously omniscient (kavi), ancient/eternal (purana), and subtler than the atom while being the sustainer of all. The paradoxical nature—infinitely subtle yet all-sustaining—points to the transcendent mystery. 'Beyond darkness' (tamasa parastāt) means beyond ignorance, and 'sun-like' indicates self-luminous consciousness, the source of all knowledge and existence."
+        },
+        "turkish": {
+          "translation": "Her Şeyi Bilen, Kadim, Hükümdar, en inceden daha ince, herkesin Sürdürücüsü, kavranamaz biçimli, güneş gibi parlayan, karanlığın ötesinde olan üzerinde meditasyon yapılmalıdır.",
+          "commentary": "Bu ayet, En Yüce Varlık'ın niteliklerini tanımlayan bir meditasyon formülü sunar. Tanrı aynı anda her şeyi bilen (kavi), kadim/sonsuz (purana), atomdan daha ince iken aynı zamanda her şeyin sürdürücüsü olarak sunulur. Paradoksal doğa—sonsuz ince ama her şeyi sürdüren—aşkın gizeme işaret eder. 'Karanlığın ötesinde' (tamasa parastāt) cehaletten öte anlamına gelir ve 'güneş gibi' kendi kendini aydınlatan bilinci, tüm bilgi ve varoluşun kaynağını gösterir."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "प्रयाणकाले मनसाऽचलेन भक्त्या युक्तो योगबलेन चैव। भ्रुवोर्मध्ये प्राणमावेश्य सम्यक् स तं परं पुरुषमुपैति दिव्यम्।।१०।।",
+        "transliteration": "prayāṇa-kāle manasā'calena bhaktyā yukto yoga-balena caiva | bhruvor madhye prāṇam āveśya samyak sa taṃ paraṃ puruṣam upaiti divyam ||10||",
+        "english": {
+          "translation": "At the time of death, with a steady mind, devotion, and the power of yoga, fixing the life-breath rightly between the eyebrows, one attains that Supreme Divine Person.",
+          "commentary": "This verse describes the yogic technique for death: an unwavering mind (acalena), devotion (bhakti), and yogic power to direct prana (life force) to the ajna chakra (between eyebrows). This higher exit point from the body leads to divine realms rather than rebirth. The combination of mental steadiness, devotion, and yogic technique represents the integration of jnana, bhakti, and raja yoga at life's culminating moment."
+        },
+        "turkish": {
+          "translation": "Ölüm zamanında, sabit bir zihinle, bağlılıkla ve yoga gücüyle, yaşam nefesini kaşların arasına doğru şekilde yerleştirerek, o En Yüce İlahi Kişi'ye ulaşılır.",
+          "commentary": "Bu ayet, ölüm için yogik tekniği tanımlar: sarsılmaz bir zihin (acalena), bağlılık (bhakti) ve pranayı (yaşam gücünü) ajna chakraya (kaşlar arası) yönlendirme yogik gücü. Bedenden bu yüksek çıkış noktası, yeniden doğum yerine ilahi alemlere götürür. Zihinsel istikrar, bağlılık ve yogik tekniğin birleşimi, yaşamın doruğa ulaşan anında jnana, bhakti ve raja yoganın entegrasyonunu temsil eder."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "यदक्षरं वेदविदो वदन्ति विशन्ति यद्यतयो वीतरागाः। यदिच्छन्तो ब्रह्मचर्यं चरन्ति तत्ते पदं संग्रहेण प्रवक्ष्ये।।११।।",
+        "transliteration": "yad akṣaraṃ veda-vido vadanti viśanti yad yatayo vīta-rāgāḥ | yad icchanto brahmacaryaṃ caranti tat te padaṃ saṅgraheṇa pravakṣye ||11||",
+        "english": {
+          "translation": "That which the knowers of the Vedas call the Imperishable, which the self-controlled ascetics free from attachment enter, desiring which seekers practice celibacy—that Goal I shall briefly declare to you.",
+          "commentary": "Krishna introduces the topic he will explain: the supreme goal (pada) known as Akshara (the Imperishable). This is sought by Vedic scholars, renunciates free from passion, and spiritual aspirants practicing brahmacharya (celibacy/discipline). The goal is described through its seekers—highlighting that various spiritual paths (study, renunciation, discipline) all aim toward the same ultimate reality. Krishna promises a concise teaching of this profound subject."
+        },
+        "turkish": {
+          "translation": "Veda bilenlerin Değişmez dedikleri, tutkunluktan özgür, kendini kontrol eden çilecilerin girdikleri, bunu arzulayarak bekarlık/disiplin uygulayan arayıcıların pratik yaptıkları o Hedefi size kısaca açıklayacağım.",
+          "commentary": "Krishna açıklayacağı konuyu tanıtır: Akshara (Değişmez) olarak bilinen en yüce hedef (pada). Bu, Vedik bilginler, tutkudan arınmış münzeviler ve brahmacharya (bekarlık/disiplin) uygulayan ruhani istekliler tarafından aranır. Hedef, onu arayanlar üzerinden tanımlanır—çeşitli ruhani yolların (çalışma, feragat, disiplin) hepsinin aynı nihai gerçeğe yöneldiğini vurgular. Krishna bu derin konunun özlü bir öğretisini vaat eder."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "सर्वद्वाराणि संयम्य मनो हृदि निरुध्य च। मूर्ध्न्याधायात्मनः प्राणमास्थितो योगधारणाम्।।१२।।",
+        "transliteration": "sarva-dvārāṇi saṃyamya mano hṛdi nirudhya ca | mūrdhny ādhāyātmanaḥ prāṇam āsthito yoga-dhāraṇām ||12||",
+        "english": {
+          "translation": "Closing all the gates of the body, confining the mind in the heart, drawing the life-breath to the head, established in yogic concentration...",
+          "commentary": "This verse describes the preliminary yogic technique for meditation. 'Closing all gates' means withdrawing the senses from external objects. Confining the mind to the heart (spiritual center) establishes inner focus. Drawing prana to the crown (murdhan) prepares for higher consciousness. This pratyahara (sense-withdrawal) and dharana (concentration) are essential preparatory stages before the final meditation described in the next verse."
+        },
+        "turkish": {
+          "translation": "Bedenin tüm kapılarını kapatarak, zihni kalpte kısıtlayarak, yaşam nefesini başa çekerek, yogik konsantrasyonda yerleşerek...",
+          "commentary": "Bu ayet, meditasyon için ön hazırlık yogik tekniğini tanımlar. 'Tüm kapıları kapatmak' duyuları dış nesnelerden geri çekmek anlamına gelir. Zihni kalbe (ruhani merkez) kısıtlamak iç odaklanmayı kurar. Pranayı başa (murdhan) çekmek daha yüksek bilinç için hazırlar. Bu pratyahara (duyuları geri çekme) ve dharana (konsantrasyon), bir sonraki ayette açıklanan nihai meditasyon öncesi temel hazırlık aşamalarıdır."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "ओमित्येकाक्षरं ब्रह्म व्याहरन्मामनुस्मरन्। यः प्रयाति त्यजन्देहं स याति परमां गतिम्।।१३।।",
+        "transliteration": "om ity ekākṣaraṃ brahma vyāharan mām anusmaran | yaḥ prayāti tyajan dehaṃ sa yāti paramāṃ gatim ||13||",
+        "english": {
+          "translation": "Uttering the single syllable OM, which is Brahman, remembering Me, whoever departs leaving the body, attains the Supreme Goal.",
+          "commentary": "This is the culminating technique: chanting OM (pranava, the cosmic sound) while remembering Krishna at death. OM is identified as the sonic representation of Brahman itself—the primordial vibration from which creation emerges. Combining the sacred sound with divine remembrance ensures the highest destination (parama gatim). This practice integrates sound meditation (mantra yoga), devotion, and consciousness control into a complete method for liberation."
+        },
+        "turkish": {
+          "translation": "Tanrı olan tek heceli OM'u söyleyerek, Beni hatırlayarak, bedeni terk ederek kim ayrılırsa, En Yüce Hedefe ulaşır.",
+          "commentary": "Bu, doruğa ulaşan tekniktir: ölümde Krishna'yı hatırlarken OM'u (pranava, kozmik ses) tekrarlamak. OM, Tanrı'nın sesli temsili olarak—yaratımın çıktığı ilk titreşim olarak—tanımlanır. Kutsal sesi ilahi hatırlama ile birleştirmek en yüksek varış yerini (parama gatim) garanti eder. Bu pratik, ses meditasyonunu (mantra yoga), bağlılığı ve bilinç kontrolünü kurtuluş için tam bir yönteme entegre eder."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "अनन्यचेताः सततं यो मां स्मरति नित्यशः। तस्याहं सुलभः पार्थ नित्ययुक्तस्य योगिनः।।१४।।",
+        "transliteration": "ananya-cetāḥ satataṃ yo māṃ smarati nityaśaḥ | tasyāhaṃ sulabhaḥ pārtha nitya-yuktasya yoginaḥ ||14||",
+        "english": {
+          "translation": "To one who thinks of Me constantly with undivided mind, who remembers Me always, O Partha, I am easily attainable for that yogi who is ever united with Me.",
+          "commentary": "Krishna promises that constant, exclusive devotion (ananya-cheta—undivided consciousness) makes Him easily accessible. The word 'sulabha' (easily attained) is significant—God is not distant but readily available to those with steady practice. 'Nitya-yukta' means perpetually united through yoga. This verse emphasizes that spiritual realization depends less on complex techniques than on consistent, single-pointed devotion and remembrance."
+        },
+        "turkish": {
+          "translation": "Bölünmemiş zihinle sürekli olarak Beni düşünen, her zaman Beni hatırlayan için, ey Partha, Benimle sürekli birleşmiş o yogi için kolaylıkla ulaşılırım.",
+          "commentary": "Krishna, sürekli, münhasır bağlılığın (ananya-cheta—bölünmemiş bilinç) O'nu kolayca erişilebilir kıldığını vaat eder. 'Sulabha' (kolayca ulaşılan) kelimesi önemlidir—Tanrı uzak değil, istikrarlı pratiği olanlar için hazırdır. 'Nitya-yukta' yoga ile sürekli birleşmiş anlamına gelir. Bu ayet, ruhani gerçekleşmenin karmaşık tekniklerden çok tutarlı, tek noktalı bağlılık ve hatırlamaya bağlı olduğunu vurgular."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "मामुपेत्य पुनर्जन्म दुःखालयमशाश्वतम्। नाप्नुवन्ति महात्मानः संसिद्धिं परमां गताः।।१५।।",
+        "transliteration": "mām upetya punar janma duḥkhālayam aśāśvatam | nāpnuvanti mahātmānaḥ saṃsiddhiṃ paramāṃ gatāḥ ||15||",
+        "english": {
+          "translation": "Having reached Me, the great souls who have attained the highest perfection do not undergo rebirth, which is the abode of sorrow and is impermanent.",
+          "commentary": "This verse describes the ultimate benefit of reaching Krishna: freedom from rebirth (samsara). The material world is characterized as both sorrowful (dukhalayam) and temporary (ashashvatam)—two fundamental defects of conditioned existence. Mahatmas (great souls) who attain supreme perfection (param samsiddhim) transcend the cycle of birth and death entirely. This is moksha—liberation from the repetitive suffering of material existence."
+        },
+        "turkish": {
+          "translation": "Bana ulaşarak, en yüksek mükemmelliğe ulaşmış büyük ruhlar, keder yurdu ve geçici olan yeniden doğuma maruz kalmazlar.",
+          "commentary": "Bu ayet, Krishna'ya ulaşmanın nihai faydasını tanımlar: yeniden doğumdan (samsara) özgürlük. Maddi dünya hem kederli (dukhalayam) hem de geçici (ashashvatam) olarak nitelendirilir—koşullu varoluşun iki temel kusuru. En yüce mükemmelliğe (param samsiddhim) ulaşan mahatmalar (büyük ruhlar) doğum ve ölüm döngüsünü tamamen aşarlar. Bu moksha'dır—maddi varoluşun tekrarlayan acısından kurtuluş."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "आब्रह्मभुवनाल्लोकाः पुनरावर्तिनोऽर्जुन। मामुपेत्य तु कौन्तेय पुनर्जन्म न विद्यते।।१६।।",
+        "transliteration": "ā-brahma-bhuvanāl lokāḥ punar-āvartino'rjuna | mām upetya tu kaunteya punar janma na vidyate ||16||",
+        "english": {
+          "translation": "From the realm of Brahma downward, all worlds are subject to return, O Arjuna. But having reached Me, O son of Kunti, there is no rebirth.",
+          "commentary": "Krishna reveals cosmic hierarchy: even the highest material realm (Brahmaloka—Brahma's abode) involves rebirth. All planetary systems within creation are temporary and subject to the law of return. Only by reaching Krishna's transcendental domain does one escape the cycle permanently. This distinguishes supreme liberation (reaching God's personal abode) from temporary elevation to higher material planets, which still involves eventual return to the cycle."
+        },
+        "turkish": {
+          "translation": "Brahma'nın aleminden aşağıya kadar tüm dünyalar dönüşe tabidir, ey Arjuna. Ama Bana ulaşarak, ey Kunti oğlu, yeniden doğum yoktur.",
+          "commentary": "Krishna kozmik hiyerarşiyi açığa çıkarır: en yüksek maddi alem bile (Brahmaloka—Brahma'nın yurdu) yeniden doğumu içerir. Yaratım içindeki tüm gezegen sistemleri geçicidir ve dönüş yasasına tabidir. Sadece Krishna'nın aşkın alanına ulaşarak döngüden kalıcı olarak kurtulunur. Bu, en yüce kurtuluşu (Tanrı'nın kişisel yurduna ulaşmayı) hala nihai dönüşü içeren daha yüksek maddi gezegenlere geçici yükselişten ayırır."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "सहस्रयुगपर्यन्तमहर्यद्ब्रह्मणो विदुः। रात्रिं युगसहस्रान्तां तेऽहोरात्रविदो जनाः।।१७।।",
+        "transliteration": "sahasra-yuga-paryantam ahar yad brahmaṇo viduḥ | rātriṃ yuga-sahasrāntāṃ te'horātra-vido janāḥ ||17||",
+        "english": {
+          "translation": "Those who know that Brahma's day lasts a thousand yugas and his night also extends for a thousand yugas—they are the true knowers of day and night.",
+          "commentary": "This verse reveals cosmic time scales. One day of Brahma equals 1,000 mahayugas (4.32 billion human years), and his night is equally long. This astronomical perspective shows the vast duration of material creation and the relativity of time at cosmic levels. Even Brahma's existence, though incomprehensibly long by human standards, is still within time and therefore subject to eventual dissolution, reinforcing that only the transcendent realm is truly eternal."
+        },
+        "turkish": {
+          "translation": "Brahma'nın gününün bin yuga sürdüğünü ve gecesinin de bin yuga uzandığını bilenler—onlar gün ve gecenin gerçek bilenleridirler.",
+          "commentary": "Bu ayet kozmik zaman ölçeklerini açığa çıkarır. Brahma'nın bir günü 1,000 mahayuga'ya (4,32 milyar insan yılı) eşittir ve gecesi de aynı uzunluktadır. Bu astronomik perspektif, maddi yaratımın geniş süresini ve kozmik seviyelerde zamanın göreceliliğini gösterir. Brahma'nın varlığı bile, insan standartlarına göre kavranamaz derecede uzun olsa da, hala zaman içindedir ve dolayısıyla nihai çözülmeye tabidir, bu da yalnızca aşkın alemin gerçekten sonsuz olduğunu pekiştirir."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "अव्यक्ताद्व्यक्तयः सर्वाः प्रभवन्त्यहरागमे। रात्र्यागमे प्रलीयन्ते तत्रैवाव्यक्तसंज्ञके।।१८।।",
+        "transliteration": "avyaktād vyaktayaḥ sarvāḥ prabhavantya-harāgame | rātryāgame pralīyante tatraivāvyakta-saṃjñake ||18||",
+        "english": {
+          "translation": "At the coming of Brahma's day, all manifest beings emerge from the Unmanifest; at the coming of his night, they dissolve back into that same Unmanifest.",
+          "commentary": "This verse describes cosmic cycles of manifestation and dissolution. During Brahma's day, the unmanifest (avyakta—primordial matter) evolves into manifest creation—all beings, worlds, and forms emerge. During his night, everything dissolves back into unmanifest potentiality. This cycle repeats endlessly at the cosmic scale, showing that even the grandest material creation is impermanent and cyclical, subject to periodic manifestation and withdrawal."
+        },
+        "turkish": {
+          "translation": "Brahma'nın gününün gelişiyle, tüm tezahür etmiş varlıklar Tezahür Etmemiş'ten ortaya çıkar; gecesinin gelişiyle, aynı Tezahür Etmemiş'e geri çözülürler.",
+          "commentary": "Bu ayet, tezahür ve çözülmenin kozmik döngülerini tanımlar. Brahma'nın günü sırasında, tezahür etmemiş (avyakta—ilkel madde) tezahür etmiş yaratıma evrilir—tüm varlıklar, dünyalar ve formlar ortaya çıkar. Gecesi sırasında, her şey tezahür etmemiş potansiyele geri çözülür. Bu döngü kozmik ölçekte sonsuza dek tekrar eder, en büyük maddi yaratımın bile geçici ve döngüsel olduğunu, periyodik tezahür ve geri çekilmeye tabi olduğunu gösterir."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "भूतग्रामः स एवायं भूत्वा भूत्वा प्रलीयते। रात्र्यागमेऽवशः पार्थ प्रभवत्यहरागमे।।१९।।",
+        "transliteration": "bhūta-grāmaḥ sa evāyaṃ bhūtvā bhūtvā pralīyate | rātry-āgame'vaśaḥ pārtha prabhavaty ahar-āgame ||19||",
+        "english": {
+          "translation": "This same multitude of beings, coming into existence again and again, dissolves helplessly at the approach of night, O Partha, and manifests again at the approach of day.",
+          "commentary": "Krishna emphasizes the futility of material existence through cosmic repetition. The same beings (bhuta-gramah) repeatedly manifest and dissolve, helplessly (avasah) caught in this cosmic cycle. The word 'helplessly' indicates beings have no control over these vast cosmic processes. This repetitive creation and destruction at the universal level mirrors the individual cycle of birth and death, highlighting the ultimate meaninglessness of purely material existence without spiritual transcendence."
+        },
+        "turkish": {
+          "translation": "Bu aynı varlıklar kitlesi, tekrar tekrar varlığa gelerek, gecenin yaklaşımında çaresizce çözülür, ey Partha, ve gündüzün yaklaşımında tekrar tezahür eder.",
+          "commentary": "Krishna, kozmik tekrarla maddi varoluşun boşluğunu vurgular. Aynı varlıklar (bhuta-gramah) tekrar tekrar tezahür eder ve çözülür, çaresizce (avasah) bu kozmik döngüye yakalanmış olarak. 'Çaresizce' kelimesi, varlıkların bu geniş kozmik süreçler üzerinde kontrolü olmadığını gösterir. Evrensel düzeyde bu tekrarlayan yaratım ve yıkım, bireysel doğum ve ölüm döngüsünü yansıtır, ruhani aşkınlık olmadan tamamen maddi varoluşun nihai anlamsızlığını vurgular."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "परस्तस्मात्तु भावोऽन्योऽव्यक्तोऽव्यक्तात्सनातनः। यः स सर्वेषु भूतेषु नश्यत्सु न विनश्यति।।२०।।",
+        "transliteration": "paras tasmāt tu bhāvo'nyo'vyakto'vyaktāt sanātanaḥ | yaḥ sa sarveṣu bhūteṣu naśyatsu na vinaśyati ||20||",
+        "english": {
+          "translation": "But beyond this Unmanifest, there is another unmanifest existence, which is eternal and does not perish even when all beings perish.",
+          "commentary": "This verse reveals the supreme transcendent reality beyond cosmic cycles. Beyond the unmanifest primordial matter (prakriti) that dissolves and re-manifests, there exists another, eternal unmanifest—the spiritual realm. This supreme existence (para bhava) is truly eternal (sanatana) and never perishes, even when the entire material cosmos dissolves. This distinguishes the temporary material unmanifest from the permanent spiritual reality—God's eternal abode beyond all material manifestations."
+        },
+        "turkish": {
+          "translation": "Ama bu Tezahür Etmemiş'in ötesinde, sonsuz olan ve tüm varlıklar yok olduğunda bile yok olmayan başka bir tezahür etmemiş varoluş vardır.",
+          "commentary": "Bu ayet, kozmik döngülerin ötesindeki en yüce aşkın gerçekliği açığa çıkarır. Çözülen ve yeniden tezahür eden tezahür etmemiş ilkel maddenin (prakriti) ötesinde, başka bir sonsuz tezahür etmemiş vardır—ruhani alem. Bu en yüce varoluş (para bhava) gerçekten sonsuzdur (sanatana) ve tüm maddi kozmos çözülse bile asla yok olmaz. Bu, geçici maddi tezahür etmemişi kalıcı ruhani gerçeklikten ayırır—tüm maddi tezahürlerin ötesinde Tanrı'nın sonsuz yurdu."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "अव्यक्तोऽक्षर इत्युक्तस्तमाहुः परमां गतिम्। यं प्राप्य न निवर्तन्ते तद्धाम परमं मम।।२१।।",
+        "transliteration": "avyakto'kṣara ity uktas tam āhuḥ paramāṃ gatim | yaṃ prāpya na nivartante tad dhāma paramaṃ mama ||21||",
+        "english": {
+          "translation": "That which is called the Unmanifest and the Imperishable is declared to be the Supreme Goal. Having reached that, one does not return. That is My supreme abode.",
+          "commentary": "Krishna identifies this eternal unmanifest as both imperishable (akshara) and as His own supreme abode (param dhama). This is the ultimate spiritual destination from which there is no return to material existence. The three terms—Unmanifest, Imperishable, and Krishna's abode—all refer to the same transcendent reality. This personal revelation connects abstract metaphysical concepts to devotional relationship: the highest reality is Krishna's personal spiritual domain."
+        },
+        "turkish": {
+          "translation": "Tezahür Etmemiş ve Değişmez diye adlandırılan o, En Yüce Hedef olarak bildirilir. Ona ulaşarak, kişi geri dönmez. Bu Benim en yüce yurdumdur.",
+          "commentary": "Krishna bu sonsuz tezahür etmemişi hem değişmez (akshara) hem de kendi en yüce yurdu (param dhama) olarak tanımlar. Bu, maddi varoluşa geri dönüş olmayan nihai ruhani varış yeridir. Üç terim—Tezahür Etmemiş, Değişmez ve Krishna'nın yurdu—hepsi aynı aşkın gerçekliğe işaret eder. Bu kişisel açıklama, soyut metafizik kavramları bağlılık ilişkisine bağlar: en yüksek gerçeklik Krishna'nın kişisel ruhani alanıdır."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "पुरुषः स परः पार्थ भक्त्या लभ्यस्त्वनन्यया। यस्यान्तःस्थानि भूतानि येन सर्वमिदं ततम्।।२२।।",
+        "transliteration": "puruṣaḥ sa paraḥ pārtha bhaktyā labhyas tv ananyayā | yasyāntaḥsthāni bhūtāni yena sarvam idaṃ tatam ||22||",
+        "english": {
+          "translation": "That Supreme Person, O Partha, is attainable by exclusive devotion, within whom all beings dwell and by whom all this universe is pervaded.",
+          "commentary": "This verse reveals the path to the Supreme: ananya bhakti—exclusive, undivided devotion. Krishna describes Himself as both immanent (all beings dwell within Him) and transcendent (He pervades everything). This paradox of personality—containing all yet beyond all—defines the Supreme Person. Devotion (bhakti) is emphasized as the means of attainment, suggesting that loving relationship, not merely intellectual understanding, is the key to reaching the ultimate reality."
+        },
+        "turkish": {
+          "translation": "O En Yüce Kişi, ey Partha, münhasır bağlılıkla ulaşılabilir, içinde tüm varlıkların oturduğu ve kendisi tarafından tüm bu evrenin nüfuz edildiği.",
+          "commentary": "Bu ayet, En Yüce'ye giden yolu açığa çıkarır: ananya bhakti—münhasır, bölünmemiş bağlılık. Krishna kendini hem içkin (tüm varlıklar O'nun içinde oturur) hem de aşkın (her şeye nüfuz eder) olarak tanımlar. Kişiliğin bu paradoksu—her şeyi içerirken her şeyin ötesinde—En Yüce Kişi'yi tanımlar. Bağlılık (bhakti) ulaşma aracı olarak vurgulanır, bu da sadece entelektüel anlayıştan çok sevgi dolu ilişkinin nihai gerçekliğe ulaşmanın anahtarı olduğunu gösterir."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "यत्र काले त्वनावृत्तिमावृत्तिं चैव योगिनः। प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ।।२३।।",
+        "transliteration": "yatra kāle tv anāvṛttim āvṛttiṃ caiva yoginaḥ | prayātā yānti taṃ kālaṃ vakṣyāmi bharatarṣabha ||23||",
+        "english": {
+          "translation": "I shall now tell you, O best of the Bharatas, about the times at which yogis departing do not return, and also the times at which they depart to return.",
+          "commentary": "Krishna introduces the topic of auspicious and inauspicious times for death. This addresses the ancient Vedic belief that the time and cosmic conditions of death influence the soul's destination. He will explain which periods lead to liberation (no return) and which lead to rebirth. This knowledge was considered crucial for spiritual practitioners planning their departure, though Krishna will later emphasize that devotional consciousness matters more than timing."
+        },
+        "turkish": {
+          "translation": "Şimdi size, ey Bharatalar'ın en iyisi, yogilerin ayrıldıklarında geri dönmedikleri zamanları ve ayrıca geri dönmek üzere ayrıldıkları zamanları anlatacağım.",
+          "commentary": "Krishna, ölüm için uğurlu ve uğursuz zamanlar konusunu tanıtır. Bu, ölümün zamanı ve kozmik koşullarının ruhun varış yerini etkilediğine dair eski Vedik inancı ele alır. Hangi dönemlerin kurtuluşa (dönüş yok) ve hangilerinin yeniden doğuma yol açtığını açıklayacaktır. Bu bilgi, ayrılışlarını planlayan ruhani uygulayıcılar için kritik kabul edilirdi, ancak Krishna daha sonra bağlılık bilincinin zamanlamadan daha önemli olduğunu vurgulayacaktır."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "अग्निर्ज्योतिरहः शुक्लः षण्मासा उत्तरायणम्। तत्र प्रयाता गच्छन्ति ब्रह्म ब्रह्मविदो जनाः।।२४।।",
+        "transliteration": "agnir jyotir ahaḥ śuklaḥ ṣaṇ-māsā uttarāyaṇam | tatra prayātā gacchanti brahma brahma-vido janāḥ ||24||",
+        "english": {
+          "translation": "Fire, light, daytime, the bright fortnight, the six months of the sun's northern course—departing in these times, knowers of Brahman go to Brahman.",
+          "commentary": "This verse describes the 'bright path' (deva-yana) taken by Brahman-knowers. The imagery—fire, light, day, waxing moon (shukla paksha), uttarayana (sun's northern course)—symbolizes increasing illumination and spiritual ascension. These aren't merely astrological periods but represent cosmic forces that support the soul's upward journey. The 'knowers of Brahman' who depart during these luminous times are guided by celestial beings (devas) to Brahman's realm."
+        },
+        "turkish": {
+          "translation": "Ateş, ışık, gündüz, parlak on beş gün, güneşin kuzey rotasının altı ayı—bu zamanlarda ayrılanlar, Tanrı bilenler Tanrı'ya giderler.",
+          "commentary": "Bu ayet, Tanrı bilenlerinin aldığı 'parlak yol'u (deva-yana) tanımlar. İmgelem—ateş, ışık, gün, dolunay (shukla paksha), uttarayana (güneşin kuzey rotası)—artan aydınlanmayı ve ruhani yükselişi sembolize eder. Bunlar sadece astrolojik dönemler değil, ruhun yukarı yolculuğunu destekleyen kozmik güçleri temsil eder. Bu ışıklı zamanlarda ayrılan 'Tanrı bilenler', göksel varlıklar (devalar) tarafından Tanrı'nın alemine yönlendirilir."
+        }
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम्। तत्र चान्द्रमसं ज्योतिर्योगी प्राप्य निवर्तते।।२५।।",
+        "transliteration": "dhūmo rātris tathā kṛṣṇaḥ ṣaṇ-māsā dakṣiṇāyanam | tatra cāndramasaṃ jyotir yogī prāpya nivartate ||25||",
+        "english": {
+          "translation": "Smoke, night, the dark fortnight, the six months of the sun's southern course—attaining the lunar light, the yogi returns from there.",
+          "commentary": "This describes the 'dark path' (pitri-yana) of return. Smoke, night, waning moon (krishna paksha), and dakshinayana (sun's southern course) represent diminishing light and descending consciousness. Souls traveling this path reach the lunar realm (chandramasam jyoti), enjoy celestial pleasures temporarily, then return to earthly rebirth. This path is for those with good karma but lacking knowledge of Brahman—they ascend temporarily but eventually return to the cycle."
+        },
+        "turkish": {
+          "translation": "Duman, gece, karanlık on beş gün, güneşin güney rotasının altı ayı—ay ışığına ulaşarak, yogi oradan geri döner.",
+          "commentary": "Bu, geri dönüşün 'karanlık yol'unu (pitri-yana) tanımlar. Duman, gece, ay tutulması (krishna paksha) ve dakshinayana (güneşin güney rotası) azalan ışığı ve alçalan bilinci temsil eder. Bu yolda seyahat eden ruhlar, ay alemine (chandramasam jyoti) ulaşır, geçici olarak göksel zevklerin tadını çıkarır, sonra dünyevi yeniden doğuma geri döner. Bu yol, iyi karmaya sahip ama Tanrı bilgisinden yoksun olanlar içindir—geçici olarak yükselirler ama sonunda döngüye geri dönerler."
+        }
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "शुक्लकृष्णे गती ह्येते जगतः शाश्वते मते। एकया यात्यनावृत्तिमन्ययावर्तते पुनः।।२६।।",
+        "transliteration": "śukla-kṛṣṇe gatī hy ete jagataḥ śāśvate mate | ekayā yāty anāvṛttim anyayāvartate punaḥ ||26||",
+        "english": {
+          "translation": "These two paths, the bright and the dark, are considered eternal for the world. By one, a soul goes not to return; by the other, one returns again.",
+          "commentary": "Krishna summarizes the two eternal cosmic pathways: the bright (shukla) leading to liberation, and the dark (krishna) leading to return. These aren't mere superstitious beliefs but represent fundamental spiritual principles—consciousness oriented toward light/knowledge leads beyond, while attachment to darkness/ignorance leads back to rebirth. The paths are 'eternal' (shashvate) in that they perpetually exist as cosmic laws governing the soul's destination based on consciousness and karma."
+        },
+        "turkish": {
+          "translation": "Bu iki yol, parlak ve karanlık, dünya için sonsuz kabul edilir. Biriyle, bir ruh geri dönmemeye gider; diğeriyle, tekrar geri döner.",
+          "commentary": "Krishna iki sonsuz kozmik yolu özetler: kurtuluşa götüren parlak (shukla) ve geri dönüşe götüren karanlık (krishna). Bunlar sadece batıl inançlar değil, temel ruhani ilkeleri temsil eder—ışığa/bilgiye yönelmiş bilinç ötesine götürür, karanlığa/cehalete bağlılık yeniden doğuma geri götürür. Yollar 'sonsuz'dur (shashvate) çünkü bilinç ve karmaya dayalı olarak ruhun varış yerini yöneten kozmik yasalar olarak sürekli var olurlar."
+        }
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "नैते सृती पार्थ जानन्योगी मुह्यति कश्चन। तस्मात्सर्वेषु कालेषु योगयुक्तो भवार्जुन।।२७।।",
+        "transliteration": "naite sṛtī pārtha jānan yogī muhyati kaścana | tasmāt sarveṣu kāleṣu yoga-yukto bhavārjuna ||27||",
+        "english": {
+          "translation": "Knowing these two paths, O Partha, no yogi is deluded. Therefore, at all times, be steadfast in yoga, O Arjuna.",
+          "commentary": "Krishna advises that knowledge of these paths prevents delusion. However, the key instruction is to remain 'yoga-yukta' (united in yoga) at all times—not to obsess over auspicious timing. True yogis transcend concern for timing by maintaining constant spiritual consciousness. This shifts emphasis from external circumstances (auspicious times) to internal state (steady yoga practice). Continuous spiritual connection matters more than dying at the cosmically 'right' moment."
+        },
+        "turkish": {
+          "translation": "Bu iki yolu bilerek, ey Partha, hiçbir yogi aldanmaz. Bu nedenle, her zaman, yogada sabırlı ol, ey Arjuna.",
+          "commentary": "Krishna, bu yolların bilgisinin yanılsamayı önlediğini söyler. Ancak anahtar talimat, her zaman 'yoga-yukta' (yogada birleşmiş) kalmaktır—uğurlu zamanlamaya takılmamak. Gerçek yogiler, sürekli ruhani bilinç sürdürerek zamanlama kaygısını aşarlar. Bu, vurguyu dış koşullardan (uğurlu zamanlar) iç duruma (istikrarlı yoga pratiği) kaydırır. Sürekli ruhani bağlantı, kozmik olarak 'doğru' anda ölmekten daha önemlidir."
+        }
+      },
+      {
+        "verse_number": 28,
+        "sanskrit": "वेदेषु यज्ञेषु तपःसु चैव दानेषु यत्पुण्यफलं प्रदिष्टम्। अत्येति तत्सर्वमिदं विदित्वा योगी परं स्थानमुपैति चाद्यम्।।२८।।",
+        "transliteration": "vedeṣu yajñeṣu tapaḥsu caiva dāneṣu yat puṇya-phalaṃ pradiṣṭam | atyeti tat sarvam idaṃ viditvā yogī paraṃ sthānam upaiti cādyam ||28||",
+        "english": {
+          "translation": "The yogi who knows this transcends all the merit prescribed for studying the Vedas, performing sacrifices, austerities, and charities, and attains the supreme primordial abode.",
+          "commentary": "This concluding verse establishes the superiority of yoga consciousness over ritualistic practices. While Vedic study, sacrifices (yajna), austerities (tapas), and charity (dana) yield merit (punya), the yogi who understands these teachings transcends all such limited rewards. This knowledge leads directly to the 'primordial abode' (adyam sthanam)—the original, eternal spiritual realm beyond all temporary heavenly rewards. Krishna thus elevates spiritual knowledge and devotional practice above mechanical religiosity."
+        },
+        "turkish": {
+          "translation": "Bunu bilen yogi, Vedaları çalışmak, kurbanlar sunmak, çileler ve hayırlar için belirlenen tüm erdemi aşar ve en yüce ilk yurda ulaşır.",
+          "commentary": "Bu sonuç ayeti, yoga bilincinin ritüelistik pratiklere üstünlüğünü kurar. Vedik çalışma, kurbanlar (yajna), çileler (tapas) ve hayır (dana) erdem (punya) verir, ancak bu öğretileri anlayan yogi tüm bu sınırlı ödülleri aşar. Bu bilgi doğrudan 'ilk yurt'a (adyam sthanam)—tüm geçici cennet ödüllerinin ötesinde orijinal, sonsuz ruhani aleme—götürür. Krishna böylece ruhani bilgiyi ve bağlılık pratiğini mekanik dindarlığın üstüne yükseltir."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "verses_translated": 28,
+    "expected_verses": 28,
+    "complete": true,
+    "missing_verses": []
+  }
+}
