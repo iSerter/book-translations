@@ -9,8 +9,8 @@ const simpleSchema = z.object({
   verses: z.array(z.object({
     number: z.number(),
     text: z.string(),
-  })),
-});
+  }).strict()),
+}).strict();
 
 const sanskritScriptureSchema = z.object({
   chapter: z.object({
@@ -20,14 +20,14 @@ const sanskritScriptureSchema = z.object({
       english: z.object({
         translation: z.string(),
         commentary: z.string().nullable(),
-      }).nullable(),
+      }).strict().nullable(),
       turkish: z.object({
         translation: z.string(),
         commentary: z.string().nullable(),
-      }).nullable(),
-    })),
-  }),
-});
+      }).strict().nullable(),
+    }).strict()),
+  }).strict(),
+}).strict();
 
 export class AiSdkGenerationProvider implements GenerationProvider {
   async generateChapter(options: GenerationOptions): Promise<ChapterPackage> {
