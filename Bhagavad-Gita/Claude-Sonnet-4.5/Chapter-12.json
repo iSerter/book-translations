@@ -1,0 +1,277 @@
+{
+  "chapter": {
+    "number": 12,
+    "title_sanskrit": "भक्तियोग",
+    "title_english": "The Yoga of Devotion",
+    "title_turkish": "Bhakti Yogası (Adanmışlık Yolu)",
+    "total_verses": 20,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "अर्जुन उवाच। एवं सततयुक्ता ये भक्तास्त्वां पर्युपासते। ये चाप्यक्षरमव्यक्तं तेषां के योगवित्तमाः।।",
+        "transliteration": "arjuna uvāca | evaṁ satata-yuktā ye bhaktās tvāṁ paryupāsate | ye cāpy akṣaram avyaktaṁ teṣāṁ ke yoga-vittamāḥ ||",
+        "english": {
+          "translation": "Arjuna said: Those devotees who, ever steadfast, worship You with devotion, and those who worship the imperishable, unmanifest Absolute—which of these are better versed in yoga?",
+          "commentary": "Arjuna poses a fundamental question about two spiritual paths: bhakti (devotion to the personal form of God) versus jnana (knowledge of the formless Absolute). This question arises naturally after Krishna's revelation of both His cosmic form (Chapter 11) and His personal form. The chapter will explore the relative merits and challenges of these approaches."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi: Her zaman kararlı bir şekilde Sana hasr olmuş bhaktalar Seni adanmışlıkla ibadet edenler ve yok edilemez, görünmeyen Mutlak'a ibadet edenler—bunlardan hangileri yogada daha bilgilidir?",
+          "commentary": "Arjuna, iki temel ruhani yol hakkında çok önemli bir soru sorar: bhakti (Tanrı'nın kişisel formuna adanma) ile jnana (formsuz Mutlak'ın bilgisi). Bu soru, Krishna'nın hem kozmik formunu (Bölüm 11) hem de kişisel formunu göstermesinden sonra doğal olarak ortaya çıkar. Bu bölüm, bu yaklaşımların göreli değerlerini ve zorluklarını keşfedecektir."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "श्रीभगवानुवाच। मय्यावेश्य मनो ये मां नित्ययुक्ता उपासते। श्रद्धया परयोपेतास्ते मे युक्ततमा मताः।।",
+        "transliteration": "śrī-bhagavān uvāca | mayy āveśya mano ye māṁ nitya-yuktā upāsate | śraddhayā parayopetās te me yuktatamā matāḥ ||",
+        "english": {
+          "translation": "The Blessed Lord said: Those who fix their minds on Me and, ever steadfast in devotion, worship Me with supreme faith—I consider them to be the most perfect in yoga.",
+          "commentary": "Krishna immediately declares His preference for bhakti yoga, the path of devotional worship. The key elements are: fixing the mind on the Lord (mayy āveśya manaḥ), constant practice (nitya-yuktā), and supreme faith (śraddhayā parayā). This establishes devotion as the highest and most accessible path to union with the Divine."
+        },
+        "turkish": {
+          "translation": "Yüce Tanrı dedi: Zihinlerini Bana odaklayan ve her zaman kararlı adanmışlıkla, üstün imanla Bana ibadet edenler—onları yogada en mükemmel olanlar sayarım.",
+          "commentary": "Krishna hemen bhakti yoga'ya, adanmışlık ibadetinin yoluna tercihini açıklar. Temel unsurlar şunlardır: zihni Rab'be odaklamak (mayy āveśya manaḥ), sürekli uygulama (nitya-yuktā) ve üstün iman (śraddhayā parayā). Bu, İlahi ile birleşmeye giden en yüksek ve en ulaşılabilir yol olarak adanmışlığı kurar."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "ये त्वक्षरमनिर्देश्यमव्यक्तं पर्युपासते। सर्वत्रगमचिन्त्यं च कूटस्थमचलं ध्रुवम्।।",
+        "transliteration": "ye tv akṣaram anirdeśyam avyaktaṁ paryupāsate | sarvatra-gam acintyaṁ ca kūṭa-stham acalaṁ dhruvam ||",
+        "english": {
+          "translation": "But those who worship the imperishable, the indefinable, the unmanifest, the omnipresent, the inconceivable, the unchanging, the immovable, the eternal—",
+          "commentary": "Krishna now describes those who follow the path of jnana yoga, worshiping the formless Absolute (Brahman). Eight attributes are listed: imperishable (akṣara), indefinable (anirdeśya), unmanifest (avyakta), omnipresent (sarvatra-ga), inconceivable (acintya), unchanging (kūṭa-stha), immovable (acala), and eternal (dhruva). This path requires highly abstract meditation."
+        },
+        "turkish": {
+          "translation": "Fakat yok edilemez, tarif edilemez, görünmeyen, her yerde bulunan, düşünülemez, değişmez, hareketsiz, ebedi olana ibadet edenler—",
+          "commentary": "Krishna şimdi jnana yoga yolunu izleyenleri, formsuz Mutlak'a (Brahman) ibadet edenleri tanımlar. Sekiz özellik sıralanır: yok edilemez (akṣara), tarif edilemez (anirdeśya), görünmeyen (avyakta), her yerde bulunan (sarvatra-ga), düşünülemez (acintya), değişmez (kūṭa-stha), hareketsiz (acala) ve ebedi (dhruva). Bu yol son derece soyut meditasyon gerektirir."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "संनियम्येन्द्रियग्रामं सर्वत्र समबुद्धयः। ते प्राप्नुवन्ति मामेव सर्वभूतहिते रताः।।",
+        "transliteration": "sanniyamyendriya-grāmaṁ sarvatra sama-buddhayaḥ | te prāpnuvanti mām eva sarva-bhūta-hite ratāḥ ||",
+        "english": {
+          "translation": "Restraining all the senses, with a mind equal everywhere, rejoicing in the welfare of all beings—they too attain Me alone.",
+          "commentary": "Krishna acknowledges that the path of the formless also leads to Him, but requires tremendous discipline: complete sense control (sanniyamya indriya-grāmam), equanimity in all circumstances (sarvatra sama-buddhi), and dedication to universal welfare (sarva-bhūta-hite). Though this path reaches the same goal, verses 5-7 will explain why it is more difficult."
+        },
+        "turkish": {
+          "translation": "Tüm duyuları dizginleyerek, her yerde eşit bir zihinle, tüm varlıkların refahından sevinç duyarak—onlar da yalnızca Bana ulaşırlar.",
+          "commentary": "Krishna, formsuzun yolunun da Kendisine götürdüğünü kabul eder, ancak muazzam disiplin gerektirir: tam duyusal kontrol (sanniyamya indriya-grāmam), tüm koşullarda eşitlik (sarvatra sama-buddhi) ve evrensel refaha adanma (sarva-bhūta-hite). Bu yol aynı hedefe ulaşsa da, 5-7. ayetler neden daha zor olduğunu açıklayacaktır."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "क्लेशोऽधिकतरस्तेषामव्यक्तासक्तचेतसाम्। अव्यक्ता हि गतिर्दुःखं देहवद्भिरवाप्यते।।",
+        "transliteration": "kleśo 'dhika-taras teṣām avyaktāsakta-cetasām | avyaktā hi gatir duḥkhaṁ deha-vadbhir avāpyate ||",
+        "english": {
+          "translation": "Greater is the difficulty for those whose minds are attached to the unmanifest, for the path to the unmanifest is hard for the embodied to reach.",
+          "commentary": "This verse reveals the practical challenge of the formless path (jnana yoga). For those identified with the body (deha-vadbhiḥ), focusing on the abstract, unmanifest Absolute is extremely difficult (kleśa adhika-tara). The human mind naturally gravitates toward form, making meditation on the formless require exceptional effort and often resulting in dryness or confusion."
+        },
+        "turkish": {
+          "translation": "Zihinleri görünmeyene bağlı olanlar için zorluk daha büyüktür, çünkü görünmeyene giden yol bedenli olanların ulaşması için zordur.",
+          "commentary": "Bu ayet, formsuz yolun (jnana yoga) pratik zorluğunu ortaya koyar. Bedenle özdeşleşenler için (deha-vadbhiḥ), soyut, görünmeyen Mutlak'a odaklanmak son derece zordur (kleśa adhika-tara). İnsan zihni doğal olarak forma yönelir, bu da formsuz üzerine meditasyonun olağanüstü çaba gerektirmesini ve genellikle kuruluk veya karışıklıkla sonuçlanmasını sağlar."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "ये तु सर्वाणि कर्माणि मयि संन्यस्य मत्पराः। अनन्येनैव योगेन मां ध्यायन्त उपासते।।",
+        "transliteration": "ye tu sarvāṇi karmāṇi mayi sannyasya mat-parāḥ | ananyenaiva yogena māṁ dhyāyanta upāsate ||",
+        "english": {
+          "translation": "But those who dedicate all their actions to Me, regarding Me as supreme, who meditate on Me with single-minded devotion (yoga), worshiping Me—",
+          "commentary": "Krishna now describes the bhakti path: surrendering all actions to God (sarvāṇi karmāṇi mayi sannyasya), making Him the supreme goal (mat-parāḥ), and worshiping with undivided attention (ananyena yogena). The key is 'ananya'—exclusive, single-pointed devotion without distraction. This concrete focus on the personal Lord makes the path more natural for embodied beings."
+        },
+        "turkish": {
+          "translation": "Fakat tüm eylemlerini Bana adayanlar, Beni en yüce sayarak, tek yönlü adanmışlıkla (yoga) Beni düşünerek, Bana ibadet edenler—",
+          "commentary": "Krishna şimdi bhakti yolunu tanımlar: tüm eylemleri Tanrı'ya teslim etmek (sarvāṇi karmāṇi mayi sannyasya), O'nu en yüce hedef yapmak (mat-parāḥ) ve bölünmemiş dikkatle ibadet etmek (ananyena yogena). Anahtar 'ananya'dır—dikkatin dağılmadığı, münhasır, tek noktalı adanmışlık. Kişisel Rab'be bu somut odaklanma, yolu bedenli varlıklar için daha doğal kılar."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "तेषामहं समुद्धर्ता मृत्युसंसारसागरात्। भवामि नचिरात्पार्थ मय्यावेशितचेतसाम्।।",
+        "transliteration": "teṣām ahaṁ samuddhartā mṛtyu-saṁsāra-sāgarāt | bhavāmi na cirāt pārtha mayy āveśita-cetasām ||",
+        "english": {
+          "translation": "For those whose consciousness is absorbed in Me, I become their deliverer from the ocean of death and rebirth, O Partha (Arjuna), very soon.",
+          "commentary": "This is Krishna's magnificent promise to devotees: He personally becomes their savior (samuddhartā). The metaphor of saṁsāra as an ocean of death (mṛtyu-saṁsāra-sāgara) emphasizes its vastness and danger. The phrase 'na cirāt' (very soon/without delay) assures that liberation through devotion is swift, unlike the arduous path of abstract meditation. God Himself takes responsibility for the devotee's liberation."
+        },
+        "turkish": {
+          "translation": "Bilinci Bende eriyenler için, Ben onların ölüm ve yeniden doğuş okyanusundan kurtarıcıları olurum, ey Partha (Arjuna), çok yakında.",
+          "commentary": "Bu, Krishna'nın bhaktalara muhteşem vadidir: O şahsen onların kurtarıcısı olur (samuddhartā). Saṁsāra'yı ölüm okyanusu (mṛtyu-saṁsāra-sāgara) olarak metaforu, onun genişliğini ve tehlikesini vurgular. 'Na cirāt' (çok yakında/gecikmeden) ifadesi, adanmışlık yoluyla kurtuluşun, soyut meditasyonun çetin yolundan farklı olarak hızlı olduğunu garanti eder. Tanrı'nın kendisi bhakta'nın kurtuluşu için sorumluluk alır."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "मय्येव मन आधत्स्व मयि बुद्धिं निवेशय। निवसिष्यसि मय्येव अत ऊर्ध्वं न संशयः।।",
+        "transliteration": "mayy eva mana ādhatsva mayi buddhiṁ niveśaya | nivasiṣyasi mayy eva ata ūrdhvaṁ na saṁśayaḥ ||",
+        "english": {
+          "translation": "Fix your mind on Me alone, let your intellect dwell in Me; thereafter you shall live in Me without doubt.",
+          "commentary": "Krishna prescribes the essential practice: concentrate the mind (manaḥ) and intellect (buddhi) on the Divine. The repetition of 'mayi' (in Me) emphasizes complete absorption. The promise is absolute—'na saṁśayaḥ' (without doubt) you will abide in the Lord. This verse gives the direct method: mental focus combined with intellectual conviction leads to spiritual union."
+        },
+        "turkish": {
+          "translation": "Yalnızca Bana zihnini sabitle, aklını Bende yerleştir; bundan sonra Bende yaşayacaksın, şüphesiz.",
+          "commentary": "Krishna temel uygulamayı belirtir: zihni (manaḥ) ve aklı (buddhi) İlahi'ye konsantre etmek. 'Mayi'nin (Bende) tekrarı tam absorpsiyonu vurgular. Vaat mutlaktır—'na saṁśayaḥ' (şüphesiz) Rab'de kalacaksınız. Bu ayet doğrudan yöntemi verir: zihinsel odaklanma entelektüel kanaatle birleştiğinde ruhani birliğe götürür."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "अथ चित्तं समाधातुं न शक्नोषि मयि स्थिरम्। अभ्यासयोगेन ततो मामिच्छाप्तुं धनञ्जय।।",
+        "transliteration": "atha cittaṁ samādhātuṁ na śaknoṣi mayi sthiram | abhyāsa-yogena tato mām icchāptuṁ dhanañjaya ||",
+        "english": {
+          "translation": "If you are unable to fix your consciousness steadily on Me, then through the practice of repeated meditation (abhyasa yoga), seek to reach Me, O Dhananjaya (Arjuna).",
+          "commentary": "Krishna compassionately offers an alternative for those who cannot achieve immediate mental fixation. Abhyasa yoga means gradual, persistent practice—repeatedly bringing the mind back to the Divine whenever it wanders. This acknowledges human limitations and provides a realistic, gradual path. Regular practice (abhyāsa) eventually develops the stability of consciousness that leads to constant remembrance."
+        },
+        "turkish": {
+          "translation": "Eğer bilincini kararlı bir şekilde Bende sabitlemeye muktedir değilsen, o zaman tekrarlanan meditasyon pratiği (abhyasa yoga) yoluyla Bana ulaşmaya çalış, ey Dhananjaya (Arjuna).",
+          "commentary": "Krishna, ani zihinsel sabitlemeyi başaramayanlara şefkatle bir alternatif sunar. Abhyasa yoga, aşamalı, ısrarlı pratik anlamına gelir—zihin her ne zaman dağıldığında onu tekrar İlahi'ye geri getirmek. Bu, insan sınırlamalarını kabul eder ve gerçekçi, aşamalı bir yol sağlar. Düzenli pratik (abhyāsa) sonunda sürekli hatırlamaya götüren bilinç istikrarını geliştirir."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "अभ्यासेऽप्यसमर्थोऽसि मत्कर्मपरमो भव। मदर्थमपि कर्माणि कुर्वन्सिद्धिमवाप्स्यसि।।",
+        "transliteration": "abhyāse 'py asamartho 'si mat-karma-paramo bhava | mad-artham api karmāṇi kurvan siddhim avāpsyasi ||",
+        "english": {
+          "translation": "If you are unable even for this practice, then be intent on working for Me; even by performing actions for My sake, you will attain perfection.",
+          "commentary": "Krishna offers yet another option for those unable to practice formal meditation—karma yoga dedicated to God. This means performing one's duties while offering their fruits to the Divine (mad-artham karmāṇi kurvan). This is the most accessible path: do your work, but do it as service to God. Even this action-based devotion leads to perfection (siddhi), demonstrating Krishna's inclusiveness in providing paths suited to different temperaments."
+        },
+        "turkish": {
+          "translation": "Eğer bu pratik için bile muktedir değilsen, o zaman Benim için çalışmaya niyetli ol; Benim adıma eylemler gerçekleştirerek bile mükemmelliğe ulaşacaksın.",
+          "commentary": "Krishna, resmi meditasyon pratiği yapamayanlara bir başka seçenek daha sunar—Tanrı'ya adanmış karma yoga. Bu, görevlerini yerine getirirken meyvelerini İlahi'ye sunmak anlamına gelir (mad-artham karmāṇi kurvan). Bu en ulaşılabilir yoldur: işini yap, ama Tanrı'ya hizmet olarak yap. Bu eylem temelli adanmışlık bile mükemmelliğe (siddhi) götürür, Krishna'nın farklı mizaçlara uygun yollar sağlamadaki kapsayıcılığını gösterir."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "अथैतदप्यशक्तोऽसि कर्तुं मद्योगमाश्रितः। सर्वकर्मफलत्यागं ततः कुरु यतात्मवान्।।",
+        "transliteration": "athaitad apy aśakto 'si kartuṁ mad-yogam āśritaḥ | sarva-karma-phala-tyāgaṁ tataḥ kuru yatātmavān ||",
+        "english": {
+          "translation": "If you are unable to do even this while taking refuge in devotion to Me, then renounce the fruits of all actions, with the self controlled.",
+          "commentary": "Krishna provides the most basic level of practice: simply surrender the results of actions (sarva-karma-phala-tyāga) while maintaining self-control (yatātmavān). This doesn't require meditation, dedicated service, or even conscious God-focus during action—only the attitude of non-attachment to outcomes. This is the minimum requirement: do your duty without clinging to success or failure, maintaining equanimity."
+        },
+        "turkish": {
+          "translation": "Eğer Bana adanmışlığa sığınarak bunu bile yapamıyorsan, o zaman tüm eylemlerin meyvelerinden vazgeç, kendini kontrol altında tutarak.",
+          "commentary": "Krishna en temel pratik seviyesini sağlar: sadece eylem sonuçlarını teslim etmek (sarva-karma-phala-tyāga) ve kendini kontrol altında tutmak (yatātmavān). Bu meditasyon, adanmış hizmet veya eylem sırasında bilinçli Tanrı odaklanması gerektirmez—sadece sonuçlara bağlanmama tavrı. Bu minimum gerekliliktir: görevini başarı veya başarısızlığa sarılmadan, eşitlik sürdürerek yap."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "श्रेयो हि ज्ञानमभ्यासाज्ज्ञानाद्ध्यानं विशिष्यते। ध्यानात्कर्मफलत्यागस्त्यागाच्छान्तिरनन्तरम्।।",
+        "transliteration": "śreyo hi jñānam abhyāsāj jñānād dhyānaṁ viśiṣyate | dhyānāt karma-phala-tyāgas tyāgāc chāntir anantaram ||",
+        "english": {
+          "translation": "Better indeed is knowledge than mechanical practice; better than knowledge is meditation; better than meditation is the renunciation of the fruits of action; from such renunciation, peace immediately follows.",
+          "commentary": "This verse establishes a spiritual hierarchy: mechanical practice (abhyāsa) is good, but understanding (jñāna) is better; meditation (dhyāna) surpasses mere knowledge; yet renunciation of fruits (karma-phala-tyāga) is supreme because it immediately brings peace (śānti). The progression moves from external technique to internal understanding to direct experience to complete surrender, with peace as the immediate result of non-attachment."
+        },
+        "turkish": {
+          "translation": "Mekanik pratikten daha üstündür bilgi; bilgiden meditasyon daha üstündür; meditasyondan eylemlerin meyvelerinden vazgeçmek; böyle vazgeçmeden hemen huzur gelir.",
+          "commentary": "Bu ayet ruhani bir hiyerarşi kurar: mekanik pratik (abhyāsa) iyidir, ama anlayış (jñāna) daha iyidir; meditasyon (dhyāna) salt bilgiyi aşar; yine de meyvelerin terk edilmesi (karma-phala-tyāga) en üstündür çünkü hemen huzur getirir (śānti). İlerleme, dış teknikten iç anlayışa, doğrudan deneyime, tam teslimiyete gider ve huzur, bağlanmamanın hemen sonucudur."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "अद्वेष्टा सर्वभूतानां मैत्रः करुण एव च। निर्ममो निरहङ्कारः समदुःखसुखः क्षमी।।",
+        "transliteration": "adveṣṭā sarva-bhūtānāṁ maitraḥ karuṇa eva ca | nirmamo nirahaṅkāraḥ sama-duḥkha-sukhaḥ kṣamī ||",
+        "english": {
+          "translation": "One who harbors no hatred toward any being, who is friendly and compassionate, free from possessiveness and egoism, balanced in pleasure and pain, and forgiving—",
+          "commentary": "Krishna now begins describing the qualities of an ideal devotee through verses 13-19. The first set of qualities involves relationships with others: non-hatred (adveṣṭā), friendliness (maitra), compassion (karuṇa), freedom from possessiveness (nirmama) and ego (nirahaṅkāra), equanimity in dualities (sama-duḥkha-sukha), and forgiveness (kṣamī). These qualities reflect spiritual maturity and naturally arise from devotion."
+        },
+        "turkish": {
+          "translation": "Hiçbir varlığa karşı nefret beslemeyen, dostane ve merhametli, sahiplenme ve egodan özgür, acı ve zevkte dengeli ve bağışlayan—",
+          "commentary": "Krishna şimdi 13-19. ayetler boyunca ideal bir bhakta'nın niteliklerini tanımlamaya başlar. İlk nitelikler başkalarıyla ilişkileri içerir: nefretsizlik (adveṣṭā), dostluk (maitra), merhamet (karuṇa), sahiplenmeden özgürlük (nirmama) ve egodan (nirahaṅkāra), ikililiklerde eşitlik (sama-duḥkha-sukha) ve bağışlama (kṣamī). Bu nitelikler ruhani olgunluğu yansıtır ve adanmışlıktan doğal olarak ortaya çıkar."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "सन्तुष्टः सततं योगी यतात्मा दृढनिश्चयः। मय्यर्पितमनोबुद्धिर्यो मद्भक्तः स मे प्रियः।।",
+        "transliteration": "santuṣṭaḥ satataṁ yogī yatātmā dṛḍha-niścayaḥ | mayy arpita-mano-buddhir yo mad-bhaktaḥ sa me priyaḥ ||",
+        "english": {
+          "translation": "The yogi who is ever content, self-controlled, of firm resolve, with mind and intellect dedicated to Me—such a devotee of Mine is dear to Me.",
+          "commentary": "Additional devotee qualities: contentment (santuṣṭa) regardless of circumstances, constant yoga practice (satataṁ yogī), self-mastery (yatātmā), unwavering determination (dṛḍha-niścaya), and complete dedication of mind and intellect to God (mayy arpita-mano-buddhi). The phrase 'sa me priyaḥ' (dear to Me) reveals Krishna's personal affection for such devotees, emphasizing the intimate relationship in bhakti."
+        },
+        "turkish": {
+          "translation": "Her zaman memnun olan, kendini kontrol eden, kesin kararlı, zihin ve aklı Bana adanmış yogi—Benim böyle bir bhaktam Bana sevgilidir.",
+          "commentary": "Ek bhakta nitelikleri: koşullardan bağımsız memnuniyet (santuṣṭa), sürekli yoga pratiği (satataṁ yogī), kendine hakimiyet (yatātmā), sarsılmaz kararlılık (dṛḍha-niścaya) ve zihin ile aklın Tanrı'ya tam adanması (mayy arpita-mano-buddhi). 'Sa me priyaḥ' (Bana sevgili) ifadesi, Krishna'nın böyle bhaktalara kişisel sevgisini ortaya koyar ve bhakti'deki samimi ilişkiyi vurgular."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "यस्मान्नोद्विजते लोको लोकान्नोद्विजते च यः। हर्षामर्षभयोद्वेगैर्मुक्तो यः स च मे प्रियः।।",
+        "transliteration": "yasmān nodvijate loko lokān nodvijate ca yaḥ | harṣāmarṣa-bhayodvegair mukto yaḥ sa ca me priyaḥ ||",
+        "english": {
+          "translation": "One who causes no anxiety to the world and whom the world cannot make anxious, who is free from exultation, envy, fear, and agitation—such a one is dear to Me.",
+          "commentary": "This verse emphasizes the devotee's harmonious relationship with the world. They neither disturb others (yasmān na udvijate lokaḥ) nor are disturbed by others (lokāt na udvijate). They transcend the four emotional disturbances: joy (harṣa), anger/resentment (amarṣa), fear (bhaya), and agitation (udvega). This inner stability makes them a blessing to society and reflects spiritual equipoise."
+        },
+        "turkish": {
+          "translation": "Dünyaya endişe vermeyen ve dünya endişeli edemeyecek olan, coşku, kıskançlık, korku ve ajitasyondan özgür olan—böyle biri Bana sevgilidir.",
+          "commentary": "Bu ayet, bhakta'nın dünya ile uyumlu ilişkisini vurgular. Ne başkalarını rahatsız ederler (yasmān na udvijate lokaḥ) ne de başkaları tarafından rahatsız edilirler (lokāt na udvijate). Dört duygusal rahatsızlığı aşarlar: sevinç (harṣa), öfke/kızgınlık (amarṣa), korku (bhaya) ve ajitasyon (udvega). Bu iç istikrar, onları toplum için bir bereket yapar ve ruhani dengeyi yansıtır."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "अनपेक्षः शुचिर्दक्ष उदासीनो गतव्यथः। सर्वारम्भपरित्यागी यो मद्भक्तः स मे प्रियः।।",
+        "transliteration": "anapekṣaḥ śucir dakṣa udāsīno gata-vyathaḥ | sarvārambha-parityāgī yo mad-bhaktaḥ sa me priyaḥ ||",
+        "english": {
+          "translation": "One who expects nothing, who is pure, skillful, unconcerned, untroubled, and who has renounced all undertakings (for personal gain)—such a devotee of Mine is dear to Me.",
+          "commentary": "More devotee qualities: free from expectations (anapekṣa), maintaining purity (śuci), skillful in action (dakṣa), neutral/impartial (udāsīna), free from anxiety (gata-vyatha), and having renounced selfish endeavors (sarvārambha-parityāgī). The devotee acts efficiently without personal agenda, maintaining inner purity and outer competence while remaining detached from outcomes. This combines spiritual surrender with practical effectiveness."
+        },
+        "turkish": {
+          "translation": "Hiçbir şey beklemeyen, saf, yetenekli, ilgisiz, endişesiz ve tüm girişimlerinden (kişisel kazanç için) vazgeçmiş olan—Benim böyle bir bhaktam Bana sevgilidir.",
+          "commentary": "Daha fazla bhakta niteliği: beklentilerden özgür (anapekṣa), saflığı koruma (śuci), eylemde yetenekli (dakṣa), tarafsız/yansız (udāsīna), endişeden özgür (gata-vyatha) ve bencil çabalardan vazgeçmiş (sarvārambha-parityāgī). Bhakta, kişisel gündem olmadan verimli hareket eder, iç saflığı ve dış yeterliliği korurken sonuçlardan kopuk kalır. Bu, ruhani teslimiyeti pratik etkinlikle birleştirir."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "यो न हृष्यति न द्वेष्टि न शोचति न काङ्क्षति। शुभाशुभपरित्यागी भक्तिमान्यः स मे प्रियः।।",
+        "transliteration": "yo na hṛṣyati na dveṣṭi na śocati na kāṅkṣati | śubhāśubha-parityāgī bhaktimān yaḥ sa me priyaḥ ||",
+        "english": {
+          "translation": "One who neither rejoices nor hates, neither grieves nor desires, who has renounced both good and evil, and is full of devotion—such a one is dear to Me.",
+          "commentary": "The devotee maintains equanimity through four key attitudes: not elated by gain (na hṛṣyati), not disturbed by loss (na dveṣṭi), not grieving over the past (na śocati), not craving the future (na kāṅkṣati). The phrase 'śubhāśubha-parityāgī' means transcending the duality of good/bad, pleasant/unpleasant. This equanimity is rooted in devotion (bhaktimān), not cold indifference."
+        },
+        "turkish": {
+          "translation": "Ne sevinen ne nefret eden, ne üzülen ne de arzu eden, hem iyiden hem kötüden vazgeçmiş ve adanmışlıkla dolu olan—böyle biri Bana sevgilidir.",
+          "commentary": "Bhakta dört temel tavırla eşitliği korur: kazançla sevinmeme (na hṛṣyati), kayıpla rahatsız olmama (na dveṣṭi), geçmiş için yas tutmama (na śocati), gelecek için özlem duymama (na kāṅkṣati). 'Śubhāśubha-parityāgī' ifadesi iyi/kötü, hoş/hoş olmayan ikilemini aşmak anlamına gelir. Bu eşitlik, soğuk kayıtsızlık değil, adanmışlıkta (bhaktimān) köklüdür."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "समः शत्रौ च मित्रे च तथा मानापमानयोः। शीतोष्णसुखदुःखेषु समः सङ्गविवर्जितः।।",
+        "transliteration": "samaḥ śatrau ca mitre ca tathā mānāpamānayoḥ | śītoṣṇa-sukha-duḥkheṣu samaḥ saṅga-vivarjitaḥ ||",
+        "english": {
+          "translation": "Equal toward enemy and friend, and in honor and dishonor, in cold and heat, in pleasure and pain, free from attachment—",
+          "commentary": "This verse lists pairs of opposites (dvandvas) that the devotee transcends: enemy/friend (śatru/mitra), honor/dishonor (māna/apamāna), cold/heat (śīta/uṣṇa), pleasure/pain (sukha/duḥkha). The key is 'saṅga-vivarjita'—freedom from attachment. The devotee doesn't suppress these experiences but remains unattached, seeing the Divine equally in all circumstances. This is not apathy but wisdom."
+        },
+        "turkish": {
+          "translation": "Düşman ve dosta eşit, onur ve onursuzlukta, soğuk ve sıcakta, zevk ve acıda eşit, bağlantıdan özgür—",
+          "commentary": "Bu ayet, bhakta'nın aştığı karşıtlık çiftlerini (dvandvas) listeler: düşman/dost (śatru/mitra), onur/onursuzluk (māna/apamāna), soğuk/sıcak (śīta/uṣṇa), zevk/acı (sukha/duḥkha). Anahtar 'saṅga-vivarjita'dır—bağlanmadan özgürlük. Bhakta bu deneyimleri bastırmaz ama bağlantısız kalır, tüm koşullarda İlahi'yi eşit görür. Bu kayıtsızlık değil, bilgeliktir."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "तुल्यनिन्दास्तुतिर्मौनी सन्तुष्टो येन केनचित्। अनिकेतः स्थिरमतिर्भक्तिमान्मे प्रियो नरः।।",
+        "transliteration": "tulya-nindā-stutir maunī santuṣṭo yena kenacit | aniketaḥ sthira-matir bhaktimān me priyo naraḥ ||",
+        "english": {
+          "translation": "Equal in censure and praise, silent, content with anything, homeless (or non-attached to home), steady-minded, and full of devotion—such a person is dear to Me.",
+          "commentary": "Final devotee qualities: treating blame and praise equally (tulya-nindā-stuti), being contemplatively silent (maunī), satisfied with whatever comes (santuṣṭo yena kenacit), unattached to physical dwelling (aniketaḥ—literally homeless, or figuratively non-attached), stable-minded (sthira-mati), and devoted (bhaktimān). These verses (13-19) paint a complete portrait of spiritual maturity arising from bhakti, demonstrating that devotion transforms character."
+        },
+        "turkish": {
+          "translation": "Kınama ve övgüde eşit, sessiz, herhangi bir şeyle memnun, evsiz (veya eve bağlı olmayan), kararlı zihinli ve adanmışlıkla dolu—böyle bir kişi Bana sevgilidir.",
+          "commentary": "Son bhakta nitelikleri: suçlama ve övgüye eşit davranma (tulya-nindā-stuti), tefekkürle sessiz olma (maunī), ne gelirse memnun olma (santuṣṭo yena kenacit), fiziksel konuta bağlı olmama (aniketaḥ—kelimenin tam anlamıyla evsiz veya mecazi olarak bağlantısız), istikrarlı zihin (sthira-mati) ve adanmış (bhaktimān). Bu ayetler (13-19), bhakti'den kaynaklanan ruhani olgunluğun tam bir portresini çizer ve adanmışlığın karakteri dönüştürdüğünü gösterir."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "ये तु धर्म्यामृतमिदं यथोक्तं पर्युपासते। श्रद्दधाना मत्परमा भक्तास्तेऽतीव मे प्रियाः।।",
+        "transliteration": "ye tu dharmyāmṛtam idaṁ yathoktaṁ paryupāsate | śraddadhānā mat-paramā bhaktās te 'tīva me priyāḥ ||",
+        "english": {
+          "translation": "But those devotees who honor this immortal dharma as described, full of faith, regarding Me as supreme—they are exceedingly dear to Me.",
+          "commentary": "The concluding verse of Chapter 12 emphasizes following this 'immortal dharma' (dharmya-amṛta)—the path of devotion and the qualities described in verses 13-19. Three requirements: following these teachings as stated (yathoktaṁ paryupāsate), having faith (śraddadhānā), and considering Krishna supreme (mat-paramā). The phrase 'atīva me priyāḥ' (exceedingly dear to Me) shows Krishna's supreme love for devotees who practice bhakti with these qualities."
+        },
+        "turkish": {
+          "translation": "Fakat tanımlandığı gibi bu ölümsüz dharmayı onurlandıran, imanla dolu, Beni en yüce sayan bhaktalar—onlar Bana son derece sevgilidir.",
+          "commentary": "Bölüm 12'nin sonuç ayeti, bu 'ölümsüz dharma'yı (dharmya-amṛta)—adanmışlık yolunu ve 13-19. ayetlerde tanımlanan nitelikleri izlemeyi vurgular. Üç gereklilik: bu öğretileri belirtildiği gibi takip etmek (yathoktaṁ paryupāsate), iman sahibi olmak (śraddadhānā) ve Krishna'yı en yüce saymak (mat-paramā). 'Atīva me priyāḥ' (Bana son derece sevgili) ifadesi, Krishna'nın bu niteliklerle bhakti uygulayan bhaktalara olan üstün sevgisini gösterir."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "verses_translated": 20,
+    "expected_verses": 20,
+    "complete": true,
+    "missing_verses": []
+  }
+}
