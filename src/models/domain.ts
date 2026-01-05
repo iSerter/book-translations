@@ -30,6 +30,7 @@ export interface Translation {
   provider: string;
   model?: string;
   text: string;
+  commentary?: string;
   created_at?: string;
 }
 
@@ -57,6 +58,6 @@ export type ChapterPackage = {
   verses: { 
     number: number; 
     text: string;
-    translations?: { languageCode: string; text: string; provider?: string }[];
+    translations?: { languageCode: string; text: string; commentary?: string; provider?: string }[];
   }[];
 };

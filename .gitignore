@@ -15,10 +15,10 @@ pnpm-debug.log*
 .env
 .env.*
 
-# SQLite artifacts
-*.sqlite
-*.db
-*.db-journal
+# # SQLite artifacts
+# *.sqlite
+# *.db
+# *.db-journal
 
 # Editor and OS
 .vscode/

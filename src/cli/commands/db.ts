@@ -35,7 +35,7 @@ Please generate verses {{startVerse}} to {{endVerse}} ({{count}} verses total).
 Return the result as a JSON object with a "verses" array.
 Each item should have "number" (integer) and "text" (string).`;
 
-      const sanskritScriptureTemplate = `You are an expert Sanskrit scholar and translator specializing in the Bhagavad Gita. Your task is to translate {{bookTitle}} Chapter {{chapterNumber}} with absolute completeness and accuracy.
+      const sanskritScriptureTemplate = `You are an expert Sanskrit scholar and translator specializing in {{bookTitle}}. Your task is to translate {{bookTitle}} Chapter {{chapterNumber}} with absolute completeness and accuracy.
 
 Please generate verses {{startVerse}} to {{endVerse}} ({{count}} verses total).
 

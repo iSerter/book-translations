@@ -9,6 +9,7 @@ export type TranslationRecord = {
   provider: string;
   model: string | null;
   text: string;
+  commentary: string | null;
   createdAt: string;
 };
 
@@ -18,6 +19,7 @@ export type InsertTranslationInput = {
   provider: string;
   model?: string | null;
   text: string;
+  commentary?: string | null;
 };
 
 export function insertTranslation(
@@ -27,14 +29,15 @@ export function insertTranslation(
   const model = input.model ?? "";
   try {
     db.prepare(`
-      INSERT INTO translations (verse_id, language_code, provider, model, text)
-      VALUES (@verseId, @languageCode, @provider, @model, @text)
+      INSERT INTO translations (verse_id, language_code, provider, model, text, commentary)
+      VALUES (@verseId, @languageCode, @provider, @model, @text, @commentary)
     `).run({
       verseId: input.verseId,
       languageCode: input.languageCode,
       provider: input.provider,
       model: model,
       text: input.text,
+      commentary: input.commentary ?? null,
     });
   } catch (error) {
     if (isConstraintError(error)) {
@@ -45,7 +48,7 @@ export function insertTranslation(
 
   const row = db
     .prepare(
-      `SELECT id, verse_id as verseId, language_code as languageCode, provider, model, text, created_at as createdAt
+      `SELECT id, verse_id as verseId, language_code as languageCode, provider, model, text, commentary, created_at as createdAt
        FROM translations
        WHERE verse_id = @verseId AND language_code = @languageCode AND provider = @provider AND model = @model`,
     )
@@ -72,7 +75,7 @@ export function findTranslation(
   const modelVal = model ?? "";
   const row = db
     .prepare(
-      `SELECT id, verse_id as verseId, language_code as languageCode, provider, model, text, created_at as createdAt
+      `SELECT id, verse_id as verseId, language_code as languageCode, provider, model, text, commentary, created_at as createdAt
        FROM translations
        WHERE verse_id = @verseId AND language_code = @languageCode AND provider = @provider AND model = @model`,
     )
@@ -86,7 +89,7 @@ export function listTranslationsForVerse(
 ): TranslationRecord[] {
   const rows = db
     .prepare(
-      `SELECT id, verse_id as verseId, language_code as languageCode, provider, model, text, created_at as createdAt
+      `SELECT id, verse_id as verseId, language_code as languageCode, provider, model, text, commentary, created_at as createdAt
        FROM translations
        WHERE verse_id = @verseId
        ORDER BY created_at ASC`)
@@ -102,6 +105,7 @@ function mapTranslation(row: any): TranslationRecord {
     provider: row.provider,
     model: row.model === "" ? null : row.model,
     text: row.text,
+    commentary: row.commentary,
     createdAt: row.createdAt,
   };
 }

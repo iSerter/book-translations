@@ -70,11 +70,8 @@ export class AiSdkGenerationProvider implements GenerationProvider {
       if (v.english) {
         translations.push({
           languageCode: "en",
-          text: v.english.translation, // Commentary? currently stored as text? No, just translation.
-          // If we want commentary, we need to decide where to put it. 
-          // For now, let's append it or ignore it?
-          // "parser adjusted" -> maybe I should store commentary too?
-          // But I don't have columns. I'll just store translation.
+          text: v.english.translation,
+          commentary: v.english.commentary ?? undefined,
           provider: "ai-sdk-generation",
         });
       }
@@ -82,6 +79,7 @@ export class AiSdkGenerationProvider implements GenerationProvider {
         translations.push({
           languageCode: "tr",
           text: v.turkish.translation,
+          commentary: v.turkish.commentary ?? undefined,
           provider: "ai-sdk-generation",
         });
       }

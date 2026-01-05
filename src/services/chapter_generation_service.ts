@@ -114,6 +114,7 @@ export async function generateChapter(db: Database, input: GenerateChapterInput)
                                  languageCode: t.languageCode,
                                  provider: t.provider || input.providerName,
                                  text: t.text,
+                                 commentary: t.commentary,
                                  model: input.model
                              });
                          }
