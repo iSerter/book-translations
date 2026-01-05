@@ -19,12 +19,12 @@ const sanskritScriptureSchema = z.object({
       sanskrit: z.string(),
       english: z.object({
         translation: z.string(),
-        commentary: z.string().optional(),
-      }).optional(),
+        commentary: z.string().nullable(),
+      }).nullable(),
       turkish: z.object({
         translation: z.string(),
-        commentary: z.string().optional(),
-      }).optional(),
+        commentary: z.string().nullable(),
+      }).nullable(),
     })),
   }),
 });

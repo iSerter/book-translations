@@ -1,5 +1,5 @@
 import type { Database } from "better-sqlite3";
-import { findBookBySlug, upsertChapter, upsertVerse, findChapter } from "../db/repositories/books.js";
+import { findBookBySlug, upsertChapter, upsertVerse, findChapter, upsertBook } from "../db/repositories/books.js";
 import { getTemplate } from "./prompt_template_service.js";
 import { startRun, failRun, completeRun, getLatestRun } from "./generation_run_service.js";
 import { validateChapterPackage } from "./chapter_package_validator.js";
@@ -19,11 +19,13 @@ export type GenerateChapterInput = {
 };
 
 export async function generateChapter(db: Database, input: GenerateChapterInput) {
-    // ... (Steps 1-4 same)
-    // 1. Resolve Book
-    const book = findBookBySlug(db, input.bookSlug);
+    // 1. Resolve Book (Auto-create if missing)
+    let book = findBookBySlug(db, input.bookSlug);
     if (!book) {
-        throw new AppError(`Book '${input.bookSlug}' not found`, { code: ExitCode.NotFound });
+        book = upsertBook(db, {
+            slug: input.bookSlug,
+            title: input.bookSlug, // Use slug as default title
+        });
     }
 
     // 2. Resolve/Create Chapter

@@ -3,9 +3,13 @@
 ## Prerequisites
 
 1.  **Node.js**: Ensure Node.js v22 or later is installed (`node -v`).
-2.  **API Keys** (Optional but recommended):
-    *   **OpenAI**: For generating chapter content via `ai-sdk` provider. Set `OPENAI_API_KEY`.
-    *   **DeepL**: For high-quality translations. Set `DEEPL_API_KEY`.
+2.  **Environment Variables**:
+    Create a `.env` file in the project root to store your API keys:
+    ```env
+    OPENAI_API_KEY=sk-...
+    DEEPL_API_KEY=...
+    # Optional: APP_DB_PATH=data/my-db.sqlite
+    ```
 
 ## Installation
 
@@ -134,5 +138,5 @@ node dist/cli/index.js template add --name "custom-style" --file path/to/templat
 ## Troubleshooting
 
 *   **Database Locked**: Ensure no other process is holding a lock on the SQLite file.
-*   **Provider Errors**: Check your `OPENAI_API_KEY` or `DEEPL_API_KEY` environment variables.
+*   **Provider Errors**: Check your `.env` file or environment variables for `OPENAI_API_KEY` or `DEEPL_API_KEY`.
 *   **Missing Data**: Ensure you ran `db migrate` and `db seed`.
