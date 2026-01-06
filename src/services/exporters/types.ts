@@ -24,6 +24,7 @@ export interface ExportVerse {
 
 export interface ExportChapter {
   number: number;
+  title?: string;
   verses: ExportVerse[];
 }
 

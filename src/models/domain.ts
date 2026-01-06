@@ -34,6 +34,16 @@ export interface Translation {
   created_at?: string;
 }
 
+export interface ChapterTranslation {
+  id?: number;
+  chapter_id?: number;
+  language_code: string;
+  provider: string;
+  model?: string;
+  title: string;
+  created_at?: string;
+}
+
 // Input types for services
 export interface CreateBookInput {
   slug: string;
@@ -55,6 +65,8 @@ export interface CreateVerseInput {
 }
 
 export type ChapterPackage = {
+  number?: number;
+  title?: string;
   verses: { 
     number: number; 
     text: string;

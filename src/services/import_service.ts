@@ -6,6 +6,7 @@ import { AppError, ExitCode } from "../lib/errors.js";
 import { ImportFileSchema } from "../lib/validation.js";
 import { upsertBook, upsertChapter, upsertVerse } from "../db/repositories/books.js";
 import { upsertTranslation } from "../db/repositories/translations.js";
+import { upsertChapterTranslation } from "../db/repositories/chapter_translations.js";
 
 export type ImportOptions = {
     bookSlug?: string;
@@ -133,6 +134,29 @@ export function importFile(db: Database, filePath: string, options: ImportOption
                 expectedVerseCount: chapterData.total_verses
             });
             result.count.chapters++;
+
+            // Process Chapter Translations
+            for (const [key, val] of Object.entries(chapterData)) {
+                if (key.startsWith("title_") && typeof val === "string" && val.trim().length > 0) {
+                    const lang = key.replace("title_", "");
+                    // Skip 'english' if it is considered the source/default, but spec says "store translated chapter titles"
+                    // If title_english is stored as chapter.title, do we also store it as a translation?
+                    // The spec says "Import process MUST parse and persist translated chapter titles".
+                    // Storing it as a translation as well allows uniform access.
+                    const code = mapLanguageToCode(lang);
+                    
+                    upsertChapterTranslation(db, {
+                        chapterId: chapter.id,
+                        languageCode: code,
+                        provider: provider!,
+                        model: model,
+                        title: val
+                    });
+                    // We don't track chapter translation count separately in ImportResult, maybe we should?
+                    // But result.count.translations is for verses? 
+                    // Let's count it in result.count.translations for now or just ignore the count.
+                }
+            }
 
             // Upsert Verses and Translations
             for (const v of verses) {

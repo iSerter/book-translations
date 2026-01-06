@@ -15,7 +15,8 @@ export class MarkdownExporter implements IExporter {
     content += '\n';
 
     for (const chapter of data.chapters) {
-      content += `## Chapter ${chapter.number}\n\n`;
+      const titleSuffix = chapter.title ? `: ${chapter.title}` : '';
+      content += `## Chapter ${chapter.number}${titleSuffix}\n\n`;
       
       for (const verse of chapter.verses) {
         if (verse.sourceText && options.includeSource !== false) {

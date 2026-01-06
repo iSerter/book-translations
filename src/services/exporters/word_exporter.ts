@@ -24,31 +24,34 @@ export class WordExporter implements IExporter {
           ] : []),
           new Paragraph({ text: '' }), // Spacer
 
-          ...data.chapters.flatMap(chapter => [
-            new Paragraph({
-              text: `Chapter ${chapter.number}`,
-              heading: HeadingLevel.HEADING_1,
-            }),
-            ...chapter.verses.flatMap(verse => [
-              ...(verse.sourceText && options.includeSource !== false ? [
+          ...data.chapters.flatMap(chapter => {
+            const chapterTitle = chapter.title ? `Chapter ${chapter.number}: ${chapter.title}` : `Chapter ${chapter.number}`;
+            return [
+              new Paragraph({
+                text: chapterTitle,
+                heading: HeadingLevel.HEADING_1,
+              }),
+              ...chapter.verses.flatMap(verse => [
+                ...(verse.sourceText && options.includeSource !== false ? [
+                    new Paragraph({
+                        children: [
+                            new TextRun({ text: verse.sourceText, italics: true })
+                        ]
+                    })
+                ] : []),
+                ...verse.translations.map(translation => 
                   new Paragraph({
-                      children: [
-                          new TextRun({ text: verse.sourceText, italics: true })
-                      ]
+                    children: [
+                      ...(options.includeVerseNumbers ? [new TextRun({ text: `${chapter.number}:${verse.number} `, bold: true })] : []),
+                      ...(verse.translations.length > 1 ? [new TextRun({ text: `${translation.languageCode}: `, bold: true })] : []),
+                      new TextRun(translation.text)
+                    ]
                   })
-              ] : []),
-              ...verse.translations.map(translation => 
-                new Paragraph({
-                  children: [
-                    ...(options.includeVerseNumbers ? [new TextRun({ text: `${chapter.number}:${verse.number} `, bold: true })] : []),
-                    ...(verse.translations.length > 1 ? [new TextRun({ text: `${translation.languageCode}: `, bold: true })] : []),
-                    new TextRun(translation.text)
-                  ]
-                })
-              ),
-              new Paragraph({ text: '' }) // Spacer between verses
-            ])
-          ])
+                ),
+                new Paragraph({ text: '' }) // Spacer between verses
+              ])
+            ];
+          })
         ],
       }],
     });

@@ -1,0 +1,19 @@
+{
+  "chapter": {
+    "number": 1,
+    "title_sanskrit": "अर्जुनविषादयोग",
+    "title_english": "The Yoga of Arjuna's Dejection",
+    "title_turkish": "Arjuna'nın Kederinin Yogası",
+    "total_verses": 47,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "verse 1 sanskrit",
+        "english": {
+          "translation": "verse 1 english",
+          "commentary": "commentary"
+        }
+      }
+    ]
+  }
+}

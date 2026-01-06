@@ -19,7 +19,7 @@ export const ChapterSchema = z.object({
   title_english: z.string().optional(),
   total_verses: z.number().optional(),
   verses: z.array(VerseSchema).optional(),
-});
+}).catchall(z.any());
 
 export const ImportFileSchema = z.object({
   chapter: ChapterSchema,

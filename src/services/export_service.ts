@@ -22,23 +22,64 @@ export class ExportService {
     }
 
     // 2. Fetch Chapters
-    let chaptersQuery = 'SELECT id, number FROM chapters WHERE book_id = ?';
+    let chaptersQuery = `
+      SELECT c.id, c.number, c.title as sourceTitle
+      FROM chapters c
+      WHERE c.book_id = ?
+    `;
     const params: (number | string)[] = [book.id];
 
     if (options.chapterNumber !== undefined) {
-      chaptersQuery += ' AND number = ?';
+      chaptersQuery += ' AND c.number = ?';
       params.push(options.chapterNumber);
     }
     
-    chaptersQuery += ' ORDER BY number ASC';
+    chaptersQuery += ' ORDER BY c.number ASC';
 
-    const chapters = this.db.prepare(chaptersQuery).all(...params) as any[];
+    const chaptersRaw = this.db.prepare(chaptersQuery).all(...params) as any[];
     
-    if (chapters.length === 0) {
+    if (chaptersRaw.length === 0) {
         return { 
             book: { title: book.title, slug: book.slug, author: book.author || undefined }, 
             chapters: [] 
         };
+    }
+
+    // 2.5 Fetch Chapter Translations if language is specified
+    const chapterTranslationsMap = new Map<number, string>();
+    if (options.languages && options.languages.length > 0) {
+        // We prioritize the first language requested for the chapter heading
+        const targetLang = options.languages[0];
+        let ctQuery = `
+            SELECT chapter_id, title, provider 
+            FROM chapter_translations 
+            WHERE language_code = ?
+        `;
+        const ctParams: any[] = [targetLang];
+
+        if (options.provider && !options.allowFallback) {
+            ctQuery += " AND provider = ?";
+            ctParams.push(options.provider);
+        }
+
+        const ctRows = this.db.prepare(ctQuery).all(...ctParams) as any[];
+        
+        // Group by chapter_id to handle potential multiple translations (pick best)
+        const ctGroups = new Map<number, any[]>();
+        for (const row of ctRows) {
+            if (!ctGroups.has(row.chapter_id)) ctGroups.set(row.chapter_id, []);
+            ctGroups.get(row.chapter_id)?.push(row);
+        }
+
+        for (const [chapterId, transList] of ctGroups) {
+            let match = transList.find(t => t.provider === options.provider);
+            if (!match && options.allowFallback) {
+                match = transList[0];
+            }
+            if (match) {
+                chapterTranslationsMap.set(chapterId, match.title);
+            }
+        }
     }
 
     // 3. Fetch All Verses for the Book
@@ -141,8 +182,9 @@ export class ExportService {
         slug: book.slug,
         author: book.author || undefined
       },
-      chapters: chapters.map(c => ({
+      chapters: chaptersRaw.map(c => ({
           number: c.number,
+          title: chapterTranslationsMap.get(c.id) || c.sourceTitle || undefined,
           verses: versesMap.get(c.id) || []
       }))
     };
