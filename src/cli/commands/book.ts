@@ -6,9 +6,12 @@ import { printResult } from "../../lib/output.js";
 import { openDatabase } from "../../db/connection.js";
 import { buildContext, wrapAction } from "../run.js";
 import type { CreateBookInput } from "../../models/domain.js";
+import { exportCommand } from "./export.js";
 
 export function registerBookCommands(program: Command) {
   const bookCmd = program.command("book").description("Book management commands");
+
+  bookCmd.addCommand(exportCommand);
 
   bookCmd
     .command("store")

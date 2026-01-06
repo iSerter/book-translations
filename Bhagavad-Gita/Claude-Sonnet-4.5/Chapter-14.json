@@ -1,0 +1,368 @@
+{
+  "chapter": {
+    "number": 14,
+    "title_sanskrit": "गुणत्रयविभागयोग",
+    "title_english": "The Yoga of the Division of the Three Gunas",
+    "title_turkish": "Üç Guna'nın Ayrımı Yogası",
+    "total_verses": 27,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "श्रीभगवानुवाच |\nपरं भूयः प्रवक्ष्यामि ज्ञानानां ज्ञानमुत्तमम् |\nयज्ज्ञात्वा मुनयः सर्वे परां सिद्धिमितो गताः ||",
+        "transliteration": "śrī bhagavān uvāca |\nparaṁ bhūyaḥ pravakṣyāmi jñānānāṁ jñānam uttamam |\nyaj jñātvā munayaḥ sarve parāṁ siddhim ito gatāḥ ||",
+        "english": {
+          "translation": "The Blessed Lord said: I shall again declare to you that supreme knowledge, the best of all knowledge, knowing which all the sages have attained supreme perfection from this world.",
+          "commentary": "Krishna introduces the teaching on the three gunas (qualities of nature) as the highest knowledge. This chapter bridges the understanding of Prakriti (nature) and Purusha (spirit) discussed earlier. The emphasis on 'supreme knowledge' indicates this teaching's fundamental importance for liberation."
+        },
+        "turkish": {
+          "translation": "Yüce Efendi buyurdu: Sana tekrar bildireceğim o yüce bilgiyi, tüm bilgilerin en üstünü olan; bunu bilerek tüm bilgeler bu dünyadan en yüksek mükemmelliğe ulaştılar.",
+          "commentary": "Krishna, üç guna (doğanın nitelikleri) öğretisini en yüksek bilgi olarak tanıtır. Bu bölüm, daha önce tartışılan Prakriti (doğa) ve Purusha (ruh) anlayışını birleştirir. 'Yüce bilgi' vurgusu, bu öğretinin kurtuluş için temel önemini gösterir."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "इदं ज्ञानमुपाश्रित्य मम साधर्म्यमागताः |\nसर्गेऽपि नोपजायन्ते प्रलये न व्यथन्ति च ||",
+        "transliteration": "idaṁ jñānam upāśritya mama sādharmyam āgatāḥ |\nsarge'pi nopajāyante pralaye na vyathanti ca ||",
+        "english": {
+          "translation": "Those who, taking refuge in this knowledge, have attained unity with Me, are neither born at the time of creation nor disturbed at the time of dissolution.",
+          "commentary": "This verse describes the ultimate fruit of guna knowledge—transcendence of the cycle of birth and death. 'Unity with Me' (sādharmya) indicates becoming one in nature with the Divine. Such beings transcend both creation (sarga) and dissolution (pralaya) of the universe."
+        },
+        "turkish": {
+          "translation": "Bu bilgiye sığınanlar ve Benimle birlik kazananlar, yaratılışta doğmazlar ve yok oluşta da rahatsız olmazlar.",
+          "commentary": "Bu ayet, guna bilgisinin nihai meyvesini açıklar—doğum ve ölüm döngüsünü aşma. 'Benimle birlik' (sādharmya), İlahi ile doğada bir olmayı gösterir. Bu varlıklar evrenin hem yaratılışını (sarga) hem de yok oluşunu (pralaya) aşarlar."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "मम योनिर्महद्ब्रह्म तस्मिन्गर्भं दधाम्यहम् |\nसम्भवः सर्वभूतानां ततो भवति भारत ||",
+        "transliteration": "mama yonir mahad brahma tasmin garbhaṁ dadhāmy aham |\nsambhavaḥ sarva-bhūtānāṁ tato bhavati bhārata ||",
+        "english": {
+          "translation": "My womb is the great Brahman (Prakriti); in that I place the seed, and from that, O Bharata, comes the birth of all beings.",
+          "commentary": "Krishna explains the cosmic process of creation. Prakriti (primordial nature) is compared to a womb, and Purusha (consciousness) to the seed. This union produces all manifestation. Understanding this relationship is key to comprehending how the gunas operate in creation."
+        },
+        "turkish": {
+          "translation": "Benim rahmim büyük Brahman'dır (Prakriti); ona tohumu koyarım, ve ondan, ey Bharata, tüm varlıkların doğuşu gelir.",
+          "commentary": "Krishna, yaratılışın kozmik sürecini açıklar. Prakriti (ilksel doğa) bir rahme, Purusha (bilinç) ise tohuma benzetilir. Bu birleşim tüm tezahürü üretir. Bu ilişkiyi anlamak, gunaların yaratılışta nasıl işlediğini kavramak için anahtardır."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "सर्वयोनिषु कौन्तेय मूर्तयः सम्भवन्ति याः |\nतासां ब्रह्म महद्योनिरहं बीजप्रदः पिता ||",
+        "transliteration": "sarva-yoniṣu kaunteya mūrtayaḥ sambhavanti yāḥ |\ntāsāṁ brahma mahad yonir ahaṁ bīja-pradaḥ pitā ||",
+        "english": {
+          "translation": "Whatever forms are produced in all the various wombs, O Kaunteya, the great Brahman is their womb, and I am the seed-giving Father.",
+          "commentary": "This verse universalizes the previous teaching—all forms of life, regardless of species or type, emerge from the same cosmic process. Prakriti is the universal mother, and the Divine consciousness is the universal father, establishing the non-dual foundation of all existence."
+        },
+        "turkish": {
+          "translation": "Tüm çeşitli rahimlerde hangi formlar üretilirse üretilsin, ey Kaunteya, büyük Brahman onların rahmididir ve Ben tohum veren Baba'yım.",
+          "commentary": "Bu ayet önceki öğretiyi evrenselleştirir—tür veya tipine bakılmaksızın tüm yaşam formları aynı kozmik süreçten çıkar. Prakriti evrensel annedir ve İlahi bilinç evrensel babadır, tüm varoluşun ikili olmayan temelini kurar."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "सत्त्वं रजस्तम इति गुणाः प्रकृतिसम्भवाः |\nनिबध्नन्ति महाबाहो देहे देहिनमव्ययम् ||",
+        "transliteration": "sattvaṁ rajas tama iti guṇāḥ prakṛti-sambhavāḥ |\nnibadhnanti mahā-bāho dehe dehinam avyayam ||",
+        "english": {
+          "translation": "Sattva (purity), rajas (passion), and tamas (darkness)—these gunas born of Prakriti bind fast in the body, O mighty-armed one, the imperishable embodied soul.",
+          "commentary": "The three gunas are introduced as the fundamental modes of material nature that create bondage. Though the soul (dehin) is imperishable and transcendent, it becomes bound through identification with these qualities. Understanding how each guna operates is essential for liberation."
+        },
+        "turkish": {
+          "translation": "Sattva (saflık), rajas (tutku) ve tamas (karanlık)—Prakriti'den doğan bu gunalar, ey güçlü kollu, bedende ebedi bedene sahip ruhu sıkı sıkıya bağlarlar.",
+          "commentary": "Üç guna, bağlanmayı yaratan maddi doğanın temel modları olarak tanıtılır. Ruh (dehin) yok olmaz ve aşkın olmasına rağmen, bu niteliklerle özdeşleşme yoluyla bağlanır. Her gunanın nasıl işlediğini anlamak kurtuluş için gereklidir."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "तत्र सत्त्वं निर्मलत्वात्प्रकाशकमनामयम् |\nसुखसङ्गेन बध्नाति ज्ञानसङ्गेन चानघ ||",
+        "transliteration": "tatra sattvaṁ nirmalatvāt prakāśakam anāmayam |\nsukha-saṅgena badhnāti jñāna-saṅgena cānagha ||",
+        "english": {
+          "translation": "Of these, sattva, being pure, is luminous and free from evil; it binds by attachment to happiness and by attachment to knowledge, O sinless one.",
+          "commentary": "Sattva, though the highest guna, still creates bondage through attachment to pleasure and knowledge. Its luminous quality brings clarity and peace, but identifying with these positive states prevents transcendence. Even spiritual knowledge becomes a subtle trap when clung to with ego."
+        },
+        "turkish": {
+          "translation": "Bunlardan sattva, saf olduğu için parlaktır ve kötülükten arınmıştır; mutluluğa bağlılık ve bilgiye bağlılık yoluyla bağlar, ey günahsız.",
+          "commentary": "Sattva, en yüksek guna olmasına rağmen, zevke ve bilgiye bağlanma yoluyla hala bağlanma yaratır. Parlak niteliği açıklık ve huzur getirir, ancak bu olumlu durumlarla özdeşleşme aşkınlığı engeller. Egoya tutunulduğunda ruhani bilgi bile ince bir tuzak haline gelir."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "रजो रागात्मकं विद्धि तृष्णासङ्गसमुद्भवम् |\nतन्निबध्नाति कौन्तेय कर्मसङ्गेन देहिनम् ||",
+        "transliteration": "rajo rāgātmakaṁ viddhi tṛṣṇā-saṅga-samudbhavam |\ntan nibadhnāti kaunteya karma-saṅgena dehinam ||",
+        "english": {
+          "translation": "Know rajas to be of the nature of passion, the source of desire and attachment; it binds fast, O Kaunteya, the embodied soul by attachment to action.",
+          "commentary": "Rajas is characterized by restlessness, desire, and constant activity. It creates attachment through the drive to act and achieve. This guna fuels ambition and worldly pursuits, keeping consciousness engaged in perpetual doing rather than being. Liberation requires understanding this dynamic quality."
+        },
+        "turkish": {
+          "translation": "Rajas'ın tutku doğasında olduğunu, arzu ve bağlılığın kaynağı olduğunu bil; eyleme bağlanma yoluyla, ey Kaunteya, bedene sahip ruhu sıkı sıkıya bağlar.",
+          "commentary": "Rajas huzursuzluk, arzu ve sürekli aktivite ile karakterize edilir. Hareket etme ve başarma dürtüsü aracılığıyla bağlanma yaratır. Bu guna hırsı ve dünyevi arayışları besler, bilinci olmaktan ziyade sürekli yapmada meşgul tutar. Kurtuluş bu dinamik niteliği anlamayı gerektirir."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "तमस्त्वज्ञानजं विद्धि मोहनं सर्वदेहिनाम् |\nप्रमादालस्यनिद्राभिस्तन्निबध्नाति भारत ||",
+        "transliteration": "tamas tv ajñāna-jaṁ viddhi mohanaṁ sarva-dehinām |\npramādālasya-nidrābhis tan nibadhnāti bhārata ||",
+        "english": {
+          "translation": "But know tamas to be born of ignorance, deluding all embodied beings; it binds by heedlessness, laziness, and sleep, O Bharata.",
+          "commentary": "Tamas represents ignorance, inertia, and darkness. It manifests as confusion, delusion, and resistance to growth. This lowest guna keeps beings in unconsciousness through negligence, lethargy, and excessive sleep. It obscures reality and prevents spiritual progress most completely."
+        },
+        "turkish": {
+          "translation": "Ama tamas'ın cehaletten doğduğunu, tüm bedene sahip varlıkları yanılttığını bil; dikkatsizlik, tembellik ve uyku yoluyla bağlar, ey Bharata.",
+          "commentary": "Tamas cehalet, eylemsizlik ve karanlığı temsil eder. Kafa karışıklığı, yanılsama ve büyümeye direnç olarak tezahür eder. Bu en düşük guna, varlıkları ihmal, letarji ve aşırı uyku yoluyla bilinçsizlikte tutar. Gerçekliği gizler ve ruhani ilerlemeyi en tam şekilde engeller."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "सत्त्वं सुखे सञ्जयति रजः कर्मणि भारत |\nज्ञानमावृत्य तु तमः प्रमादे सञ्जयत्युत ||",
+        "transliteration": "sattvaṁ sukhe sañjayati rajaḥ karmaṇi bhārata |\njñānam āvṛtya tu tamaḥ pramāde sañjayaty uta ||",
+        "english": {
+          "translation": "Sattva attaches one to happiness, rajas to action, O Bharata, while tamas, veiling knowledge, attaches one to heedlessness.",
+          "commentary": "This verse summarizes the binding mechanism of each guna. Sattva creates subtle attachment through pleasant experiences, rajas through compulsive activity, and tamas through covering wisdom itself. Each operates at different levels—sattva at the refined mental level, rajas at the active level, and tamas at the level of basic consciousness."
+        },
+        "turkish": {
+          "translation": "Sattva mutluluğa bağlar, rajas eyleme, ey Bharata, tamas ise bilgiyi örterek dikkatsizliğe bağlar.",
+          "commentary": "Bu ayet her gunanın bağlanma mekanizmasını özetler. Sattva hoş deneyimler yoluyla ince bağlanma, rajas zorunlu aktivite yoluyla ve tamas bilgeliği örtmek yoluyla bağlanma yaratır. Her biri farklı seviyelerde işler—sattva rafine zihinsel seviyede, rajas aktif seviyede ve tamas temel bilinç seviyesinde."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "रजस्तमश्चाभिभूय सत्त्वं भवति भारत |\nरजः सत्त्वं तमश्चैव तमः सत्त्वं रजस्तथा ||",
+        "transliteration": "rajas tamaś cābhibhūya sattvaṁ bhavati bhārata |\nrajaḥ sattvaṁ tamaś caiva tamaḥ sattvaṁ rajas tathā ||",
+        "english": {
+          "translation": "Now sattva prevails, O Bharata, having overpowered rajas and tamas; now rajas, having overpowered sattva and tamas; and now tamas, having overpowered sattva and rajas.",
+          "commentary": "The gunas are constantly in flux, competing for dominance in the mind. Understanding this dynamic interplay helps one recognize the changing states of consciousness. At different times, different gunas predominate based on habits, circumstances, and choices. This awareness is crucial for self-mastery."
+        },
+        "turkish": {
+          "translation": "Şimdi sattva rajas ve tamas'a üstün gelerek hükmeder, ey Bharata; şimdi rajas, sattva ve tamas'a üstün gelerek; ve şimdi tamas, sattva ve rajas'a üstün gelerek.",
+          "commentary": "Gunalar sürekli akış halindedir ve zihinsel hakimiyet için rekabet ederler. Bu dinamik etkileşimi anlamak, değişen bilinç durumlarını tanımaya yardımcı olur. Farklı zamanlarda, alışkanlıklar, koşullar ve seçimlere göre farklı gunalar baskındır. Bu farkındalık öz-hakimiyet için çok önemlidir."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "सर्वद्वारेषु देहेऽस्मिन्प्रकाश उपजायते |\nज्ञानं यदा तदा विद्याद्विवृद्धं सत्त्वमित्युत ||",
+        "transliteration": "sarva-dvāreṣu dehe'smin prakāśa upajāyate |\njñānaṁ yadā tadā vidyād vivṛddhaṁ sattvam ity uta ||",
+        "english": {
+          "translation": "When the light of knowledge shines forth through all the gates of the body, then it should be known that sattva has increased.",
+          "commentary": "The signs of sattva's predominance are clarity, illumination, and wisdom manifesting through all sense organs and actions. The 'gates' refer to the senses and mind. When these function with clarity and discrimination, sattva is ascendant. This state enables proper perception and understanding."
+        },
+        "turkish": {
+          "translation": "Bedenin tüm kapılarından bilgi ışığı parladığında, o zaman sattva'nın arttığı bilinmelidir.",
+          "commentary": "Sattva'nın hakimiyetinin işaretleri, tüm duyu organları ve eylemler aracılığıyla tezahür eden açıklık, aydınlanma ve bilgeliktir. 'Kapılar' duyular ve zihni ifade eder. Bunlar açıklık ve ayırt etme ile işlev gördüğünde, sattva yükseliştedir. Bu durum doğru algı ve anlayışı mümkün kılar."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "लोभः प्रवृत्तिरारम्भः कर्मणामशमः स्पृहा |\nरजस्येतानि जायन्ते विवृद्धे भरतर्षभ ||",
+        "transliteration": "lobhaḥ pravṛttir ārambhaḥ karmaṇām aśamaḥ spṛhā |\nrajasy etāni jāyante vivṛddhe bharatarṣabha ||",
+        "english": {
+          "translation": "Greed, activity, undertaking of actions, restlessness, and craving—these arise when rajas increases, O best of the Bharatas.",
+          "commentary": "Rajas manifests as excessive desire for acquisition, constant busyness, and inability to rest. There's compulsive starting of new projects and perpetual dissatisfaction. This energy, while sometimes productive, creates stress and prevents peace. Recognizing these signs helps moderate this guna."
+        },
+        "turkish": {
+          "translation": "Açgözlülük, aktivite, eylemlere girişme, huzursuzluk ve özlem—rajas arttığında bunlar ortaya çıkar, ey Bharatalar'ın en iyisi.",
+          "commentary": "Rajas, kazanma için aşırı arzu, sürekli meşguliyet ve dinlenememe olarak tezahür eder. Zorunlu yeni proje başlatma ve sürekli memnuniyetsizlik vardır. Bu enerji bazen üretken olsa da stres yaratır ve huzuru engeller. Bu işaretleri tanımak bu gunanı ölçülendirmeye yardımcı olur."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "अप्रकाशोऽप्रवृत्तिश्च प्रमादो मोह एव च |\nतमस्येतानि जायन्ते विवृद्धे कुरुनन्दन ||",
+        "transliteration": "aprakāśo'pravṛttiś ca pramādo moha eva ca |\ntamasy etāni jāyante vivṛddhe kurunandana ||",
+        "english": {
+          "translation": "Darkness, inactivity, heedlessness, and delusion—these arise when tamas increases, O descendant of Kuru.",
+          "commentary": "Tamas creates obscuration of understanding, paralysis of will, negligence in duties, and fundamental confusion about reality. This is the most spiritually dangerous guna as it prevents even the desire for improvement. It manifests as depression, laziness, and resistance to knowledge."
+        },
+        "turkish": {
+          "translation": "Karanlık, hareketsizlik, dikkatsizlik ve yanılsama—tamas arttığında bunlar ortaya çıkar, ey Kuru soyundan gelen.",
+          "commentary": "Tamas anlayışın örtülmesini, iradenin felcini, görevlerde ihmali ve gerçeklik hakkında temel kafa karışıklığını yaratır. Bu ruhani olarak en tehlikeli gunadır çünkü iyileşme arzusunu bile engeller. Depresyon, tembellik ve bilgiye direnç olarak tezahür eder."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "यदा सत्त्वे प्रवृद्धे तु प्रलयं याति देहभृत् |\nतदोत्तमविदां लोकानमलान्प्रतिपद्यते ||",
+        "transliteration": "yadā sattve pravṛddhe tu pralayaṁ yāti deha-bhṛt |\ntadottama-vidāṁ lokān amalān pratipadyate ||",
+        "english": {
+          "translation": "If one meets death when sattva has increased, then one attains the spotless worlds of the knowers of the Highest.",
+          "commentary": "The state of consciousness at death determines one's next destination. Dying in sattva leads to pure realms inhabited by wise beings. This emphasizes the importance of cultivating sattva throughout life. The 'spotless worlds' (amala loka) are free from the lower gunas' influence."
+        },
+        "turkish": {
+          "translation": "Eğer sattva artmışken ölümle karşılaşılırsa, o zaman En Yüce'yi bilenlerin lekesiz dünyalarına ulaşılır.",
+          "commentary": "Ölüm anındaki bilinç durumu, kişinin sonraki varış yerini belirler. Sattva'da ölmek, bilge varlıkların yaşadığı saf alemlere götürür. Bu, yaşam boyunca sattva'yı geliştirmenin önemini vurgular. 'Lekesiz dünyalar' (amala loka) alt gunaların etkisinden arınmıştır."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "रजसि प्रलयं गत्वा कर्मसङ्गिषु जायते |\nतथा प्रलीनस्तमसि मूढयोनिषु जायते ||",
+        "transliteration": "rajasi pralayaṁ gatvā karma-saṅgiṣu jāyate |\ntathā pralīnas tamasi mūḍha-yoniṣu jāyate ||",
+        "english": {
+          "translation": "Meeting death in rajas, one is born among those attached to action; dying in tamas, one is born in the wombs of the deluded.",
+          "commentary": "Death in rajas leads to birth among action-oriented, ambitious beings still caught in desire. Death in tamas results in birth in lower, ignorant states of existence. This teaching motivates spiritual practice—to consciously elevate one's guna level before life's end through consistent spiritual discipline."
+        },
+        "turkish": {
+          "translation": "Rajas'ta ölümle karşılaşan, eyleme bağlı olanlar arasında doğar; tamas'ta ölenler ise yanılmış rahimlerde doğarlar.",
+          "commentary": "Rajas'ta ölüm, hala arzuya yakalanmış eylem odaklı, hırslı varlıklar arasında doğuma yol açar. Tamas'ta ölüm, daha düşük, cahil varoluş durumlarında doğumla sonuçlanır. Bu öğreti ruhani pratiği motive eder—tutarlı ruhani disiplin yoluyla yaşamın sonu öncesi bilinçli olarak gunanın seviyesini yükseltmek."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "कर्मणः सुकृतस्याहुः सात्त्विकं निर्मलं फलम् |\nरजसस्तु फलं दुःखमज्ञानं तमसः फलम् ||",
+        "transliteration": "karmaṇaḥ sukṛtasyāhuḥ sāttvikaṁ nirmalaṁ phalam |\nrajasas tu phalaṁ duḥkham ajñānaṁ tamasaḥ phalam ||",
+        "english": {
+          "translation": "The fruit of good action, they say, is sattvic and pure; the fruit of rajas is pain, and the fruit of tamas is ignorance.",
+          "commentary": "This verse connects actions performed in each guna with their inevitable results. Sattvic actions yield purity and happiness, rajasic actions produce suffering despite temporary pleasure, and tamasic actions deepen ignorance. Understanding this causal relationship helps make wiser choices aligned with spiritual growth."
+        },
+        "turkish": {
+          "translation": "İyi eylemin meyvesinin sattvic ve saf olduğunu söylerler; rajas'ın meyvesi acıdır ve tamas'ın meyvesi cehalettir.",
+          "commentary": "Bu ayet her gunada yapılan eylemleri kaçınılmaz sonuçlarıyla ilişkilendirir. Sattvic eylemler saflık ve mutluluk verir, rajasic eylemler geçici zevke rağmen acı üretir ve tamasic eylemler cehaleti derinleştirir. Bu nedensel ilişkiyi anlamak, ruhani büyümeye uygun daha akıllıca seçimler yapmaya yardımcı olur."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "सत्त्वात्सञ्जायते ज्ञानं रजसो लोभ एव च |\nप्रमादमोहौ तमसो भवतोऽज्ञानमेव च ||",
+        "transliteration": "sattvāt sañjāyate jñānaṁ rajaso lobha eva ca |\npramāda-mohau tamaso bhavato'jñānam eva ca ||",
+        "english": {
+          "translation": "From sattva arises knowledge; from rajas, greed; from tamas arise heedlessness, delusion, and also ignorance.",
+          "commentary": "Each guna produces characteristic mental states and qualities. Sattva generates wisdom and clarity, rajas breeds desire and acquisitiveness, and tamas creates negligence and confusion. By observing our predominant mental states, we can identify which guna is influencing us and work to transcend it."
+        },
+        "turkish": {
+          "translation": "Sattva'dan bilgi doğar; rajas'tan açgözlülük; tamas'tan dikkatsizlik, yanılsama ve ayrıca cehalet ortaya çıkar.",
+          "commentary": "Her guna karakteristik zihinsel durumlar ve nitelikler üretir. Sattva bilgelik ve açıklık üretir, rajas arzu ve edinme hırsı besler ve tamas ihmal ve kafa karışıklığı yaratır. Baskın zihinsel durumlarımızı gözlemleyerek, hangi gunanın bizi etkilediğini tespit edebilir ve onu aşmak için çalışabiliriz."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "ऊर्ध्वं गच्छन्ति सत्त्वस्था मध्ये तिष्ठन्ति राजसाः |\nजघन्यगुणवृत्तिस्था अधो गच्छन्ति तामसाः ||",
+        "transliteration": "ūrdhvaṁ gacchanti sattva-sthā madhye tiṣṭhanti rājasāḥ |\naghaṇya-guṇa-vṛtti-sthā adho gacchanti tāmasāḥ ||",
+        "english": {
+          "translation": "Those established in sattva go upward; the rajasic remain in the middle; the tamasic, abiding in the functions of the lowest guna, go downward.",
+          "commentary": "This describes the evolutionary trajectory of souls based on their predominant guna. Sattvic beings evolve toward higher consciousness and liberation. Rajasic beings remain in the cycle of human existence. Tamasic beings devolve toward unconscious states. This shows the urgency of spiritual practice to transcend all gunas."
+        },
+        "turkish": {
+          "translation": "Sattva'da oturanlar yukarı gider; rajasic olanlar ortada kalır; en düşük gunanın işlevlerinde yaşayan tamasic olanlar aşağı gider.",
+          "commentary": "Bu, ruhların baskın gunalarına göre evrimsel yörüngesini açıklar. Sattvic varlıklar daha yüksek bilinç ve kurtuluşa doğru evrimleşir. Rajasic varlıklar insan varlığı döngüsünde kalır. Tamasic varlıklar bilinçsiz durumlara doğru geriler. Bu, tüm gunaları aşmak için ruhani pratiğin aciliyetini gösterir."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "नान्यं गुणेभ्यः कर्तारं यदा द्रष्टानुपश्यति |\nगुणेभ्यश्च परं वेत्ति मद्भावं सोऽधिगच्छति ||",
+        "transliteration": "nānyaṁ guṇebhyaḥ kartāraṁ yadā draṣṭānupaśyati |\nguṇebhyaś ca paraṁ vetti mad-bhāvaṁ so'dhigacchati ||",
+        "english": {
+          "translation": "When the seer perceives no agent of action other than the gunas, and knows That which is beyond the gunas, he attains My Being.",
+          "commentary": "This verse presents the key to liberation—recognizing that all action is merely the interplay of the gunas, while the true Self (Atman) remains uninvolved. The witness consciousness that perceives this stands beyond all three gunas. Realizing this distinction leads to identity with the Divine."
+        },
+        "turkish": {
+          "translation": "Gören, gunalardan başka eylem etkeni olmadığını algıladığında ve gunaların ötesinde olanı bildiğinde, Benim Varlığıma ulaşır.",
+          "commentary": "Bu ayet kurtuluşun anahtarını sunar—tüm eylemin yalnızca gunaların etkileşimi olduğunu, gerçek Benliğin (Atman) ise bunların dışında kaldığını fark etmek. Bunu algılayan tanık bilinci üç gunanın da ötesinde durur. Bu ayrımı gerçekleştirmek İlahi ile özdeşleşmeye götürür."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "गुणानेतानतीत्य त्रीन्देही देहसमुद्भवान् |\nजन्ममृत्युजरादुःखैर्विमुक्तोऽमृतमश्नुते ||",
+        "transliteration": "guṇān etān atītya trīn dehī deha-samudbhavān |\njanma-mṛtyu-jarā-duḥkhair vimukto'mṛtam aśnute ||",
+        "english": {
+          "translation": "The embodied one, having transcended these three gunas which originate in the body, is freed from birth, death, old age, and sorrow, and attains immortality.",
+          "commentary": "This is the ultimate promise—complete liberation from the cycle of existence. Transcending the gunas means no longer identifying with their modifications. One realizes the eternal, unchanging Self beyond all material conditioning. This state is characterized by freedom from all suffering inherent in embodied existence."
+        },
+        "turkish": {
+          "translation": "Bedene sahip olan, bedenden kaynaklanan bu üç gunayı aştığında, doğum, ölüm, yaşlılık ve acıdan kurtulur ve ölümsüzlüğe ulaşır.",
+          "commentary": "Bu nihai vaat—varoluş döngüsünden tam kurtuluş. Gunaları aşmak, artık onların değişimleriyle özdeşleşmemek anlamına gelir. Kişi tüm maddi koşullanmanın ötesinde ebedi, değişmeyen Benliği gerçekleştirir. Bu durum, bedenli varoluşta içkin tüm acıdan özgürlükle karakterize edilir."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "अर्जुन उवाच |\nकैर्लिङ्गैस्त्रीन्गुणानेतानतीतो भवति प्रभो |\nकिमाचारः कथं चैतांस्त्रीन्गुणानतिवर्तते ||",
+        "transliteration": "arjuna uvāca |\nkair liṅgais trīn guṇān etān atīto bhavati prabho |\nkim ācāraḥ kathaṁ caitāṁs trīn guṇān ativartate ||",
+        "english": {
+          "translation": "Arjuna said: By what marks, O Lord, is one known who has transcended these three gunas? What is his conduct? And how does he go beyond these three gunas?",
+          "commentary": "Arjuna asks three practical questions: (1) How to recognize someone who has transcended the gunas, (2) How such a person behaves, and (3) What practices lead to transcendence. These questions show Arjuna's concern for applicable spiritual knowledge, not just philosophical theory."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi: Bu üç gunayı aşmış olan hangi işaretlerle bilinir, ey Efendi? Davranışı nasıldır? Ve bu üç gunayı nasıl aşar?",
+          "commentary": "Arjuna üç pratik soru sorar: (1) Gunaları aşmış birini nasıl tanırız, (2) Böyle bir kişi nasıl davranır, ve (3) Aşkınlığa götüren pratikler nelerdir. Bu sorular Arjuna'nın sadece felsefi teori değil, uygulanabilir ruhani bilgi konusundaki ilgisini gösterir."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "श्रीभगवानुवाच |\nप्रकाशं च प्रवृत्तिं च मोहमेव च पाण्डव |\nन द्वेष्टि सम्प्रवृत्तानि न निवृत्तानि काङ्क्षति ||",
+        "transliteration": "śrī bhagavān uvāca |\nprakāśaṁ ca pravṛttiṁ ca moham eva ca pāṇḍava |\nna dveṣṭi sampravṛttāni na nivṛttāni kāṅkṣati ||",
+        "english": {
+          "translation": "The Blessed Lord said: He who does not hate illumination (sattva), activity (rajas), or delusion (tamas) when they are present, nor longs for them when they are absent, O Pandava.",
+          "commentary": "The transcendent being maintains perfect equanimity toward all guna manifestations. Neither attraction nor aversion disturbs their peace. They neither resist the presence of any guna nor crave its absence. This is the mark of true detachment—acceptance without identification with whatever arises."
+        },
+        "turkish": {
+          "translation": "Yüce Efendi buyurdu: Mevcut olduklarında aydınlanmaya (sattva), aktiviteye (rajas) veya yanılsamaya (tamas) nefret etmeyen, yokluklarında özlem duymayan, ey Pandava.",
+          "commentary": "Aşkın varlık, tüm guna tezahürlerine karşı mükemmel eşitlik sürdürür. Ne çekim ne de itme onların huzurunu bozar. Herhangi bir gunanın varlığına direnç göstermezler ne de yokluğuna özlem duyarlar. Bu gerçek bağımsızlığın işaretidir—ortaya çıkan her şeyi özdeşleşme olmaksızın kabul etme."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "उदासीनवदासीनो गुणैर्यो न विचाल्यते |\nगुणा वर्तन्त इत्येवं योऽवतिष्ठति नेङ्गते ||",
+        "transliteration": "udāsīna-vad āsīno guṇair yo na vicālyate |\nguṇā vartanta ity evaṁ yo'vatiṣṭhati neṅgate ||",
+        "english": {
+          "translation": "He who sits like one unconcerned, unshaken by the gunas; who, knowing that the gunas operate, remains firm and does not waver.",
+          "commentary": "The enlightened one maintains the position of a witness, observing the play of gunas without being drawn into identification. The phrase 'sits like one unconcerned' (udāsīna-vat) indicates established consciousness beyond mental modifications. Understanding that 'the gunas operate' means recognizing all experiences as nature's automatic functioning, not the Self's doing."
+        },
+        "turkish": {
+          "translation": "İlgisiz biri gibi oturan, gunalar tarafından sarsılmayan; gunaların işlediğini bilerek sabit kalan ve sallanmayan.",
+          "commentary": "Aydınlanmış kişi, gunaların oyununu özdeşleşmeye çekilmeden gözlemleyen bir tanık konumunu sürdürür. 'İlgisiz biri gibi oturur' (udāsīna-vat) ifadesi, zihinsel değişimlerin ötesinde yerleşik bilinci gösterir. 'Gunalar işler' anlamak, tüm deneyimleri Benliğin değil doğanın otomatik işleyişi olarak tanımak demektir."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "समदुःखसुखः स्वस्थः समलोष्टाश्मकाञ्चनः |\nतुल्यप्रियाप्रियो धीरस्तुल्यनिन्दात्मसंस्तुतिः ||",
+        "transliteration": "sama-duḥkha-sukhaḥ sva-sthaḥ sama-loṣṭāśma-kāñcanaḥ |\ntulya-priyāpriyo dhīras tulya-nindātma-saṁstutiḥ ||",
+        "english": {
+          "translation": "He who is the same in pleasure and pain, self-abiding, to whom a clod of earth, stone, and gold are alike; who is the same toward the pleasant and the unpleasant, firm, the same in censure and praise.",
+          "commentary": "This verse describes the liberated being's complete equanimity across all dualities. External circumstances—whether painful or pleasant, valuable or worthless—create no disturbance. Internal responses—whether receiving criticism or praise—remain balanced. This stability comes from being 'self-abiding' (sva-stha), established in one's true nature."
+        },
+        "turkish": {
+          "translation": "Zevk ve acıda aynı olan, kendinde duran, toprak parçası, taş ve altının aynı olduğu; hoş ve hoş olmayan karşısında aynı olan, kararlı, kınama ve övgüde aynı olan.",
+          "commentary": "Bu ayet, kurtuluşa ermiş varlığın tüm ikililiklerdeki tam eşitliğini açıklar. Dış koşullar—acı verici veya hoş, değerli veya değersiz—hiçbir rahatsızlık yaratmaz. İç tepkiler—eleştiri veya övgü alırken—dengeli kalır. Bu istikrar, 'kendinde durmaktan' (sva-stha), gerçek doğasında yerleşmiş olmaktan gelir."
+        }
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "मानापमानयोस्तुल्यस्तुल्यो मित्रारिपक्षयोः |\nसर्वारम्भपरित्यागी गुणातीतः स उच्यते ||",
+        "transliteration": "mānāpamānayos tulyas tulyo mitrāri-pakṣayoḥ |\nsarvārambha-parityāgī guṇātītaḥ sa ucyate ||",
+        "english": {
+          "translation": "The same in honor and dishonor, the same toward friends and enemies, abandoning all undertakings—he is said to have transcended the gunas.",
+          "commentary": "The final marks of one beyond the gunas include indifference to social status (honor/dishonor) and relationships (friend/enemy). 'Abandoning all undertakings' means freedom from ego-driven initiatives, not cessation of action—such beings act spontaneously from their essential nature without personal ambition or attachment to outcomes."
+        },
+        "turkish": {
+          "translation": "Onur ve onursuzlukta aynı, dost ve düşmanlara karşı aynı, tüm girişimleri terk eden—gunaları aştığı söylenir.",
+          "commentary": "Gunaların ötesindeki kişinin son işaretleri, sosyal statüye (onur/onursuzluk) ve ilişkilere (dost/düşman) kayıtsızlığı içerir. 'Tüm girişimleri terk etme' eylem durdurma değil, ego odaklı inisiyatiflerden özgürlük anlamına gelir—bu varlıklar kişisel hırs veya sonuçlara bağlanma olmaksızın öz doğalarından kendiliğinden hareket ederler."
+        }
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "मां च योऽव्यभिचारेण भक्तियोगेन सेवते |\nस गुणान्समतीत्यैतान्ब्रह्मभूयाय कल्पते ||",
+        "transliteration": "māṁ ca yo'vyabhicāreṇa bhakti-yogena sevate |\nsa guṇān samatītyaitān brahma-bhūyāya kalpate ||",
+        "english": {
+          "translation": "And he who serves Me with unwavering devotion through bhakti yoga, transcending these gunas, is fit for attaining Brahman.",
+          "commentary": "This verse reveals the supreme means to transcend the gunas—unswerving devotion (avyabhicāra bhakti). Pure devotion naturally elevates consciousness beyond nature's qualities. Such a devotee becomes qualified for Brahman-realization, the highest spiritual attainment. Bhakti yoga thus emerges as both path and fulfillment."
+        },
+        "turkish": {
+          "translation": "Ve bana sarsılmaz bağlılıkla bhakti yoga yoluyla hizmet eden, bu gunaları aşarak Brahman'ı elde etmeye layık olur.",
+          "commentary": "Bu ayet, gunaları aşmanın en yüksek yolunu açıklar—sarsılmaz bağlılık (avyabhicāra bhakti). Saf bağlılık doğal olarak bilinci doğanın niteliklerinin ötesine yükseltir. Böyle bir bhakta Brahman-gerçekleşmesi için kalifiye olur, en yüksek ruhani başarı. Bhakti yoga böylece hem yol hem de gerçekleşme olarak ortaya çıkar."
+        }
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "ब्रह्मणो हि प्रतिष्ठाहममृतस्याव्ययस्य च |\nशाश्वतस्य च धर्मस्य सुखस्यैकान्तिकस्य च ||",
+        "transliteration": "brahmaṇo hi pratiṣṭhāham amṛtasyāvyayasya ca |\nśāśvatasya ca dharmasya sukhasyaikāntikasya ca ||",
+        "english": {
+          "translation": "For I am the abode of Brahman, the immortal and the immutable, of eternal dharma, and of absolute bliss.",
+          "commentary": "The chapter concludes with Krishna's profound declaration of his relationship to Brahman. While Brahman is the ultimate reality, Krishna (as Ishvara/Supreme Person) is its foundation and manifestation. This establishes both the impersonal Absolute and the personal Divine, resolving the apparent paradox through the concept of divine lila (play). The path of guna-transcendence leads to both Brahman-realization and union with the Supreme Person."
+        },
+        "turkish": {
+          "translation": "Çünkü Ben Brahman'ın, ölümsüz ve değişmez olanın, ebedi dharma'nın ve mutlak mutluluğun meskeniyim.",
+          "commentary": "Bölüm, Krishna'nın Brahman'la olan ilişkisine dair derin bildirisiyle sona erer. Brahman nihai gerçeklik olsa da, Krishna (Ishvara/Yüce Kişi olarak) onun temeli ve tezahürüdür. Bu, kişisel olmayan Mutlak'ı ve kişisel İlahi'yi, ilahi lila (oyun) kavramı aracılığıyla görünür paradoksu çözerek kurar. Guna-aşkınlık yolu hem Brahman-gerçekleşmesine hem de Yüce Kişi ile birliğe götürür."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "verses_translated": 27,
+    "expected_verses": 27,
+    "complete": true,
+    "missing_verses": []
+  }
+}
