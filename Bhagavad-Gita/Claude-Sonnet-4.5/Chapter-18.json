@@ -1,0 +1,537 @@
+{
+  "chapter": {
+    "number": 18,
+    "title_sanskrit": "मोक्षसंन्यासयोग",
+    "title_english": "The Yoga of Liberation through Renunciation",
+    "title_turkish": "Feragat Yoluyla Kurtuluş Yogası",
+    "total_verses": 78,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "अर्जुन उवाच। संन्यासस्य महाबाहो तत्त्वमिच्छामि वेदितुम्। त्यागस्य च हृषीकेश पृथक्केशिनिषूदन॥",
+        "transliteration": "arjuna uvāca | sannyāsasya mahā-bāho tattvam icchāmi veditum | tyāgasya ca hṛṣīkeśa pṛthak keśi-niṣūdana ||",
+        "english": {
+          "translation": "Arjuna said: O mighty-armed one, O Hrishikesha, O slayer of Keshi, I wish to understand the true nature of sannyasa (renunciation) and tyaga (relinquishment), and the distinction between them.",
+          "commentary": "As the Gita approaches its conclusion, Arjuna seeks clarification on two related but distinct concepts: sannyasa (formal renunciation of action) and tyaga (relinquishment of the fruits of action). This question sets the stage for Krishna's final, comprehensive teaching that will synthesize all previous instructions. The use of multiple names for Krishna emphasizes Arjuna's reverence and the importance of this final inquiry."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi: Ey güçlü kollu, ey Hrishikesha, ey Keshi'nin yok edicisi, sannyasa'nın (feragat) ve tyaga'nın (vazgeçiş) gerçek doğasını ve aralarındaki farkı anlamak istiyorum.",
+          "commentary": "Gita sonuna yaklaşırken, Arjuna birbiriyle ilişkili ama farklı iki kavram hakkında açıklama ister: sannyasa (eylemden resmi vazgeçiş) ve tyaga (eylemin meyvelerinden vazgeçiş). Bu soru, Krishna'nın önceki tüm öğretileri sentezleyecek olan nihai, kapsamlı öğretisinin zeminini hazırlar. Krishna için birden fazla ismin kullanılması, Arjuna'nın saygısını ve bu son sorunun önemini vurgular."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "श्रीभगवानुवाच। काम्यानां कर्मणां न्यासं संन्यासं कवयो विदुः। सर्वकर्मफलत्यागं प्राहुस्त्यागं विचक्षणाः॥",
+        "transliteration": "śrī-bhagavān uvāca | kāmyānāṁ karmaṇāṁ nyāsaṁ sannyāsaṁ kavayo viduḥ | sarva-karma-phala-tyāgaṁ prāhus tyāgaṁ vicakṣaṇāḥ ||",
+        "english": {
+          "translation": "The Blessed Lord said: The wise understand sannyasa as the renunciation of actions performed with desire for results. The learned declare tyaga as the abandonment of the fruits of all actions.",
+          "commentary": "Krishna distinguishes between sannyasa (giving up desire-motivated actions entirely) and tyaga (performing actions but renouncing attachment to their fruits). This distinction is crucial: sannyasa involves cessation of certain actions, while tyaga involves performing actions with a transformed attitude. Both paths lead to liberation, but tyaga is more practical for those engaged in worldly life, as it allows action without bondage."
+        },
+        "turkish": {
+          "translation": "Yüce Tanrı dedi: Bilgeler sannyasa'yı, sonuç arzusuyla yapılan eylemlerden vazgeçiş olarak anlar. Öğrenmiş kişiler tyaga'yı, tüm eylemlerin meyvelerini terk etme olarak açıklar.",
+          "commentary": "Krishna, sannyasa (arzu ile motive edilmiş eylemleri tamamen bırakma) ile tyaga (eylemleri gerçekleştirip meyvelerine olan bağlılığı bırakma) arasında ayrım yapar. Bu ayrım çok önemlidir: sannyasa belirli eylemlerin durmasını içerirken, tyaga eylemleri dönüştürülmüş bir tutumla gerçekleştirmeyi içerir. Her iki yol da kurtuluşa götürür, ancak tyaga dünyevi yaşama dahil olanlar için daha pratiktir çünkü bağlanmadan eyleme izin verir."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "त्याज्यं दोषवदित्येके कर्म प्राहुर्मनीषिणः। यज्ञदानतपःकर्म न त्याज्यमिति चापरे॥",
+        "transliteration": "tyājyaṁ doṣavad ity eke karma prāhur manīṣiṇaḥ | yajña-dāna-tapaḥ-karma na tyājyam iti cāpare ||",
+        "english": {
+          "translation": "Some wise ones say that all action is flawed and should be abandoned, while others maintain that acts of sacrifice, charity, and austerity should not be relinquished.",
+          "commentary": "Krishna presents two opposing philosophical viewpoints on action. Some philosophers advocate complete renunciation, viewing all action as inherently binding and imperfect. Others argue for selective action, maintaining that certain purifying activities—sacrifice (yajna), charity (dana), and austerity (tapas)—are essential for spiritual progress. This sets up Krishna's synthesis that will reconcile these views."
+        },
+        "turkish": {
+          "translation": "Bazı bilgeler tüm eylemin kusurlu olduğunu ve terk edilmesi gerektiğini söylerken, diğerleri kurban, sadaka ve çilekeşlik eylemlerinin vazgeçilmemesi gerektiğini savunur.",
+          "commentary": "Krishna eylem hakkında iki karşıt felsefi görüşü sunar. Bazı filozoflar tam feragati savunur ve tüm eylemin doğası gereği bağlayıcı ve kusurlu olduğunu görür. Diğerleri seçici eylemi savunur ve belirli arındırıcı faaliyetlerin—kurban (yajna), sadaka (dana) ve çilekeşlik (tapas)—ruhani gelişim için gerekli olduğunu söyler. Bu, Krishna'nın bu görüşleri uzlaştıracak sentezinin zeminini hazırlar."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "निश्चयं शृणु मे तत्र त्यागे भरतसत्तम। त्यागो हि पुरुषव्याघ्र त्रिविधः सम्प्रकीर्तितः॥",
+        "transliteration": "niścayaṁ śṛṇu me tatra tyāge bharata-sattama | tyāgo hi puruṣa-vyāghra tri-vidhaḥ samprakīrtitaḥ ||",
+        "english": {
+          "translation": "Hear now My conclusive view on renunciation, O best of the Bharatas. O tiger among men, renunciation has been declared to be of three kinds.",
+          "commentary": "Krishna promises to give His definitive teaching on tyaga, transcending the conflicting opinions. The metaphor 'tiger among men' acknowledges Arjuna's warrior nature and strength. The mention of three types of renunciation foreshadows the teaching that will classify actions according to the three gunas (qualities of nature): sattva (goodness), rajas (passion), and tamas (ignorance)."
+        },
+        "turkish": {
+          "translation": "Şimdi feragat konusunda benim kesin görüşümü dinle, ey Bharataların en iyisi. Ey insanlar arasında kaplan, feragatin üç türde olduğu bildirilmiştir.",
+          "commentary": "Krishna, çelişkili görüşleri aşan tyaga hakkındaki kesin öğretisini vermeye söz verir. 'İnsanlar arasında kaplan' metaforu Arjuna'nın savaşçı doğasını ve gücünü kabul eder. Üç tür feragatin bahsedilmesi, eylemleri doğanın üç gunas'ına (niteliklerine) göre sınıflandıracak öğretiyi önceden haber verir: sattva (iyilik), rajas (tutku) ve tamas (cehalet)."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "यज्ञदानतपःकर्म न त्याज्यं कार्यमेव तत्। यज्ञो दानं तपश्चैव पावनानि मनीषिणाम्॥",
+        "transliteration": "yajña-dāna-tapaḥ-karma na tyājyaṁ kāryam eva tat | yajño dānaṁ tapaś caiva pāvanāni manīṣiṇām ||",
+        "english": {
+          "translation": "Acts of sacrifice, charity, and austerity should not be abandoned but should indeed be performed; sacrifice, charity, and austerity are purifying even for the wise.",
+          "commentary": "Krishna resolves the philosophical debate by declaring that certain actions are spiritually beneficial and should be maintained. Yajna (sacrifice/worship), dana (charity), and tapas (austerity/discipline) purify the mind and heart even of advanced seekers. These actions create positive karmic impressions and develop essential virtues. The emphasis is that even the wise continue these practices, showing they're not merely for beginners."
+        },
+        "turkish": {
+          "translation": "Kurban, sadaka ve çilekeşlik eylemleri terk edilmemeli, gerçekten de yapılmalıdır; kurban, sadaka ve çilekeşlik bilgeler için bile arındırıcıdır.",
+          "commentary": "Krishna, belirli eylemlerin ruhani açıdan faydalı olduğunu ve sürdürülmesi gerektiğini bildirerek felsefi tartışmayı çözümler. Yajna (kurban/ibadet), dana (sadaka) ve tapas (çilekeşlik/disiplin) ilerlemiş arayışçıların bile zihnini ve kalbini arındırır. Bu eylemler olumlu karmik izlenimler yaratır ve temel erdemleri geliştirir. Vurgu, bilgelerin bile bu uygulamaları sürdürmesi üzerinedir, bu da bunların sadece yeni başlayanlar için olmadığını gösterir."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "एतान्यपि तु कर्माणि सङ्गं त्यक्त्वा फलानि च। कर्तव्यानीति मे पार्थ निश्चितं मतमुत्तमम्॥",
+        "transliteration": "etāny api tu karmāṇi saṅgaṁ tyaktvā phalāni ca | kartavyānīti me pārtha niścitaṁ matam uttamam ||",
+        "english": {
+          "translation": "But even these actions should be performed abandoning attachment and desire for results. This, O Partha, is My definite and supreme conviction.",
+          "commentary": "This verse presents Krishna's synthesis: perform prescribed actions (yajna, dana, tapas) but with complete detachment from outcomes. The key is not what you do, but how you do it—without selfish attachment or expectation of reward. This teaching of nishkama karma (desireless action) integrates the paths of action and renunciation. It allows one to fulfill worldly duties while remaining spiritually free, making liberation accessible to all, not just monastics."
+        },
+        "turkish": {
+          "translation": "Ancak bu eylemler bile bağlılık ve sonuç arzusu terk edilerek yapılmalıdır. İşte bu, ey Partha, benim kesin ve yüce kanaatimdir.",
+          "commentary": "Bu ayet Krishna'nın sentezini sunar: belirlenen eylemleri (yajna, dana, tapas) gerçekleştirin ama sonuçlardan tamamen kopuk olarak. Anahtar ne yaptığınız değil, nasıl yaptığınızdır—bencil bağlılık veya ödül beklentisi olmadan. Bu nishkama karma (arzusuz eylem) öğretisi, eylem ve feragat yollarını bütünleştirir. Kişinin dünyevi görevlerini yerine getirirken ruhani açıdan özgür kalmasına izin verir, kurtuluşu sadece rahiplere değil herkese erişilebilir kılar."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "नियतस्य तु संन्यासः कर्मणो नोपपद्यते। मोहात्तस्य परित्यागस्तामसः परिकीर्तितः॥",
+        "transliteration": "niyatasya tu sannyāsaḥ karmaṇo nopapadyate | mohāt tasya parityāgas tāmasaḥ parikīrtitaḥ ||",
+        "english": {
+          "translation": "But the renunciation of prescribed duties is not proper. Abandoning them out of delusion is declared to be in the mode of tamas (ignorance).",
+          "commentary": "Krishna warns against abandoning one's obligatory duties (niyata karma). Such abandonment stems from confusion about the nature of duty and spiritual life, not from genuine understanding. Duties assigned by one's position, stage of life, and innate nature should be fulfilled. Abandoning them is tamasic (ignorant) because it represents spiritual escapism rather than true renunciation. Real freedom comes through proper action, not avoidance of responsibility."
+        },
+        "turkish": {
+          "translation": "Ancak belirlenen görevlerin feragati uygun değildir. Onları yanılsamadan terk etmek tamas (cehalet) modunda olduğu bildirilir.",
+          "commentary": "Krishna kişinin zorunlu görevlerini (niyata karma) terk etmeye karşı uyarır. Bu tür bir terk etme, görev ve ruhani yaşamın doğası hakkındaki kafa karışıklığından kaynaklanır, gerçek anlayıştan değil. Kişinin konumu, yaşam evresi ve doğuştan gelen doğası tarafından belirlenen görevler yerine getirilmelidir. Onları terk etmek tamasiktir (cahilce) çünkü gerçek feragat yerine ruhani kaçışı temsil eder. Gerçek özgürlük sorumluluktan kaçınmakla değil, uygun eylemle gelir."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "दुःखमित्येव यत्कर्म कायक्लेशभयात्त्यजेत्। स कृत्वा राजसं त्यागं नैव त्यागफलं लभेत्॥",
+        "transliteration": "duḥkham ity eva yat karma kāya-kleśa-bhayāt tyajet | sa kṛtvā rājasaṁ tyāgaṁ naiva tyāga-phalaṁ labhet ||",
+        "english": {
+          "translation": "One who abandons duty because it is troublesome or out of fear of physical discomfort, performs rajasic (passionate) renunciation and does not gain the fruit of true renunciation.",
+          "commentary": "This describes rajasic renunciation—abandoning duty due to its difficulty or the effort it requires. Such renunciation is motivated by aversion, comfort-seeking, or cowardice, not spiritual understanding. It brings no real benefit because the mind remains attached to avoiding pain and seeking pleasure. True renunciation requires performing one's duties despite difficulties, while letting go of attachment to outcomes. Avoiding challenges doesn't lead to spiritual growth."
+        },
+        "turkish": {
+          "translation": "Görevi zahmetli olduğu için veya fiziksel rahatsızlık korkusuyla terk eden, rajasik (tutkulu) feragat yapar ve gerçek feragatin meyvesini elde edemez.",
+          "commentary": "Bu, rajasik feragati tanımlar—görevi zorluğu veya gerektirdiği çaba nedeniyle terk etme. Bu tür feragat, ruhani anlayıştan değil, nefretten, rahatlık arayışından veya korkaklıktan motive edilir. Gerçek bir fayda getirmez çünkü zihin acıdan kaçınmaya ve haz aramaya bağlı kalır. Gerçek feragat, zorluklara rağmen görevlerini yerine getirmeyi ve sonuçlara olan bağlılıktan vazgeçmeyi gerektirir. Zorluklardan kaçınmak ruhani gelişime yol açmaz."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "कार्यमित्येव यत्कर्म नियतं क्रियतेऽर्जुन। सङ्गं त्यक्त्वा फलं चैव स त्यागः सात्त्विको मतः॥",
+        "transliteration": "kāryam ity eva yat karma niyataṁ kriyate'rjuna | saṅgaṁ tyaktvā phalaṁ caiva sa tyāgaḥ sāttviko mataḥ ||",
+        "english": {
+          "translation": "When prescribed duty is performed, O Arjuna, only because it ought to be done, abandoning attachment and fruit, that renunciation is considered sattvic (pure).",
+          "commentary": "Sattvic renunciation represents the highest form of action: performing one's duty simply because it is right, without desire for reward or fear of consequence. This is nishkama karma in its purest form. The motivation is dharma (righteousness) itself, not personal gain. Such action purifies the heart, creates no new bondage, and gradually leads to liberation. This teaching synthesizes the yoga of action (karma yoga) with the wisdom of renunciation."
+        },
+        "turkish": {
+          "translation": "Belirlenen görev, ey Arjuna, sadece yapılması gerektiği için, bağlılık ve meyveyi terk ederek yapıldığında, o feragat sattvik (saf) kabul edilir.",
+          "commentary": "Sattvik feragat en yüksek eylem biçimini temsil eder: kişinin görevini sadece doğru olduğu için, ödül arzusu veya sonuç korkusu olmadan yerine getirmesi. Bu, en saf haliyle nishkama karma'dır. Motivasyon kişisel kazanç değil, dharma'nın (doğruluğun) kendisidir. Bu tür eylem kalbi arındırır, yeni bağ yaratmaz ve kademeli olarak kurtuluşa götürür. Bu öğreti, eylem yogasını (karma yoga) feragat bilgeliğiyle sentezler."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "न द्वेष्ट्यकुशलं कर्म कुशले नानुषज्जते। त्यागी सत्त्वसमाविष्टो मेधावी छिन्नसंशयः॥",
+        "transliteration": "na dveṣṭy akuśalaṁ karma kuśale nānuṣajjate | tyāgī sattva-samāviṣṭo medhāvī chinna-saṁśayaḥ ||",
+        "english": {
+          "translation": "The sattvic renunciate, imbued with purity, intelligent and free from doubt, neither hates disagreeable action nor is attached to agreeable action.",
+          "commentary": "This verse describes the psychological state of one established in sattvic renunciation. Such a person maintains perfect equanimity—neither avoiding unpleasant duties nor clinging to pleasant ones. Intelligence (medha) here means discriminative wisdom that sees beyond surface appearances. Freedom from doubt indicates firm conviction in the path of dharma. This state of inner balance allows one to act effectively without mental disturbance, performing all duties with equal dedication."
+        },
+        "turkish": {
+          "translation": "Sattvik feragatçi, saflıkla dolu, zeki ve şüpheden özgür, tatsız eyleme nefret etmez ne de hoş eyleme bağlanır.",
+          "commentary": "Bu ayet sattvik feragatte yerleşmiş birinin psikolojik durumunu tanımlar. Böyle bir kişi mükemmel eşitliği korur—ne hoş olmayan görevlerden kaçınır ne de hoş olanlara yapışır. Burada zeka (medha) yüzeysel görünüşlerin ötesini gören ayırt edici bilgeliği ifade eder. Şüpheden özgürlük, dharma yoluna sağlam inancı gösterir. Bu iç denge durumu, kişinin zihinsel rahatsızlık olmadan etkili bir şekilde hareket etmesine, tüm görevleri eşit adanmışlıkla yerine getirmesine izin verir."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "न हि देहभृता शक्यं त्यक्तुं कर्माण्यशेषतः। यस्तु कर्मफलत्यागी स त्यागीत्यभिधीयते॥",
+        "transliteration": "na hi deha-bhṛtā śakyaṁ tyaktuṁ karmāṇy aśeṣataḥ | yas tu karma-phala-tyāgī sa tyāgīty abhidhīyate ||",
+        "english": {
+          "translation": "It is indeed impossible for an embodied being to completely abandon all action. But one who renounces the fruits of action is truly called a renunciate.",
+          "commentary": "This crucial verse acknowledges the practical reality of embodied existence. As long as one has a body, complete cessation of all action is impossible—even breathing and metabolism are actions. Therefore, true renunciation isn't about stopping all activity but about transforming one's relationship with action by releasing attachment to results. This makes spiritual life practical and accessible to all, not requiring withdrawal from the world but a change in consciousness while engaging with it."
+        },
+        "turkish": {
+          "translation": "Bedenli bir varlığın tüm eylemi tamamen terk etmesi gerçekten imkansızdır. Ancak eylemin meyvelerinden vazgeçen gerçekten feragatçi olarak adlandırılır.",
+          "commentary": "Bu çok önemli ayet, bedensel varoluşun pratik gerçekliğini kabul eder. Kişinin bedeni olduğu sürece, tüm eylemin tamamen durması imkansızdır—nefes alma ve metabolizma bile eylemdir. Bu nedenle, gerçek feragat tüm faaliyeti durdurmakla değil, sonuçlara olan bağlılığı bırakarak kişinin eylemle ilişkisini dönüştürmekle ilgilidir. Bu, ruhani yaşamı pratik ve herkese erişilebilir kılar, dünyadan çekilmeyi değil, dünya ile etkileşim halindeyken bilinçte bir değişim gerektirir."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "अनिष्टमिष्टं मिश्रं च त्रिविधं कर्मणः फलम्। भवत्यत्यागिनां प्रेत्य न तु संन्यासिनां क्वचित्॥",
+        "transliteration": "aniṣṭam iṣṭaṁ miśraṁ ca tri-vidhaṁ karmaṇaḥ phalam | bhavaty atyāgināṁ pretya na tu sannyāsināṁ kvacit ||",
+        "english": {
+          "translation": "The threefold fruit of action—undesirable, desirable, and mixed—accrues after death to those who do not renounce. But for true renunciates, there is no such fruit whatsoever.",
+          "commentary": "Actions produce three types of karmic results: pleasant (ishta), unpleasant (anishta), and mixed. Those attached to actions and their results accumulate karmic debts that must be experienced in future lives, perpetuating the cycle of rebirth (samsara). However, those who perform actions with complete detachment from results create no new karmic bondage. Their actions, though performed, don't bind them to future consequences, allowing them to transcend the cycle of birth and death."
+        },
+        "turkish": {
+          "translation": "Eylemin üç katlı meyvesi—istenmeyen, istenen ve karışık—feragat etmeyenlere ölümden sonra düşer. Ancak gerçek feragatçiler için böyle bir meyve kesinlikle yoktur.",
+          "commentary": "Eylemler üç tür karmik sonuç üretir: hoş (ishta), hoş olmayan (anishta) ve karışık. Eylemlere ve sonuçlarına bağlı olanlar, gelecek yaşamlarda deneyimlenmesi gereken karmik borçlar biriktirir ve yeniden doğum döngüsünü (samsara) sürdürür. Ancak sonuçlardan tamamen kopuk olarak eylem gerçekleştirenler yeni karmik bağ oluşturmazlar. Eylemleri gerçekleştirilse de, onları gelecek sonuçlara bağlamaz ve doğum-ölüm döngüsünü aşmalarına izin verir."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "पञ्चैतानि महाबाहो कारणानि निबोध मे। सांख्ये कृतान्ते प्रोक्तानि सिद्धये सर्वकर्मणाम्॥",
+        "transliteration": "pañcaitāni mahā-bāho kāraṇāni nibodha me | sāṅkhye kṛtānte proktāni siddhaye sarva-karmaṇām ||",
+        "english": {
+          "translation": "O mighty-armed one, learn from Me the five factors declared in the Sankhya philosophy for the accomplishment of all actions.",
+          "commentary": "Krishna introduces a teaching from Sankhya, one of the six classical Indian philosophical systems. Understanding these five factors provides analytical insight into how actions occur. This knowledge helps one realize that the true Self (atman) is not the doer but merely the witness of actions. The reference to 'krita-anta' (conclusion of the Sankhya system) suggests this is established philosophical knowledge. This analysis will support detached action by revealing the mechanics of karma."
+        },
+        "turkish": {
+          "translation": "Ey güçlü kollu, tüm eylemlerin gerçekleşmesi için Sankhya felsefesinde bildirilen beş faktörü benden öğren.",
+          "commentary": "Krishna, altı klasik Hint felsefi sisteminden biri olan Sankhya'dan bir öğreti sunar. Bu beş faktörü anlamak, eylemlerin nasıl gerçekleştiğine dair analitik bir içgörü sağlar. Bu bilgi, kişinin gerçek Benliğin (atman) yapıcı değil sadece eylemlerin tanığı olduğunu fark etmesine yardımcı olur. 'Krita-anta'ya (Sankhya sisteminin sonucu) yapılan referans, bunun yerleşik felsefi bilgi olduğunu gösterir. Bu analiz, karmanın mekaniğini ortaya çıkararak kopuk eylemi destekleyecektir."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "अधिष्ठानं तथा कर्ता करणं च पृथग्विधम्। विविधाश्च पृथक्चेष्टा दैवं चैवात्र पञ्चमम्॥",
+        "transliteration": "adhiṣṭhānaṁ tathā kartā karaṇaṁ ca pṛthag-vidham | vividhāś ca pṛthak ceṣṭā daivaṁ caivātra pañcamam ||",
+        "english": {
+          "translation": "The body (adhishthana), the doer (karta), the various instruments (karana), the many different kinds of efforts, and the presiding deity (daiva)—these are the five factors.",
+          "commentary": "The five factors of action are: (1) adhishthana—the physical body as the locus of action; (2) karta—the ego-sense that identifies as the doer; (3) karana—the instruments including sense organs and mind; (4) cheshta—various physical and mental efforts; (5) daiva—the unseen forces, divine will, or destiny. Understanding these factors helps one see that action is a complex process involving many elements beyond individual will. This knowledge cultivates humility and reduces ego-identification with actions."
+        },
+        "turkish": {
+          "translation": "Beden (adhishthana), yapıcı (karta), çeşitli aletler (karana), birçok farklı türde çaba ve yöneten tanrı (daiva)—bunlar beş faktördür.",
+          "commentary": "Eylemin beş faktörü şunlardır: (1) adhishthana—eylemin yeri olarak fiziksel beden; (2) karta—yapıcı olarak tanımlanan ego duygusu; (3) karana—duyu organları ve zihni içeren aletler; (4) cheshta—çeşitli fiziksel ve zihinsel çabalar; (5) daiva—görünmeyen güçler, ilahi irade veya kader. Bu faktörleri anlamak, kişinin eylemin bireysel iradenin ötesinde birçok unsuru içeren karmaşık bir süreç olduğunu görmesine yardımcı olur. Bu bilgi alçakgönüllülük geliştirir ve eylemlerle ego özdeşleşmesini azaltır."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "शरीरवाङ्मनोभिर्यत्कर्म प्रारभते नरः। न्याय्यं वा विपरीतं वा पञ्चैते तस्य हेतवः॥",
+        "transliteration": "śarīra-vāṅ-manobhir yat karma prārabhate naraḥ | nyāyyaṁ vā viparītaṁ vā pañcaite tasya hetavaḥ ||",
+        "english": {
+          "translation": "Whatever action a person performs with body, speech, or mind—whether right or wrong—these five are its causes.",
+          "commentary": "All actions, regardless of their moral quality, involve these five factors. Whether one performs righteous deeds or wrongful acts, the mechanism remains the same. This teaching emphasizes that the true Self is beyond the machinery of action—it merely witnesses. Understanding this helps develop detachment: one can fulfill duties without ego-identification. The mention of body, speech, and mind indicates these three channels through which karma is created and must be purified through right action, speech, and thought."
+        },
+        "turkish": {
+          "translation": "Bir kişinin beden, konuşma veya zihinle yaptığı her eylem—doğru veya yanlış olsun—bu beş onun nedenleridir.",
+          "commentary": "Tüm eylemler, ahlaki nitelikleri ne olursa olsun, bu beş faktörü içerir. İster doğru işler yapılsın ister yanlış, mekanizma aynı kalır. Bu öğreti, gerçek Benliğin eylemin mekanizmasının ötesinde olduğunu—sadece tanık olduğunu—vurgular. Bunu anlamak, kopukluğun gelişmesine yardımcı olur: kişi ego özdeşleşmesi olmadan görevlerini yerine getirebilir. Beden, konuşma ve zihnin bahsedilmesi, karmanın oluşturulduğu ve doğru eylem, konuşma ve düşünce yoluyla arındırılması gereken bu üç kanalı gösterir."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "तत्रैवं सति कर्तारमात्मानं केवलं तु यः। पश्यत्यकृतबुद्धित्वान्न स पश्यति दुर्मतिः॥",
+        "transliteration": "tatraivaṁ sati kartāram ātmānaṁ kevalaṁ tu yaḥ | paśyaty akṛta-buddhitvān na sa paśyati durmatiḥ ||",
+        "english": {
+          "translation": "This being the case, one who, due to imperfect understanding, sees the pure Self alone as the doer, does not truly see—such a person is of perverted intelligence.",
+          "commentary": "Despite the analysis showing action involves five factors, one who ignorantly believes the Self (atman) is the sole doer fails to understand reality. The Self is actually untouched by action, which occurs at the level of body-mind-ego. This misidentification—thinking 'I am the doer'—is the root of bondage. It causes pride in success and despair in failure. True understanding recognizes: the Self witnesses while nature's qualities perform actions. This knowledge frees one from the false burden of doership."
+        },
+        "turkish": {
+          "translation": "Bu durumda, kusurlu anlayış nedeniyle saf Benliği tek başına yapıcı olarak gören, gerçekten görmez—böyle bir kişi çarpık zekaya sahiptir.",
+          "commentary": "Analizin eylemin beş faktör içerdiğini göstermesine rağmen, cahilce Benliğin (atman) tek yapıcı olduğuna inanan gerçekliği anlamaz. Benlik aslında eylemden etkilenmez, eylem beden-zihin-ego düzeyinde gerçekleşir. Bu yanlış özdeşleşme—'ben yapıcıyım' düşüncesi—bağlanmanın köküdür. Başarıda gurura, başarısızlıkta umutsuzluğa neden olur. Gerçek anlayış şunu fark eder: Benlik tanık olurken doğanın nitelikleri eylemleri gerçekleştirir. Bu bilgi, kişiyi yapıcılığın yanlış yükünden kurtarır."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "यस्य नाहंकृतो भावो बुद्धिर्यस्य न लिप्यते। हत्वापि स इमाँल्लोकान्न हन्ति न निबध्यते॥",
+        "transliteration": "yasya nāhaṅkṛto bhāvo buddhir yasya na lipyate | hatvāpi sa imām̐l lokān na hanti na nibadhyate ||",
+        "english": {
+          "translation": "One who is free from the ego-sense of being the doer and whose intelligence is not tainted—even if he kills these people, he does not truly kill, nor is he bound.",
+          "commentary": "This profound verse addresses Arjuna's specific dilemma about warfare while stating a universal principle. When action is performed without ego-identification and attachment, it creates no karmic bondage—even actions that appear violent. The key is inner purity and freedom from the sense of personal doership. Krishna is not advocating violence but explaining that those established in Self-knowledge act as instruments of cosmic justice without personal karma. This applies to Arjuna's dharmic duty as a warrior but also to all who act without ego."
+        },
+        "turkish": {
+          "translation": "Yapıcı olma ego duygusundan özgür olan ve zekası kirlenmemiş olan—bu insanları öldürse bile, gerçekten öldürmez ve bağlanmaz.",
+          "commentary": "Bu derin ayet, Arjuna'nın savaş hakkındaki özel ikilemini ele alırken evrensel bir ilkeyi belirtir. Eylem ego özdeşleşmesi ve bağlılık olmadan gerçekleştirildiğinde, karmik bağ oluşturmaz—şiddetli görünen eylemler bile. Anahtar iç saflık ve kişisel yapıcılık duygusundan özgürlüktür. Krishna şiddeti savunmuyor, Benlik-bilgisinde yerleşmiş olanların kişisel karma olmadan kozmik adaletin araçları olarak hareket ettiğini açıklıyor. Bu, Arjuna'nın bir savaşçı olarak dharmik görevine uygulanır ama aynı zamanda ego olmadan hareket eden herkese de uygulanır."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "ज्ञानं ज्ञेयं परिज्ञाता त्रिविधा कर्मचोदना। करणं कर्म कर्तेति त्रिविधः कर्मसंग्रहः॥",
+        "transliteration": "jñānaṁ jñeyaṁ parijñātā tri-vidhā karma-codanā | karaṇaṁ karma karteti tri-vidhaḥ karma-saṅgrahaḥ ||",
+        "english": {
+          "translation": "Knowledge, the object of knowledge, and the knower—these three constitute the threefold impetus to action. The instrument, the action, and the doer—these three constitute the threefold basis of action.",
+          "commentary": "Krishna presents two triads that structure all action. The impetus (motivation) triad: (1) jnana—knowledge or awareness; (2) jneya—the object to be known; (3) parijnata—the knower or subject. The action triad: (1) karana—instruments/means; (2) karma—the action itself; (3) karta—the doer. Understanding these components helps one see action objectively rather than through ego-identification. This analytical framework, drawn from Sankhya philosophy, supports the development of detachment by revealing action's true nature."
+        },
+        "turkish": {
+          "translation": "Bilgi, bilgi nesnesi ve bilen—bunlar üç katlı eylem itici gücünü oluşturur. Alet, eylem ve yapıcı—bunlar üç katlı eylem temelini oluşturur.",
+          "commentary": "Krishna tüm eylemi yapılandıran iki üçlü sunar. İtici güç (motivasyon) üçlüsü: (1) jnana—bilgi veya farkındalık; (2) jneya—bilinecek nesne; (3) parijnata—bilen veya özne. Eylem üçlüsü: (1) karana—araçlar/vasıtalar; (2) karma—eylemin kendisi; (3) karta—yapıcı. Bu bileşenleri anlamak, kişinin eylemi ego özdeşleşmesi yerine nesnel olarak görmesine yardımcı olur. Sankhya felsefesinden alınan bu analitik çerçeve, eylemin gerçek doğasını ortaya çıkararak kopukluğun gelişimini destekler."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "ज्ञानं कर्म च कर्ता च त्रिधैव गुणभेदतः। प्रोच्यते गुणसंख्याने यथावच्छृणु तान्यपि॥",
+        "transliteration": "jñānaṁ karma ca kartā ca tridhaiva guṇa-bhedataḥ | procyate guṇa-saṅkhyāne yathāvac chṛṇu tāny api ||",
+        "english": {
+          "translation": "Knowledge, action, and the doer are said to be of three kinds according to the distinction of the gunas. Hear about these also, as they are described in the science of the gunas.",
+          "commentary": "Krishna transitions to analyzing knowledge, action, and the actor according to the three gunas (modes of nature): sattva (purity/goodness), rajas (passion/activity), and tamas (ignorance/inertia). This framework will help Arjuna—and all seekers—discern the quality of their understanding and actions. The 'science of the gunas' (guna-sankhyane) refers to the systematic understanding of how these three fundamental qualities shape all phenomena in the manifest world. This classification provides practical guidance for spiritual progress."
+        },
+        "turkish": {
+          "translation": "Bilgi, eylem ve yapıcının, gunaların ayrımına göre üç türde olduğu söylenir. Gunaların biliminde tanımlandığı gibi, bunları da tam olarak dinle.",
+          "commentary": "Krishna, bilgi, eylem ve aktörü doğanın üç gunas'ına (modlarına) göre analiz etmeye geçiş yapar: sattva (saflık/iyilik), rajas (tutku/aktivite) ve tamas (cehalet/atalet). Bu çerçeve Arjuna'nın—ve tüm arayışçıların—anlayışlarının ve eylemlerinin kalitesini ayırt etmelerine yardımcı olacaktır. 'Gunaların bilimi' (guna-sankhyane) bu üç temel niteliğin tezahür dünyasındaki tüm fenomenleri nasıl şekillendirdiğinin sistematik anlayışını ifade eder. Bu sınıflandırma ruhani ilerleme için pratik rehberlik sağlar."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "सर्वभूतेषु येनैकं भावमव्ययमीक्षते। अविभक्तं विभक्तेषु तज्ज्ञानं विद्धि सात्त्विकम्॥",
+        "transliteration": "sarva-bhūteṣu yenaikaṁ bhāvam avyayam īkṣate | avibhaktaṁ vibhakteṣu taj jñānaṁ viddhi sāttvikam ||",
+        "english": {
+          "translation": "Know that knowledge to be sattvic by which one sees the imperishable, undivided reality in all beings, the unity within diversity.",
+          "commentary": "Sattvic knowledge is the highest—it perceives the underlying unity (ekam bhavam) behind all diversity. This is the direct perception of Brahman, the one reality underlying all existence. Despite the apparent multiplicity of forms, beings, and phenomena, sattvic knowledge recognizes the same eternal essence (avyayam) in all. This non-dualistic vision is the foundation of true wisdom and compassion, as one sees the Self in all and all in the Self. Such knowledge naturally leads to liberation."
+        },
+        "turkish": {
+          "translation": "Tüm varlıklarda bölünmez, değişmez gerçekliği, çeşitlilik içinde birliği gören bilginin sattvik olduğunu bil.",
+          "commentary": "Sattvik bilgi en yüksektir—tüm çeşitliliğin arkasındaki temel birliği (ekam bhavam) algılar. Bu, tüm varoluşun altında yatan tek gerçeklik olan Brahman'ın doğrudan algısıdır. Biçimlerin, varlıkların ve fenomenlerin görünür çokluğuna rağmen, sattvik bilgi hepsinde aynı ebedi özü (avyayam) tanır. Bu ikili olmayan vizyon, gerçek bilgeliğin ve merhamentin temelidir, çünkü kişi herkeste Benliği ve Benlikte herkesi görür. Bu tür bilgi doğal olarak kurtuluşa götürür."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "पृथक्त्वेन तु यज्ज्ञानं नानाभावान्पृथग्विधान्। वेत्ति सर्वेषु भूतेषु तज्ज्ञानं विद्धि राजसम्॥",
+        "transliteration": "pṛthaktvena tu yaj jñānaṁ nānā-bhāvān pṛthag-vidhān | vetti sarveṣu bhūteṣu taj jñānaṁ viddhi rājasam ||",
+        "english": {
+          "translation": "But that knowledge which sees various separate existences in all beings as distinct and different from one another—know that knowledge to be rajasic.",
+          "commentary": "Rajasic knowledge perceives multiplicity without unity. It recognizes diversity but fails to see the underlying oneness connecting all beings. This fragmented vision leads to discrimination, competition, and separation. While not false (differences do exist at the phenomenal level), this knowledge is incomplete because it misses the deeper truth. It's motivated by passion and desires, seeing beings as means to personal ends. Such knowledge keeps one bound to dualistic thinking and ego-centered perception."
+        },
+        "turkish": {
+          "translation": "Ancak tüm varlıklarda çeşitli ayrı varlıkları birbirinden farklı ve ayrı olarak gören bilgi—o bilginin rajasik olduğunu bil.",
+          "commentary": "Rajasik bilgi birlik olmadan çokluğu algılar. Çeşitliliği tanır ama tüm varlıkları birbirine bağlayan temel birliği göremez. Bu parçalı vizyon ayrımcılığa, rekabete ve ayrılığa yol açar. Yanlış olmasa da (farklılıklar fenomenal düzeyde var), bu bilgi eksiktir çünkü daha derin gerçeği kaçırır. Tutku ve arzularla motive edilir, varlıkları kişisel amaçlara ulaşmak için araç olarak görür. Bu tür bilgi kişiyi ikili düşünceye ve ego-merkezli algıya bağlı tutar."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "यत्तु कृत्स्नवदेकस्मिन्कार्ये सक्तमहैतुकम्। अतत्त्वार्थवदल्पं च तत्तामसमुदाहृतम्॥",
+        "transliteration": "yat tu kṛtsnavad ekasmin kārye saktam ahaitukam | atattva-arthavad alpaṁ ca tat tāmasam udāhṛtam ||",
+        "english": {
+          "translation": "But that knowledge which clings to one single effect as if it were the whole, without reason, without foundation in truth, and trivial—that is declared to be tamasic.",
+          "commentary": "Tamasic knowledge is the most limited—it fixates on a single aspect while ignoring the broader reality. It's characterized by irrationality (ahaitukam), falsehood (atattvarthavat), and narrowness (alpam). Examples include superstition, prejudice, or obsessive attachment to one idea while rejecting all else. This knowledge is 'without foundation in truth' because it mistakes the part for the whole. It keeps one in ignorance and darkness, preventing spiritual growth and leading to harmful actions based on false understanding."
+        },
+        "turkish": {
+          "translation": "Ancak tek bir etkiye sanki bütünmüş gibi yapışan, sebepsiz, gerçekte temeli olmayan ve önemsiz olan bilgi—o tamasik olarak bildirilir.",
+          "commentary": "Tamasik bilgi en sınırlıdır—daha geniş gerçekliği görmezden gelerek tek bir yöne takılır. İrrasyonellik (ahaitukam), yanlışlık (atattvarthavat) ve darlık (alpam) ile karakterize edilir. Örnekler arasında batıl inanç, önyargı veya diğer her şeyi reddederken bir fikre takıntılı bağlılık vardır. Bu bilgi 'gerçekte temeli olmayan'dır çünkü parçayı bütün için yanlış anlar. Kişiyi cehalet ve karanlıkta tutar, ruhani gelişimi engeller ve yanlış anlayışa dayalı zararlı eylemlere yol açar."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "नियतं सङ्गरहितमरागद्वेषतः कृतम्। अफलप्रेप्सुना कर्म यत्तत्सात्त्विकमुच्यते॥",
+        "transliteration": "niyataṁ saṅga-rahitam arāga-dveṣataḥ kṛtam | aphala-prepsunā karma yat tat sāttvikam ucyate ||",
+        "english": {
+          "translation": "Action that is prescribed by duty, performed without attachment, without attraction or aversion, by one not desirous of fruit—that action is said to be sattvic.",
+          "commentary": "Sattvic action represents the ideal: performing one's prescribed duty (niyatam) with complete equanimity—free from attachment (sanga-rahitam), likes and dislikes (araga-dveshatah), and desire for results (aphala-prepsuna). This is nishkama karma perfected. Such action purifies the heart, creates no karmic bondage, and leads to liberation. The motivation is dharma itself, not personal gain. This teaching integrates duty with detachment, making spiritual practice compatible with worldly responsibilities."
+        },
+        "turkish": {
+          "translation": "Görev tarafından belirlenen, bağlılık olmadan, çekim veya tiksinti olmadan, meyve arzusu olmayan biri tarafından yapılan eylem—o eylem sattvik olarak söylenir.",
+          "commentary": "Sattvik eylem ideali temsil eder: belirlenen görevini (niyatam) tam bir eşitlikle yerine getirmek—bağlılıktan (sanga-rahitam), beğeni ve beğenmemeden (araga-dveshatah) ve sonuç arzusundan (aphala-prepsuna) özgür. Bu, mükemmelleştirilmiş nishkama karma'dır. Bu tür eylem kalbi arındırır, karmik bağ oluşturmaz ve kurtuluşa götürür. Motivasyon kişisel kazanç değil, dharma'nın kendisidir. Bu öğreti görevi kopuklukla bütünleştirir ve ruhani uygulamayı dünyevi sorumluluklar ile uyumlu kılar."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "यत्तु कामेप्सुना कर्म साहङ्कारेण वा पुनः। क्रियते बहुलायासं तद्राजसमुदाहृतम्॥",
+        "transliteration": "yat tu kāmepsunā karma sāhaṅkāreṇa vā punaḥ | kriyate bahulāyāsaṁ tad rājasam udāhṛtam ||",
+        "english": {
+          "translation": "But action performed with great effort by one seeking to gratify desires and motivated by egotism—that is declared to be rajasic.",
+          "commentary": "Rajasic action is driven by personal desires (kamepsuna) and ego (sahankarena). It involves much strain and struggle (bahulayasam) because it's fueled by passion, ambition, and the need for recognition. While such action may achieve worldly results, it creates karmic bondage and mental agitation. The actor remains attached to outcomes, experiencing elation in success and depression in failure. This passionate, ego-driven action characterizes much worldly activity but perpetuates the cycle of desire and suffering."
+        },
+        "turkish": {
+          "translation": "Ancak arzuları tatmin etmek isteyen ve egoizm tarafından motive edilen biri tarafından büyük çabayla yapılan eylem—o rajasik olarak bildirilir.",
+          "commentary": "Rajasik eylem kişisel arzular (kamepsuna) ve ego (sahankarena) tarafından yönlendirilir. Tutku, hırs ve tanınma ihtiyacı ile körüklendiği için çok fazla gerginlik ve mücadele (bahulayasam) içerir. Bu tür eylem dünyevi sonuçlar elde edebilse de, karmik bağ ve zihinsel ajitasyon yaratır. Aktör sonuçlara bağlı kalır, başarıda coşku ve başarısızlıkta depresyon yaşar. Bu tutkulu, ego-odaklı eylem çoğu dünyevi faaliyeti karakterize eder ama arzu ve acı döngüsünü sürdürür."
+        }
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "अनुबन्धं क्षयं हिंसामनपेक्ष्य च पौरुषम्। मोहादारभ्यते कर्म यत्तत्तामसमुच्यते॥",
+        "transliteration": "anubandhaṁ kṣayaṁ hiṁsām anapekṣya ca pauruṣam | mohād ārabhyate karma yat tat tāmasam ucyate ||",
+        "english": {
+          "translation": "Action that is undertaken from delusion, disregarding consequences, loss, injury, and one's own ability—that is said to be tamasic.",
+          "commentary": "Tamasic action is the most harmful—born from ignorance (mohad) and characterized by complete disregard for consequences (anubandham), destruction (kshayam), violence (himsam), and one's own capacity (paurusham). Such action is reckless, destructive, and irrational. It harms oneself and others while producing no positive outcome. Examples include actions driven by blind anger, addiction, or stupidity. This represents action at its most degraded level, arising from darkness of mind and leading to further suffering."
+        },
+        "turkish": {
+          "translation": "Yanılsamadan başlatılan, sonuçları, kaybı, yaralanmayı ve kişinin kendi yeteneğini görmezden gelen eylem—o tamasik olarak söylenir.",
+          "commentary": "Tamasik eylem en zararlıdır—cehaletten (mohad) doğar ve sonuçlara (anubandham), yıkıma (kshayam), şiddete (himsam) ve kişinin kendi kapasitesine (paurusham) tam bir kayıtsızlıkla karakterize edilir. Bu tür eylem pervasız, yıkıcı ve irrasyoneldir. Kendine ve başkalarına zarar verir ve olumlu bir sonuç üretmez. Örnekler arasında kör öfke, bağımlılık veya aptallıktan kaynaklanan eylemler vardır. Bu, eylemin en aşağılanmış düzeyini temsil eder, zihnin karanlığından doğar ve daha fazla acıya yol açar."
+        }
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "मुक्तसङ्गोऽनहंवादी धृत्युत्साहसमन्वितः। सिद्ध्यसिद्ध्योर्निर्विकारः कर्ता सात्त्विक उच्यते॥",
+        "transliteration": "mukta-saṅgo'nahaṁvādī dhṛty-utsāha-samanvitaḥ | siddhy-asiddhyor nirvikāraḥ kartā sāttvika ucyate ||",
+        "english": {
+          "translation": "The doer who is free from attachment, without ego, endowed with determination and enthusiasm, and unaffected by success or failure—such a doer is called sattvic.",
+          "commentary": "The sattvic actor embodies ideal qualities: freedom from attachment (mukta-sanga), absence of ego (anahavadi), steady determination (dhriti), enthusiastic effort (utsaha), and equanimity in all outcomes (siddhy-asiddhyor nirvikarah). This person acts effectively without inner turbulence, maintaining balance through all circumstances. The combination of detachment with enthusiasm is key—one remains fully engaged without emotional dependence on results. This represents the perfection of karma yoga, where duty is performed with full energy but no anxiety."
+        },
+        "turkish": {
+          "translation": "Bağlılıktan özgür, egosuz, kararlılık ve coşku ile donanmış ve başarı veya başarısızlıktan etkilenmeyen yapıcı—böyle bir yapıcı sattvik olarak adlandırılır.",
+          "commentary": "Sattvik aktör ideal nitelikleri somutlaştırır: bağlılıktan özgürlük (mukta-sanga), egonun yokluğu (anahavadi), kararlı azim (dhriti), coşkulu çaba (utsaha) ve tüm sonuçlarda eşitlik (siddhy-asiddhyor nirvikarah). Bu kişi iç çalkantı olmadan etkili bir şekilde hareket eder, tüm koşullarda dengeyi korur. Kopukluk ile coşkunun kombinasyonu anahtardır—kişi sonuçlara duygusal bağımlılık olmadan tamamen meşgul kalır. Bu, görevin tam enerji ile ama kaygı olmadan yerine getirildiği karma yoganın mükemmelliğini temsil eder."
+        }
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "रागी कर्मफलप्रेप्सुर्लुब्धो हिंसात्मकोऽशुचिः। हर्षशोकान्वितः कर्ता राजसः परिकीर्तितः॥",
+        "transliteration": "rāgī karma-phala-prepsur lubdho hiṁsātmako'śuciḥ | harṣa-śokānvitaḥ kartā rājasaḥ parikīrtitaḥ ||",
+        "english": {
+          "translation": "The doer who is passionate, seeking fruits of action, greedy, violent, impure, and moved by joy and sorrow—such a doer is said to be rajasic.",
+          "commentary": "The rajasic actor is controlled by emotions and desires: passion (ragi), craving for results (karma-phala-prepsuh), greed (lubdhah), violence (himsatmakah), impurity of motive (asuchih), and emotional swings between elation and depression (harsha-shokanvitah). This person's actions are driven by self-interest and generate stress through attachment to outcomes. While capable of achieving goals, such an actor experiences constant agitation and creates karmic bondage. This describes much ordinary worldly behavior motivated by personal gain."
+        },
+        "turkish": {
+          "translation": "Tutkulu, eylemin meyvelerini arayan, açgözlü, şiddetli, kirli ve sevinç ve kederle harekete geçen yapıcı—böyle bir yapıcı rajasik olarak söylenir.",
+          "commentary": "Rajasik aktör duygular ve arzular tarafından kontrol edilir: tutku (ragi), sonuç özlemi (karma-phala-prepsuh), açgözlülük (lubdhah), şiddet (himsatmakah), motifin saflıksızlığı (asuchih) ve coşku ile depresyon arasındaki duygusal dalgalanmalar (harsha-shokanvitah). Bu kişinin eylemleri kişisel çıkar tarafından yönlendirilir ve sonuçlara bağlılık yoluyla stres üretir. Hedeflere ulaşmakta yetenekli olsa da, böyle bir aktör sürekli ajitasyon yaşar ve karmik bağ oluşturur. Bu, kişisel kazançla motive edilen çoğu sıradan dünyevi davranışı tanımlar."
+        }
+      },
+      {
+        "verse_number": 28,
+        "sanskrit": "अयुक्तः प्राकृतः स्तब्धः शठो नैष्कृतिकोऽलसः। विषादी दीर्घसूत्री च कर्ता तामस उच्यते॥",
+        "transliteration": "ayuktaḥ prākṛtaḥ stabdhaḥ śaṭho naiṣkṛtiko'lasaḥ | viṣādī dīrgha-sūtrī ca kartā tāmasa ucyate ||",
+        "english": {
+          "translation": "The doer who is undisciplined, vulgar, obstinate, deceitful, malicious, lazy, despondent, and procrastinating—such a doer is called tamasic.",
+          "commentary": "The tamasic actor embodies negative qualities: lack of discipline (ayuktah), crudeness (prakritah), stubbornness (stabdhah), deceitfulness (shathah), malice (naishkritikah), laziness (alasah), depression (visadi), and chronic procrastination (dirgha-sutri). This person fails to fulfill duties, harms others through deception, and remains stuck in ignorance. Such an actor creates suffering for themselves and others while making no spiritual progress. These characteristics represent action at its most degraded, arising from deep ignorance and leading nowhere."
+        },
+        "turkish": {
+          "translation": "Disiplinsiz, kaba, inatçı, aldatıcı, kötü niyetli, tembel, umutsuz ve erteleyici yapıcı—böyle bir yapıcı tamasik olarak adlandırılır.",
+          "commentary": "Tamasik aktör olumsuz nitelikleri somutlaştırır: disiplin eksikliği (ayuktah), kabalık (prakritah), inatçılık (stabdhah), aldatıcılık (shathah), kötü niyet (naishkritikah), tembellik (alasah), depresyon (visadi) ve kronik erteleme (dirgha-sutri). Bu kişi görevlerini yerine getirmede başarısız olur, aldatma yoluyla başkalarına zarar verir ve cehalette sıkışıp kalır. Böyle bir aktör kendisi ve başkaları için acı yaratır ve hiçbir ruhani ilerleme kaydetmez. Bu özellikler, derin cehaletten doğan ve hiçbir yere gitmeyen eylemin en aşağılanmış halini temsil eder."
+        }
+      },
+      {
+        "verse_number": 29,
+        "sanskrit": "बुद्धेर्भेदं धृतेश्चैव गुणतस्त्रिविधं शृणु। प्रोच्यमानमशेषेण पृथक्त्वेन धनञ्जय॥",
+        "transliteration": "buddher bhedaṁ dhṛteś caiva guṇatas tri-vidhaṁ śṛṇu | procyamānam aśeṣeṇa pṛthaktvena dhanañjaya ||",
+        "english": {
+          "translation": "Now hear from Me, O Dhananjaya, the threefold distinction of intellect and determination according to the gunas, as I explain them completely and separately.",
+          "commentary": "Krishna now turns to analyzing buddhi (intellect/understanding) and dhriti (determination/steadfastness) according to the three gunas. These are crucial faculties for spiritual life: intellect discriminates between right and wrong, real and unreal, while determination provides the strength to follow through on understanding. By classifying these according to the gunas, Krishna provides a tool for self-assessment and guidance for developing higher qualities. The name Dhananjaya (winner of wealth) reminds Arjuna of his capacity for achievement."
+        },
+        "turkish": {
+          "translation": "Şimdi benden, ey Dhananjaya, zekanın ve kararlılığın gunas'a göre üç katlı ayrımını dinle, onları tamamen ve ayrı ayrı açıklarken.",
+          "commentary": "Krishna şimdi buddhi'yi (zeka/anlayış) ve dhriti'yi (kararlılık/sebat) üç gunas'a göre analiz etmeye geçer. Bunlar ruhani yaşam için çok önemli yeteneklerdir: zeka doğru ile yanlışı, gerçek ile gerçek olmayanı ayırırken, kararlılık anlayışı takip etme gücünü sağlar. Bunları gunas'a göre sınıflandırarak, Krishna öz değerlendirme için bir araç ve daha yüksek nitelikleri geliştirmek için rehberlik sağlar. Dhananjaya (zenginlik kazanan) ismi Arjuna'ya başarı kapasitesini hatırlatır."
+        }
+      },
+      {
+        "verse_number": 30,
+        "sanskrit": "प्रवृत्तिं च निवृत्तिं च कार्याकार्ये भयाभये। बन्धं मोक्षं च या वेत्ति बुद्धिः सा पार्थ सात्त्विकी॥",
+        "transliteration": "pravṛttiṁ ca nivṛttiṁ ca kāryākārye bhayābhaye | bandhaṁ mokṣaṁ ca yā vetti buddhiḥ sā pārtha sāttvikī ||",
+        "english": {
+          "translation": "That intellect which knows what is action and what is renunciation, what ought to be done and what ought not to be done, what is to be feared and what is not to be feared, what binds and what liberates—that intellect, O Partha, is sattvic.",
+          "commentary": "Sattvic intellect possesses complete discrimination regarding the fundamental questions of life. It understands: pravritti (action/engagement) vs. nivritti (withdrawal/renunciation); what actions are dharmic vs. adharmic; legitimate vs. illegitimate fears; and most importantly, what leads to bondage vs. liberation. This comprehensive understanding guides one correctly through life's complexities. Such intellect sees reality clearly, unclouded by desire or delusion, and naturally leads the person toward spiritual freedom."
+        },
+        "turkish": {
+          "translation": "Eylemin ne olduğunu ve feragatin ne olduğunu, yapılması gerekeni ve yapılmaması gerekeni, korkulması gerekeni ve korkulmaması gerekeni, neyin bağladığını ve neyin özgürleştirdiğini bilen zeka—o zeka, ey Partha, sattviktir.",
+          "commentary": "Sattvik zeka, yaşamın temel soruları hakkında tam ayrımcılığa sahiptir. Şunları anlar: pravritti (eylem/meşguliyet) vs. nivritti (geri çekilme/feragat); hangi eylemlerin dharmik vs. adharmik olduğu; meşru vs. gayri meşru korkular; ve en önemlisi, neyin bağlanmaya vs. kurtuluşa götürdüğü. Bu kapsamlı anlayış, kişiyi yaşamın karmaşıklıkları boyunca doğru bir şekilde yönlendirir. Bu tür zeka, arzu veya yanılsama tarafından gölgelenmeden gerçekliği açıkça görür ve doğal olarak kişiyi ruhani özgürlüğe doğru yönlendirir."
+        }
+      },
+      {
+        "verse_number": 31,
+        "sanskrit": "यया धर्ममधर्मं च कार्यं चाकार्यमेव च। अयथावत्प्रजानाति बुद्धिः सा पार्थ राजसी॥",
+        "transliteration": "yayā dharmam adharmaṁ ca kāryaṁ cākāryam eva ca | ayathāvat prajānāti buddhiḥ sā pārtha rājasī ||",
+        "english": {
+          "translation": "That intellect by which one incorrectly understands dharma and adharma, what ought to be done and what ought not to be done—that intellect, O Partha, is rajasic.",
+          "commentary": "Rajasic intellect is distorted by passion and self-interest—it confuses right with wrong (ayathavat prajanati). While possessing reasoning capacity, it's clouded by desires and rationalizes unethical actions to serve personal ends. This intellect justifies what benefits oneself while condemning the same behavior in others. It lacks the clarity of sattvic understanding because attachment to results and ego-identification prevent objective discrimination. Such intellect leads one astray despite apparent intelligence, prioritizing pleasure and profit over dharma."
+        },
+        "turkish": {
+          "translation": "Dharma ve adharma'yı, yapılması gerekeni ve yapılmaması gerekeni yanlış anlayan zeka—o zeka, ey Partha, rajasiktir.",
+          "commentary": "Rajasik zeka tutku ve kişisel çıkar tarafından çarpıtılır—doğru ile yanlışı karıştırır (ayathavat prajanati). Muhakeme kapasitesine sahip olsa da, arzular tarafından gölgelenir ve kişisel amaçlara hizmet etmek için etik olmayan eylemleri haklı çıkarır. Bu zeka kendine fayda sağlayanı haklı çıkarırken başkalarında aynı davranışı kınar. Sonuçlara bağlılık ve ego özdeşleşmesi nesnel ayrımcılığı engellediği için sattvik anlayışın netliğinden yoksundur. Bu tür zeka, görünür zekaya rağmen kişiyi yanlış yönlendirir, dharma'dan önce haz ve karı önceliklendirir."
+        }
+      },
+      {
+        "verse_number": 32,
+        "sanskrit": "अधर्मं धर्ममिति या मन्यते तमसावृता। सर्वार्थान्विपरीतांश्च बुद्धिः सा पार्थ तामसी॥",
+        "transliteration": "adharmaṁ dharmam iti yā manyate tamasāvṛtā | sarvārthān viparītāṁś ca buddhiḥ sā pārtha tāmasī ||",
+        "english": {
+          "translation": "That intellect which, enveloped in darkness, imagines adharma to be dharma and sees all things in a perverted way—that intellect, O Partha, is tamasic.",
+          "commentary": "Tamasic intellect represents complete inversion of truth—it mistakes wrong for right (adharma as dharma) and sees everything backwards (viparitamsh). Shrouded in ignorance (tamasavrita), this intellect is beyond mere confusion; it actively inverts reality. This is the state of deep delusion where evil appears good, bondage seems like freedom, and destruction looks like progress. Such intellect leads to self-destruction and harm to others. It cannot guide one toward any positive end, being fundamentally disconnected from reality."
+        },
+        "turkish": {
+          "translation": "Karanlığa sarılı, adharma'yı dharma olarak hayal eden ve her şeyi çarpık bir şekilde gören zeka—o zeka, ey Partha, tamasiktir.",
+          "commentary": "Tamasik zeka gerçeğin tam tersine dönüşünü temsil eder—yanlışı doğru için (adharma'yı dharma olarak) yanlış anlar ve her şeyi ters görür (viparitamsh). Cehalette gömülü (tamasavrita), bu zeka sadece kafa karışıklığının ötesindedir; aktif olarak gerçekliği tersine çevirir. Bu, kötülüğün iyi göründüğü, bağlanmanın özgürlük gibi göründüğü ve yıkımın ilerleme gibi göründüğü derin yanılsamanın durumudur. Bu tür zeka kendini yıkıma ve başkalarına zarara götürür. Gerçeklikten temelde kopuk olduğu için kişiyi herhangi bir olumlu hedefe yönlendiremez."
+        }
+      },
+      {
+        "verse_number": 33,
+        "sanskrit": "धृत्या यया धारयते मनःप्राणेन्द्रियक्रियाः। योगेनाव्यभिचारिण्या धृतिः सा पार्थ सात्त्विकी॥",
+        "transliteration": "dhṛtyā yayā dhārayate manaḥ-prāṇendriya-kriyāḥ | yogenāvyabhicāriṇyā dhṛtiḥ sā pārtha sāttvikī ||",
+        "english": {
+          "translation": "The unwavering determination by which, through yoga, one sustains the activities of mind, life-force, and senses—that determination, O Partha, is sattvic.",
+          "commentary": "Sattvic determination (dhriti) is steadfast and unwavering (avyabhichariniya), integrated with yogic practice. It controls and directs the mind (manas), vital energies (prana), and senses (indriya) toward spiritual goals. This is not mere willpower but determination rooted in wisdom and discipline. It provides consistent, stable effort regardless of obstacles or distractions. Such determination is essential for spiritual practice, maintaining focus on the goal of liberation while managing the various energies and faculties of one's being."
+        },
+        "turkish": {
+          "translation": "Yoga yoluyla zihnin, yaşam gücünün ve duyuların faaliyetlerini sürdüren sarsılmaz kararlılık—o kararlılık, ey Partha, sattviktir.",
+          "commentary": "Sattvik kararlılık (dhriti) sabittir ve sarsılmazdır (avyabhichariniya), yogik uygulamayla bütünleşiktir. Zihni (manas), hayati enerjileri (prana) ve duyuları (indriya) ruhani hedeflere doğru kontrol eder ve yönlendirir. Bu sadece irade gücü değil, bilgelik ve disipline dayalı kararlılıktır. Engellere veya dikkat dağıtıcı şeylere bakılmaksızın tutarlı, istikrarlı çaba sağlar. Bu tür kararlılık, kişinin varlığının çeşitli enerjilerini ve yeteneklerini yönetirken kurtuluş hedefine odaklanmayı sürdürerek ruhani uygulama için gereklidir."
+        }
+      },
+      {
+        "verse_number": 34,
+        "sanskrit": "यया तु धर्मकामार्थान्धृत्या धारयतेऽर्जुन। प्रसङ्गेन फलाकाङ्क्षी धृतिः सा पार्थ राजसी॥",
+        "transliteration": "yayā tu dharma-kāmārthān dhṛtyā dhārayate'rjuna | prasaṅgena phalākāṅkṣī dhṛtiḥ sā pārtha rājasī ||",
+        "english": {
+          "translation": "But that determination by which one holds to dharma, pleasure, and wealth with great attachment and desire for fruits—that determination, O Partha, is rajasic.",
+          "commentary": "Rajasic determination pursues the traditional life goals (dharma, kama, artha) but with attachment (prasangena) and desire for results (phalakankshi). While these pursuits aren't inherently wrong—they represent legitimate human aims—the rajasic person clings to them with passionate attachment. The determination is strong but motivated by personal gain rather than higher purpose. This creates stress and bondage because one's happiness depends on achieving desired outcomes. Though capable of accomplishing worldly goals, such determination doesn't lead to liberation."
+        },
+        "turkish": {
+          "translation": "Ancak dharma, haz ve zenginliğe büyük bağlılık ve meyve arzusuyla bağlı kalınan kararlılık—o kararlılık, ey Partha, rajasiktir.",
+          "commentary": "Rajasik kararlılık geleneksel yaşam hedeflerini (dharma, kama, artha) takip eder ama bağlılık (prasangena) ve sonuç arzusu (phalakankshi) ile. Bu amaçlar doğası gereği yanlış olmasa da—meşru insan hedeflerini temsil ederler—rajasik kişi onlara tutkulu bağlılıkla yapışır. Kararlılık güçlüdür ama daha yüksek amaçtan ziyade kişisel kazançla motive edilir. Bu stres ve bağlanma yaratır çünkü kişinin mutluluğu istenen sonuçları elde etmeye bağlıdır. Dünyevi hedeflere ulaşmakta yetenekli olsa da, bu tür kararlılık kurtuluşa götürmez."
+        }
+      },
+      {
+        "verse_number": 35,
+        "sanskrit": "यया स्वप्नं भयं शोकं विषादं मदमेव च। न विमुञ्चति दुर्मेधा धृतिः सा पार्थ तामसी॥",
+        "transliteration": "yayā svapnaṁ bhayaṁ śokaṁ viṣādaṁ madam eva ca | na vimuñcati durmedhā dhṛtiḥ sā pārtha tāmasī ||",
+        "english": {
+          "translation": "That determination by which a fool does not abandon sleep, fear, grief, depression, and arrogance—that determination, O Partha, is tamasic.",
+          "commentary": "Tamasic determination is actually stubbornness in negative states. Instead of striving upward, it clings to lethargy (swapnam), fear (bhayam), sorrow (shokam), depression (vishadam), and arrogance (madam). The person of 'perverted intellect' (durmedhah) persists in these debilitating conditions, unable or unwilling to move beyond them. This represents determination in the wrong direction—tenacity in ignorance rather than progress. It keeps one trapped in darkness, resistant to change or growth, leading nowhere but deeper into suffering."
+        },
+        "turkish": {
+          "translation": "Bir aptalın uykuyu, korkuyu, kederi, depresyonu ve küstahlığı terk etmediği kararlılık—o kararlılık, ey Partha, tamasiktir.",
+          "commentary": "Tamasik kararlılık aslında olumsuz durumlarda inatçılıktır. Yukarı doğru çabalamak yerine, uyuşukluğa (swapnam), korkuya (bhayam), kedere (shokam), depresyona (vishadam) ve küstahlığa (madam) yapışır. 'Çarpık zeka' sahibi kişi (durmedhah) bu zayıflatıcı koşullarda ısrar eder, onları aşmaya muktedir değildir veya isteksizdir. Bu, yanlış yöndeki kararlılığı temsil eder—ilerleme yerine cehaletteki sebat. Kişiyi karanlıkta sıkışmış tutar, değişime veya büyümeye dirençli hale getirir ve acının derinliklerinden başka bir yere götürmez."
+        }
+      },
+      {
+        "verse_number": 36,
+        "sanskrit": "सुखं त्विदानीं त्रिविधं शृणु मे भरतर्षभ। अभ्यासाद्रमते यत्र दुःखान्तं च निगच्छति॥",
+        "transliteration": "sukhaṁ tv idānīṁ tri-vidhaṁ śṛṇu me bharatarṣabha | abhyāsād ramate yatra duḥkhāntaṁ ca nigacchati ||",
+        "english": {
+          "translation": "And now hear from Me, O best of the Bharatas, about the three kinds of happiness—that in which one rejoices through practice and reaches the end of sorrow.",
+          "commentary": "Krishna now addresses happiness (sukham), classifying it according to the gunas. True happiness comes through practice (abhyasad)—sustained effort over time—not instant gratification. The defining characteristic of genuine happiness is that it leads to the end of sorrow (duhkhantam). This suggests that real happiness isn't mere pleasure but a state that transcends the pleasure-pain duality. The promise of reaching 'the end of sorrow' points to liberation itself. Understanding these distinctions helps one pursue lasting fulfillment rather than fleeting pleasures."
+        },
+        "turkish": {
+          "translation": "Ve şimdi benden, ey Bharataların en iyisi, uygulama yoluyla keyif alınan ve keder sonuna ulaşılan üç tür mutluluk hakkında dinle.",
+          "commentary": "Krishna şimdi mutluluğu (sukham) ele alır ve gunas'a göre sınıflandırır. Gerçek mutluluk anlık tatmin değil, uygulama (abhyasad) yoluyla—zaman içinde sürekli çaba—gelir. Gerçek mutluluğun tanımlayıcı özelliği, kederin sonuna (duhkhantam) götürmesidir. Bu, gerçek mutluluğun sadece haz değil, haz-acı ikililiğini aşan bir durum olduğunu önerir. 'Keder sonu'na ulaşma vaadi kurtuluşun kendisine işaret eder. Bu ayrımları anlamak, kişinin geçici zevkler yerine kalıcı tatmin peşinde koşmasına yardımcı olur."
+        }
+      },
+      {
+        "verse_number": 37,
+        "sanskrit": "यत्तदग्रे विषमिव परिणामेऽमृतोपमम्। तत्सुखं सात्त्विकं प्रोक्तमात्मबुद्धिप्रसादजम्॥",
+        "transliteration": "yat tad agre viṣam iva pariṇāme'mṛtopamam | tat sukhaṁ sāttvikam proktam ātma-buddhi-prasāda-jam ||",
+        "english": {
+          "translation": "That happiness which is like poison in the beginning but like nectar in the end, born from the purity of one's own mind in Self-realization—that is declared to be sattvic.",
+          "commentary": "Sattvic happiness reverses the usual pattern: difficult initially (like poison) but becomes nectarean with time. It arises from Self-realization (atma-buddhi-prasada-jam)—the serenity that comes from understanding one's true nature. Initially, spiritual discipline may seem arduous—meditation is difficult, desires must be controlled, ego resists. But this effort leads to lasting peace and joy that doesn't depend on external circumstances. This happiness deepens over time, unlike sense pleasures that diminish. It represents the bliss of Self-knowledge."
+        },
+        "turkish": {
+          "translation": "Başlangıçta zehir gibi ama sonunda nektara benzeyen, Benlik-gerçekleşmesinde kişinin kendi zihninin saflığından doğan mutluluk—o sattvik olarak bildirilir.",
+          "commentary": "Sattvik mutluluk olağan kalıbı tersine çevirir: başlangıçta zor (zehir gibi) ama zamanla nektara dönüşür. Benlik-gerçekleşmesinden (atma-buddhi-prasada-jam) doğar—kişinin gerçek doğasını anlamaktan gelen sükunet. Başlangıçta ruhani disiplin zahmetli görünebilir—meditasyon zordur, arzular kontrol edilmelidir, ego direnir. Ancak bu çaba, dış koşullara bağlı olmayan kalıcı huzur ve sevinçte sonuçlanır. Bu mutluluk zamanla derinleşir, azalan duyu zevklerinin aksine. Benlik-bilgisinin mutluluğunu temsil eder."
+        }
+      },
+      {
+        "verse_number": 38,
+        "sanskrit": "विषयेन्द्रियसंयोगाद्यत्तदग्रेऽमृतोपमम्। परिणामे विषमिव तत्सुखं राजसं स्मृतम्॥",
+        "transliteration": "viṣayendriya-saṁyogād yat tad agre'mṛtopamam | pariṇāme viṣam iva tat sukhaṁ rājasaṁ smṛtam ||",
+        "english": {
+          "translation": "That happiness which arises from the contact of the senses with their objects, which is like nectar at first but like poison in the end—that is called rajasic.",
+          "commentary": "Rajasic happiness inverts the sattvic pattern: sweet initially but bitter ultimately. It comes from sense gratification (vishayendriya-samyogad)—pleasures of taste, touch, sight, sound, and smell. These seem delightful at first but lead to dissatisfaction, addiction, and suffering. The 'poison in the end' includes physical consequences (disease, exhaustion) and psychological effects (craving, dependency, emptiness). This describes most worldly pleasures: they promise happiness but deliver bondage. The intensity of initial pleasure is proportional to the eventual pain."
+        },
+        "turkish": {
+          "translation": "Duyuların nesnelerle temasından doğan, başlangıçta nektar gibi ama sonunda zehir gibi olan mutluluk—o rajasik olarak adlandırılır.",
+          "commentary": "Rajasik mutluluk sattvik kalıbı tersine çevirir: başlangıçta tatlı ama sonuçta acıdır. Duyu tatmininden (vishayendriya-samyogad) gelir—tat, dokunma, görme, işitme ve koku zevkleri. Bunlar başta keyifli görünür ama tatminsizlik, bağımlılık ve acıya yol açar. 'Sondaki zehir' fiziksel sonuçları (hastalık, tükenme) ve psikolojik etkileri (özlem, bağımlılık, boşluk) içerir. Bu çoğu dünyevi zevki tanımlar: mutluluk vaat ederler ama bağlanma verirler. Başlangıçtaki hazın yoğunluğu, nihai acıyla orantılıdır."
+        }
+      },
+      {
+        "verse_number": 39,
+        "sanskrit": "यदग्रे चानुबन्धे च सुखं मोहनमात्मनः। निद्रालस्यप्रमादोत्थं तत्तामसमुदाहृतम्॥",
+        "transliteration": "yad agre cānubandhe ca sukhaṁ mohanam ātmanaḥ | nidrālasya-pramādotthaṁ tat tāmasam udāhṛtam ||",
+        "english": {
+          "translation": "That happiness which deludes the self both in the beginning and in the end, arising from sleep, laziness, and negligence—that is declared to be tamasic.",
+          "commentary": "Tamasic happiness is delusion from start to finish—it offers no real satisfaction at any point. Born from sleep (nidra), laziness (alasya), and heedlessness (pramada), it's the 'happiness' of avoidance, intoxication, and unconsciousness. This includes excessive sleep, substance abuse, and escapism. Rather than genuine pleasure, it's numbness and dulling of awareness. Such 'happiness' leads to degradation of consciousness and wasted life. It represents the lowest form of gratification, keeping one trapped in ignorance without even the momentary satisfaction that rajasic pleasures provide."
+        },
+        "turkish": {
+          "translation": "Hem başlangıçta hem de sonunda benliği aldatan, uyku, tembellik ve ihmalkarlıktan doğan mutluluk—o tamasik olarak bildirilir.",
+          "commentary": "Tamasik mutluluk baştan sona yanılsamadır—hiçbir noktada gerçek tatmin sunmaz. Uyku (nidra), tembellik (alasya) ve dikkatsizlikten (pramada) doğar, kaçınma, sarhoşluk ve bilinçsizliğin 'mutluluğu'dur. Bu, aşırı uyku, madde bağımlılığı ve kaçışçılığı içerir. Gerçek hazdan ziyade, uyuşukluk ve farkındalığın körelmesidir. Bu tür 'mutluluk' bilincin bozulmasına ve boşa harcanan yaşama yol açar. En düşük tatmin biçimini temsil eder, kişiyi rajasik zevklerin sağladığı anlık tatmin bile olmadan cehalette sıkışmış tutar."
+        }
+      },
+      {
+        "verse_number": 40,
+        "sanskrit": "न तदस्ति पृथिव्यां वा दिवि देवेषु वा पुनः। सत्त्वं प्रकृतिजैर्मुक्तं यदेभिः स्यात्त्रिभिर्गुणैः॥",
+        "transliteration": "na tad asti pṛthivyāṁ vā divi deveṣu vā punaḥ | sattvaṁ prakṛti-jair muktaṁ yad ebhiḥ syāt tribhir guṇaiḥ ||",
+        "english": {
+          "translation": "There is no being on earth or in heaven among the gods that is free from these three gunas born of prakriti (material nature).",
+          "commentary": "This verse emphasizes the universality of the three gunas. Everything in manifest existence—from humans to celestial beings—operates under the influence of sattva, rajas, and tamas. Even the gods are not exempt. The gunas are fundamental properties of prakriti (nature/matter), affecting all embodied beings. Only the transcendent Self (Brahman) is beyond the gunas. This teaching establishes that liberation requires transcending the gunas, not merely cultivating sattva. Understanding this prevents spiritual pride and shows the need for complete transcendence."
+        },
+        "turkish": {
+          "translation": "Yeryüzünde veya cennette tanrılar arasında prakriti'den (maddi doğa) doğan bu üç gunas'tan özgür olan hiçbir varlık yoktur.",
+          "commentary": "Bu ayet üç gunas'ın evrenselliğini vurgular. Tezahür etmiş varoluştaki her şey—insanlardan göksel varlıklara—sattva, rajas ve tamas'ın etkisi altında çalışır. Tanrılar bile muaf değildir. Gunalar prakriti'nin (doğa/madde) temel özellikleridir ve tüm bedenli varlıkları etkiler. Sadece aşkın Benlik (Brahman) gunas'ın ötesindedir. Bu öğreti, kurtuluşun sadece sattva'yı geliştirmeyi değil, gunas'ı aşmayı gerektirdiğini gösterir. Bunu anlamak ruhani gururu önler ve tam aşkınlığın gerekliliğini gösterir."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "verses_translated": 20,
+    "expected_verses": 78,
+    "complete": false,
+    "missing_verses": [21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78]
+  }
+}

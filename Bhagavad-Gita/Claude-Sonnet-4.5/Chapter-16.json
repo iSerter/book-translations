@@ -1,0 +1,329 @@
+{
+  "chapter": {
+    "number": 16,
+    "title_sanskrit": "दैवासुरसम्पद्विभागयोग",
+    "title_english": "The Yoga of the Division between the Divine and Demoniac Natures",
+    "title_turkish": "İlahi ve Şeytani Nitelikler Arasındaki Ayrım Yogası",
+    "total_verses": 24,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "श्रीभगवानुवाच |\nअभयं सत्त्वसंशुद्धिर्ज्ञानयोगव्यवस्थितिः |\nदानं दमश्च यज्ञश्च स्वाध्यायस्तप आर्जवम् ||",
+        "transliteration": "śrī-bhagavān uvāca |\nabhayaṁ sattva-saṁśuddhir jñāna-yoga-vyavasthitiḥ |\ndānaṁ damaś ca yajñaś ca svādhyāyas tapa ārjavam ||",
+        "english": {
+          "translation": "The Supreme Lord said: Fearlessness, purity of heart, steadfastness in knowledge and yoga, charity, self-control, sacrifice, study of scriptures, austerity, and straightforwardness.",
+          "commentary": "Krishna begins enumerating the divine qualities (daivi sampad) that lead to liberation. Abhaya (fearlessness) heads the list as freedom from all anxiety, essential for spiritual progress. Sattva-samshuddhi (purity of heart) refers to cleansing the mind of negative tendencies. These qualities form the foundation of spiritual character and distinguish those on the path to enlightenment from those bound by material nature."
+        },
+        "turkish": {
+          "translation": "Yüce Tanrı dedi ki: Korkusuzluk, kalp saflığı, bilgi ve yogada kararlılık, cömertlik, öz-kontrol, kurban, kutsal metinlerin incelenmesi, çilekeşlik ve doğruluk.",
+          "commentary": "Krishna, kurtuluşa götüren ilahi nitelikleri (daivi sampad) saymaya başlar. Abhaya (korkusuzluk), ruhani ilerleme için gerekli olan tüm kaygılardan özgürlük olarak listenin başını çeker. Sattva-samshuddhi (kalp saflığı), zihnin olumsuz eğilimlerden arındırılmasını ifade eder. Bu nitelikler, ruhani karakterin temelini oluşturur ve aydınlanma yolundakileri maddi doğa tarafından bağlananlardan ayırır."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "अहिंसा सत्यमक्रोधस्त्यागः शान्तिरपैशुनम् |\nदया भूतेष्वलोलुप्त्वं मार्दवं ह्रीरचापलम् ||",
+        "transliteration": "ahiṁsā satyam akrodhas tyāgaḥ śāntir apaiśunam |\ndayā bhūteṣv aloluptvaṁ mārdavaṁ hrīr acāpalam ||",
+        "english": {
+          "translation": "Non-violence, truthfulness, freedom from anger, renunciation, tranquility, absence of slander, compassion toward all beings, freedom from greed, gentleness, modesty, and absence of fickleness.",
+          "commentary": "The enumeration continues with ahimsa (non-violence) as paramount—extending beyond physical harm to avoiding injury through speech or thought. Satya (truthfulness) means speaking what is beneficial, true, and pleasant. Daya (compassion) toward all beings reflects the recognition of the Divine in all creatures. These qualities cultivate inner peace and harmonious relationships with all existence."
+        },
+        "turkish": {
+          "translation": "Şiddetsizlik, doğruluk, öfkeden özgürlük, feragat, sükunet, iftiranın yokluğu, tüm varlıklara merhamet, açgözlülükten özgürlük, yumuşaklık, tevazu ve kararsızlığın yokluğu.",
+          "commentary": "Sıralama, fiziksel zararın ötesine geçerek konuşma ve düşünce yoluyla zarar vermekten kaçınmayı içeren ahimsa (şiddetsizlik) ile devam eder. Satya (doğruluk), yararlı, gerçek ve hoş olanı söylemek anlamına gelir. Tüm varlıklara daya (merhamet), tüm yaratıklarda İlahi'nin tanınmasını yansıtır. Bu nitelikler iç huzuru ve tüm varlıkla uyumlu ilişkileri geliştirir."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "तेजः क्षमा धृतिः शौचमद्रोहो नातिमानिता |\nभवन्ति सम्पदं दैवीमभिजातस्य भारत ||",
+        "transliteration": "tejaḥ kṣamā dhṛtiḥ śaucam adroho nāti-mānitā |\nbhavanti sampadaṁ daivīm abhijātasya bhārata ||",
+        "english": {
+          "translation": "Vigor, forgiveness, fortitude, purity, absence of malice, and absence of excessive pride—these belong to one born with divine qualities, O Bharata.",
+          "commentary": "Tejas (vigor/radiance) refers to spiritual vitality and moral courage. Kshama (forgiveness) is the ability to pardon others without harboring resentment. Dhriti (fortitude) is steadiness of mind in all circumstances. The absence of atimānita (excessive pride) distinguishes healthy self-respect from ego-driven arrogance. These twenty-six qualities collectively constitute the divine endowment that leads toward moksha (liberation)."
+        },
+        "turkish": {
+          "translation": "Güç, bağışlayıcılık, sebat, saflık, kötülüğün yokluğu ve aşırı gururun yokluğu—bunlar ilahi niteliklerle doğmuş olana aittir, ey Bharata.",
+          "commentary": "Tejas (güç/ışıltı), ruhani canlılık ve ahlaki cesareti ifade eder. Kshama (bağışlama), başkalarını kin beslemeden affetme yeteneğidir. Dhriti (sebat), her koşulda zihin istikrarıdır. Atimānita'nın (aşırı gurur) yokluğu, sağlıklı öz saygıyı ego güdümlü kibir dan ayırır. Bu yirmi altı nitelik toplu olarak moksha'ya (kurtuluş) götüren ilahi donanımı oluşturur."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "दम्भो दर्पोऽभिमानश्च क्रोधः पारुष्यमेव च |\nअज्ञानं चाभिजातस्य पार्थ सम्पदमासुरीम् ||",
+        "transliteration": "dambho darpo 'bhimānaś ca krodhaḥ pāruṣyam eva ca |\najñānaṁ cābhijātasya pārtha sampadam āsurīm ||",
+        "english": {
+          "translation": "Ostentation, arrogance, excessive pride, anger, harshness, and ignorance—these belong to one born with demoniac qualities, O Partha.",
+          "commentary": "In stark contrast to divine qualities, Krishna lists the asuri sampad (demoniac endowment). Dambha (ostentation) is religious hypocrisy or pretense. Darpa (arrogance) is self-glorification. Abhimana (excessive pride) is egoistic self-identification. These qualities, rooted in ajnana (ignorance) of one's true nature, lead to bondage and suffering. The term 'demoniac' doesn't imply inherent evil but rather misalignment with spiritual truth."
+        },
+        "turkish": {
+          "translation": "Gösteriş, küstahlık, aşırı gurur, öfke, sertlik ve cehalet—bunlar şeytani niteliklerle doğmuş olana aittir, ey Partha.",
+          "commentary": "İlahi niteliklerin tam tersine, Krishna asuri sampad'ı (şeytani donanım) sıralar. Dambha (gösteriş), dini ikiyüzlülük veya yapmacıklıktır. Darpa (küstahlık), kendini yüceltmektir. Abhimana (aşırı gurur), egoistik öz-özdeşleşmedir. Kişinin gerçek doğası hakkındaki ajnana'dan (cehalet) kaynaklanan bu nitelikler, bağlanmaya ve acı çekmeye yol açar. 'Şeytani' terimi doğuştan kötülük anlamına gelmez, aksine ruhani gerçekle uyumsuzluğu ifade eder."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "दैवी सम्पद्विमोक्षाय निबन्धायासुरी मता |\nमा शुचः सम्पदं दैवीमभिजातोऽसि पाण्डव ||",
+        "transliteration": "daivī sampad vimokṣāya nibandhāyāsurī matā |\nmā śucaḥ sampadaṁ daivīm abhijāto 'si pāṇḍava ||",
+        "english": {
+          "translation": "The divine qualities lead to liberation, while the demoniac lead to bondage. Do not grieve, O Pandava, for you are born with divine qualities.",
+          "commentary": "Krishna clarifies the ultimate consequences of these two sets of qualities: the divine nature leads to vimoksha (liberation from the cycle of birth and death), while the demoniac nature results in continued bondage to material existence. He reassures Arjuna that he possesses divine qualities, alleviating any doubt or concern. This verse emphasizes that spiritual destiny is shaped by cultivated qualities rather than by birth circumstances alone."
+        },
+        "turkish": {
+          "translation": "İlahi nitelikler kurtuluşa götürürken, şeytani olanlar esarete götürür. Üzülme, ey Pandava, çünkü sen ilahi niteliklerle doğdun.",
+          "commentary": "Krishna bu iki nitelik setinin nihai sonuçlarını açıklar: ilahi doğa vimoksha'ya (doğum ve ölüm döngüsünden kurtuluş) götürürken, şeytani doğa maddi varoluşa devam eden bağlanmayla sonuçlanır. Arjuna'ya ilahi niteliklere sahip olduğunu söyleyerek herhangi bir şüphe veya endişeyi giderir. Bu ayet, ruhani kaderin yalnızca doğum koşullarından ziyade yetiştirilen nitelikler tarafından şekillendirildiğini vurgular."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "द्वौ भूतसर्गौ लोकेऽस्मिन्दैव आसुर एव च |\nदैवो विस्तरशः प्रोक्त आसुरं पार्थ मे शृणु ||",
+        "transliteration": "dvau bhūta-sargau loke 'smin daiva āsura eva ca |\ndaivo vistaraśaḥ prokta āsuraṁ pārtha me śṛṇu ||",
+        "english": {
+          "translation": "There are two types of beings in this world: the divine and the demoniac. The divine has been described in detail; now hear from Me about the demoniac, O Partha.",
+          "commentary": "Krishna establishes a fundamental dualism in human nature and behavior. This classification is not based on birth or caste but on one's qualities and actions. Having elaborated on the divine qualities, he now prepares to explain the demoniac nature in greater detail to help Arjuna (and all seekers) recognize and avoid these destructive tendencies. This understanding is crucial for spiritual progress and self-assessment."
+        },
+        "turkish": {
+          "translation": "Bu dünyada iki tür varlık vardır: ilahi ve şeytani. İlahi ayrıntılı olarak anlatıldı; şimdi Benden şeytani olanı işit, ey Partha.",
+          "commentary": "Krishna, insan doğası ve davranışında temel bir ikiliği ortaya koyar. Bu sınıflandırma doğuma veya kasta değil, kişinin niteliklerine ve eylemlerine dayanır. İlahi nitelikleri ayrıntılandırdıktan sonra, şimdi Arjuna'nın (ve tüm arayanların) bu yıkıcı eğilimleri tanımasına ve bunlardan kaçınmasına yardımcı olmak için şeytani doğayı daha ayrıntılı açıklamaya hazırlanır. Bu anlayış, ruhani ilerleme ve öz-değerlendirme için çok önemlidir."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "प्रवृत्तिं च निवृत्तिं च जना न विदुरासुराः |\nन शौचं नापि चाचारो न सत्यं तेषु विद्यते ||",
+        "transliteration": "pravṛttiṁ ca nivṛttiṁ ca janā na vidur āsurāḥ |\nna śaucaṁ nāpi cācāro na satyaṁ teṣu vidyate ||",
+        "english": {
+          "translation": "Those of demoniac nature do not know what to do and what to refrain from doing. Neither purity, nor good conduct, nor truth is found in them.",
+          "commentary": "Pravritti and nivritti refer to what should be pursued and what should be avoided—the fundamental moral compass. The demoniac lack this discrimination (viveka), resulting in unethical behavior. They lack shauca (purity of body and mind), achara (right conduct), and satya (truthfulness). This absence of basic ethical foundation distinguishes them from those on the spiritual path and leads to actions that harm themselves and others."
+        },
+        "turkish": {
+          "translation": "Şeytani doğaya sahip olanlar, ne yapmaları ve neden kaçınmaları gerektiğini bilmezler. Onlarda ne saflık, ne iyi davranış, ne de gerçek bulunur.",
+          "commentary": "Pravritti ve nivritti, neyin takip edilmesi ve neden kaçınılması gerektiğini—temel ahlaki pusulayı—ifade eder. Şeytani olanlar bu ayrımdan (viveka) yoksundurlar, bu da etik olmayan davranışlarla sonuçlanır. Shauca'dan (beden ve zihin saflığı), achara'dan (doğru davranış) ve satya'dan (doğruluk) yoksundurlar. Bu temel etik temelin yokluğu, onları ruhani yoldakilerden ayırır ve kendilerine ve başkalarına zarar veren eylemlere yol açar."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "असत्यमप्रतिष्ठं ते जगदाहुरनीश्वरम् |\nअपरस्परसम्भूतं किमन्यत्कामहैतुकम् ||",
+        "transliteration": "asatyam apratiṣṭhaṁ te jagad āhur anīśvaram |\naparaspara-sambhūtaṁ kim anyat kāma-haitukam ||",
+        "english": {
+          "translation": "They say that the universe is unreal, without foundation, without a Lord, not brought about by mutual causal relations—produced only by desire driven by lust.",
+          "commentary": "This verse describes the nihilistic worldview of the demoniac. They deny objective truth (asatya), cosmic order (apratishtham), and divine governance (anishvaram). They view existence as random and meaningless, arising solely from lust and desire without purpose or moral structure. This materialistic philosophy denies karma, reincarnation, and spiritual reality, leading to self-centered hedonism and the pursuit of sensory pleasure as life's sole purpose."
+        },
+        "turkish": {
+          "translation": "Onlar evrenin gerçek dışı, temelsiz, bir Tanrı'sız, karşılıklı nedensel ilişkilerle meydana gelmemiş—yalnızca şehvet kaynaklı arzuyla üretilmiş olduğunu söylerler.",
+          "commentary": "Bu ayet, şeytani olanların nihilist dünya görüşünü açıklar. Nesnel gerçeği (asatya), kozmik düzeni (apratishtham) ve ilahi yönetimi (anishvaram) reddederler. Varoluşu rastgele ve anlamsız olarak görürler, yalnızca amaç veya ahlaki yapı olmaksızın şehvet ve arzudan kaynaklanır. Bu materyalist felsefe, karmayı, reenkarnasyonu ve ruhani gerçekliği reddeder ve bencil hazcılığa ve yaşamın tek amacı olarak duyusal zevkin peşinden koşmaya yol açar."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "एतां दृष्टिमवष्टभ्य नष्टात्मानोऽल्पबुद्धयः |\nप्रभवन्त्युग्रकर्माणः क्षयाय जगतोऽहिताः ||",
+        "transliteration": "etāṁ dṛṣṭim avaṣṭabhya naṣṭātmāno 'lpa-buddhayaḥ |\nprabhavanty ugra-karmāṇaḥ kṣayāya jagato 'hitāḥ ||",
+        "english": {
+          "translation": "Holding this view, these lost souls of small intelligence and cruel deeds arise as enemies of the world, working for its destruction.",
+          "commentary": "Krishna describes the consequences of nihilistic philosophy: those who embrace it become nashtatmanah (lost souls) with alpa-buddhi (limited intelligence). Their actions become ugra-karmanah (terrible/cruel) and ahitah (harmful) to the world. Throughout history, such individuals have caused immense suffering through wars, exploitation, and environmental destruction. Their denial of spiritual reality and moral law removes all restraints on selfish and destructive behavior."
+        },
+        "turkish": {
+          "translation": "Bu görüşü benimseyerek, küçük zekaya ve zalim eylemlere sahip bu kayıp ruhlar, dünyanın düşmanları olarak ortaya çıkar ve onun yıkımı için çalışırlar.",
+          "commentary": "Krishna nihilist felsefenin sonuçlarını açıklar: onu benimseyanler nashtatmanah (kayıp ruhlar) ve alpa-buddhi (sınırlı zeka) olurlar. Eylemleri ugra-karmanah (korkunç/zalim) ve dünyaya ahitah (zararlı) hale gelir. Tarih boyunca, bu tür bireyler savaşlar, sömürü ve çevre tahribatı yoluyla muazzam acılara neden olmuşlardır. Ruhani gerçekliği ve ahlaki yasayı reddetmeleri, bencil ve yıkıcı davranışlar üzerindeki tüm kısıtlamaları ortadan kaldırır."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "काममाश्रित्य दुष्पूरं दम्भमानमदान्विताः |\nमोहाद्गृहीत्वासद्ग्राहान्प्रवर्तन्तेऽशुचिव्रताः ||",
+        "transliteration": "kāmam āśritya duṣpūraṁ dambha-māna-madānvitāḥ |\nmohād gṛhītvāsad-grāhān pravartante 'śuci-vratāḥ ||",
+        "english": {
+          "translation": "Filled with insatiable desires, full of hypocrisy, pride, and arrogance, holding false conceptions due to delusion, they engage in impure actions.",
+          "commentary": "The demoniac are driven by kama (insatiable desire) that can never be fulfilled, leading to endless frustration. Dambha (hypocrisy), mana (pride), and mada (arrogance) dominate their character. Due to moha (delusion), they embrace asad-grahan (false beliefs) and engage in ashuchi-vratah (impure vows/actions). Their lives become a cycle of craving, grasping, and disappointment, never finding true satisfaction or peace."
+        },
+        "turkish": {
+          "translation": "Doyumsuz arzularla dolu, ikiyüzlülük, gurur ve kibir dolu, yanılsamadan dolayı yanlış kavramlara sarılarak, kirli eylemlerde bulunurlar.",
+          "commentary": "Şeytani olanlar, asla tatmin edilemeyen kama (doyumsuz arzu) tarafından yönlendirilir ve bu sonsuz hayal kırıklığına yol açar. Dambha (ikiyüzlülük), mana (gurur) ve mada (kibir) karakterlerine hakim olur. Moha (yanılsama) nedeniyle asad-grahan'ı (yanlış inançlar) benimserler ve ashuchi-vratah'ta (kirli yeminler/eylemler) bulunurlar. Yaşamları, hiçbir zaman gerçek tatmin veya huzur bulamayan arzu, kavrama ve hayal kırıklığı döngüsü haline gelir."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "चिन्तामपरिमेयां च प्रलयान्तामुपाश्रिताः |\nकामोपभोगपरमा एतावदिति निश्चिताः ||",
+        "transliteration": "cintām aparimeyāṁ ca pralayāntām upāśritāḥ |\nkāmopabhoga-paramā etāvad iti niścitāḥ ||",
+        "english": {
+          "translation": "Obsessed with endless anxieties that last until death, they are convinced that sense gratification is the supreme goal of life.",
+          "commentary": "The demoniac mind is consumed by chinta (anxiety) that is aparimeya (immeasurable/endless), continuing until pralaya (death). Their entire worldview is centered on kamopabhoga (enjoyment of sensual pleasures) as the paramount aim of existence. They firmly believe 'this is all there is' (etavad iti), denying any transcendent reality or higher purpose. This materialistic outlook creates constant stress, as they desperately pursue fleeting pleasures while fearing loss and death."
+        },
+        "turkish": {
+          "translation": "Ölüme kadar süren sonsuz kaygılarla takıntılı olarak, duyusal tatminin yaşamın en yüce amacı olduğuna inanırlar.",
+          "commentary": "Şeytani zihin, pralaya (ölüm) kadar devam eden aparimeya (ölçülemez/sonsuz) chinta (kaygı) tarafından tüketilir. Tüm dünya görüşleri, varoluşun en önemli amacı olarak kamopabhoga'ya (duyusal zevklerin tadı) odaklanır. 'Bu kadar var' (etavad iti) diye kesinlikle inanırlar, herhangi bir aşkın gerçekliği veya daha yüksek amacı reddederler. Bu materyalist bakış açısı, kaybı ve ölümü korkarken geçici zevklerin peşinden çılgınca koştukları için sürekli stres yaratır."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "आशापाशशतैर्बद्धाः कामक्रोधपरायणाः |\nईहन्ते कामभोगार्थमन्यायेनार्थसञ्चयान् ||",
+        "transliteration": "āśā-pāśa-śatair baddhāḥ kāma-krodha-parāyaṇāḥ |\nīhante kāma-bhogārtham anyāyenārtha-sañcayān ||",
+        "english": {
+          "translation": "Bound by hundreds of chains of hope and expectation, devoted to lust and anger, they strive to accumulate wealth by unjust means for sense gratification.",
+          "commentary": "Asha-pasha (the bonds of hope/expectation) create countless attachments that enslave the demoniac. Driven by kama (lust) and krodha (anger), they resort to anyaya (unjust/immoral means) to accumulate artha (wealth) solely for bhoga (enjoyment). Their methods include exploitation, fraud, theft, and violence. They rationalize their unethical behavior as necessary for success, creating a society where greed and corruption flourish unchecked."
+        },
+        "turkish": {
+          "translation": "Yüzlerce umut ve beklenti zincirine bağlı, şehvet ve öfkeye adanmış olarak, duyusal tatmin için haksız yollarla servet biriktirmeye çabalarlar.",
+          "commentary": "Asha-pasha (umut/beklenti bağları), şeytani olanları köleleştiren sayısız bağlanma yaratır. Kama (şehvet) ve krodha (öfke) tarafından yönlendirilen onlar, yalnızca bhoga (zevk) için artha'yı (servet) biriktirmek üzere anyaya'ya (haksız/ahlaksız araçlar) başvururlar. Yöntemleri sömürü, dolandırıcılık, hırsızlık ve şiddeti içerir. Etik olmayan davranışlarını başarı için gerekli olarak rasyonalize ederler ve açgözlülük ve yolsuzluğun dizginlenemeden geliştiği bir toplum yaratırlar."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "इदमद्य मया लब्धमिमं प्राप्स्ये मनोरथम् |\nइदमस्तीदमपि मे भविष्यति पुनर्धनम् ||",
+        "transliteration": "idam adya mayā labdham imaṁ prāpsye manoratham |\nidam astīdam api me bhaviṣyati punar dhanam ||",
+        "english": {
+          "translation": "They think: 'This has been gained by me today, and this desire I shall fulfill. This is mine, and this wealth also shall be mine in the future.'",
+          "commentary": "Krishna reveals the internal dialogue of the demoniac mind, characterized by constant acquisition and future planning centered on 'I' and 'mine.' Their thoughts are consumed with what they've obtained (labdham), what they desire next (manoratham), what they possess (astīdam), and what they'll accumulate (bhaviṣyati dhanam). This endless mental grasping creates anxiety and prevents them from experiencing contentment or appreciating the present moment."
+        },
+        "turkish": {
+          "translation": "Düşünürler: 'Bu bugün benim tarafımdan kazanıldı ve bu arzuyu yerine getireceğim. Bu benimdir ve bu servet de gelecekte benim olacak.'",
+          "commentary": "Krishna, sürekli edinme ve 'ben' ve 'benim' üzerine odaklanan gelecek planlamasıyla karakterize edilen şeytani zihnin iç diyaloğunu ortaya çıkarır. Düşünceleri, elde ettikleri şeyle (labdham), sonra arzuladıkları şeyle (manoratham), sahip oldukları şeyle (astīdam) ve biriktirecekleri şeyle (bhaviṣyati dhanam) tüketilir. Bu sonsuz zihinsel kavrama, kaygı yaratır ve onların memnuniyeti deneyimlemelerini veya şu anı takdir etmelerini engeller."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "असौ मया हतः शत्रुर्हनिष्ये चापरानपि |\nईश्वरोऽहमहं भोगी सिद्धोऽहं बलवान्सुखी ||",
+        "transliteration": "asau mayā hataḥ śatrur haniṣye cāparān api |\nīśvaro 'ham ahaṁ bhogī siddho 'haṁ balavān sukhī ||",
+        "english": {
+          "translation": "'That enemy has been slain by me, and I shall slay others too. I am the lord, I am the enjoyer, I am successful, powerful, and happy.'",
+          "commentary": "The ego inflation of the demoniac reaches its peak with declarations of total self-sufficiency. They glory in having destroyed enemies and plan more destruction (haniṣye aparān api). Their self-identification becomes godlike: 'I am īśvara (lord), I am bhogī (enjoyer), I am siddha (successful), I am balavān (powerful), I am sukhī (happy).' This extreme ahamkara (ego) blinds them to their dependence on divine grace and interconnection with all beings, setting them up for inevitable downfall."
+        },
+        "turkish": {
+          "translation": "'O düşman benim tarafımdan öldürüldü ve diğerlerini de öldüreceğim. Ben efendiyim, ben zevk alıcıyım, ben başarılıyım, güçlüyüm ve mutluyum.'",
+          "commentary": "Şeytani olanların ego şişmesi, tam kendi kendine yeterlilik beyanlarıyla doruğa ulaşır. Düşmanları yok etmekle gurur duyarlar ve daha fazla yıkım planlarlar (haniṣye aparān api). Öz-kimlik tanımları tanrı gibi olur: 'Ben īśvara'yım (efendi), ben bhogī'yim (zevk alıcı), ben siddha'yım (başarılı), ben balavān'ım (güçlü), ben sukhī'yim (mutlu).' Bu aşırı ahamkara (ego), onları ilahi lütfa bağımlılıklarına ve tüm varlıklarla bağlantılarına kör eder ve kaçınılmaz düşüşe hazırlar."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "आढ्योऽभिजनवानस्मि कोऽन्योऽस्ति सदृशो मया |\nयक्ष्ये दास्यामि मोदिष्य इत्यज्ञानविमोहिताः ||",
+        "transliteration": "āḍhyo 'bhijanavān asmi ko 'nyo 'sti sadṛśo mayā |\nyakṣye dāsyāmi modiṣya ity ajñāna-vimohitāḥ ||",
+        "english": {
+          "translation": "'I am wealthy and well-born. Who else is equal to me? I shall perform sacrifices, I shall give charity, I shall rejoice'—thus deluded by ignorance.",
+          "commentary": "Their arrogance extends to boasting about wealth (āḍhyaḥ) and lineage (abhijanavān), believing no one is their equal. Even their religious acts—yajña (sacrifice) and dāna (charity)—are performed for show and self-glorification, not spiritual growth. The phrase 'modiṣye' (I shall rejoice) reveals their belief that happiness comes from ego satisfaction. Ajñāna (ignorance) and vimohitāḥ (delusion) cloud their understanding, preventing recognition of their spiritual poverty despite material wealth."
+        },
+        "turkish": {
+          "translation": "'Ben zenginim ve iyi doğmuşum. Bana eşit başka kim var? Kurbanlar sunacağım, sadaka vereceğim, sevinceğim'—böylece cehaletten yanılmış olarak.",
+          "commentary": "Kibirleri, servet (āḍhyaḥ) ve soy (abhijanavān) hakkında övünmeye uzanır ve hiç kimsenin kendilerine eşit olmadığına inanırlar. Dini eylemleri bile—yajña (kurban) ve dāna (sadaka)—ruhani büyüme için değil, gösteriş ve öz-yüceltme için gerçekleştirilir. 'Modiṣye' (sevinceğim) ifadesi, mutluluğun ego tatmininden geldiğine dair inançlarını ortaya çıkarır. Ajñāna (cehalet) ve vimohitāḥ (yanılsama), anlayışlarını bulandırır ve maddi zenginliğe rağmen ruhani yoksulluklarını tanımalarını engeller."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "अनेकचित्तविभ्रान्ता मोहजालसमावृताः |\nप्रसक्ताः कामभोगेषु पतन्ति नरकेऽशुचौ ||",
+        "transliteration": "aneka-citta-vibhrāntā moha-jāla-samāvṛtāḥ |\nprasaktāḥ kāma-bhogeṣu patanti narake 'śucau ||",
+        "english": {
+          "translation": "Bewildered by many thoughts, entangled in the net of delusion, addicted to the gratification of desires, they fall into a foul hell.",
+          "commentary": "The mental state of the demoniac becomes aneka-citta-vibhrāntā (confused by countless contradictory thoughts) as they lose clarity and peace. Moha-jāla (the net of delusion) increasingly entangles them. Their addiction (prasaktāḥ) to sensory pleasures becomes overwhelming. Eventually they fall into naraka (hell)—interpreted both as a literal post-mortem state and as the hellish existence of chronic suffering, guilt, and inner torment experienced in this life when living against dharmic principles."
+        },
+        "turkish": {
+          "translation": "Birçok düşünceyle şaşırmış, yanılsama ağına dolanmış, arzuların tatminine bağımlı olarak, pis bir cehenneme düşerler.",
+          "commentary": "Şeytani olanların zihinsel durumu, netlik ve huzuru kaybettikçe aneka-citta-vibhrāntā (sayısız çelişkili düşüncelerle kafası karışmış) hale gelir. Moha-jāla (yanılsama ağı) onları giderek daha fazla sarmalar. Duyusal zevklere bağımlılıkları (prasaktāḥ) ezici hale gelir. Sonunda naraka'ya (cehennem) düşerler—hem kelimenin tam anlamıyla ölüm sonrası bir durum hem de dharmik ilkelere karşı yaşarken bu yaşamda deneyimlenen kronik acı, suçluluk ve iç ıstırabın cehennemsi varlığı olarak yorumlanır."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "आत्मसम्भाविताः स्तब्धा धनमानमदान्विताः |\nयजन्ते नामयज्ञैस्ते दम्भेनाविधिपूर्वकम् ||",
+        "transliteration": "ātma-sambhāvitāḥ stabdhā dhana-māna-madānvitāḥ |\nyajante nāma-yajñais te dambhenāvidhi-pūrvakam ||",
+        "english": {
+          "translation": "Self-conceited, stubborn, filled with pride and arrogance of wealth, they perform sacrifices in name only, with ostentation and without following proper injunctions.",
+          "commentary": "The demoniac are ātma-sambhāvitāḥ (self-conceited) and stabdhā (rigid/obstinate in their views). Intoxicated by wealth (dhana), pride (māna), and arrogance (mada), their religious observances become mere show. They perform nāma-yajña (sacrifices in name only)—rituals lacking sincerity, proper procedure (avidhi-pūrvakam), or spiritual understanding. Their worship is motivated by dambha (ostentation) to impress others rather than devotion to the Divine, rendering their spiritual practices hollow and ineffective."
+        },
+        "turkish": {
+          "translation": "Kendini beğenmiş, inatçı, servetin gurur ve kibriyle dolu olarak, yalnızca ad olarak, gösterişle ve uygun buyruklara uymadan kurbanlar sunarlar.",
+          "commentary": "Şeytani olanlar ātma-sambhāvitāḥ (kendini beğenmiş) ve stabdhā (görüşlerinde katı/inatçı)dır. Servet (dhana), gurur (māna) ve kibir (mada) ile sarhoş olmuş, dini gözlemleri sadece gösteri haline gelir. Nāma-yajña (yalnızca ad olarak kurbanlar) gerçekleştirirler—samimiyet, uygun prosedür (avidhi-pūrvakam) veya ruhani anlayış eksik ritüeller. İbadetleri, İlahi'ye adanmışlıktan ziyade başkalarını etkilemek için dambha (gösteriş) ile motive edilir ve ruhani uygulamalarını içi boş ve etkisiz kılar."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "अहङ्कारं बलं दर्पं कामं क्रोधं च संश्रिताः |\nमामात्मपरदेहेषु प्रद्विषन्तोऽभ्यसूयकाः ||",
+        "transliteration": "ahaṅkāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ ca saṁśritāḥ |\nmām ātma-para-deheṣu pradviṣanto 'bhyasūyakāḥ ||",
+        "english": {
+          "translation": "Taking refuge in egotism, power, arrogance, lust, and anger, these malicious people hate Me dwelling in their own bodies and in the bodies of others.",
+          "commentary": "The six enemies—ahaṅkāra (egotism), bala (brute force), darpa (pride), kāma (lust), krodha (anger), and abhyasūya (malice)—completely dominate the demoniac. Most significantly, they hate the Divine (mām pradviṣantaḥ) both within themselves (ātma-deheṣu) and in others (para-deheṣu). This hatred of God manifests as rejection of spiritual values, cruelty toward beings, and destruction of sacred traditions. Unable to see divinity anywhere, they live in perpetual alienation from the source of all existence."
+        },
+        "turkish": {
+          "translation": "Egoizm, güç, kibir, şehvet ve öfkeye sığınarak, bu kötü niyetli insanlar, kendi bedenlerinde ve başkalarının bedenlerinde ikamet eden Beni nefret ederler.",
+          "commentary": "Altı düşman—ahaṅkāra (egoizm), bala (kaba kuvvet), darpa (kibir), kāma (şehvet), krodha (öfke) ve abhyasūya (kötü niyet)—şeytani olanları tamamen domine eder. En önemlisi, hem kendilerinde (ātma-deheṣu) hem de başkalarında (para-deheṣu) İlahi'ye (mām pradviṣantaḥ) nefret ederler. Tanrı'ya bu nefret, ruhani değerlerin reddi, varlıklara karşı zulüm ve kutsal geleneklerin yıkımı olarak tezahür eder. Hiçbir yerde tanrısallığı göremeyerek, tüm varoluşun kaynağından daimi yabancılaşma içinde yaşarlar."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "तानहं द्विषतः क्रूरान्संसारेषु नराधमान् |\nक्षिपाम्यजस्रमशुभानासुरीष्वेव योनिषु ||",
+        "transliteration": "tān ahaṁ dviṣataḥ krūrān saṁsāreṣu narādhamān |\nkṣipāmy ajasram aśubhān āsurīṣv eva yoniṣu ||",
+        "english": {
+          "translation": "These cruel haters, the worst among men, I hurl perpetually into the wombs of the demoniac in the cycle of births and deaths.",
+          "commentary": "Krishna describes the karmic consequences for the extremely wicked: they are repeatedly reborn (kṣipāmi ajasram) into āsurī yoni (demoniac wombs/circumstances). This isn't divine vindictiveness but the natural working of karma—those who cultivate demoniac qualities attract corresponding conditions in future births. The term narādhamān (lowest of humans) indicates they've squandered their precious human birth. However, this cycle isn't eternal; even from these circumstances, reformation and eventual liberation remain possible through grace."
+        },
+        "turkish": {
+          "translation": "Bu zalim nefret edenler, insanlar arasında en kötüler, onları doğum ve ölüm döngüsünde devamlı olarak şeytani rahimlere fırlatırım.",
+          "commentary": "Krishna, aşırı kötüler için karmik sonuçları açıklar: tekrar tekrar āsurī yoni'ye (şeytani rahimler/koşullar) yeniden doğarlar (kṣipāmi ajasram). Bu ilahi intikam değil, karmanın doğal işleyişidir—şeytani nitelikleri besleyenler gelecek doğumlarda karşılık gelen koşulları çekerler. Narādhamān (insanların en alçağı) terimi, değerli insan doğumlarını harcadıklarını gösterir. Ancak bu döngü ebedi değildir; bu koşullardan bile reform ve nihai kurtuluş lütuf yoluyla mümkün kalır."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "आसुरीं योनिमापन्ना मूढा जन्मनि जन्मनि |\nमामप्राप्यैव कौन्तेय ततो यान्त्यधमां गतिम् ||",
+        "transliteration": "āsurīṁ yonim āpannā mūḍhā janmani janmani |\nmām aprāpyaiva kaunteya tato yānty adhamāṁ gatim ||",
+        "english": {
+          "translation": "Entering into demoniac wombs, birth after birth, the deluded ones, O son of Kunti, not attaining Me, sink into the lowest state.",
+          "commentary": "The tragedy deepens: caught in demoniac circumstances, these mūḍhā (deluded beings) repeatedly fail to reach God (mām aprāpya). Each birth in āsurī yoni reinforces negative tendencies, making spiritual progress increasingly difficult. They descend into adhamā gati (the lowest state)—progressively degraded forms of existence. Yet Krishna's mention of this serves as a warning to inspire seekers to cultivate divine qualities now, while human consciousness makes choice and transformation possible."
+        },
+        "turkish": {
+          "translation": "Şeytani rahimlere girerek, doğumdan doğuma, yanılmış olanlar, ey Kunti'nin oğlu, Bana ulaşamadan, en alçak duruma batarlar.",
+          "commentary": "Trajedi derinleşir: şeytani koşullarda sıkışan bu mūḍhā (yanılmış varlıklar) tekrar tekrar Tanrı'ya (mām aprāpya) ulaşamazlar. Āsurī yoni'deki her doğum olumsuz eğilimleri güçlendirir ve ruhani ilerlemeyi giderek daha zor hale getirir. Adhamā gati'ye (en alçak durum) inerler—giderek daha aşağılanmış varoluş biçimleri. Yine de Krishna'nın bundan bahsetmesi, insan bilincinin seçim ve dönüşümü mümkün kıldığı şimdi ilahi nitelikleri geliştirmeleri için arayanları ilham etmek için bir uyarı olarak hizmet eder."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "त्रिविधं नरकस्येदं द्वारं नाशनमात्मनः |\nकामः क्रोधस्तथा लोभस्तस्मादेतत्त्रयं त्यजेत् ||",
+        "transliteration": "tri-vidhaṁ narakasyedaṁ dvāraṁ nāśanam ātmanaḥ |\nkāmaḥ krodhas tathā lobhas tasmād etat trayaṁ tyajet ||",
+        "english": {
+          "translation": "Triple is the gate to this hell, leading to the destruction of the self: lust, anger, and greed. Therefore, one should abandon these three.",
+          "commentary": "Krishna identifies the tri-vidha dvāra (three gates to hell): kāma (lust/selfish desire), krodha (anger), and lobha (greed). These three destructive forces are ātma-nāśanam (self-destroying), corrupting character and leading to spiritual ruin. They form a vicious cycle: unfulfilled desire breeds anger, which fuels greed for more objects to satisfy desire. The imperative tyajet (must abandon) emphasizes that overcoming these three is essential for spiritual progress. They are the root causes of most human suffering and unethical behavior."
+        },
+        "turkish": {
+          "translation": "Bu cehenneme üçlü kapı vardır, benliğin yıkımına götürür: şehvet, öfke ve açgözlülük. Bu nedenle, kişi bu üçünü terk etmelidir.",
+          "commentary": "Krishna tri-vidha dvāra'yı (cehenneme üç kapı) tanımlar: kāma (şehvet/bencil arzu), krodha (öfke) ve lobha (açgözlülük). Bu üç yıkıcı güç ātma-nāśanam'dır (benliği yok eden), karakteri bozan ve ruhani yıkıma götüren. Kısır bir döngü oluştururlar: tatmin edilmemiş arzu öfke doğurur, bu da arzuyu tatmin etmek için daha fazla nesne için açgözlülüğü körükler. Tyajet (terk etmeli) emri, bu üçünü aşmanın ruhani ilerleme için gerekli olduğunu vurgular. Çoğu insan acısının ve etik olmayan davranışın temel nedenleridir."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "एतैर्विमुक्तः कौन्तेय तमोद्वारैस्त्रिभिर्नरः |\nआचरत्यात्मनः श्रेयस्ततो याति परां गतिम् ||",
+        "transliteration": "etair vimuktaḥ kaunteya tamo-dvārais tribhir naraḥ |\nācaraty ātmanaḥ śreyas tato yāti parāṁ gatim ||",
+        "english": {
+          "translation": "A person who is liberated from these three gates of darkness, O son of Kunti, acts for their own welfare and thereby attains the supreme goal.",
+          "commentary": "Freedom (vimuktaḥ) from the tamo-dvāra (gates of darkness—lust, anger, greed) enables one to naturally perform actions conducive to ātmanaḥ śreyaḥ (the welfare of the Self). Without these obscuring forces, one's innate wisdom and goodness emerge. Such a purified person automatically gravitates toward dharmic living and ultimately reaches parā gati (the supreme destination)—liberation or union with the Divine. This verse offers hope: by abandoning three qualities, the entire spiritual path opens naturally."
+        },
+        "turkish": {
+          "translation": "Bu üç karanlık kapısından özgürleşen bir kişi, ey Kunti'nin oğlu, kendi refahı için hareket eder ve böylece en yüce hedefe ulaşır.",
+          "commentary": "Tamo-dvāra'dan (karanlık kapıları—şehvet, öfke, açgözlülük) vimuktaḥ (özgürlük), kişinin ātmanaḥ śreyaḥ'a (Benliğin refahı) elverişli eylemleri doğal olarak gerçekleştirmesini sağlar. Bu karartıcı güçler olmadan, kişinin doğuştan gelen bilgeliği ve iyiliği ortaya çıkar. Böyle arınmış bir kişi otomatik olarak dharmik yaşama yönelir ve nihayetinde parā gati'ye (en yüce varış yeri)—kurtuluş veya İlahi ile birleşme—ulaşır. Bu ayet umut sunar: üç niteliği terk ederek, tüm ruhani yol doğal olarak açılır."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "यः शास्त्रविधिमुत्सृज्य वर्तते कामकारतः |\nन स सिद्धिमवाप्नोति न सुखं न परां गतिम् ||",
+        "transliteration": "yaḥ śāstra-vidhim utsṛjya vartate kāma-kārataḥ |\nna sa siddhim avāpnoti na sukhaṁ na parāṁ gatim ||",
+        "english": {
+          "translation": "One who discards scriptural injunctions and acts according to their own whims does not attain perfection, nor happiness, nor the supreme goal.",
+          "commentary": "Krishna emphasizes the importance of śāstra-vidhi (scriptural guidance) as a framework for spiritual life. Acting according to kāma-kārataḥ (whimsical desires) rather than dharmic principles leads nowhere: no siddhi (perfection/accomplishment), no sukha (happiness), no parā gati (supreme goal). This doesn't advocate blind adherence to texts but recognizes that authentic spiritual traditions embody accumulated wisdom about the path to liberation. Personal desires, untethered to this wisdom, lead to confusion and suffering."
+        },
+        "turkish": {
+          "translation": "Kutsal metinlerin buyruklarını reddeden ve kendi kaprislerine göre hareket eden kişi ne mükemmelliğe, ne mutluluğa, ne de en yüce hedefe ulaşır.",
+          "commentary": "Krishna, ruhani yaşam için bir çerçeve olarak śāstra-vidhi'nin (kutsal rehberlik) önemini vurgular. Dharmik ilkeler yerine kāma-kārataḥ'a (kaprisli arzular) göre hareket etmek hiçbir yere götürmez: ne siddhi (mükemmellik/başarı), ne sukha (mutluluk), ne parā gati (en yüce hedef). Bu, metinlere kör bağlılığı savunmaz, ancak otantik ruhani geleneklerin kurtuluş yoluna ilişkin birikmiş bilgeliği somutlaştırdığını kabul eder. Bu bilgelikten bağımsız kişisel arzular, kafa karışıklığına ve acı çekmeye yol açar."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "तस्माच्छास्त्रं प्रमाणं ते कार्याकार्यव्यवस्थितौ |\nज्ञात्वा शास्त्रविधानोक्तं कर्म कर्तुमिहार्हसि ||",
+        "transliteration": "tasmāc chāstraṁ pramāṇaṁ te kāryākārya-vyavasthitau |\njñātvā śāstra-vidhānoktaṁ karma kartum ihārhasi ||",
+        "english": {
+          "translation": "Therefore, let the scripture be your authority in determining what should be done and what should not be done. Knowing the scriptural injunctions, you should perform your actions in this world.",
+          "commentary": "The chapter concludes with practical guidance: use śāstra (scripture) as pramāṇa (authority/valid means of knowledge) for discerning kārya (duty) from akārya (what should be avoided). This doesn't mean literal fundamentalism but using sacred texts as a compass for ethical living. After understanding scriptural principles (jñātvā śāstra-vidhānam), one should act accordingly (karma kartum arhasi). This establishes a balance between divine guidance and human agency, providing a foundation for making righteous choices in daily life while cultivating the divine qualities outlined at the chapter's beginning."
+        },
+        "turkish": {
+          "translation": "Bu nedenle, ne yapılması ve ne yapılmaması gerektiğini belirlemede kutsal metin senin otoritendir. Kutsal buyruklarını bilerek, bu dünyada eylemlerini gerçekleştirmelisin.",
+          "commentary": "Bölüm pratik rehberlikle sonuçlanır: kārya'yı (görev) akārya'dan (kaçınılması gereken) ayırt etmek için śāstra'yı (kutsal metin) pramāṇa (otorite/geçerli bilgi aracı) olarak kullanın. Bu, kelimenin tam anlamıyla köktenciliği değil, kutsal metinleri etik yaşam için bir pusula olarak kullanmayı ifade eder. Kutsal metinlerin ilkelerini (jñātvā śāstra-vidhānam) anladıktan sonra, buna göre hareket etmelidir (karma kartum arhasi). Bu, ilahi rehberlik ile insan iradesini dengeler ve bölümün başında özetlenen ilahi nitelikleri geliştirirken günlük yaşamda doğru seçimler yapmak için bir temel sağlar."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "verses_translated": 24,
+    "expected_verses": 24,
+    "complete": true,
+    "missing_verses": []
+  }
+}
