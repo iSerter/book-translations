@@ -1,6 +1,6 @@
 # Bhagavad Gita
 
-## Chapter 1
+## Chapter 1: Arjuna'nın Kederinin Yogası
 
 Dhritarashtra dedi ki: Ey Sanjaya, oğullarım ve Pandu'nun oğulları, kutsal Kurukshetra alanında savaşmaya hevesli olarak toplandıklarında ne yaptılar?
 
@@ -96,7 +96,7 @@ Eğer Dhritarashtra'nın oğulları, ellerinde silahlarla, ben silahsız ve dire
 
 Sanjaya dedi: Savaş alanında böyle konuştuktan sonra Arjuna, yayını ve oklarını bir kenara bırakarak, zihin kedere boğulmuş olarak arabasının koltuğuna çöktü.
 
-## Chapter 2
+## Chapter 2: Bilgi Yogası
 
 Sanjaya dedi: Böylece acıma duygusuyla boğulmuş, gözleri yaşlarla dolmuş ve çalkantılı, umutsuzluğa kapılmış olan ona, Madhusudana (Krishna) şu sözleri söyledi.
 
@@ -242,7 +242,7 @@ Tüm arzuları terk eden, özlem olmadan, 'benim' hissi olmadan ve ego olmadan h
 
 Bu Brahman durumudur, ey Partha. Buna ulaştıktan sonra, kişi bir daha asla aldanmaz. Ölüm anında bile bu durumda yerleşmiş olan, Brahman'da kurtuluşa ulaşır.
 
-## Chapter 3
+## Chapter 3: Eylem Yogası
 
 Arjuna dedi: Bilgiyi eylemden üstün sayıyorsan, ey Janardana (Krishna), o halde neden beni bu korkunç eyleme teşvik ediyorsun, ey Keshava?
 
@@ -330,7 +330,7 @@ Duyuların üstün olduğunu söylerler; duyulardan daha yüksek zihindir; zihin
 
 Böylece Benliği aklın ötesinde bilerek, alt benliği yüksek Benlik tarafından sabitleyerek, ey güçlü kollu, fethetmesi zor olan arzu biçimindeki düşmanı öldür.
 
-## Chapter 4
+## Chapter 4: Bilgi ve Eylemden Feragat Yogası
 
 Kutlu Tanrı dedi: Bu ebedi yogayı Vivasvan'a öğrettim; Vivasvan Manu'ya öğretti; Manu İkshvaku'ya öğretti.
 
@@ -416,7 +416,7 @@ Yoga yoluyla eylemleri terk etmiş, şüpheleri bilgi tarafından kesilmiş, ken
 
 Bu nedenle, Benlik-bilgisi kılıcıyla, kalbinde yaşayan cehaletten doğmuş bu şüpheyi kes. Yogaya sığın ve ayağa kalk, ey Bharata!
 
-## Chapter 5
+## Chapter 5: Eylemden Feragat Yogası
 
 Arjuna dedi: Ey Krishna, eylemlerden feragati ve yine eylem yogasını övüyorsun. Bu ikisinden hangisinin daha iyi olduğunu bana kesin olarak söyle.
 
@@ -476,7 +476,7 @@ Duyuları, zihni ve aklı kontrol edilmiş, kurtuluşa adanmış, arzu, korku ve
 
 Beni kurban ve çileciliğin zevk alan, tüm dünyanın büyük Efendisi, tüm varlıkların arkadaşı olarak bilerek—huzura ulaşır.
 
-## Chapter 6
+## Chapter 6: Meditasyon Yogası
 
 Yüce Tanrı dedi ki: Eylemin meyvesine bağımlı olmadan görevini yerine getiren kişi—o gerçek sannyāsī ve yogidir, ateş yakmayan ya da hiçbir eylem gerçekleştirmeyen değil.
 
@@ -552,7 +552,7 @@ Yogi, çilekeşlerden üstündür, bilginlerden bile üstün kabul edilir ve rit
 
 Ve tüm yogiler arasında, Bana inançla tapınan, iç benliği Bende absorbe olmuş olan—o Benim tarafımdan en birleşmiş olarak kabul edilir.
 
-## Chapter 8
+## Chapter 8: Ebedi Tanrı'nın Yogası
 
 Arjuna dedi ki: Ey Yüce Kişi, Tanrı nedir? Adhyatma (bireysel benlik) nedir? Karma (eylem) nedir? Adhibhuta (maddi tezahür) ne olarak söylenir? Ve adhidaiva (kozmik tanrılar) ne diye adlandırılır?
 
@@ -610,7 +610,7 @@ Bu iki yolu bilerek, ey Partha, hiçbir yogi aldanmaz. Bu nedenle, her zaman, yo
 
 Bunu bilen yogi, Vedaları çalışmak, kurbanlar sunmak, çileler ve hayırlar için belirlenen tüm erdemi aşar ve en yüce ilk yurda ulaşır.
 
-## Chapter 9
+## Chapter 9: Kraliyet Bilgisi ve Kraliyet Sırrının Yogası
 
 Kutsal Efendi dedi ki: Kıskançlıktan özgür olan sana, şimdi gerçekleşme ile birlikte bu en gizli bilgiyi açıklayacağım, bunu bilerek tüm kötülükten özgür olacaksın.
 
@@ -680,7 +680,7 @@ O halde kutsal brahmanlar ve adanmış kraliyet bilgeleri ne kadar daha fazla! B
 
 Zihnini Bana sabitle, Bana adanmış ol, Bana ibadet et, Bana eğil. Böylece kendini Benimle birleştirerek, Beni en yüce hedef alarak, Bana geleceksin.
 
-## Chapter 10
+## Chapter 10: İlahi Tezahürlerin Yogası
 
 Kutsal Efendi dedi ki: Yine, ey güçlü kollu, Bana sevgili olan senin iyiliğini arzulayarak, sana söyleyeceğim Benim en yüce sözümü dinle.
 
@@ -766,7 +766,7 @@ Hangi varlıkta görkemlilik, refah veya güç varsa, onu Benim parlaklığımı
 
 Ama senin tüm bunları detaylı bilmene ne gerek var, ey Arjuna? Ben kendimin sadece tek bir parçasıyla bu tüm evrene nüfuz ederek var olurum.
 
-## Chapter 11
+## Chapter 11: Evrensel Formun Görüşü Yogası
 
 Arjuna dedi ki: Bana karşı şefkatinizden dolayı söylediğiniz, Benlik hakkındaki bu en yüce sır sayesinde, benim yanılgım ortadan kalktı.
 
@@ -878,7 +878,7 @@ Ancak tek yönlü adanmayla, ey Arjuna, ben bu şekilde bilinebilir, gerçekten 
 
 Benim işimi yapan, beni yüce hedef olarak gören, bana adanmış, bağlantıdan özgür ve hiç kimseye düşmanlık beslemeyen kişi—o kişi bana gelir, ey Pandu'nun oğlu.
 
-## Chapter 12
+## Chapter 12: Bhakti Yogası (Adanmışlık Yolu)
 
 Arjuna dedi: Her zaman kararlı bir şekilde Sana hasr olmuş bhaktalar Seni adanmışlıkla ibadet edenler ve yok edilemez, görünmeyen Mutlak'a ibadet edenler—bunlardan hangileri yogada daha bilgilidir?
 
@@ -920,7 +920,7 @@ Kınama ve övgüde eşit, sessiz, herhangi bir şeyle memnun, evsiz (veya eve b
 
 Fakat tanımlandığı gibi bu ölümsüz dharmayı onurlandıran, imanla dolu, Beni en yüce sayan bhaktalar—onlar Bana son derece sevgilidir.
 
-## Chapter 13
+## Chapter 13: Alan ve Alanı Bilen Arasındaki Ayrımın Yogası
 
 Arjuna dedi: Prakriti'yi (Doğa) ve Purusha'yı (Ruh), alanı (kshetra) ve alanı bileni (kshetrajna), ayrıca bilgiyi ve bilginin nesnesini anlamak istiyorum, ey Keshava.
 
@@ -992,7 +992,7 @@ Tek güneş bu tüm dünyayı aydınlattığı gibi, alanın Efendisi (Benlik) d
 
 Bilgi gözüyle alan ve alanı bilen arasındaki ayrımı ve varlıkların Prakriti'sinden kurtuluşu algılayanlar—onlar Yüce'ye ulaşırlar.
 
-## Chapter 14
+## Chapter 14: Üç Niteliğin Ayrımı Yogası
 
 Yüce Efendi buyurdu: Sana tekrar bildireceğim o yüce bilgiyi, tüm bilgilerin en üstünü olan; bunu bilerek tüm bilgeler bu dünyadan en yüksek mükemmelliğe ulaştılar.
 
@@ -1048,7 +1048,7 @@ Ve bana sarsılmaz bağlılıkla bhakti yoga yoluyla hizmet eden, bu nitelikleri
 
 Çünkü Ben Brahman'ın, ölümsüz ve değişmez olanın, ebedi dharma'nın ve mutlak mutluluğun meskeniyim.
 
-## Chapter 15
+## Chapter 15: En Yüce Kişi Yogası
 
 Yüce Efendi buyurdu: Ebedi olan ashvattha ağacından söz ederler, kökleri yukarıda ve dalları aşağıda olan, yaprakları Vedik ilahiler olan; bunu bilen Veda'yı bilendir.
 
@@ -1090,7 +1090,7 @@ Böylece Beni yanılmadan En Yüce Kişi olarak bilen, her şeyi bilerek, tüm v
 
 Böylece bu en gizli kutsal yazı Benim tarafımdan öğretildi, ey günahsız. Bunu anlayan bilge olur ve yapılması gereken her şeyi başarmış olur, ey Bharata.
 
-## Chapter 16
+## Chapter 16: İlahi ve Şeytani Nitelikler Arasındaki Ayrım Yogası
 
 Yüce Tanrı dedi ki: Korkusuzluk, kalp saflığı, bilgi ve yogada kararlılık, cömertlik, öz-kontrol, kurban, kutsal metinlerin incelenmesi, çilekeşlik ve doğruluk.
 
@@ -1140,7 +1140,7 @@ Kutsal metinlerin buyruklarını reddeden ve kendi kaprislerine göre hareket ed
 
 Bu nedenle, ne yapılması ve ne yapılmaması gerektiğini belirlemede kutsal metin senin otoritendir. Kutsal buyruklarını bilerek, bu dünyada eylemlerini gerçekleştirmelisin.
 
-## Chapter 17
+## Chapter 17: İmanın Üç Bölümü Yogası
 
 Arjuna dedi: Kutsal metinlerin buyruklarını bir kenara bırakan ama imanla ibadet edenler—onların durumu nedir, ey Krishna? Sattva mı, rajas mı, yoksa tamas mı?
 
@@ -1198,7 +1198,7 @@ Kurban, çilecilik ve sadakada kararlılık da 'Sat' olarak adlandırılır ve b
 
 İman olmadan sunulan, verilen veya gerçekleştirilen her ne ve hangi çilecilik uygulandıysa—buna 'asat' denir, ey Partha. Burada veya sonradan hiçbir değeri yoktur.
 
-## Chapter 18
+## Chapter 18: Feragat Yoluyla Kurtuluş Yogası
 
 Arjuna dedi: Ey güçlü kollu, ey Hrishikesha, ey Keshi'nin yok edicisi, sannyasa'nın (feragat) ve tyaga'nın (vazgeçiş) gerçek doğasını ve aralarındaki farkı anlamak istiyorum.
 
