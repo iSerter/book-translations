@@ -72,14 +72,20 @@ As a Content Manager, I want to import multiple JSON files at once using a glob 
 
 - **FR-001**: System MUST provide a CLI command to import translation data (e.g., `translations import <file_pattern>`).
 - **FR-002**: System MUST accept a `--book-slug` argument to associate the imported content with a specific book entity.
-- **FR-003**: System MUST parse the specific JSON schema used in the project (containing `chapter` metadata and `verses` array).
-- **FR-004**: System MUST automatically create the Book entity if it does not exist, using the provided slug (and potentially inferring title from the JSON or path).
-- **FR-005**: System MUST create Chapter entities based on the `chapter.number` and `chapter.title_english` in the JSON.
-- **FR-006**: System MUST create Verse entities for each item in the `verses` array, storing the `sanskrit` text as the source.
-- **FR-007**: System MUST create Translation entities for each language present in the verse object (e.g., `english`, `turkish`).
-- **FR-008**: System MUST extract `translation` and `commentary` text for each translation entry.
-- **FR-009**: System MUST infer the Translation Provider and Model from the file path if possible (e.g., `.../Claude-Sonnet-4.5/...` implies Provider=Claude, Model=Sonnet-4.5) OR accept it as a CLI argument.
-- **FR-010**: System MUST support idempotency: existing records matching unique constraints (Book Slug, Chapter Number, Verse Number, Language, Provider) must be updated, not duplicated.
+- **FR-003**: System MUST support multiple import formats (extensible architecture).
+- **FR-004**: System MUST determine the import format by:
+    1. Checking the `--format` CLI argument.
+    2. Inspecting the JSON content (e.g., presence of `chapter.title_sanskrit` implies `sanskrit-scripture`).
+    3. Defaulting to `sanskrit-scripture` if no other format matches.
+- **FR-005**: System MUST parse the specific JSON schema for the determined format.
+    - **Format `sanskrit-scripture`**: containing `chapter` metadata and `verses` array.
+- **FR-006**: System MUST automatically create the Book entity if it does not exist, using the provided slug (and potentially inferring title from the JSON or path).
+- **FR-007**: System MUST create Chapter entities based on the `chapter.number` and `chapter.title_english` in the JSON.
+- **FR-008**: System MUST create Verse entities for each item in the `verses` array, storing the `sanskrit` text as the source.
+- **FR-009**: System MUST create Translation entities for each language present in the verse object (e.g., `english`, `turkish`).
+- **FR-010**: System MUST extract `translation` and `commentary` text for each translation entry.
+- **FR-011**: System MUST infer the Translation Provider and Model from the file path if possible (e.g., `.../Claude-Sonnet-4.5/...` implies Provider=Claude, Model=Sonnet-4.5) OR accept it as a CLI argument.
+- **FR-012**: System MUST support idempotency: existing records matching unique constraints (Book Slug, Chapter Number, Verse Number, Language, Provider) must be updated, not duplicated.
 
 ### Key Entities
 

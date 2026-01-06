@@ -20,6 +20,7 @@ translations import [options] <file-pattern>
 |--------|------|----------|-------------|
 | `-b, --book-slug <slug>` | String | No | Slug of the book (e.g., `bhagavad-gita`). If omitted, inferred from path. |
 | `-p, --provider <name>` | String | No | Translation provider name. If omitted, inferred from path. |
+| `-f, --format <type>` | String | No | Input format (e.g., `sanskrit-scripture`). Defaults to inference or `sanskrit-scripture`. |
 | `--dry-run` | Boolean | No | Parse and validate files without writing to DB. |
 
 ### Output

@@ -65,6 +65,45 @@ export function insertTranslation(
   return mapTranslation(row);
 }
 
+export function upsertTranslation(
+  db: BetterSqlite3Database,
+  input: InsertTranslationInput,
+): TranslationRecord {
+  const model = input.model ?? "";
+  db.prepare(`
+    INSERT INTO translations (verse_id, language_code, provider, model, text, commentary)
+    VALUES (@verseId, @languageCode, @provider, @model, @text, @commentary)
+    ON CONFLICT(verse_id, language_code, provider, model) DO UPDATE SET
+      text = excluded.text,
+      commentary = excluded.commentary
+  `).run({
+    verseId: input.verseId,
+    languageCode: input.languageCode,
+    provider: input.provider,
+    model: model,
+    text: input.text,
+    commentary: input.commentary ?? null,
+  });
+
+  const row = db
+    .prepare(
+      `SELECT id, verse_id as verseId, language_code as languageCode, provider, model, text, commentary, created_at as createdAt
+       FROM translations
+       WHERE verse_id = @verseId AND language_code = @languageCode AND provider = @provider AND model = @model`,
+    )
+    .get({
+      verseId: input.verseId,
+      languageCode: input.languageCode,
+      provider: input.provider,
+      model: model,
+    });
+
+  if (!row) {
+    throw new AppError("Failed to upsert translation", { code: ExitCode.Unknown });
+  }
+  return mapTranslation(row);
+}
+
 export function findTranslation(
   db: BetterSqlite3Database,
   verseId: number,

@@ -13,6 +13,7 @@ export type ChapterRecord = {
   id: number;
   bookId: number;
   number: number;
+  title: string | null;
   expectedVerseCount: number | null;
   createdAt: string;
 };
@@ -34,6 +35,7 @@ export type UpsertBookInput = {
 export type UpsertChapterInput = {
   bookId: number;
   number: number;
+  title?: string | null;
   expectedVerseCount?: number | null;
 };
 
@@ -90,19 +92,21 @@ export function listBooks(db: BetterSqlite3Database): BookRecord[] {
 
 export function upsertChapter(db: BetterSqlite3Database, input: UpsertChapterInput): ChapterRecord {
   db.prepare(`
-    INSERT INTO chapters (book_id, number, expected_verse_count)
-    VALUES (@bookId, @number, @expectedVerseCount)
+    INSERT INTO chapters (book_id, number, title, expected_verse_count)
+    VALUES (@bookId, @number, @title, @expectedVerseCount)
     ON CONFLICT(book_id, number) DO UPDATE SET
+      title = COALESCE(excluded.title, chapters.title),
       expected_verse_count = excluded.expected_verse_count
   `).run({
     bookId: input.bookId,
     number: input.number,
+    title: input.title ?? null,
     expectedVerseCount: input.expectedVerseCount ?? null,
   });
 
   const row = db
     .prepare(
-      `SELECT id, book_id as bookId, number, expected_verse_count as expectedVerseCount, created_at as createdAt
+      `SELECT id, book_id as bookId, number, title, expected_verse_count as expectedVerseCount, created_at as createdAt
        FROM chapters WHERE book_id = @bookId AND number = @number`,
     )
     .get({ bookId: input.bookId, number: input.number });
@@ -120,7 +124,7 @@ export function findChapter(
 ): ChapterRecord | undefined {
   const row = db
     .prepare(
-      `SELECT id, book_id as bookId, number, expected_verse_count as expectedVerseCount, created_at as createdAt
+      `SELECT id, book_id as bookId, number, title, expected_verse_count as expectedVerseCount, created_at as createdAt
        FROM chapters WHERE book_id = @bookId AND number = @number`,
     )
     .get({ bookId, number });
@@ -130,7 +134,7 @@ export function findChapter(
 export function listChaptersForBook(db: BetterSqlite3Database, bookId: number): ChapterRecord[] {
   const rows = db
     .prepare(
-      `SELECT id, book_id as bookId, number, expected_verse_count as expectedVerseCount, created_at as createdAt
+      `SELECT id, book_id as bookId, number, title, expected_verse_count as expectedVerseCount, created_at as createdAt
        FROM chapters WHERE book_id = @bookId ORDER BY number ASC`,
     )
     .all({ bookId });
@@ -201,6 +205,7 @@ function mapChapter(row: any): ChapterRecord {
     id: row.id,
     bookId: row.bookId,
     number: row.number,
+    title: row.title ?? null,
     expectedVerseCount: row.expectedVerseCount ?? null,
     createdAt: row.createdAt,
   };

@@ -525,6 +525,500 @@
           "translation": "Yeryüzünde veya cennette tanrılar arasında prakriti'den (maddi doğa) doğan bu üç gunas'tan özgür olan hiçbir varlık yoktur.",
           "commentary": "Bu ayet üç gunas'ın evrenselliğini vurgular. Tezahür etmiş varoluştaki her şey—insanlardan göksel varlıklara—sattva, rajas ve tamas'ın etkisi altında çalışır. Tanrılar bile muaf değildir. Gunalar prakriti'nin (doğa/madde) temel özellikleridir ve tüm bedenli varlıkları etkiler. Sadece aşkın Benlik (Brahman) gunas'ın ötesindedir. Bu öğreti, kurtuluşun sadece sattva'yı geliştirmeyi değil, gunas'ı aşmayı gerektirdiğini gösterir. Bunu anlamak ruhani gururu önler ve tam aşkınlığın gerekliliğini gösterir."
         }
+      },
+            {
+        "verse_number": 41,
+        "sanskrit": "ब्राह्मणक्षत्रियविशां शूद्राणां च परन्तप। कर्माणि प्रविभक्तानि स्वभावप्रभवैर्गुणैः॥",
+        "transliteration": "brāhmaṇa-kṣatriya-viśāṁ śūdrāṇāṁ ca parantapa | karmāṇi pravibhaktāni svabhāva-prabhavair guṇaiḥ ||",
+        "english": {
+          "translation": "The duties of the brahmanas, kshatriyas, vaishyas, and shudras, O scorcher of foes, are distributed according to the qualities born of their own nature.",
+          "commentary": "Krishna introduces the concept of svadharma—duty according to one's inherent nature (svabhava). The four varnas (social classes) are not arbitrary but correspond to natural tendencies determined by the gunas. Brahmanas (priests/teachers) are dominated by sattva, kshatriyas (warriors/rulers) by rajas-sattva, vaishyas (merchants/farmers) by rajas-tamas, and shudras (laborers/servants) by tamas-rajas. This system ideally matches people's duties to their natural capacities, creating social harmony. The emphasis on svabhava suggests these are psychological types, not rigid birth castes."
+        },
+        "turkish": {
+          "translation": "Brahmanların, kshatriyaların, vaishyaların ve shudraların görevleri, ey düşman yok edici, kendi doğalarından doğan niteliklere göre dağıtılmıştır.",
+          "commentary": "Krishna svadharma kavramını tanıtır—kişinin doğuştan gelen doğasına (svabhava) göre görev. Dört varna (sosyal sınıf) keyfi değildir, gunas tarafından belirlenen doğal eğilimlere karşılık gelir. Brahmanlar (rahipler/öğretmenler) sattva, kshatriyalar (savaşçılar/yöneticiler) rajas-sattva, vaishyalar (tüccarlar/çiftçiler) rajas-tamas ve shudralar (işçiler/hizmetkarlar) tamas-rajas tarafından yönetilir. Bu sistem ideal olarak insanların görevlerini doğal kapasitelerine eşleştirir ve sosyal uyum yaratır. Svabhava'ya yapılan vurgu, bunların katı doğum kastları değil, psikolojik tipler olduğunu önerir."
+        }
+      },
+      {
+        "verse_number": 42,
+        "sanskrit": "शमो दमस्तपः शौचं क्षान्तिरार्जवमेव च। ज्ञानं विज्ञानमास्तिक्यं ब्रह्मकर्म स्वभावजम्॥",
+        "transliteration": "śamo damas tapaḥ śaucaṁ kṣāntir ārjavam eva ca | jñānaṁ vijñānam āstikyaṁ brahma-karma svabhāva-jam ||",
+        "english": {
+          "translation": "Serenity, self-control, austerity, purity, forbearance, uprightness, knowledge, wisdom, and faith in the Divine—these are the duties of a brahmana, born of his own nature.",
+          "commentary": "The qualities of a brahmana are primarily sattvic and inner-directed: mental tranquility (shama), sense control (dama), discipline (tapas), external and internal purity (shaucham), patience (kshanti), integrity (arjavam), theoretical knowledge (jnana), experiential wisdom (vijnana), and faith in transcendent reality (astikyam). These aren't mere professional duties but character traits. The brahmana's role is to embody and transmit spiritual wisdom, requiring purity of mind and heart. This describes the spiritual teacher or contemplative, not a hereditary privilege."
+        },
+        "turkish": {
+          "translation": "Sükunet, öz-kontrol, çilekeşlik, saflık, hoşgörü, dürüstlük, bilgi, bilgelik ve İlahi'ye iman—bunlar bir brahmanın görevleridir, kendi doğasından doğar.",
+          "commentary": "Bir brahmanın nitelikleri öncelikle sattvik ve içe yöneliktir: zihinsel sükunet (shama), duyu kontrolü (dama), disiplin (tapas), dış ve iç saflık (shaucham), sabır (kshanti), dürüstlük (arjavam), teorik bilgi (jnana), deneyimsel bilgelik (vijnana) ve aşkın gerçekliğe iman (astikyam). Bunlar sadece mesleki görevler değil, karakter özellikleridir. Brahmanın rolü ruhani bilgeliği somutlaştırmak ve aktarmaktır, zihin ve kalp saflığı gerektirir. Bu, ruhani öğretmeni veya kontemplatifi tanımlar, kalıtsal bir ayrıcalık değil."
+        }
+      },
+      {
+        "verse_number": 43,
+        "sanskrit": "शौर्यं तेजो धृतिर्दाक्ष्यं युद्धे चाप्यपलायनम्। दानमीश्वरभावश्च क्षात्रं कर्म स्वभावजम्॥",
+        "transliteration": "śauryaṁ tejo dhṛtir dākṣyaṁ yuddhe cāpy apalāyanam | dānam īśvara-bhāvaś ca kṣātraṁ karma svabhāva-jam ||",
+        "english": {
+          "translation": "Valor, vigor, steadfastness, resourcefulness, not fleeing from battle, generosity, and leadership—these are the duties of a kshatriya, born of his own nature.",
+          "commentary": "The kshatriya (warrior-ruler) embodies rajasic qualities directed toward righteous action: courage (shauryam), dynamic energy (tejas), determination (dhriti), skill (dakshyam), courage in combat (yuddhe apalāyanam), generosity (danam), and natural authority (ishvara-bhavah). These qualities create effective leaders and protectors. Unlike the brahmana's contemplative nature, the kshatriya is action-oriented, using power responsibly for societal welfare. This is Arjuna's natural dharma, which Krishna has been encouraging him to fulfill throughout the Gita."
+        },
+        "turkish": {
+          "translation": "Cesaret, canlılık, sebat, beceriklilik, savaştan kaçmamak, cömertlik ve liderlik—bunlar bir kshatriya'nın görevleridir, kendi doğasından doğar.",
+          "commentary": "Kshatriya (savaşçı-yönetici) doğru eyleme yönlendirilmiş rajasik nitelikleri somutlaştırır: cesaret (shauryam), dinamik enerji (tejas), kararlılık (dhriti), beceri (dakshyam), savaşta cesaret (yuddhe apalāyanam), cömertlik (danam) ve doğal otorite (ishvara-bhavah). Bu nitelikler etkili liderler ve koruyucular yaratır. Brahmanın kontemplatif doğasının aksine, kshatriya eylem odaklıdır, gücü toplumsal refah için sorumlu bir şekilde kullanır. Bu, Krishna'nın Gita boyunca Arjuna'yı yerine getirmeye teşvik ettiği doğal dharma'sıdır."
+        }
+      },
+      {
+        "verse_number": 44,
+        "sanskrit": "कृषिगौरक्ष्यवाणिज्यं वैश्यकर्म स्वभावजम्। परिचर्यात्मकं कर्म शूद्रस्यापि स्वभावजम्॥",
+        "transliteration": "kṛṣi-gau-rakṣya-vāṇijyaṁ vaiśya-karma svabhāva-jam | paricaryātmakaṁ karma śūdrasyāpi svabhāva-jam ||",
+        "english": {
+          "translation": "Agriculture, cattle-rearing, and trade are the duties of a vaishya, born of his own nature. Service-oriented work is the duty of a shudra, born of his own nature.",
+          "commentary": "The vaishya (merchant-farmer class) engages in productive economic activities: farming (krishi), animal husbandry (gau-rakshya), and commerce (vanijyam). These sustain material prosperity. The shudra performs service work (paricharya-atmakam) supporting other classes. This isn't degrading but recognizes different capacities and contributions to society. Each role is 'svabhava-jam' (born of one's nature), suggesting these are natural inclinations, not imposed hierarchies. When each follows their svadharma, society functions harmoniously and individuals find fulfillment in work suited to their nature."
+        },
+        "turkish": {
+          "translation": "Tarım, sığır yetiştirme ve ticaret vaishya'nın görevleridir, kendi doğasından doğar. Hizmet odaklı çalışma shudra'nın görevidir, kendi doğasından doğar.",
+          "commentary": "Vaishya (tüccar-çiftçi sınıfı) üretken ekonomik faaliyetlerde bulunur: çiftçilik (krishi), hayvancılık (gau-rakshya) ve ticaret (vanijyam). Bunlar maddi refahı sürdürür. Shudra, diğer sınıfları destekleyen hizmet işi (paricharya-atmakam) yapar. Bu aşağılayıcı değil, topluma farklı kapasiteleri ve katkıları tanır. Her rol 'svabhava-jam' (kişinin doğasından doğmuş), bunların dayatılmış hiyerarşiler değil doğal eğilimler olduğunu önerir. Her biri svadharma'sını takip ettiğinde, toplum uyumlu işler ve bireyler doğalarına uygun işte tatmin bulur."
+        }
+      },
+      {
+        "verse_number": 45,
+        "sanskrit": "स्वे स्वे कर्मण्यभिरतः संसिद्धिं लभते नरः। स्वकर्मनिरतः सिद्धिं यथा विन्दति तच्छृणु॥",
+        "transliteration": "sve sve karmaṇy abhirataḥ saṁsiddhiṁ labhate naraḥ | sva-karma-nirataḥ siddhiṁ yathā vindati tac chṛṇu ||",
+        "english": {
+          "translation": "Devoted to one's own duty, a person attains perfection. Now hear how one devoted to one's own work attains such perfection.",
+          "commentary": "This crucial verse establishes that spiritual perfection (samsiddhim) comes through performing one's natural duty (sva-karma) with dedication (abhiratah). Success isn't about what work you do but the spirit in which you do it. Each person's svadharma—when performed with devotion—becomes a path to liberation. This democratizes spirituality: one need not become a renunciant or change occupations; perfection is available through any role when done as worship. Krishna will now explain the attitude that transforms ordinary work into spiritual practice."
+        },
+        "turkish": {
+          "translation": "Kendi görevine adanmış bir kişi mükemmelliğe ulaşır. Şimdi kendi işine adanmış birinin böyle bir mükemmelliğe nasıl ulaştığını dinle.",
+          "commentary": "Bu çok önemli ayet, ruhani mükemmelliğin (samsiddhim) doğal görevini (sva-karma) adanmışlıkla (abhiratah) yerine getirmekten geldiğini belirtir. Başarı hangi işi yaptığınız değil, hangi ruhla yaptığınızla ilgilidir. Her kişinin svadharma'sı—adanmışlıkla yapıldığında—kurtuluşa bir yol haline gelir. Bu maneviyatı demokratikleştirir: kişinin çilekeş olması veya meslek değiştirmesi gerekmez; mükemmellik, ibadet olarak yapıldığında herhangi bir rol aracılığıyla erişilebilir. Krishna şimdi sıradan işi ruhani uygulamaya dönüştüren tavrı açıklayacak."
+        }
+      },
+      {
+        "verse_number": 46,
+        "sanskrit": "यतः प्रवृत्तिर्भूतानां येन सर्वमिदं ततम्। स्वकर्मणा तमभ्यर्च्य सिद्धिं विन्दति मानवः॥",
+        "transliteration": "yataḥ pravṛttir bhūtānāṁ yena sarvam idaṁ tatam | sva-karmaṇā tam abhyarcya siddhiṁ vindati mānavaḥ ||",
+        "english": {
+          "translation": "By worshipping through one's own duty That from which all beings arise and by which all this is pervaded, a person attains perfection.",
+          "commentary": "The secret to transforming work into worship: recognize that all activity serves the Divine—the source of all beings (yatah pravrittir bhutanam) and the presence pervading everything (yena sarvam idam tatam). By performing one's natural duty as an offering to this Supreme Reality, work becomes worship (abhyarcya). This attitude sanctifies all action, making even mundane tasks sacred. One need not abandon duty to find God; instead, do your duty as service to the Divine presence in all. This is the essence of karma yoga."
+        },
+        "turkish": {
+          "translation": "Tüm varlıkların doğduğu ve bunun hepsinin yayıldığı Onu kendi görevi aracılığıyla ibadet ederek, bir kişi mükemmelliğe ulaşır.",
+          "commentary": "İşi ibadete dönüştürmenin sırrı: tüm faaliyetin İlahi'ye hizmet ettiğini tanımak—tüm varlıkların kaynağı (yatah pravrittir bhutanam) ve her şeye yayılan varlık (yena sarvam idam tatam). Kişinin doğal görevini bu Yüce Gerçekliğe bir adak olarak gerçekleştirerek, iş ibadete dönüşür (abhyarcya). Bu tutum tüm eylemi kutsar, sıradan görevleri bile kutsal kılar. Tanrı'yı bulmak için görevi terk etmeye gerek yoktur; bunun yerine, herkeste var olan İlahi varlığa hizmet olarak görevinizi yapın. Bu karma yoga'nın özüdür."
+        }
+      },
+      {
+        "verse_number": 47,
+        "sanskrit": "श्रेयान्स्वधर्मो विगुणः परधर्मात्स्वनुष्ठितात्। स्वभावनियतं कर्म कुर्वन्नाप्नोति किल्बिषम्॥",
+        "transliteration": "śreyān sva-dharmo viguṇaḥ para-dharmāt sv-anuṣṭhitāt | svabhāva-niyataṁ karma kurvan nāpnoti kilbiṣam ||",
+        "english": {
+          "translation": "Better is one's own dharma, though imperfect, than the dharma of another well performed. One doing the work prescribed by one's own nature incurs no sin.",
+          "commentary": "This profound teaching emphasizes authenticity over perfection. It's better to perform your own duty imperfectly (sva-dharmo vigunah) than to perform another's duty perfectly (para-dharmat sv-anushtitat). Following your svabhava (natural disposition) creates no negative karma, even if execution is flawed. Trying to be someone you're not creates inner conflict and spiritual confusion. This validates each person's unique path and prevents spiritual comparison and envy. Arjuna shouldn't try to be a brahmana; he should excel as a kshatriya. Authenticity itself purifies."
+        },
+        "turkish": {
+          "translation": "Kişinin kendi dharma'sı kusurlu olsa bile, başkasının iyi yapılmış dharma'sından daha iyidir. Kişinin kendi doğası tarafından belirlenen işi yapan günah kazanmaz.",
+          "commentary": "Bu derin öğreti mükemmellikten önce özgünlüğü vurgular. Kendi görevinizi kusurlu yapmak (sva-dharmo vigunah), başkasının görevini mükemmel yapmaktan (para-dharmat sv-anushtitat) daha iyidir. Svabhava'nızı (doğal eğiliminizi) takip etmek, uygulama kusurlu olsa bile olumsuz karma yaratmaz. Olmadığınız biri olmaya çalışmak iç çatışma ve ruhani kafa karışıklığı yaratır. Bu, her kişinin benzersiz yolunu doğrular ve ruhani karşılaştırmayı ve kıskançlığı önler. Arjuna brahmana olmaya çalışmamalı; kshatriya olarak mükemmelleşmelidir. Özgünlük kendisi arındırır."
+        }
+      },
+      {
+        "verse_number": 48,
+        "sanskrit": "सहजं कर्म कौन्तेय सदोषमपि न त्यजेत्। सर्वारम्भा हि दोषेण धूमेनाग्निरिवावृताः॥",
+        "transliteration": "saha-jaṁ karma kaunteya sa-doṣam api na tyajet | sarvārambhā hi doṣeṇa dhūmenāgnir ivāvṛtāḥ ||",
+        "english": {
+          "translation": "One should not abandon one's natural duty, O son of Kunti, even though it may have faults. All undertakings are enveloped by defects as fire is covered by smoke.",
+          "commentary": "Krishna acknowledges that all worldly action has some imperfection (sa-dosham)—just as fire inevitably produces smoke. This doesn't mean one should abandon their natural duty (sahajam karma). Perfection isn't about flawless action but about proper intention and detachment. Waiting for a perfect action means never acting. The kshatriya's duty involves violence, but this is better than abandoning duty. This teaching prevents paralysis from perfectionism and accepts the moral ambiguity inherent in worldly life while maintaining ethical commitment."
+        },
+        "turkish": {
+          "translation": "Kişinin doğal görevini, ey Kunti'nin oğlu, kusurları olsa bile terk etmemeli. Tüm girişimler kusurlarla sarılıdır, tıpkı ateşin dumanla örtülü olması gibi.",
+          "commentary": "Krishna tüm dünyevi eylemin bir kusur (sa-dosham) içerdiğini kabul eder—tıpkı ateşin kaçınılmaz olarak duman üretmesi gibi. Bu, kişinin doğal görevini (sahajam karma) terk etmesi gerektiği anlamına gelmez. Mükemmellik kusursuz eylemle değil, uygun niyet ve kopuklukla ilgilidir. Mükemmel bir eylem beklemek hiç hareket etmemek anlamına gelir. Kshatriya'nın görevi şiddet içerir, ancak bu görevi terk etmekten daha iyidir. Bu öğreti, mükemmeliyetçilikten kaynaklanan felci önler ve etik bağlılığı korurken dünyevi yaşamda doğal olan ahlaki belirsizliği kabul eder."
+        }
+      },
+      {
+        "verse_number": 49,
+        "sanskrit": "असक्तबुद्धिः सर्वत्र जितात्मा विगतस्पृहः। नैष्कर्म्यसिद्धिं परमां संन्यासेनाधिगच्छति॥",
+        "transliteration": "asakta-buddhiḥ sarvatra jitātmā vigata-spṛhaḥ | naiṣkarmya-siddhiṁ paramāṁ sannyāsenādhigacchati ||",
+        "english": {
+          "translation": "One whose intellect is unattached everywhere, who has conquered the self and is free from desires, attains through renunciation the supreme state of freedom from action.",
+          "commentary": "The culmination of karma yoga leads to naishkarmya-siddhi—the perfection of actionlessness while still acting. This paradoxical state is achieved through: unattached intellect (asakta-buddhih), self-mastery (jitatma), and freedom from craving (vigata-sprhah). Though physically active, such a person creates no karma because there's no ego-identification with action. The term 'sannyasena' (through renunciation) here means internal renunciation—giving up attachment to results—not necessarily external renunciation of the world. This is the state beyond action and non-action."
+        },
+        "turkish": {
+          "translation": "Her yerde bağlı olmayan bir zekaya sahip, benliği fethetmiş ve arzulardan özgür olan kişi, feragat yoluyla eylemden özgürlüğün yüce durumuna ulaşır.",
+          "commentary": "Karma yoganın doruk noktası naishkarmya-siddhi'ye götürür—hala hareket ederken eylemsizliğin mükemmelliği. Bu paradoksal durum şunlarla elde edilir: bağlanmamış zeka (asakta-buddhih), benlik ustalığı (jitatma) ve özlemden özgürlük (vigata-sprhah). Fiziksel olarak aktif olsa da, böyle bir kişi karma yaratmaz çünkü eylemle ego özdeşleşmesi yoktur. Burada 'sannyasena' (feragat yoluyla) terimi içsel feragat anlamına gelir—sonuçlara bağlılıktan vazgeçme—mutlaka dünyadan dışsal feragat değil. Bu, eylem ve eylem olmama ötesindeki durumdur."
+        }
+      },
+      {
+        "verse_number": 50,
+        "sanskrit": "सिद्धिं प्राप्तो यथा ब्रह्म तथाप्नोति निबोध मे। समासेनैव कौन्तेय निष्ठा ज्ञानस्य या परा॥",
+        "transliteration": "siddhiṁ prāpto yathā brahma tathāpnoti nibodha me | samāsenaiva kaunteya niṣṭhā jñānasya yā parā ||",
+        "english": {
+          "translation": "Learn from Me briefly, O son of Kunti, how one who has attained perfection reaches Brahman, the supreme consummation of knowledge.",
+          "commentary": "Having described the perfection attainable through dedicated duty (siddhi), Krishna now reveals how this leads to the ultimate goal—union with Brahman. This connects karma yoga with jnana yoga (the path of knowledge). The 'perfection' achieved through selfless action prepares the mind for the highest knowledge. Krishna promises to teach this 'briefly' (samasenaiva), suggesting what follows is a concise summary of the path from action to liberation. This shows karma yoga isn't separate from but preparatory for the highest realization."
+        },
+        "turkish": {
+          "translation": "Mükemmelliğe ulaşmış birinin Brahman'a, bilginin yüce tamamlanmasına nasıl ulaştığını benden kısaca öğren, ey Kunti'nin oğlu.",
+          "commentary": "Adanmış görev yoluyla ulaşılabilir mükemmelliği (siddhi) tanımladıktan sonra, Krishna şimdi bunun nihai hedefe—Brahman ile birliğe—nasıl götürdüğünü ortaya çıkarır. Bu karma yogayı jnana yoga (bilgi yolu) ile birbirine bağlar. Özgecil eylem yoluyla elde edilen 'mükemmellik', zihni en yüksek bilgi için hazırlar. Krishna bunu 'kısaca' (samasenaiva) öğretmeye söz verir, bu da izleyenlerin eylemden kurtuluşa giden yolun özet bir özetini önerdiğini gösterir. Bu, karma yoganın en yüksek gerçekleşmeden ayrı değil, ona hazırlayıcı olduğunu gösterir."
+        }
+      },
+      {
+        "verse_number": 51,
+        "sanskrit": "बुद्ध्या विशुद्धया युक्तो धृत्यात्मानं नियम्य च। शब्दादीन्विषयांस्त्यक्त्वा रागद्वेषौ व्युदस्य च॥",
+        "transliteration": "buddhyā viśuddhayā yukto dhṛtyātmānaṁ niyamya ca | śabdādīn viṣayāṁs tyaktvā rāga-dveṣau vyudasya ca ||",
+        "english": {
+          "translation": "Endowed with a purified intellect, controlling the self with determination, abandoning sound and other sense objects, and casting aside attraction and aversion.",
+          "commentary": "Krishna begins outlining the prerequisites for Self-realization. The seeker needs: purified intellect (vishuddha-buddhi) free from distortion, self-control through determination (dhriti), withdrawal from sense objects (shabdadin vishayams tyaktva), and transcendence of likes and dislikes (raga-dveshau vyudasya). These preparations create inner conditions for knowledge to dawn. The intellect must be clear, the will strong, the senses regulated, and emotional reactivity overcome. This describes intensive spiritual practice building on the foundation of karma yoga."
+        },
+        "turkish": {
+          "translation": "Arındırılmış bir zeka ile donanmış, benliği kararlılıkla kontrol eden, ses ve diğer duyu nesnelerini terk eden ve çekim ile tiksintiyi bir kenara atan.",
+          "commentary": "Krishna Benlik-gerçekleşmesi için ön koşulları özetlemeye başlar. Arayan kişiye şunlar gerekir: çarpıtmadan özgür arındırılmış zeka (vishuddha-buddhi), kararlılık yoluyla öz kontrol (dhriti), duyu nesnelerinden çekilme (shabdadin vishayams tyaktva) ve beğeni ve beğenmemeyi aşma (raga-dveshau vyudasya). Bu hazırlıklar, bilginin doğması için iç koşulları yaratır. Zeka net, irade güçlü, duyular düzenli ve duygusal tepkisellik aşılmış olmalıdır. Bu, karma yoga'nın temeli üzerine inşa edilen yoğun ruhani uygulamayı tanımlar."
+        }
+      },
+      {
+        "verse_number": 52,
+        "sanskrit": "विविक्तसेवी लघ्वाशी यतवाक्कायमानसः। ध्यानयोगपरो नित्यं वैराग्यं समुपाश्रितः॥",
+        "transliteration": "vivikta-sevī laghv-āśī yata-vāk-kāya-mānasaḥ | dhyāna-yoga-para nityaṁ vairāgyaṁ samupāśritaḥ ||",
+        "english": {
+          "translation": "Dwelling in solitude, eating lightly, controlling speech, body, and mind, constantly devoted to meditation and yoga, taking refuge in dispassion.",
+          "commentary": "The external and internal disciplines continue: physical solitude (vivikta-sevi) for focused practice, moderate eating (laghv-ashi) to keep the mind clear, control of speech, body, and mind (yata-vak-kaya-manasah), constant meditation (dhyana-yoga-para), and deep dispassion (vairagya). These practices create conditions for contemplative insight. The emphasis on 'constantly' (nityam) indicates sustained practice, not occasional effort. Vairagya (dispassion) isn't mere suppression but genuine freedom from compulsive attraction and aversion through understanding their futility."
+        },
+        "turkish": {
+          "translation": "Yalnızlıkta ikamet eden, hafif yiyen, konuşmayı, bedeni ve zihni kontrol eden, sürekli meditasyon ve yogaya adanmış, tutkusuzluğa sığınan.",
+          "commentary": "Dış ve iç disiplinler devam eder: odaklı uygulama için fiziksel yalnızlık (vivikta-sevi), zihni berrak tutmak için ılımlı yeme (laghv-ashi), konuşma, beden ve zihni kontrol (yata-vak-kaya-manasah), sürekli meditasyon (dhyana-yoga-para) ve derin tutkusuzluk (vairagya). Bu uygulamalar kontemplatif içgörü için koşullar yaratır. 'Sürekli' (nityam) vurgusu, ara sıra çaba değil, sürekli uygulamayı gösterir. Vairagya (tutkusuzluk) sadece bastırma değil, onların faydasızlığını anlamak yoluyla zorunlu çekim ve tiksintiden gerçek özgürlüktür."
+        }
+      },
+      {
+        "verse_number": 53,
+        "sanskrit": "अहङ्कारं बलं दर्पं कामं क्रोधं परिग्रहम्। विमुच्य निर्ममः शान्तो ब्रह्मभूयाय कल्पते॥",
+        "transliteration": "ahaṅkāraṁ balaṁ darpaṁ kāmaṁ krodhaṁ parigraham | vimucya nirmamaḥ śānto brahma-bhūyāya kalpate ||",
+        "english": {
+          "translation": "Having abandoned ego, force, arrogance, desire, anger, and possessiveness, free from the sense of 'mine' and peaceful—one becomes fit for union with Brahman.",
+          "commentary": "The final preparations for Self-realization involve releasing the core obstacles: ego (ahankara), violence/force (balam), arrogance (darpam), desire (kamam), anger (krodham), and possessiveness (parigraham). These are the fundamental binding factors that create the illusion of separate selfhood. When freed from these and from the sense of ownership (nirmamah), established in peace (shantah), one becomes 'fit for Brahman-realization' (brahma-bhuyaya kalpate). This isn't mere qualification but the actual state of liberation—when these obstacles dissolve, Brahman-consciousness reveals itself."
+        },
+        "turkish": {
+          "translation": "Ego, güç, kibir, arzu, öfke ve sahiplenmeyi terk eden, 'benim' duygusundan özgür ve huzurlu—kişi Brahman ile birlik için uygun hale gelir.",
+          "commentary": "Benlik-gerçekleşmesi için son hazırlıklar temel engelleri bırakmayı içerir: ego (ahankara), şiddet/güç (balam), kibir (darpam), arzu (kamam), öfke (krodham) ve sahiplenme (parigraham). Bunlar ayrı benlik yanılsamasını yaratan temel bağlayıcı faktörlerdir. Bunlardan ve sahiplik duygusundan (nirmamah) kurtulduğunda, huzurda yerleştiğinde (shantah), kişi 'Brahman-gerçekleşmesi için uygun' (brahma-bhuyaya kalpate) hale gelir. Bu sadece vasıf değil, kurtuluşun gerçek durumudur—bu engeller eridiğinde, Brahman-bilinci kendini ortaya çıkarır."
+        }
+      },
+      {
+        "verse_number": 54,
+        "sanskrit": "ब्रह्मभूतः प्रसन्नात्मा न शोचति न काङ्क्षति। समः सर्वेषु भूतेषु मद्भक्तिं लभते पराम्॥",
+        "transliteration": "brahma-bhūtaḥ prasannātmā na śocati na kāṅkṣati | samaḥ sarveṣu bhūteṣu mad-bhaktiṁ labhate parām ||",
+        "english": {
+          "translation": "Established in Brahman, serene in the Self, one neither grieves nor desires. Seeing the same in all beings, one attains supreme devotion to Me.",
+          "commentary": "This verse describes the state of Self-realization (brahma-bhuta). Such a person is established in serenity (prasannatma), free from grief and desire (na shochati na kankshati), and sees equality in all beings (samah sarveshu bhuteshu). Remarkably, this highest knowledge naturally blossoms into supreme devotion (mad-bhaktim labhate param). Knowledge and devotion unite—understanding the unity of existence deepens love for the Divine. This synthesis shows that jnana and bhakti are ultimately one, different aspects of the same realization."
+        },
+        "turkish": {
+          "translation": "Brahman'da yerleşik, Benlikte sakin, ne kederlenir ne arzular. Tüm varlıklarda aynısını görerek, Bana yönelik yüce bhakti elde eder.",
+          "commentary": "Bu ayet Benlik-gerçekleşmesi durumunu (brahma-bhuta) tanımlar. Böyle bir kişi sükunette yerleşiktir (prasannatma), keder ve arzudan özgürdür (na shochati na kankshati) ve tüm varlıklarda eşitlik görür (samah sarveshu bhuteshu). Dikkate değer bir şekilde, bu en yüksek bilgi doğal olarak yüce bhakti'de (mad-bhaktim labhate param) çiçek açar. Bilgi ve bhakti birleşir—varoluşun birliğini anlamak İlahi'ye olan sevgiyi derinleştirir. Bu sentez, jnana ve bhakti'nin nihai olarak bir olduğunu, aynı gerçekleşmenin farklı yönleri olduğunu gösterir."
+        }
+      },
+      {
+        "verse_number": 55,
+        "sanskrit": "भक्त्या मामभिजानाति यावान्यश्चास्मि तत्त्वतः। ततो मां तत्त्वतो ज्ञात्वा विशते तदनन्तरम्॥",
+        "transliteration": "bhaktyā mām abhijānāti yāvān yaś cāsmi tattvataḥ | tato māṁ tattvato jñātvā viśate tad-anantaram ||",
+        "english": {
+          "translation": "By devotion one truly knows Me, what My nature is and who I am in essence. Then, having known Me in truth, one immediately enters into Me.",
+          "commentary": "Bhakti (devotion) becomes the means of ultimate knowledge—knowing Krishna's true nature and essence (tattvata). This isn't mere emotional worship but profound realization of the Divine reality. The progression is: through devotion comes true knowledge (abhijanati), and through that knowledge comes union (visate). The word 'immediately' (tad-anantaram) indicates this isn't a future promise but present possibility. Devotion purifies the heart, making it capable of receiving the highest truth. The verse suggests devotion and knowledge are inseparable in the final realization."
+        },
+        "turkish": {
+          "translation": "Bhakti yoluyla beni gerçekten tanır, doğamın ne olduğunu ve özümde kim olduğumu. Sonra, beni gerçekte bilerek, hemen bana girer.",
+          "commentary": "Bhakti (bhakti) nihai bilginin aracı olur—Krishna'nın gerçek doğasını ve özünü (tattvata) bilmek. Bu sadece duygusal ibadet değil, İlahi gerçekliğin derin gerçekleşmesidir. İlerleme şöyledir: bhakti yoluyla gerçek bilgi (abhijanati) gelir ve o bilgi yoluyla birlik (visate) gelir. 'Hemen' (tad-anantaram) kelimesi bunun gelecekteki bir vaat değil, şimdiki bir olasılık olduğunu gösterir. Bhakti kalbi arındırır ve en yüksek gerçeği almaya muktedir kılar. Ayet, bhakti ve bilginin nihai gerçekleşmede ayrılmaz olduğunu önerir."
+        }
+      },
+      {
+        "verse_number": 56,
+        "sanskrit": "सर्वकर्माण्यपि सदा कुर्वाणो मद्व्यपाश्रयः। मत्प्रसादादवाप्नोति शाश्वतं पदमव्ययम्॥",
+        "transliteration": "sarva-karmāṇy api sadā kurvāṇo mad-vyapāśrayaḥ | mat-prasādād avāpnoti śāśvataṁ padam avyayam ||",
+        "english": {
+          "translation": "Even while performing all actions, one who takes refuge in Me, through My grace attains the eternal, imperishable abode.",
+          "commentary": "This crucial verse resolves any remaining tension between action and renunciation. One can perform all duties (sarva-karmany) while taking refuge in the Divine (mad-vyapashrayah) and thereby attain the highest goal. The key is surrender and grace (mat-prasadad)—divine grace flows to those who offer themselves completely. The 'eternal, imperishable abode' (shashvatam padam avyayam) is liberation itself, achieved not through cessation of activity but through dedicated activity offered to God. This validates karma yoga as a complete path to liberation."
+        },
+        "turkish": {
+          "translation": "Tüm eylemleri yerine getirirken bile, Bana sığınan kişi, Benim lütfum yoluyla ebedi, değişmez yurda ulaşır.",
+          "commentary": "Bu önemli ayet eylem ile feragat arasındaki kalan herhangi bir gerilimi çözümler. Kişi tüm görevleri (sarva-karmany) yerine getirebilir ve aynı zamanda İlahi'ye sığınarak (mad-vyapashrayah) en yüksek hedefe ulaşabilir. Anahtar teslim olmak ve lütuftur (mat-prasadad)—ilahi lütuf kendini tamamen sunanlara akar. 'Ebedi, değişmez yurt' (shashvatam padam avyayam) kurtuluşun kendisidir, faaliyet durması yoluyla değil, Tanrı'ya sunulan adanmış faaliyet yoluyla elde edilir. Bu, karma yogayı kurtuluşa tam bir yol olarak doğrular."
+        }
+      },
+      {
+        "verse_number": 57,
+        "sanskrit": "चेतसा सर्वकर्माणि मयि संन्यस्य मत्परः। बुद्धियोगमुपाश्रित्य मच्चित्तः सततं भव॥",
+        "transliteration": "cetasā sarva-karmāṇi mayi sannyasya mat-paraḥ | buddhi-yogam upāśritya mac-cittaḥ satataṁ bhava ||",
+        "english": {
+          "translation": "Mentally surrendering all actions to Me, regarding Me as supreme, resorting to buddhi yoga, keep your consciousness always fixed on Me.",
+          "commentary": "Krishna gives practical instruction: mentally offer all actions to Him (cetasa sarva-karmani mayi sannyasya), recognize His supremacy (mat-parah), practice buddhi yoga—the yoga of discriminative wisdom (buddhi-yogam upashritya), and maintain constant God-consciousness (mac-chittah satatam bhava). This isn't abandoning action but transforming consciousness while acting. The mind remains anchored in the Divine even as the body performs worldly duties. This constant remembrance (satatam) is the essence of karma yoga—doing while remaining in being."
+        },
+        "turkish": {
+          "translation": "Zihinsel olarak tüm eylemleri Bana sunarak, Beni yüce kabul ederek, buddhi yoga'ya sığınarak, bilincini her zaman Bana sabit tut.",
+          "commentary": "Krishna pratik talimat verir: zihinsel olarak tüm eylemleri O'na sunun (cetasa sarva-karmani mayi sannyasya), O'nun üstünlüğünü tanıyın (mat-parah), buddhi yogayı—ayırt edici bilgelik yogasını uygulayın (buddhi-yogam upashritya) ve sürekli Tanrı-bilincini koruyun (mac-chittah satatam bhava). Bu eylemi terk etmek değil, hareket ederken bilinci dönüştürmektir. Beden dünyevi görevleri yerine getirirken zihin İlahi'de demirlenir. Bu sürekli hatırlama (satatam) karma yoganın özüdür—varlıkta kalırken yapmak."
+        }
+      },
+      {
+        "verse_number": 58,
+        "sanskrit": "मच्चित्तः सर्वदुर्गाणि मत्प्रसादात्तरिष्यसि। अथ चेत्त्वमहङ्कारान्न श्रोष्यसि विनङ्क्ष्यसि॥",
+        "transliteration": "mac-cittaḥ sarva-durgāṇi mat-prasādāt tariṣyasi | atha cet tvam ahaṅkārān na śroṣyasi vinaṅkṣyasi ||",
+        "english": {
+          "translation": "With consciousness fixed on Me, you shall overcome all obstacles by My grace. But if from ego you will not listen, you shall perish.",
+          "commentary": "Krishna promises that God-consciousness (mac-chittah) combined with divine grace (mat-prasadat) will carry one through all difficulties (sarva-durgani). However, if ego (ahankara) prevents listening to this wisdom, destruction follows (vinankshyasi). This isn't divine punishment but natural consequence—ego-identification creates suffering; God-consciousness creates freedom. The choice is presented clearly: surrender to the Divine and transcend obstacles, or cling to ego and suffer. This warning emphasizes the urgency and importance of the teaching being given."
+        },
+        "turkish": {
+          "translation": "Bilinç Bana sabitlendiğinde, Benim lütfumla tüm engelleri aşacaksın. Ancak egodan dolayı dinlemezsen, mahvolacaksın.",
+          "commentary": "Krishna, Tanrı-bilincinin (mac-chittah) ilahi lütufla (mat-prasadat) birleştiğinde kişiyi tüm zorluklardan (sarva-durgani) geçireceğine söz verir. Ancak ego (ahankara) bu bilgeliği dinlemeyi engellerse, yıkım takip eder (vinankshyasi). Bu ilahi ceza değil, doğal sonuçtur—ego özdeşleşmesi acı yaratır; Tanrı-bilinci özgürlük yaratır. Seçim açıkça sunulur: İlahi'ye teslim ol ve engelleri aş, veya egoya tutun ve acı çek. Bu uyarı, verilen öğretinin aciliyetini ve önemini vurgular."
+        }
+      },
+      {
+        "verse_number": 59,
+        "sanskrit": "यदहङ्कारमाश्रित्य न योत्स्य इति मन्यसे। मिथ्यैष व्यवसायस्ते प्रकृतिस्त्वां नियोक्ष्यति॥",
+        "transliteration": "yad ahaṅkāram āśritya na yotsya iti manyase | mithyaiṣa vyavasāyas te prakṛtis tvāṁ niyokṣyati ||",
+        "english": {
+          "translation": "If, taking refuge in ego, you think 'I will not fight,' this resolve of yours is in vain. Your own nature will compel you.",
+          "commentary": "Krishna addresses Arjuna's initial resistance directly. If ego-based reasoning (ahankaram ashritya) leads to refusing duty, this decision is futile (mithya). One's own nature (prakriti) will inevitably compel action according to one's inherent tendencies (svabhava). We cannot escape our nature; we can only choose whether to act consciously or be driven unconsciously. This is profound psychology: denying one's true nature doesn't eliminate it but forces it to express unconsciously, often destructively. Better to consciously align with dharma than be unconsciously driven by nature."
+        },
+        "turkish": {
+          "translation": "Egoya sığınarak 'savaşmayacağım' diye düşünürsen, bu kararın boşunadır. Kendi doğan seni zorlayacak.",
+          "commentary": "Krishna, Arjuna'nın ilk direncini doğrudan ele alır. Ego temelli mantık (ahankaram ashritya) görevi reddetmeye yol açarsa, bu karar boşunadır (mithya). Kişinin kendi doğası (prakriti) kaçınılmaz olarak doğuştan gelen eğilimlere (svabhava) göre eylemi zorlayacaktır. Doğamızdan kaçamayız; sadece bilinçli mi hareket edeceğimizi yoksa bilinçsizce mi sürükleneceğimizi seçebiliriz. Bu derin psikolojidir: gerçek doğasını inkar etmek onu ortadan kaldırmaz ama bilinçsizce ifade etmeye zorlar, genellikle yıkıcı bir şekilde. Doğa tarafından bilinçsizce sürüklenmektense bilinçli olarak dharma ile uyum sağlamak daha iyidir."
+        }
+      },
+      {
+        "verse_number": 60,
+        "sanskrit": "स्वभावजेन कौन्तेय निबद्धः स्वेन कर्मणा। कर्तुं नेच्छसि यन्मोहात्करिष्यस्यवशोऽपि तत्॥",
+        "transliteration": "svabhāva-jena kaunteya nibaddhaḥ svena karmaṇā | kartuṁ necchasi yan mohāt kariṣyasy avaśo'pi tat ||",
+        "english": {
+          "translation": "Bound by your own karma born of your nature, O son of Kunti, what you wish not to do out of delusion, you will do helplessly driven by your nature.",
+          "commentary": "This verse reinforces the previous point: Arjuna is bound by his kshatriya nature (svabhava-jena karma). What he refuses from delusion (mohat), he will inevitably do helplessly (avashopi tat). This is both warning and liberation: we cannot escape our nature, but we can transform our relationship with it. Fighting against one's svadharma creates inner conflict and eventual breakdown. Accepting and consciously directing one's nature toward dharmic ends brings peace and effectiveness. The verse shows compassion—Krishna explains why resistance is futile, not to control but to liberate."
+        },
+        "turkish": {
+          "translation": "Kendi doğandan doğan kendi karman tarafından bağlı, ey Kunti'nin oğlu, yanılsamadan dolayı yapmak istemediğin şeyi, çaresizce doğan tarafından sürüklenerek yapacaksın.",
+          "commentary": "Bu ayet önceki noktayı güçlendirir: Arjuna kshatriya doğası (svabhava-jena karma) tarafından bağlıdır. Yanılsamadan (mohat) reddettiği şeyi, kaçınılmaz olarak çaresizce (avashopi tat) yapacaktır. Bu hem uyarı hem de kurtuluştur: doğamızdan kaçamayız ama onunla ilişkimizi dönüştürebiliriz. Kişinin svadharma'sına karşı savaşmak iç çatışma ve nihai çöküş yaratır. Kişinin doğasını kabul etmek ve bilinçli olarak dharmik amaçlara yönlendirmek huzur ve etkililik getirir. Ayet merhamet gösterir—Krishna direnişin neden faydasız olduğunu açıklar, kontrol etmek için değil, özgürleştirmek için."
+        }
+      },
+            {
+        "verse_number": 61,
+        "sanskrit": "ईश्वरः सर्वभूतानां हृद्देशेऽर्जुन तिष्ठति। भ्रामयन्सर्वभूतानि यन्त्रारूढानि मायया॥",
+        "transliteration": "īśvaraḥ sarva-bhūtānāṁ hṛd-deśe'rjuna tiṣṭhati | bhrāmayan sarva-bhūtāni yantrārūḍhāni māyayā ||",
+        "english": {
+          "translation": "The Lord dwells in the hearts of all beings, O Arjuna, causing all beings to revolve by His maya as if mounted on a machine.",
+          "commentary": "This profound verse reveals the cosmic reality: the Divine (Ishvara) resides in every heart (hrid-deshe), and through maya (divine power/illusion), causes all beings to move like puppets mounted on a machine (yantrarudani). This isn't determinism denying free will, but recognition that the ego-self is not the ultimate doer—the Divine power animates all. Understanding this cultivates humility and surrender. We are instruments of a greater reality. This verse bridges individual effort and divine grace, showing both are necessary—we must act, but recognize the Divine as the ultimate source of power."
+        },
+        "turkish": {
+          "translation": "Tanrı tüm varlıkların kalplerinde ikamet eder, ey Arjuna, maya'sı ile tüm varlıkları sanki bir makineye binmiş gibi döndürür.",
+          "commentary": "Bu derin ayet kozmik gerçekliği ortaya çıkarır: İlahi (Ishvara) her kalpte (hrid-deshe) ikamet eder ve maya (ilahi güç/yanılsama) yoluyla tüm varlıkların bir makineye binmiş kuklalar gibi (yantrarudani) hareket etmesine neden olur. Bu özgür iradeyi reddeden determinizm değil, ego-benliğin nihai yapıcı olmadığının farkına varılmasıdır—İlahi güç hepsini canlandırır. Bunu anlamak alçakgönüllülük ve teslimiyeti geliştirir. Daha büyük bir gerçekliğin araçlarıyız. Bu ayet bireysel çaba ile ilahi lütfu köprüler, her ikisinin de gerekli olduğunu gösterir—hareket etmeliyiz ama İlahi'yi gücün nihai kaynağı olarak tanımalıyız."
+        }
+      },
+      {
+        "verse_number": 62,
+        "sanskrit": "तमेव शरणं गच्छ सर्वभावेन भारत। तत्प्रसादात्परां शान्तिं स्थानं प्राप्स्यसि शाश्वतम्॥",
+        "transliteration": "tam eva śaraṇaṁ gaccha sarva-bhāvena bhārata | tat-prasādāt parāṁ śāntiṁ sthānaṁ prāpsyasi śāśvatam ||",
+        "english": {
+          "translation": "Take refuge in Him alone with your whole being, O Bharata. By His grace you shall attain supreme peace and the eternal abode.",
+          "commentary": "Krishna's instruction is clear: complete surrender (sarva-bhavena sharanam gaccha) to the Divine reality dwelling within. This total refuge—with one's entire being—brings supreme peace (param shantim) and the eternal state (sthānam shāshvatam) through divine grace (tat-prasadat). This teaching synthesizes all previous paths: knowledge leads to devotion, devotion to surrender, surrender to grace, and grace to liberation. The phrase 'with your whole being' emphasizes that partial surrender won't suffice—liberation requires complete offering of oneself to the Divine."
+        },
+        "turkish": {
+          "translation": "Tüm varlığınla yalnızca O'na sığın, ey Bharata. O'nun lütfuyla yüce barışa ve ebedi yurda ulaşacaksın.",
+          "commentary": "Krishna'nın talimatı açıktır: içinde ikamet eden İlahi gerçekliğe tam teslimiyet (sarva-bhavena sharanam gaccha). Bu toplam sığınma—tüm varlığıyla—ilahi lütuf (tat-prasadat) yoluyla yüce barışı (param shantim) ve ebedi durumu (sthānam shāshvatam) getirir. Bu öğreti önceki tüm yolları sentezler: bilgi bhakti'ye, bhakti teslimiyete, teslimiyet lütfa ve lütuf kurtuluşa götürür. 'Tüm varlığınla' ifadesi kısmi teslimiyetin yeterli olmayacağını vurgular—kurtuluş, kişinin kendini İlahi'ye tam sunmasını gerektirir."
+        }
+      },
+      {
+        "verse_number": 63,
+        "sanskrit": "इति ते ज्ञानमाख्यातं गुह्याद्गुह्यतरं मया। विमृश्यैतदशेषेण यथेच्छसि तथा कुरु॥",
+        "transliteration": "iti te jñānam ākhyātaṁ guhyād guhyataraṁ mayā | vimṛśyaitad aśeṣeṇa yathecchasi tathā kuru ||",
+        "english": {
+          "translation": "Thus has this wisdom, more secret than all secrets, been declared to you by Me. Reflect on it fully, then do as you wish.",
+          "commentary": "Krishna concludes His teaching, calling it 'the most secret of secrets' (guhyad guhyataram)—the deepest wisdom. Then remarkably, He says: 'reflect fully and do as you wish' (vimrishya yathecchasi tatha kuru). This honors human free will—Krishna doesn't command but educates and then respects Arjuna's choice. True spiritual authority empowers, not coerces. The invitation to reflect (vimrishya) emphasizes that this wisdom must be contemplated and internalized, not blindly accepted. Freedom is preserved even in the ultimate teaching."
+        },
+        "turkish": {
+          "translation": "Böylece tüm sırlardan daha gizli olan bu bilgelik tarafımdan sana bildirildi. Bunun üzerinde tam olarak düşün, sonra dilediğin gibi yap.",
+          "commentary": "Krishna öğretisini 'sırların en gizlisi' (guhyad guhyataram) olarak adlandırarak sonlandırır—en derin bilgelik. Sonra dikkate değer bir şekilde der: 'tam olarak düşün ve dilediğin gibi yap' (vimrishya yathecchasi tatha kuru). Bu, insan özgür iradesini onurlandırır—Krishna emir vermez ama eğitir ve sonra Arjuna'nın seçimine saygı gösterir. Gerçek ruhani otorite zorlamaz, güçlendirir. Düşünme (vimrishya) daveti, bu bilgeliğin körü körüne kabul edilmemesi, düşünülmesi ve içselleştirilmesi gerektiğini vurgular. Özgürlük nihai öğretide bile korunur."
+        }
+      },
+      {
+        "verse_number": 64,
+        "sanskrit": "सर्वगुह्यतमं भूयः शृणु मे परमं वचः। इष्टोऽसि मे दृढमिति ततो वक्ष्यामि ते हितम्॥",
+        "transliteration": "sarva-guhyatamaṁ bhūyaḥ śṛṇu me paramaṁ vacaḥ | iṣṭo'si me dṛḍham iti tato vakṣyāmi te hitam ||",
+        "english": {
+          "translation": "Hear again My supreme word, the most secret of all. Because you are deeply dear to Me, I shall tell you what is for your good.",
+          "commentary": "After seeming to conclude, Krishna offers one more teaching—'the most secret of all' (sarva-guhyatamam). This final instruction is given from pure love (ishto'si me dridham—you are deeply dear to Me). What follows (verses 65-66) is considered the essence of the entire Gita. The teaching is offered 'for your good' (hitam), showing that the highest spiritual instruction flows from divine love and compassion. This personal dimension—the love between teacher and student, devotee and Divine—is itself the secret teaching."
+        },
+        "turkish": {
+          "translation": "Yeniden benim yüce sözümü, hepsinin en gizlisini dinle. Bana derinden sevgili olduğun için, senin iyiliğin için olanı söyleyeceğim.",
+          "commentary": "Sonlandırmış gibi göründükten sonra, Krishna bir öğreti daha sunar—'hepsinin en gizlisi' (sarva-guhyatamam). Bu son talimat saf sevgiden verilir (ishto'si me dridham—bana derinden sevgilisin). İzleyenler (ayetler 65-66) tüm Gita'nın özü olarak kabul edilir. Öğreti 'senin iyiliğin için' (hitam) sunulur, en yüksek ruhani talimatın ilahi sevgi ve merhametten aktığını gösterir. Bu kişisel boyut—öğretmen ve öğrenci, bhakta ve İlahi arasındaki sevgi—kendisi gizli öğretidir."
+        }
+      },
+      {
+        "verse_number": 65,
+        "sanskrit": "मन्मना भव मद्भक्तो मद्याजी मां नमस्कुरु। मामेवैष्यसि सत्यं ते प्रतिजाने प्रियोऽसि मे॥",
+        "transliteration": "man-manā bhava mad-bhakto mad-yājī māṁ namaskuru | mām evaiṣyasi satyaṁ te pratijāne priyo'si me ||",
+        "english": {
+          "translation": "Fix your mind on Me, be devoted to Me, worship Me, bow to Me. Truly you shall come to Me. I promise you this, for you are dear to Me.",
+          "commentary": "This verse, often called the heart of the Gita, gives a fourfold practice: mental absorption (man-mana bhava), devotion (mad-bhakto), worship/sacrifice (mad-yaji), and prostration/surrender (mam namaskuru). These represent the integration of thought, feeling, action, and will—the whole being directed toward the Divine. Krishna's promise is emphatic: 'Truly you shall come to Me' (mam evaishyasi satyam). The phrase 'you are dear to Me' (priyo'si me) reveals that divine love precedes and enables human devotion. We can love God because God first loves us."
+        },
+        "turkish": {
+          "translation": "Zihnini Bana sabitle, Bana bhakti göster, Bana ibadet et, Bana eğil. Gerçekten Bana geleceksin. Sana bunu vaat ediyorum, çünkü bana sevgilisin.",
+          "commentary": "Genellikle Gita'nın kalbi olarak adlandırılan bu ayet dört katlı bir uygulama verir: zihinsel absorpsiyon (man-mana bhava), bhakti (mad-bhakto), ibadet/kurban (mad-yaji) ve secde/teslimiyet (mam namaskuru). Bunlar düşünce, duygu, eylem ve iradenin bütünleşmesini temsil eder—tüm varlık İlahi'ye yönlendirilir. Krishna'nın vaadi vurgulu: 'Gerçekten Bana geleceksin' (mam evaishyasi satyam). 'Bana sevgilisin' (priyo'si me) ifadesi, ilahi sevginin insan bhaktisinden önce geldiğini ve onu mümkün kıldığını ortaya çıkarır. Tanrı'yı sevebiliriz çünkü Tanrı önce bizi sever."
+        }
+      },
+      {
+        "verse_number": 66,
+        "sanskrit": "सर्वधर्मान्परित्यज्य मामेकं शरणं व्रज। अहं त्वा सर्वपापेभ्यो मोक्षयिष्यामि मा शुचः॥",
+        "transliteration": "sarva-dharmān parityajya mām ekaṁ śaraṇaṁ vraja | ahaṁ tvā sarva-pāpebhyo mokṣayiṣyāmi mā śucaḥ ||",
+        "english": {
+          "translation": "Abandoning all dharmas, take refuge in Me alone. I shall liberate you from all sins; do not grieve.",
+          "commentary": "This is the Charama Shloka—the ultimate verse of the Gita. 'Abandoning all dharmas' (sarva-dharman parityajya) doesn't mean becoming unethical, but transcending even righteous duties through complete surrender to the Divine. The promise is absolute: liberation from all sins (sarva-papebhyo mokshayishyami). The final words 'do not grieve' (ma shuchah) address the root of human suffering—the burden of karma, guilt, and inadequacy. Divine grace can dissolve all past karma when one surrenders completely. This verse offers the supreme comfort: ultimate safety lies in absolute trust in the Divine."
+        },
+        "turkish": {
+          "translation": "Tüm dharmaları terk ederek, yalnızca Bana sığın. Seni tüm günahlardan kurtaracağım; keder etme.",
+          "commentary": "Bu Charama Shloka'dır—Gita'nın nihai ayeti. 'Tüm dharmaları terk etme' (sarva-dharman parityajya) etik dışı olmak anlamına gelmez, İlahi'ye tam teslimiyet yoluyla doğru görevleri bile aşmak anlamına gelir. Vaat mutlaktır: tüm günahlardan kurtuluş (sarva-papebhyo mokshayishyami). Son sözler 'keder etme' (ma shuchah) insan acısının köküne hitap eder—karma, suçluluk ve yetersizlik yükü. İlahi lütuf, kişi tamamen teslim olduğunda tüm geçmiş karmayı eritem bilir. Bu ayet yüce teselli sunar: nihai güvenlik İlahi'ye mutlak güvende yatar."
+        }
+      },
+      {
+        "verse_number": 67,
+        "sanskrit": "इदं ते नातपस्काय नाभक्ताय कदाचन। न चाशुश्रूषवे वाच्यं न च मां योऽभ्यसूयति॥",
+        "transliteration": "idaṁ te nātapaskāya nābhaktāya kadācana | na cāśuśrūṣave vācyaṁ na ca māṁ yo'bhyasūyati ||",
+        "english": {
+          "translation": "This should never be spoken to one without austerity, nor to one without devotion, nor to one unwilling to listen, nor to one who speaks ill of Me.",
+          "commentary": "Krishna specifies who shouldn't receive this teaching: those lacking discipline (atapaskaya), devotion (abhaktaya), willingness to learn (ashushrooshave), or those hostile to the Divine (abhyasuyati). This isn't elitism but recognition that spiritual truth requires preparation. Like planting seeds, the teaching needs fertile soil—a heart prepared through practice, devotion, humility, and openness. Sharing profound truths with the unprepared can lead to misunderstanding, mockery, or harm. This verse protects both the teaching and the unprepared listener. Spiritual wisdom must be offered appropriately."
+        },
+        "turkish": {
+          "translation": "Bu asla çilekeşliği olmayan, bhaktisi olmayan, dinlemeye istekli olmayan veya Benden kötü söz eden birine söylenmemelidir.",
+          "commentary": "Krishna bu öğretiyi kimin almaması gerektiğini belirtir: disiplinden yoksun olanlar (atapaskaya), bhakti'den yoksun olanlar (abhaktaya), öğrenmeye isteksiz olanlar (ashushrooshave) veya İlahi'ye düşman olanlar (abhyasuyati). Bu elitizm değil, ruhani gerçeğin hazırlık gerektirdiğinin farkına varılmasıdır. Tohum ekmek gibi, öğreti verimli toprak gerektirir—uygulama, bhakti, alçakgönüllülük ve açıklık yoluyla hazırlanmış bir kalp. Derin gerçekleri hazırlıksızlarla paylaşmak yanlış anlama, alay veya zarara yol açabilir. Bu ayet hem öğretiyi hem de hazırlıksız dinleyiciyi korur. Ruhani bilgelik uygun şekilde sunulmalıdır."
+        }
+      },
+      {
+        "verse_number": 68,
+        "sanskrit": "य इमं परमं गुह्यं मद्भक्तेष्वभिधास्यति। भक्तिं मयि परां कृत्वा मामेवैष्यत्यसंशयः॥",
+        "transliteration": "ya imaṁ paramaṁ guhyaṁ mad-bhakteṣv abhidhāsyati | bhaktiṁ mayi parāṁ kṛtvā mām evaiṣyaty asaṁśayaḥ ||",
+        "english": {
+          "translation": "One who teaches this supreme secret to My devotees, performing supreme devotion to Me, shall doubtless come to Me.",
+          "commentary": "Krishna promises that teaching this wisdom to qualified devotees (mad-bhakteshu) is itself an act of supreme devotion (bhaktim mayi param kritva). Sharing spiritual truth is among the highest services. The teacher who transmits this knowledge with purity and love will certainly attain liberation (mam evaishyaty asanshayah). This establishes the sacred tradition of guru-disciple transmission. Teaching becomes worship when done for the Divine's sake, not personal gain. The promise 'doubtless' (asanshayah) emphasizes the certainty of this path."
+        },
+        "turkish": {
+          "translation": "Bu yüce sırrı Benim bhaktalarıma öğreten, Bana yönelik yüce bhakti gerçekleştiren, şüphesiz Bana gelecek.",
+          "commentary": "Krishna, bu bilgeliği nitelikli bhaktalara (mad-bhakteshu) öğretmenin kendisinin yüce bir bhakti eylemi (bhaktim mayi param kritva) olduğuna söz verir. Ruhani gerçeği paylaşmak en yüksek hizmetler arasındadır. Bu bilgiyi saflık ve sevgiyle ileten öğretmen kesinlikle kurtuluşa ulaşacaktır (mam evaishyaty asanshayah). Bu, guru-öğrenci aktarım geleneğinin kutsallığını belirler. Öğretmek, kişisel kazanç için değil, İlahi adına yapıldığında ibadete dönüşür. 'Şüphesiz' (asanshayah) vaadi bu yolun kesinliğini vurgular."
+        }
+      },
+      {
+        "verse_number": 69,
+        "sanskrit": "न च तस्मान्मनुष्येषु कश्चिन्मे प्रियकृत्तमः। भविता न च मे तस्मादन्यः प्रियतरो भुवि॥",
+        "transliteration": "na ca tasmān manuṣyeṣu kaścin me priya-kṛttamaḥ | bhavitā na ca me tasmād anyaḥ priyataro bhuvi ||",
+        "english": {
+          "translation": "No one among humans does more loving service to Me than such a person, nor shall there be anyone on earth dearer to Me than this one.",
+          "commentary": "Krishna declares that those who share this teaching perform the most loving service (priya-krittamah). Nothing pleases the Divine more than spreading wisdom and helping others toward liberation. There will be none dearer (priyatarah) on earth than such teachers. This isn't favoritism but natural law—those who serve the Divine's purpose of enlightening humanity become closest to the Divine. The emphasis on 'on earth' (bhuvi) suggests that among worldly actions, teaching spiritual truth is supreme. This validates the path of the spiritual teacher and activist."
+        },
+        "turkish": {
+          "translation": "İnsanlar arasında böyle bir kişiden Bana daha sevgi dolu hizmet eden hiç kimse yoktur ve yeryüzünde bundan daha sevgili başka biri olmayacak.",
+          "commentary": "Krishna, bu öğretiyi paylaşanların en sevgi dolu hizmeti (priya-krittamah) gerçekleştirdiğini bildirir. İlahi'yi bilgelik yaymak ve başkalarının kurtuluşa doğru yardım etmekten daha fazla memnun eden hiçbir şey yoktur. Böyle öğretmenlerden daha sevgili (priyatarah) kimse olmayacaktır. Bu kayırmacılık değil, doğa yasasıdır—İnsanlığı aydınlatma amacına hizmet edenler İlahi'ye en yakın olur. 'Yeryüzünde' (bhuvi) vurgusu, dünyevi eylemler arasında ruhani gerçeği öğretmenin yüce olduğunu önerir. Bu, ruhani öğretmen ve aktivist yolunu doğrular."
+        }
+      },
+      {
+        "verse_number": 70,
+        "sanskrit": "अध्येष्यते च य इमं धर्म्यं संवादमावयोः। ज्ञानयज्ञेन तेनाहमिष्टः स्यामिति मे मतिः॥",
+        "transliteration": "adhyeṣyate ca ya imaṁ dharmyaṁ saṁvādam āvayoḥ | jñāna-yajñena tenāham iṣṭaḥ syām iti me matiḥ ||",
+        "english": {
+          "translation": "And one who studies this sacred dialogue of ours, by that person I am worshipped through the sacrifice of knowledge—such is My conviction.",
+          "commentary": "Even studying this dialogue is itself worship—jnana yajna (sacrifice/worship of knowledge). The Gita isn't mere philosophy but scripture; studying it is a sacred act. Krishna says 'I am worshipped' (ishtah syam) through such study, equating intellectual/spiritual study with ritual worship. This democratizes devotion—one need not perform elaborate rituals; sincere study of scripture is itself worship. The phrase 'sacred dialogue' (dharmyam samvadam) reminds us the Gita is a conversation, intimate and personal, not just doctrinal teaching."
+        },
+        "turkish": {
+          "translation": "Ve bizim bu kutsal diyalogumuzu okuyan kişi tarafından, o kişi tarafından bilgi kurbanı yoluyla ibadet ediliyorum—bu benim kanaatimdir.",
+          "commentary": "Bu diyalogu okumak bile ibadetin kendisidir—jnana yajna (bilgi kurbanı/ibadeti). Gita sadece felsefe değil, kutsal metindir; onu okumak kutsal bir eylemdir. Krishna bu tür okuma yoluyla 'ibadet ediliyorum' (ishtah syam) der, entelektüel/ruhani okumayı ritüel ibadet ile eşitler. Bu bhakti'yi demokratikleştirir—kişinin ayrıntılı ritüeller yapmasına gerek yoktur; kutsal metni samimi okumak ibadetin kendisidir. 'Kutsal diyalog' (dharmyam samvadam) ifadesi bize Gita'nın sadece doktriner öğreti değil, samimi ve kişisel bir konuşma olduğunu hatırlatır."
+        }
+      },
+      {
+        "verse_number": 71,
+        "sanskrit": "श्रद्धावाननसूयश्च शृणुयादपि यो नरः। सोऽपि मुक्तः शुभाँल्लोकान्प्राप्नुयात्पुण्यकर्मणाम्॥",
+        "transliteration": "śraddhāvān anasūyaś ca śṛṇuyād api yo naraḥ | so'pi muktaḥ śubhām̐l lokān prāpnuyāt puṇya-karmaṇām ||",
+        "english": {
+          "translation": "Even one who listens to this with faith and without malice shall be liberated and attain the auspicious worlds of those of virtuous deeds.",
+          "commentary": "Krishna extends the benefit further—even listening (shrinuyad) with faith (shraddha) and without criticism (anasuya) brings liberation and heavenly attainment (shubhan lokan). This makes the teaching even more accessible: you need not fully understand or practice everything, but sincere, open-hearted listening itself purifies and elevates. The phrase 'without malice' emphasizes the importance of receptivity—a critical, hostile mind gains nothing. The reference to 'auspicious worlds' suggests both worldly and afterlife benefits, meeting people at their level of understanding and aspiration."
+        },
+        "turkish": {
+          "translation": "Bunu imanla ve kötü niyet olmadan dinleyen kişi bile kurtulacak ve erdemli eylemlere sahip olanların uğurlu dünyalarına ulaşacak.",
+          "commentary": "Krishna faydayı daha da genişletir—sadece iman (shraddha) ile ve eleştiri (anasuya) olmadan dinlemek (shrinuyad) bile kurtuluş ve cennet kazanımı (shubhan lokan) getirir. Bu öğretiyi daha erişilebilir kılar: her şeyi tam olarak anlamanıza veya uygulamanıza gerek yoktur, ancak samimi, açık kalpli dinlemenin kendisi arındırır ve yükseltir. 'Kötü niyet olmadan' ifadesi alıcılığın önemini vurgular—eleştirel, düşmanca bir zihin hiçbir şey kazanmaz. 'Uğurlu dünyalar'a yapılan referans, hem dünyevi hem de öbür dünya faydalarını önerir ve insanlarla anlayış ve özlem düzeylerinde buluşur."
+        }
+      },
+      {
+        "verse_number": 72,
+        "sanskrit": "कच्चिदेतच्छ्रुतं पार्थ त्वयैकाग्रेण चेतसा। कच्चिदज्ञानसम्मोहः प्रणष्टस्ते धनञ्जय॥",
+        "transliteration": "kaccid etac chrutaṁ pārtha tvayaikāgreṇa cetasā | kaccid ajñāna-sammohaḥ praṇaṣṭas te dhanañjaya ||",
+        "english": {
+          "translation": "Has this been heard by you, O Partha, with single-pointed concentration? Has your delusion born of ignorance been destroyed, O Dhananjaya?",
+          "commentary": "Having completed His teaching, Krishna inquires whether Arjuna has truly listened with full attention (ekagrega cetasa) and whether his confusion (ajnana-sammoha) has been dispelled. This models good teaching—checking for understanding rather than assuming it. The questions honor Arjuna's experience and agency. 'Single-pointed concentration' emphasizes that spiritual wisdom requires focused attention, not casual listening. The entire Gita's purpose was to destroy Arjuna's delusion; Krishna now asks if that goal has been achieved. The answer will determine whether the teaching has succeeded."
+        },
+        "turkish": {
+          "translation": "Bu tek noktalı konsantrasyonla senin tarafından duyuldu mu, ey Partha? Cehaletten doğan yanılsaman yok edildi mi, ey Dhananjaya?",
+          "commentary": "Öğretisini tamamladıktan sonra, Krishna Arjuna'nın gerçekten tam dikkatle (ekagrega cetasa) dinleyip dinlemediğini ve kafa karışıklığının (ajnana-sammoha) dağıtılıp dağıtılmadığını sorar. Bu iyi öğretimi modeller—anlamayı varsaymak yerine kontrol etmek. Sorular Arjuna'nın deneyimini ve eylemliğini onurlandırır. 'Tek noktalı konsantrasyon' ruhani bilgeliğin sıradan dinlemeyi değil, odaklanmış dikkat gerektirdiğini vurgular. Tüm Gita'nın amacı Arjuna'nın yanılsamasını yok etmekti; Krishna şimdi bu hedefe ulaşılıp ulaşılmadığını sorar. Cevap öğretinin başarılı olup olmadığını belirleyecektir."
+        }
+      },
+      {
+        "verse_number": 73,
+        "sanskrit": "अर्जुन उवाच। नष्टो मोहः स्मृतिर्लब्धा त्वत्प्रसादान्मयाच्युत। स्थितोऽस्मि गतसन्देहः करिष्ये वचनं तव॥",
+        "transliteration": "arjuna uvāca | naṣṭo mohaḥ smṛtir labdhā tvat-prasādān mayācyuta | sthito'smi gata-sandehaḥ kariṣye vacanaṁ tava ||",
+        "english": {
+          "translation": "Arjuna said: My delusion is destroyed and I have gained recognition through Your grace, O Achyuta. I stand firm with doubts dispelled. I shall act according to Your word.",
+          "commentary": "Arjuna's transformation is complete. His delusion (moha) is destroyed, his memory/understanding (smriti) restored through grace (tvat-prasadan). He stands firm (sthito'smi), free from doubt (gata-sandeha), ready to act according to dharma. This concludes his journey from confusion to clarity, paralysis to action, ego to surrender. The word 'Achyuta' (unfallen/infallible) acknowledges Krishna's divine nature. Arjuna's declaration 'I shall act' shows he has integrated the teaching—understanding leads to right action. The Gita's dialogue succeeds—Arjuna is transformed from a confused warrior into an enlightened instrument of dharma."
+        },
+        "turkish": {
+          "translation": "Arjuna dedi: Yanılsamam yok edildi ve Senin lütfunla tanıma kazandım, ey Achyuta. Şüpheler dağıtılarak sağlam duruyorum. Senin sözüne göre hareket edeceğim.",
+          "commentary": "Arjuna'nın dönüşümü tamamlandı. Yanılsaması (moha) yok edildi, hafızası/anlayışı (smriti) lütuf yoluyla (tvat-prasadan) eski haline geldi. Sağlam duruyor (sthito'smi), şüpheden özgür (gata-sandeha), dharma'ya göre hareket etmeye hazır. Bu, onun kafa karışıklığından netliğe, felçten eyleme, egodan teslimiyete yolculuğunu sonlandırır. 'Achyuta' (düşmemiş/şaşmaz) kelimesi Krishna'nın ilahi doğasını kabul eder. Arjuna'nın 'hareket edeceğim' beyanı öğretiyi entegre ettiğini gösterir—anlayış doğru eyleme götürür. Gita'nın diyalogu başarılı olur—Arjuna kafası karışık bir savaşçıdan aydınlanmış bir dharma aracına dönüşür."
+        }
+      },
+      {
+        "verse_number": 74,
+        "sanskrit": "सञ्जय उवाच। इत्यहं वासुदेवस्य पार्थस्य च महात्मनः। संवादमिममश्रौषमद्भुतं रोमहर्षणम्॥",
+        "transliteration": "sañjaya uvāca | ity ahaṁ vāsudevasya pārthasya ca mahātmanaḥ | saṁvādam imam aśrauṣam adbhutaṁ roma-harṣaṇam ||",
+        "english": {
+          "translation": "Sanjaya said: Thus have I heard this wondrous dialogue between Vasudeva and the great-souled Partha, causing my hair to stand on end.",
+          "commentary": "Sanjaya, the narrator who witnessed this through mystical vision, shares his amazement. The dialogue was 'wondrous' (adbhutam) and caused his hair to stand on end (roma-harshanam)—a sign of spiritual thrill. This reminds us the Gita is narrated to King Dhritarashtra, making it a story within a story. Sanjaya's awe validates the teaching's profundity—even the witness is transformed. His use of respectful epithets—Vasudeva for Krishna, 'great-souled' (mahatmanah) for Arjuna—shows reverence for both teacher and student in this sacred exchange."
+        },
+        "turkish": {
+          "translation": "Sanjaya dedi: Böylece Vasudeva ile büyük ruhlu Partha arasındaki bu harika diyalogu duydum, tüylerimi diken diken eden.",
+          "commentary": "Mistik vizyon yoluyla buna tanık olan anlatıcı Sanjaya, hayranlığını paylaşır. Diyalog 'harika' (adbhutam) idi ve tüylerinin diken diken olmasına (roma-harshanam) neden oldu—ruhani heyecanın bir işareti. Bu bize Gita'nın Kral Dhritarashtra'ya anlatıldığını, onu bir hikaye içinde hikaye yaptığını hatırlatır. Sanjaya'nın hayranlığı öğretinin derinliğini doğrular—tanık bile dönüştürülür. Saygılı sıfatlarının kullanımı—Krishna için Vasudeva, Arjuna için 'büyük ruhlu' (mahatmanah)—bu kutsal alışverişte hem öğretmene hem de öğrenciye saygıyı gösterir."
+        }
+      },
+      {
+        "verse_number": 75,
+        "sanskrit": "व्यासप्रसादाच्छ्रुतवानेतद्गुह्यमहं परम्। योगं योगेश्वरात्कृष्णात्साक्षात्कथयतः स्वयम्॥",
+        "transliteration": "vyāsa-prasādāc chrutavān etad guhyam ahaṁ param | yogaṁ yogeśvarāt kṛṣṇāt sākṣāt kathayataḥ svayam ||",
+        "english": {
+          "translation": "By the grace of Vyasa, I have heard this supreme secret of yoga directly from Krishna, the Lord of Yoga, Himself speaking.",
+          "commentary": "Sanjaya acknowledges that his ability to witness this dialogue came through Vyasa's grace (vyasa-prasadad)—the sage who compiled the Mahabharata and gave Sanjaya mystic vision. Hearing directly from Krishna, 'the Lord of Yoga' (yogeshvarat), made this experience extraordinary. This verse establishes the teaching lineage: from Krishna to Arjuna, witnessed by Sanjaya through Vyasa's grace, narrated to Dhritarashtra, and ultimately reaching us. The 'supreme secret of yoga' (guhyam param yogam) has been transmitted through an unbroken spiritual lineage."
+        },
+        "turkish": {
+          "translation": "Vyasa'nın lütfuyla, bu yoga'nın yüce sırrını Yoga'nın Efendisi Krishna'dan bizzat konuşurken duydum.",
+          "commentary": "Sanjaya, bu diyaloga tanık olma yeteneğinin Vyasa'nın lütfundan (vyasa-prasadad) geldiğini kabul eder—Mahabharata'yı derleyen ve Sanjaya'ya mistik vizyon veren bilge. Doğrudan 'Yoga'nın Efendisi' (yogeshvarat) Krishna'dan duymak bu deneyimi olağanüstü kıldı. Bu ayet öğreti soyunu belirler: Krishna'dan Arjuna'ya, Vyasa'nın lütfuyla Sanjaya tarafından tanıklık edilir, Dhritarashtra'ya anlatılır ve sonunda bize ulaşır. 'Yoga'nın yüce sırrı' (guhyam param yogam) kesintisiz bir ruhani soy yoluyla aktarılmıştır."
+        }
+      },
+      {
+        "verse_number": 76,
+        "sanskrit": "राजन्संस्मृत्य संस्मृत्य संवादमिममद्भुतम्। केशवार्जुनयोः पुण्यं हृष्यामि च मुहुर्मुहुः॥",
+        "transliteration": "rājan saṁsmṛtya saṁsmṛtya saṁvādam imam adbhutam | keśavārjunayoḥ puṇyaṁ hṛṣyāmi ca muhur muhuḥ ||",
+        "english": {
+          "translation": "O King, remembering again and again this wondrous and sacred dialogue between Keshava and Arjuna, I rejoice again and again.",
+          "commentary": "Sanjaya addresses King Dhritarashtra, expressing how repeatedly remembering (samsmritya samsmritya) this dialogue brings repeated joy (hrishyami muhur muhuh). The repetition emphasizes ongoing delight—this isn't a one-time teaching but an inexhaustible source of inspiration. Each remembrance brings fresh insight and joy. This models how scripture should be engaged: not once but repeatedly, finding ever-deeper meaning. The teaching's beauty and profundity don't diminish with familiarity but increase. This is the mark of true wisdom—it grows richer with contemplation."
+        },
+        "turkish": {
+          "translation": "Ey Kral, Keshava ile Arjuna arasındaki bu harika ve kutsal diyalogu tekrar tekrar hatırlayarak, tekrar tekrar seviniyorum.",
+          "commentary": "Sanjaya, Kral Dhritarashtra'ya hitap ederek, bu diyalogu tekrar tekrar hatırlamanın (samsmritya samsmritya) tekrarlayan sevinç (hrishyami muhur muhuh) getirdiğini ifade eder. Tekrar, devam eden zevki vurgular—bu bir kerelik bir öğreti değil, tükenmez bir ilham kaynağıdır. Her hatırlama taze içgörü ve sevinç getirir. Bu, kutsal metinlerle nasıl etkileşim kurulması gerektiğini modeller: bir kez değil, tekrar tekrar, sürekli daha derin anlam bularak. Öğretinin güzelliği ve derinliği aşinalıkla azalmaz, artar. Bu gerçek bilgeliğin işaretidir—düşünmeyle daha zengin hale gelir."
+        }
+      },
+      {
+        "verse_number": 77,
+        "sanskrit": "तच्च संस्मृत्य संस्मृत्य रूपमत्यद्भुतं हरेः। विस्मयो मे महान् राजन्हृष्यामि च पुनः पुनः॥",
+        "transliteration": "tac ca saṁsmṛtya saṁsmṛtya rūpam aty-adbhutaṁ hareḥ | vismayo me mahān rājan hṛṣyāmi ca punaḥ punaḥ ||",
+        "english": {
+          "translation": "And remembering again and again that most wondrous form of Hari, great is my wonder, O King, and I rejoice again and again.",
+          "commentary": "Sanjaya specifically recalls the Vishvarupa—the cosmic form Krishna showed Arjuna in Chapter 11. That 'most wondrous form' (aty-adbhutam rupam) continues to fill him with amazement (vismaya) and joy. This divine vision, where Krishna revealed Himself as the universe, was the climactic moment of the Gita. That Sanjaya continues to rejoice in its memory shows the transformative power of divine vision—even remembered, it elevates consciousness. The teaching includes not just words but the visual revelation of divine reality, addressing both intellect and heart."
+        },
+        "turkish": {
+          "translation": "Ve Hari'nin en harika biçimini tekrar tekrar hatırlayarak, hayranlığım büyük, ey Kral, ve tekrar tekrar seviniyorum.",
+          "commentary": "Sanjaya özellikle Vishvarupa'yı hatırlar—Krishna'nın Bölüm 11'de Arjuna'ya gösterdiği kozmik biçim. O 'en harika biçim' (aty-adbhutam rupam) onu hayret (vismaya) ve sevinçle doldurmaya devam eder. Krishna'nın kendini evren olarak ortaya koyduğu bu ilahi vizyon, Gita'nın doruk anıydı. Sanjaya'nın hafızasında sevinmeye devam etmesi, ilahi vizyonun dönüştürücü gücünü gösterir—hatırlansa bile bilinci yükseltir. Öğreti sadece kelimeleri değil, ilahi gerçekliğin görsel vahyini de içerir, hem akla hem de kalbe hitap eder."
+        }
+      },
+      {
+        "verse_number": 78,
+        "sanskrit": "यत्र योगेश्वरः कृष्णो यत्र पार्थो धनुर्धरः। तत्र श्रीर्विजयो भूतिर्ध्रुवा नीतिर्मतिर्मम॥",
+        "transliteration": "yatra yogeśvaraḥ kṛṣṇo yatra pārtho dhanur-dharaḥ | tatra śrīr vijayo bhūtir dhruvā nītir matir mama ||",
+        "english": {
+          "translation": "Wherever there is Krishna, the Lord of Yoga, and wherever there is Arjuna, the wielder of the bow, there will surely be prosperity, victory, glory, and righteousness—such is my conviction.",
+          "commentary": "The Gita's final verse offers a universal principle: where divine wisdom (Krishna, the Lord of Yoga) combines with dedicated human effort (Arjuna, the archer), success is assured. This union brings: prosperity (shri), victory (vijaya), glory (bhuti), and righteousness (niti). This isn't mere optimism but cosmic law—when divine guidance meets human endeavor, all good follows. The verse synthesizes the Gita's message: neither passive faith nor mere human effort suffices alone. The combination of divine grace and disciplined action brings complete success. This final wisdom applies beyond Kurukshetra to all of life."
+        },
+        "turkish": {
+          "translation": "Yoga'nın Efendisi Krishna nerede ve yay taşıyan Arjuna nerede ise, orada mutlaka refah, zafer, ihtişam ve doğruluk olacaktır—bu benim kanaatimdir.",
+          "commentary": "Gita'nın son ayeti evrensel bir ilke sunar: ilahi bilgelik (Krishna, Yoga'nın Efendisi) adanmış insan çabasıyla (Arjuna, okçu) birleştiğinde, başarı garantidir. Bu birlik getirir: refah (shri), zafer (vijaya), ihtişam (bhuti) ve doğruluk (niti). Bu sadece iyimserlik değil, kozmik yasadır—ilahi rehberlik insan çabasıyla buluştuğunda, tüm iyilik takip eder. Ayet Gita'nın mesajını sentezler: ne pasif inan ne de sadece insan çabası tek başına yeterli değildir. İlahi lütuf ve disiplinli eylemin kombinasyonu tam başarı getirir. Bu son bilgelik Kurukshetra'nın ötesinde tüm yaşama uygulanır."
+        }
       }
     ]
   },

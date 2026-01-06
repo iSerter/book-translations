@@ -7,7 +7,7 @@
 
 ## Summary
 
-Implement a new CLI command `translations import` to parse and store book content (books, chapters, verses, translations) from JSON files. This feature supports single file imports and bulk operations via glob patterns, ensuring idempotency and data integrity.
+Implement a new CLI command `translations import` to parse and store book content (books, chapters, verses, translations) from JSON files. This feature supports single file imports and bulk operations via glob patterns, ensuring idempotency and data integrity. It includes an extensible architecture to support multiple import formats, starting with `sanskrit-scripture`.
 
 ## Technical Context
 

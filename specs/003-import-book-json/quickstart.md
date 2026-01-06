@@ -28,7 +28,7 @@ This guide explains how to import book content from JSON files into the database
 To import all chapters from a directory:
 
 ```bash
-npm run cli -- translations import --book-slug bhagavad-gita "Bhagavad-Gita/Claude-Sonnet-4.5/*.json"
+npm run cli -- translations import --book "Bhagavad Gita" "Bhagavad-Gita/Claude-Sonnet-4.5/*.json" --provider="Sonnet-4.5"
 ```
 
 ## Options

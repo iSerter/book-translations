@@ -1,0 +1,16 @@
+{
+  "chapter": {
+    "number": 1,
+    "title_english": "The First Chapter",
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "Dharmaxetre...",
+        "english": {
+          "translation": "On the field of Dharma...",
+          "commentary": "This is a commentary."
+        }
+      }
+    ]
+  }
+}
