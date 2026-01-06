@@ -1,0 +1,407 @@
+{
+  "chapter": {
+    "number": 7,
+    "title_sanskrit": "ज्ञानविज्ञानयोग",
+    "title_english": "The Yoga of Knowledge and Wisdom",
+    "title_turkish": "Bilgi ve Hikmet Yogası",
+    "total_verses": 30,
+    "verses": [
+      {
+        "verse_number": 1,
+        "sanskrit": "श्रीभगवानुवाच |\nमय्यासक्तमनाः पार्थ योगं युञ्जन्मदाश्रयः |\nअसंशयं समग्रं मां यथा ज्ञास्यसि तच्छृणु ||",
+        "transliteration": "śrī-bhagavān uvāca |\nmayy āsakta-manāḥ pārtha yogaṁ yuñjan mad-āśrayaḥ |\nasaṁśayaṁ samagraṁ māṁ yathā jñāsyasi tac chṛṇu ||",
+        "english": {
+          "translation": "The Supreme Lord said: O Partha, now hear how, by practicing yoga with your mind attached to Me and taking refuge in Me, you shall know Me completely, beyond all doubt.",
+          "commentary": "Krishna begins this crucial chapter by promising complete knowledge of His nature. The practice involves both attachment (āsakti) and refuge (āśraya) - emotional devotion combined with complete surrender. This comprehensive knowledge eliminates all doubts and misconceptions about the Divine."
+        },
+        "turkish": {
+          "translation": "Yüce Tanrı buyurdu: Ey Partha, aklını Bana bağlayarak ve Bana sığınarak yogayı uygularken, Beni hiçbir şüphe olmaksızın tam olarak nasıl bileceğini şimdi dinle.",
+          "commentary": "Krishna bu önemli bölüme, kendi doğası hakkında eksiksiz bilgi vaat ederek başlar. Uygulama hem bağlılık (āsakti) hem de sığınma (āśraya) içerir - duygusal adanmışlıkla tam teslimiyetin birleşimi. Bu kapsamlı bilgi, İlahi hakkındaki tüm şüphe ve yanlış anlamaları ortadan kaldırır."
+        }
+      },
+      {
+        "verse_number": 2,
+        "sanskrit": "ज्ञानं तेऽहं सविज्ञानमिदं वक्ष्याम्यशेषतः |\nयज्ज्ञात्वा नेह भूयोऽन्यज्ज्ञातव्यमवशिष्यते ||",
+        "transliteration": "jñānaṁ te 'haṁ sa-vijñānam idaṁ vakṣyāmy aśeṣataḥ |\nyaj jñātvā neha bhūyo 'nyaj jñātavyam avaśiṣyate ||",
+        "english": {
+          "translation": "I shall declare to you in full this knowledge along with realization, knowing which nothing further remains to be known in this world.",
+          "commentary": "Krishna distinguishes between jñāna (theoretical knowledge) and vijñāna (experiential realization or wisdom). This complete understanding encompasses both intellectual comprehension and direct spiritual experience, leaving no aspect of reality unexplored or misunderstood."
+        },
+        "turkish": {
+          "translation": "Sana bu bilgiyi gerçekleşmeyle birlikte tam olarak açıklayacağım; bunu bildikten sonra bu dünyada bilinecek başka bir şey kalmaz.",
+          "commentary": "Krishna, jñāna (teorik bilgi) ile vijñāna (deneyimsel gerçekleşme veya hikmet) arasında ayrım yapar. Bu tam anlayış hem entelektüel kavrayışı hem de doğrudan manevi deneyimi kapsar, gerçekliğin hiçbir yönünü keşfedilmemiş veya yanlış anlaşılmış bırakmaz."
+        }
+      },
+      {
+        "verse_number": 3,
+        "sanskrit": "मनुष्याणां सहस्रेषु कश्चिद्यतति सिद्धये |\nयततामपि सिद्धानां कश्चिन्मां वेत्ति तत्त्वतः ||",
+        "transliteration": "manuṣyāṇāṁ sahasreṣu kaścid yatati siddhaye |\nyatatām api siddhānāṁ kaścin māṁ vetti tattvataḥ ||",
+        "english": {
+          "translation": "Among thousands of men, scarcely one strives for perfection; and of those who strive and achieve perfection, scarcely one knows Me in truth.",
+          "commentary": "This verse emphasizes the rarity of true spiritual seeking and realization. Most people remain absorbed in worldly pursuits; few seek liberation; and even among those who attain spiritual perfection, very few comprehend the ultimate nature of the Divine in its fullness."
+        },
+        "turkish": {
+          "translation": "Binlerce insan arasında, ancak biri mükemmellik için çabalar; ve çabalayıp mükemmelliğe ulaşanlar arasında da ancak biri Beni gerçekte olduğum gibi bilir.",
+          "commentary": "Bu ayet, gerçek manevi arayışın ve gerçekleşmenin nadirliğini vurgular. Çoğu insan dünyevi uğraşlara dalmış haldedir; çok azı kurtuluş arar; ve manevi mükemmelliğe ulaşanlar arasında bile, İlahi'nin nihai doğasını bütünlüğü içinde kavrayan çok azdır."
+        }
+      },
+      {
+        "verse_number": 4,
+        "sanskrit": "भूमिरापोऽनलो वायुः खं मनो बुद्धिरेव च |\nअहङ्कार इतीयं मे भिन्ना प्रकृतिरष्टधा ||",
+        "transliteration": "bhūmir āpo 'nalo vāyuḥ khaṁ mano buddhir eva ca |\nahaṅkāra itīyaṁ me bhinnā prakṛtir aṣṭadhā ||",
+        "english": {
+          "translation": "Earth, water, fire, air, ether, mind, intellect, and ego—these are the eight divisions of My material nature (prakriti).",
+          "commentary": "Krishna describes His lower nature consisting of the five gross elements (earth through ether) and three subtle components (mind, intellect, ego). This eightfold prakriti constitutes the material realm, which is an emanation of the Divine but represents only His external, inferior energy."
+        },
+        "turkish": {
+          "translation": "Toprak, su, ateş, hava, ether, zihin, akıl ve ego—bunlar Benim maddi doğamın (prakriti) sekiz bölümüdür.",
+          "commentary": "Krishna, beş kaba element (topraktan ethere) ve üç ince bileşenden (zihin, akıl, ego) oluşan aşağı doğasını açıklar. Bu sekiz katlı prakriti maddi alanı oluşturur; bu alan İlahi'nin bir yayılımıdır ancak sadece O'nun dış, aşağı enerjisini temsil eder."
+        }
+      },
+      {
+        "verse_number": 5,
+        "sanskrit": "अपरेयमितस्त्वन्यां प्रकृतिं विद्धि मे पराम् |\nजीवभूतां महाबाहो ययेदं धार्यते जगत् ||",
+        "transliteration": "apareyam itas tv anyāṁ prakṛtiṁ viddhi me parām |\njīva-bhūtāṁ mahā-bāho yayedaṁ dhāryate jagat ||",
+        "english": {
+          "translation": "This is My lower nature. But know, O mighty-armed one, My other, higher nature (para prakriti)—the life force by which this universe is sustained.",
+          "commentary": "Krishna reveals His superior nature—the conscious spiritual energy manifested as individual souls (jivas). While the material elements are inert, this higher prakriti consists of conscious beings who sustain and animate the world. This distinction between matter and spirit is fundamental to understanding reality."
+        },
+        "turkish": {
+          "translation": "Bu Benim aşağı doğamdır. Ama bil ey güçlü kollu, Benim diğer, yüksek doğamumu (para prakriti)—bu evrenin sürdürüldüğü yaşam gücünü.",
+          "commentary": "Krishna üstün doğasını açığa vurur—bireysel ruhlar (jivalar) olarak tezahür eden bilinçli manevi enerji. Maddi elementler cansızken, bu yüksek prakriti dünyayı sürdüren ve canlandıran bilinçli varlıklardan oluşur. Madde ve ruh arasındaki bu ayrım, gerçekliği anlamak için temeldir."
+        }
+      },
+      {
+        "verse_number": 6,
+        "sanskrit": "एतद्योनीनि भूतानि सर्वाणीत्युपधारय |\nअहं कृत्स्नस्य जगतः प्रभवः प्रलयस्तथा ||",
+        "transliteration": "etad-yonīni bhūtāni sarvāṇīty upadhāraya |\nahaṁ kṛtsnasya jagataḥ prabhavaḥ pralayas tathā ||",
+        "english": {
+          "translation": "Know that all beings have their origin in these two natures of Mine. I am the source of the entire universe and also its dissolution.",
+          "commentary": "All existence emerges from the combination of Krishna's dual nature—material and spiritual. He is both the efficient cause (the creator) and the material cause (the substance) of the universe. Everything originates from Him and ultimately returns to Him in cosmic dissolution."
+        },
+        "turkish": {
+          "translation": "Tüm varlıkların Benim bu iki doğamdan kaynaklandığını bil. Ben tüm evrenin kaynağıyım ve aynı zamanda onun çözülüşüyüm.",
+          "commentary": "Tüm varoluş, Krishna'nın ikili doğasının—maddi ve manevi—birleşiminden çıkar. O hem etkin neden (yaratıcı) hem de maddi nedendir (öz). Her şey O'ndan kaynaklanır ve nihayetinde kozmik çözülüşte O'na geri döner."
+        }
+      },
+      {
+        "verse_number": 7,
+        "sanskrit": "मत्तः परतरं नान्यत्किञ्चिदस्ति धनञ्जय |\nमयि सर्वमिदं प्रोतं सूत्रे मणिगणा इव ||",
+        "transliteration": "mattaḥ parataraṁ nānyat kiñcid asti dhanañjaya |\nmayi sarvam idaṁ protaṁ sūtre maṇi-gaṇā iva ||",
+        "english": {
+          "translation": "There is nothing whatsoever higher than Me, O Dhananjaya. All this universe is strung on Me like pearls on a thread.",
+          "commentary": "Krishna declares His supreme position as the ultimate reality beyond which nothing exists. The metaphor of pearls on a thread beautifully illustrates how all existence is supported by and depends upon the Divine, yet remains distinct—unified in essence but diverse in manifestation."
+        },
+        "turkish": {
+          "translation": "Benden daha yüksek hiçbir şey yoktur, ey Dhananjaya. Tüm bu evren, bir ipteki inciler gibi Bana dizilmiştir.",
+          "commentary": "Krishna, ötesinde hiçbir şeyin bulunmadığı nihai gerçeklik olarak üstün konumunu ilan eder. İpteki inciler metaforu, tüm varoluşun İlahi tarafından nasıl desteklendiğini ve O'na bağımlı olduğunu, yine de farklı kaldığını güzel bir şekilde gösterir—özde birleşik ama tezahürde çeşitli."
+        }
+      },
+      {
+        "verse_number": 8,
+        "sanskrit": "रसोऽहमप्सु कौन्तेय प्रभास्मि शशिसूर्ययोः |\nप्रणवः सर्ववेदेषु शब्दः खे पौरुषं नृषु ||",
+        "transliteration": "raso 'ham apsu kaunteya prabhāsmi śaśi-sūryayoḥ |\npraṇavaḥ sarva-vedeṣu śabdaḥ khe pauruṣaṁ nṛṣu ||",
+        "english": {
+          "translation": "O son of Kunti, I am the taste in water, the light in the moon and sun, the sacred syllable Om in all the Vedas, sound in space, and manhood in men.",
+          "commentary": "Krishna reveals His presence in the fundamental qualities of various elements and phenomena. He is the essential characteristic that makes each thing what it is—the tastiness of water, luminosity of celestial bodies, the sacred Om, the very nature of sound, and valor in humanity."
+        },
+        "turkish": {
+          "translation": "Ey Kunti oğlu, Ben sudaki tattır, ay ve güneşteki ışığım, tüm Vedalardaki kutsal Om hecesiyim, uzaydaki sesim ve erkeklerdeki erkekliğim.",
+          "commentary": "Krishna, varlığını çeşitli element ve olguların temel niteliklerinde açığa vurur. Her şeyi olduğu şey yapan temel özellik O'dur—suyun lezzeti, gök cisimlerinin parlaklığı, kutsal Om, sesin özü ve insanlıktaki yiğitlik."
+        }
+      },
+      {
+        "verse_number": 9,
+        "sanskrit": "पुण्यो गन्धः पृथिव्यां च तेजश्चास्मि विभावसौ |\nजीवनं सर्वभूतेषु तपश्चास्मि तपस्विषु ||",
+        "transliteration": "puṇyo gandhaḥ pṛthivyāṁ ca tejaś cāsmi vibhāvasau |\njīvanaṁ sarva-bhūteṣu tapaś cāsmi tapasviṣu ||",
+        "english": {
+          "translation": "I am the pure fragrance in earth and the brilliance in fire; I am the life in all beings and the austerity in ascetics.",
+          "commentary": "Krishna continues revealing His immanence in creation. He is the pleasant aroma of earth, the blazing quality of fire, the vital force animating all creatures, and the disciplined energy in spiritual practitioners. The Divine pervades all levels of existence from gross matter to refined spiritual practice."
+        },
+        "turkish": {
+          "translation": "Ben topraktaki saf kokuyum ve ateşteki parlaklığım; tüm varlıklardaki yaşamım ve çilecilerdeki çilecilik.",
+          "commentary": "Krishna, yaratılıştaki içkinliğini açıklamaya devam eder. Toprağın hoş aroması, ateşin alevli niteliği, tüm yaratıkları canlandıran hayati güç ve manevi uygulayıcılardaki disiplinli enerji O'dur. İlahi, kaba maddeden arıtılmış manevi uygulamaya kadar varoluşun tüm seviyelerine nüfuz eder."
+        }
+      },
+      {
+        "verse_number": 10,
+        "sanskrit": "बीजं मां सर्वभूतानां विद्धि पार्थ सनातनम् |\nबुद्धिर्बुद्धिमतामस्मि तेजस्तेजस्विनामहम् ||",
+        "transliteration": "bījaṁ māṁ sarva-bhūtānāṁ viddhi pārtha sanātanam |\nbuddhir buddhimatām asmi tejas tejasvinām aham ||",
+        "english": {
+          "translation": "Know Me, O Partha, to be the eternal seed of all beings. I am the intelligence of the intelligent and the splendor of the splendid.",
+          "commentary": "Krishna identifies Himself as the primordial seed—the ultimate source and sustaining principle of all existence. As the essence behind all positive qualities, He is the discriminative wisdom in the wise and the radiant glory in the glorious, manifesting through various beings while remaining their unchanging source."
+        },
+        "turkish": {
+          "translation": "Beni, ey Partha, tüm varlıkların ebedi tohumu olarak bil. Ben akıllıların aklıyım ve görkemli olanların görkemiyim.",
+          "commentary": "Krishna kendini ilk tohum—tüm varoluşun nihai kaynağı ve sürdürücü ilkesi—olarak tanımlar. Tüm olumlu niteliklerin özü olarak, bilgelerdeki ayırt edici bilgelik ve görkemli olanlardaki parlak ihtişam O'dur; çeşitli varlıklar aracılığıyla tezahür ederken değişmez kaynakları olmaya devam eder."
+        }
+      },
+      {
+        "verse_number": 11,
+        "sanskrit": "बलं बलवतां चाहं कामरागविवर्जितम् |\nधर्माविरुद्धो भूतेषु कामोऽस्मि भरतर्षभ ||",
+        "transliteration": "balaṁ balavatāṁ cāhaṁ kāma-rāga-vivarjitam |\ndharmāviruddho bhūteṣu kāmo 'smi bharatarṣabha ||",
+        "english": {
+          "translation": "I am the strength of the strong, devoid of desire and attachment. In beings, I am that desire which is not contrary to dharma, O best of the Bharatas.",
+          "commentary": "Krishna is pure power uncontaminated by selfish craving. He sanctions legitimate desires aligned with righteousness—desires for sustenance, procreation within marriage, and spiritual progress. Dharmic desire includes all wholesome aspirations that support life's proper functioning and ultimate liberation."
+        },
+        "turkish": {
+          "translation": "Ben güçlülerin arzu ve bağlantıdan arınmış gücüyüm. Varlıklarda, dharmaya aykırı olmayan o arzuyum, ey Bharata'ların en iyisi.",
+          "commentary": "Krishna, bencil özlemle kirlenmemiş saf güçtür. Doğrulukla uyumlu meşru arzuları onaylar—geçim, evlilik içinde üreme ve manevi ilerleme arzuları. Dharmik arzu, yaşamın düzgün işleyişini ve nihai kurtuluşu destekleyen tüm sağlıklı özlemleri içerir."
+        }
+      },
+      {
+        "verse_number": 12,
+        "sanskrit": "ये चैव सात्त्विका भावा राजसास्तामसाश्च ये |\nमत्त एवेति तान्विद्धि न त्वहं तेषु ते मयि ||",
+        "transliteration": "ye caiva sāttvikā bhāvā rājasās tāmasāś ca ye |\nmatta eveti tān viddhi na tv ahaṁ teṣu te mayi ||",
+        "english": {
+          "translation": "Know that all states of being—whether in the mode of goodness, passion, or ignorance—emanate from Me alone. Yet I am not in them; they are in Me.",
+          "commentary": "The three gunas (qualities of material nature) originate from Krishna, yet He transcends them. While all conditioned states depend on Him, He remains unaffected by their limitations. This relationship is asymmetrical—the gunas exist within His power, but He exists beyond their influence."
+        },
+        "turkish": {
+          "translation": "İyilik, tutku veya cehalet kipinde olsun tüm varoluş hallerinin yalnızca Benden kaynaklandığını bil. Yine de Ben onların içinde değilim; onlar Benim içimdedir.",
+          "commentary": "Üç guna (maddi doğanın nitelikleri) Krishna'dan kaynaklanır, ancak O onları aşar. Tüm koşullu haller O'na bağlıyken, O onların sınırlamalarından etkilenmeden kalır. Bu ilişki asimetriktir—gunalar O'nun gücü içinde var olur, ama O onların etkisinin ötesinde var olur."
+        }
+      },
+      {
+        "verse_number": 13,
+        "sanskrit": "त्रिभिर्गुणमयैर्भावैरेभिः सर्वमिदं जगत् |\nमोहितं नाभिजानाति मामेभ्यः परमव्ययम् ||",
+        "transliteration": "tribhir guṇa-mayair bhāvair ebhiḥ sarvam idaṁ jagat |\nmohitaṁ nābhijānāti mām ebhyaḥ param avyayam ||",
+        "english": {
+          "translation": "Deluded by these three modes (gunas), the whole world does not recognize Me, who am beyond them and imperishable.",
+          "commentary": "The gunas create a veil of illusion that prevents beings from perceiving the transcendent reality. Absorbed in the play of the three qualities, people mistake the temporary modifications of prakriti for ultimate reality and fail to recognize the eternal, unchanging Divine consciousness that underlies all phenomena."
+        },
+        "turkish": {
+          "translation": "Bu üç kip (gunalar) tarafından aldatılan tüm dünya, onların ötesinde ve yok edilemez olan Beni tanımıyor.",
+          "commentary": "Gunalar, varlıkların aşkın gerçekliği algılamasını engelleyen bir yanılsama perdesi yaratır. Üç niteliğin oyununa dalmış insanlar, prakriti'nin geçici değişimlerini nihai gerçeklik sanır ve tüm olguların temelinde yatan ebedi, değişmez İlahi bilinci tanıyamaz."
+        }
+      },
+      {
+        "verse_number": 14,
+        "sanskrit": "दैवी ह्येषा गुणमयी मम माया दुरत्यया |\nमामेव ये प्रपद्यन्ते मायामेतां तरन्ति ते ||",
+        "transliteration": "daivī hy eṣā guṇa-mayī mama māyā duratyayā |\nmām eva ye prapadyante māyām etāṁ taranti te ||",
+        "english": {
+          "translation": "This divine Maya of Mine, consisting of the three gunas, is difficult to overcome. But those who surrender unto Me alone can easily cross beyond this illusion.",
+          "commentary": "Maya—divine creative power—is nearly impossible to transcend through personal effort alone. The path to freedom requires complete surrender to Krishna. Those who take refuge in Him receive His grace, which dissolves the bonds of illusion. Surrender is both the method and the culmination of spiritual practice."
+        },
+        "turkish": {
+          "translation": "Benim üç gunadan oluşan bu ilahi Maya'm aşılması zordur. Ancak yalnızca Bana teslim olanlar bu yanılsamayı kolayca aşabilir.",
+          "commentary": "Maya—ilahi yaratıcı güç—yalnızca kişisel çabayla aşılması neredeyse imkansızdır. Özgürlüğe giden yol, Krishna'ya tam teslimiyeti gerektirir. O'na sığınanlar, yanılsama bağlarını çözen O'nun lütfunu alır. Teslimiyet hem yöntemdir hem de manevi uygulamanın doruk noktasıdır."
+        }
+      },
+      {
+        "verse_number": 15,
+        "sanskrit": "न मां दुष्कृतिनो मूढाः प्रपद्यन्ते नराधमाः |\nमाययापहृतज्ञाना आसुरं भावमाश्रिताः ||",
+        "transliteration": "na māṁ duṣkṛtino mūḍhāḥ prapadyante narādhamāḥ |\nmāyayāpahṛta-jñānā āsuraṁ bhāvam āśritāḥ ||",
+        "english": {
+          "translation": "The foolish evildoers, the lowest of men, deprived of knowledge by Maya, and possessing a demoniac nature, do not surrender unto Me.",
+          "commentary": "Krishna describes four types who fail to surrender: the miscreants who harm others, the deluded who lack discrimination, those whose wisdom is stolen by illusion, and those of demonic disposition who oppose divine principles. These categories overlap and represent progressive degrees of separation from spiritual truth."
+        },
+        "turkish": {
+          "translation": "Kötülük yapan ahmaklar, insanların en alçakları, Maya tarafından bilgiden yoksun bırakılmış ve şeytani bir doğaya sahip olanlar Bana teslim olmazlar.",
+          "commentary": "Krishna teslim olmayacak dört tipi anlatır: başkalarına zarar veren kötüler, ayrım yeteneğinden yoksun aldatılmışlar, yanılsama tarafından bilgeliği çalınanlar ve ilahi ilkelere karşı çıkan şeytani eğilimli olanlar. Bu kategoriler örtüşür ve manevi gerçekten ayrılmanın ilerleyici derecelerini temsil eder."
+        }
+      },
+      {
+        "verse_number": 16,
+        "sanskrit": "चतुर्विधा भजन्ते मां जनाः सुकृतिनोऽर्जुन |\nआर्तो जिज्ञासुरर्थार्थी ज्ञानी च भरतर्षभ ||",
+        "transliteration": "catur-vidhā bhajante māṁ janāḥ sukṛtino 'rjuna |\nārto jijñāsur arthārthī jñānī ca bharatarṣabha ||",
+        "english": {
+          "translation": "Four kinds of virtuous people worship Me, O Arjuna: the distressed, the seeker of knowledge, the seeker of wealth, and the wise, O best of the Bharatas.",
+          "commentary": "Krishna acknowledges different motivations for approaching the Divine. The distressed seek relief from suffering; the curious seek understanding; the desirer seeks material benefits; and the wise seek God for His own sake. All are welcomed, though their spiritual maturity differs. Even imperfect devotion gradually purifies and elevates the worshiper."
+        },
+        "turkish": {
+          "translation": "Dört tür erdemli insan Bana ibadet eder, ey Arjuna: sıkıntılı olan, bilgi arayan, zenginlik arayan ve bilge olan, ey Bharata'ların en iyisi.",
+          "commentary": "Krishna, İlahi'ye yaklaşmak için farklı motivasyonları kabul eder. Sıkıntılı olanlar acıdan kurtuluş arar; meraklı olanlar anlayış arar; arzulayan maddi faydalar arar; ve bilge olan Tanrı'yı kendisi için arar. Hepsi hoş karşılanır, ancak manevi olgunlukları farklıdır. Kusurlu adanmışlık bile yavaş yavaş tapanı arındırır ve yükseltir."
+        }
+      },
+      {
+        "verse_number": 17,
+        "sanskrit": "तेषां ज्ञानी नित्ययुक्त एकभक्तिर्विशिष्यते |\nप्रियो हि ज्ञानिनोऽत्यर्थमहं स च मम प्रियः ||",
+        "transliteration": "teṣāṁ jñānī nitya-yukta eka-bhaktir viśiṣyate |\npriyo hi jñānino 'tyartham ahaṁ sa ca mama priyaḥ ||",
+        "english": {
+          "translation": "Among these, the wise one, constantly united with Me through single-minded devotion, is the best. For I am extremely dear to the wise, and they are dear to Me.",
+          "commentary": "The jñānī (the wise devotee) excels because their love is unconditional and constant. They seek nothing but union with the Divine. Krishna expresses extraordinary affection for such devotees, establishing a relationship of mutual love. This reciprocal intimacy represents the highest spiritual attainment—loving God purely for love's sake."
+        },
+        "turkish": {
+          "translation": "Bunlar arasında, tek yönlü adanmışlıkla sürekli Benimle birleşen bilge en iyisidir. Çünkü Ben bilge için son derece değerliyim ve o da Benim için değerlidir.",
+          "commentary": "Jñānī (bilge adanmış) üstündür çünkü sevgisi koşulsuz ve süreklidir. İlahi ile birleşmekten başka bir şey aramaz. Krishna, böyle adanmışlar için olağanüstü sevgi ifade eder ve karşılıklı sevgi ilişkisi kurar. Bu karşılıklı yakınlık en yüksek manevi başarıyı temsil eder—Tanrı'yı sırf sevginin kendisi için sevmek."
+        }
+      },
+      {
+        "verse_number": 18,
+        "sanskrit": "उदाराः सर्व एवैते ज्ञानी त्वात्मैव मे मतम् |\nआस्थितः स हि युक्तात्मा मामेवानुत्तमां गतिम् ||",
+        "transliteration": "udārāḥ sarva evaite jñānī tv ātmaiva me matam |\nāsthitaḥ sa hi yuktātmā mām evānuttamāṁ gatim ||",
+        "english": {
+          "translation": "All these are indeed noble, but I consider the wise one to be My very Self. For such a person, with mind steadfast, is established in Me alone as the supreme goal.",
+          "commentary": "While honoring all sincere devotees, Krishna declares the wise devotee to be one with Him. This represents complete spiritual merger—not loss of individuality but perfect alignment of will and being. The jñānī realizes their essential identity with the Divine, making them Krishna's own Self in manifest form."
+        },
+        "turkish": {
+          "translation": "Bunların hepsi gerçekten asil, ancak bilge olanı Kendi Benliğim olarak görürüm. Çünkü böyle bir kişi, zihni kararlı, yalnızca Bende üstün amaç olarak yerleşmiştir.",
+          "commentary": "Tüm samimi adanmışları onurlandırırken, Krishna bilge adanmışın O'nunla bir olduğunu ilan eder. Bu tam manevi birleşmeyi temsil eder—bireyselliğin kaybı değil, irade ve varlığın mükemmel uyumudur. Jñānī, İlahi ile özsel kimliğini gerçekleştirir ve onları tezahür etmiş biçimde Krishna'nın kendi Benliği yapar."
+        }
+      },
+      {
+        "verse_number": 19,
+        "sanskrit": "बहूनां जन्मनामन्ते ज्ञानवान्मां प्रपद्यते |\nवासुदेवः सर्वमिति स महात्मा सुदुर्लभः ||",
+        "transliteration": "bahūnāṁ janmanām ante jñānavān māṁ prapadyate |\nvāsudevaḥ sarvam iti sa mahātmā sudurlabhaḥ ||",
+        "english": {
+          "translation": "After many births, one who is endowed with knowledge surrenders unto Me, knowing that Vasudeva (Krishna) is all. Such a great soul is very rare.",
+          "commentary": "The culmination of countless lifetimes of spiritual evolution is the realization that Krishna is the all-pervading reality. This universal vision—seeing the Divine in everything—marks the rare mahatma (great soul). Such complete understanding transcends sectarian boundaries and represents full spiritual maturity achieved through extensive karmic refinement."
+        },
+        "turkish": {
+          "translation": "Birçok doğumun sonunda, bilgiyle donanmış kişi Vasudeva'nın (Krishna) her şey olduğunu bilerek Bana teslim olur. Böyle bir yüce ruh çok nadirdir.",
+          "commentary": "Sayısız yaşam boyu manevi evrim sürecinin doruk noktası, Krishna'nın her yere nüfuz eden gerçeklik olduğunun gerçekleşmesidir. Bu evrensel vizyon—her şeyde İlahi'yi görmek—nadir mahatma'yı (büyük ruh) işaret eder. Böyle tam anlayış mezhep sınırlarını aşar ve kapsamlı karmik arıtma yoluyla ulaşılan tam manevi olgunluğu temsil eder."
+        }
+      },
+      {
+        "verse_number": 20,
+        "sanskrit": "कामैस्तैस्तैर्हृतज्ञानाः प्रपद्यन्तेऽन्यदेवताः |\nतं तं नियममास्थाय प्रकृत्या नियताः स्वया ||",
+        "transliteration": "kāmais tais tair hṛta-jñānāḥ prapadyante 'nya-devatāḥ |\ntaṁ taṁ niyamam āsthāya prakṛtyā niyatāḥ svayā ||",
+        "english": {
+          "translation": "Those whose wisdom is carried away by various desires surrender to other deities, following particular rules and regulations, driven by their own nature.",
+          "commentary": "People worship lesser gods seeking specific material benefits, constrained by their individual temperaments and accumulated tendencies. While such worship may yield temporary results, it reflects incomplete understanding. These devotees remain bound by their limited desires rather than seeking the ultimate liberation offered by surrender to the Supreme."
+        },
+        "turkish": {
+          "translation": "Çeşitli arzular tarafından bilgeliği götürülmüş olanlar, kendi doğaları tarafından yönlendirilerek belirli kural ve düzenlemeleri izleyerek diğer tanrılara teslim olurlar.",
+          "commentary": "İnsanlar belirli maddi faydalar arayarak daha düşük tanrılara tapar, bireysel mizaçları ve birikmiş eğilimleri tarafından kısıtlanmış haldedir. Böyle ibadet geçici sonuçlar verse de, eksik anlayışı yansıtır. Bu adanmışlar, Yüce'ye teslimiyetle sunulan nihai kurtuluşu aramak yerine sınırlı arzuları tarafından bağlı kalır."
+        }
+      },
+      {
+        "verse_number": 21,
+        "sanskrit": "यो यो यां यां तनुं भक्तः श्रद्धयार्चितुमिच्छति |\nतस्य तस्याचलां श्रद्धां तामेव विदधाम्यहम् ||",
+        "transliteration": "yo yo yāṁ yāṁ tanuṁ bhaktaḥ śraddhayārcitum icchati |\ntasya tasyācalāṁ śraddhāṁ tām eva vidadhāmy aham ||",
+        "english": {
+          "translation": "Whatever form a devotee desires to worship with faith, I make that faith of theirs steady and unwavering.",
+          "commentary": "Krishna's magnanimity extends even to worship of other deities. He empowers all sincere faith, regardless of its object, because He is the inner controller of all forms. This verse demonstrates divine compassion—meeting devotees where they are while ultimately leading them toward complete truth through the sincerity of their devotion."
+        },
+        "turkish": {
+          "translation": "Bir adanmış hangi biçime imanla ibadet etmek isterse, onların imanını sağlam ve sarsılmaz kılarım.",
+          "commentary": "Krishna'nın cömertliği diğer tanrılara ibadete bile uzanır. Tüm biçimlerin iç denetleyicisi olduğu için, nesnesine bakılmaksızın tüm samimi imanı güçlendirir. Bu ayet ilahi merhameti gösterir—adanmışları oldukları yerde karşılamak ve nihayetinde onları adanmışlıklarının samimiyeti yoluyla tam gerçeğe doğru yönlendirmek."
+        }
+      },
+      {
+        "verse_number": 22,
+        "sanskrit": "स तया श्रद्धया युक्तस्तस्याराधनमीहते |\nलभते च ततः कामान्मयैव विहितान्हि तान् ||",
+        "transliteration": "sa tayā śraddhayā yuktas tasyārādhanam īhate |\nlabhate ca tataḥ kāmān mayaiva vihitān hi tān ||",
+        "english": {
+          "translation": "Endowed with that faith, they seek to worship that deity and obtain their desires. But in truth, it is I alone who bestow those blessings.",
+          "commentary": "While devotees believe their chosen deity grants their wishes, Krishna reveals that He is the actual source behind all benedictions. All gods are His empowered representatives or manifestations. Understanding this truth gradually leads sincere worshipers from limited objectives to recognition of the ultimate granter of all boons."
+        },
+        "turkish": {
+          "translation": "O imanla donanmış olarak, o tanrıya ibadet etmeye çalışır ve arzularını elde eder. Ancak gerçekte, o nimetleri veren yalnızca Benim.",
+          "commentary": "Adanmışlar seçtikleri tanrının dileklerini verdiğine inanırken, Krishna tüm ihsanların arkasındaki gerçek kaynağın kendisi olduğunu açıklar. Tüm tanrılar O'nun güçlendirilmiş temsilcileri veya tezahürleridir. Bu gerçeği anlamak, samimi tapanları yavaş yavaş sınırlı hedeflerden tüm ihsanların nihai verenini tanımaya götürür."
+        }
+      },
+      {
+        "verse_number": 23,
+        "sanskrit": "अन्तवत्तु फलं तेषां तद्भवत्यल्पमेधसाम् |\nदेवान्देवयजो यान्ति मद्भक्ता यान्ति मामपि ||",
+        "transliteration": "antavat tu phalaṁ teṣāṁ tad bhavaty alpa-medhasām |\ndevān deva-yajo yānti mad-bhaktā yānti mām api ||",
+        "english": {
+          "translation": "But the fruits gained by these people of small understanding are temporary. The worshipers of the gods go to the gods, but My devotees come to Me.",
+          "commentary": "Worship motivated by material desires yields finite results proportionate to the limited object worshiped. Such benefits are exhaustible and keep worshipers in the cycle of rebirth. By contrast, devotion to the Supreme grants eternal liberation. Krishna distinguishes between temporary heavenly pleasures and the infinite bliss of union with the Absolute."
+        },
+        "turkish": {
+          "translation": "Ancak bu küçük anlayışlı insanların elde ettiği meyveler geçicidir. Tanrılara tapanlar tanrılara gider, ama Benim adanmışlarım Bana gelir.",
+          "commentary": "Maddi arzularla motive edilmiş ibadet, ibadet edilen sınırlı nesneyle orantılı sonlu sonuçlar verir. Bu faydalar tükenebilir ve tapanları yeniden doğum döngüsünde tutar. Tersine, Yüce'ye adanma ebedi kurtuluş verir. Krishna, geçici cennet zevkleri ile Mutlak'la birleşmenin sonsuz mutluluğu arasında ayrım yapar."
+        }
+      },
+      {
+        "verse_number": 24,
+        "sanskrit": "अव्यक्तं व्यक्तिमापन्नं मन्यन्ते मामबुद्धयः |\nपरं भावमजानन्तो ममाव्ययमनुत्तमम् ||",
+        "transliteration": "avyaktaṁ vyaktim āpannaṁ manyante mām abuddhayaḥ |\nparaṁ bhāvam ajānanto mamāvyayam anuttamam ||",
+        "english": {
+          "translation": "The unintelligent think that I, the unmanifest, have assumed a manifest form, not knowing My supreme nature, which is imperishable and unsurpassable.",
+          "commentary": "Materialistic people mistake Krishna's divine appearance for ordinary incarnation, thinking the formless has merely taken form. They fail to grasp that His transcendental body is not a product of material nature but is eternal, conscious, and blissful—qualitatively different from ordinary embodiment. His manifestation is a descent, not a limitation."
+        },
+        "turkish": {
+          "translation": "Akılsızlar, tezahür etmemiş olan Benim tezahür etmiş bir biçim aldığımı sanır, Benim yok edilemez ve aşılamaz üstün doğamı bilmez.",
+          "commentary": "Materyalist insanlar Krishna'nın ilahi görünüşünü sıradan enkarnasyonla karıştırır, biçimsiz olanın sadece biçim aldığını düşünür. O'nun aşkın bedeninin maddi doğanın bir ürünü olmadığını, ebedi, bilinçli ve mutlu olduğunu—sıradan bedenleşmeden niteliksel olarak farklı olduğunu kavrayamazlar. O'nun tezahürü bir iniştir, bir sınırlama değil."
+        }
+      },
+      {
+        "verse_number": 25,
+        "sanskrit": "नाहं प्रकाशः सर्वस्य योगमायासमावृतः |\nमूढोऽयं नाभिजानाति लोको मामजमव्ययम् ||",
+        "transliteration": "nāhaṁ prakāśaḥ sarvasya yoga-māyā-samāvṛtaḥ |\nmūḍho 'yaṁ nābhijānāti loko mām ajam avyayam ||",
+        "english": {
+          "translation": "Veiled by My Yoga-Maya, I am not revealed to all. This deluded world does not know Me as the unborn and imperishable.",
+          "commentary": "Krishna's divine power (Yoga-Maya) conceals His true nature from the unqualified. This is not arbitrary but protective—the unprepared cannot comprehend transcendence and might misuse such knowledge. Only through spiritual purification and grace is the veil lifted, revealing the eternal, unborn Lord who orchestrates all existence."
+        },
+        "turkish": {
+          "translation": "Yoga-Maya'm tarafından örtülü olarak, herkese açık değilim. Bu aldatılmış dünya, Beni doğmamış ve yok edilemez olarak tanımıyor.",
+          "commentary": "Krishna'nın ilahi gücü (Yoga-Maya) gerçek doğasını niteliksiz olanlardan gizler. Bu keyfi değil koruyucudur—hazırlıksız olanlar aşkınlığı kavrayamaz ve bu bilgiyi kötüye kullanabilir. Yalnızca manevi arınma ve lütuf yoluyla perde kaldırılır ve tüm varoluşu düzenleyen ebedi, doğmamış Tanrı açığa çıkar."
+        }
+      },
+      {
+        "verse_number": 26,
+        "sanskrit": "वेदाहं समतीतानि वर्तमानानि चार्जुन |\nभविष्याणि च भूतानि मां तु वेद न कश्चन ||",
+        "transliteration": "vedāhaṁ samatītāni vartamānāni cārjuna |\nbhaviṣyāṇi ca bhūtāni māṁ tu veda na kaścana ||",
+        "english": {
+          "translation": "I know all beings of the past, present, and future, O Arjuna, but no one knows Me.",
+          "commentary": "Krishna possesses omniscience—complete knowledge of all existence across time. Yet despite this transparency, He remains mysterious and unknowable through ordinary means. This paradox highlights the transcendental nature of divine consciousness, which perceives all but cannot be fully grasped by limited minds without special revelation."
+        },
+        "turkish": {
+          "translation": "Geçmişin, şimdinin ve geleceğin tüm varlıklarını bilirim, ey Arjuna, ancak hiç kimse Beni bilmez.",
+          "commentary": "Krishna her şeyi bilenliğe sahiptir—zaman boyunca tüm varoluşun tam bilgisi. Yine de bu şeffaflığa rağmen, sıradan yollarla gizemli ve bilinemez kalır. Bu paradoks, her şeyi algılayan ancak özel bir vahiy olmaksızın sınırlı zihinler tarafından tam olarak kavranamayan ilahi bilincin aşkın doğasını vurgular."
+        }
+      },
+      {
+        "verse_number": 27,
+        "sanskrit": "इच्छाद्वेषसमुत्थेन द्वन्द्वमोहेन भारत |\nसर्वभूतानि संमोहं सर्गे यान्ति परन्तप ||",
+        "transliteration": "icchā-dveṣa-samutthena dvandva-mohena bhārata |\nsarva-bhūtāni saṁmohaṁ sarge yānti parantapa ||",
+        "english": {
+          "translation": "O descendant of Bharata, all beings are born into delusion, bewildered by the dualities of desire and aversion that arise from attraction and repulsion, O conqueror of enemies.",
+          "commentary": "From birth, beings are caught in dualistic thinking—pleasure versus pain, like versus dislike—creating a web of attachments and aversions. This fundamental delusion prevents recognition of the underlying unity. The pairs of opposites keep consciousness trapped in superficial discrimination rather than perceiving the eternal Absolute."
+        },
+        "turkish": {
+          "translation": "Ey Bharata soyundan gelen, tüm varlıklar yanılsamaya doğar, çekim ve itimden kaynaklanan arzu ve nefretin ikiliği tarafından şaşkına döner, ey düşmanların fatihi.",
+          "commentary": "Doğumdan itibaren varlıklar ikili düşünceye tutulur—zevk karşısında acı, sevgi karşısında nefret—bağlılık ve nefret ağı yaratır. Bu temel yanılsama, altta yatan birliği tanımayı engeller. Karşıt çiftler bilinci, ebedi Mutlak'ı algılamak yerine yüzeysel ayrımda tuzağa düşürür."
+        }
+      },
+      {
+        "verse_number": 28,
+        "sanskrit": "येषां त्वन्तगतं पापं जनानां पुण्यकर्मणाम् |\nते द्वन्द्वमोहनिर्मुक्ता भजन्ते मां दृढव्रताः ||",
+        "transliteration": "yeṣāṁ tv anta-gataṁ pāpaṁ janānāṁ puṇya-karmaṇām |\nte dvandva-moha-nirmuktā bhajante māṁ dṛḍha-vratāḥ ||",
+        "english": {
+          "translation": "But those persons of virtuous deeds, whose sins have come to an end, freed from the delusion of dualities, worship Me with firm resolve.",
+          "commentary": "Through virtuous actions across many lives, karmic impurities are gradually exhausted. As sins diminish, the veil of duality lifts, enabling clear perception of reality. Such purified souls develop unwavering devotion to Krishna, their resolution strengthened by freedom from the confusing pull of opposites."
+        },
+        "turkish": {
+          "translation": "Ancak erdemli eylemler yapan, günahları sona ermiş, ikilik yanılsamasından kurtulmuş kişiler, kararlı bir şekilde Bana ibadet ederler.",
+          "commentary": "Birçok yaşam boyunca erdemli eylemler yoluyla, karmik kirlilikler yavaş yavaş tükenir. Günahlar azaldıkça, ikilik perdesi kalkar ve gerçekliği net algılamayı sağlar. Bu arınmış ruhlar Krishna'ya sarsılmaz adanma geliştirir, kararlılıkları karşıtların kafa karıştırıcı çekiminden özgürlükle güçlendirilir."
+        }
+      },
+      {
+        "verse_number": 29,
+        "sanskrit": "जरामरणमोक्षाय मामाश्रित्य यतन्ति ये |\nते ब्रह्म तद्विदुः कृत्स्नमध्यात्मं कर्म चाखिलम् ||",
+        "transliteration": "jarā-maraṇa-mokṣāya mām āśritya yatanti ye |\nte brahma tad viduḥ kṛtsnam adhyātmaṁ karma cākhilam ||",
+        "english": {
+          "translation": "Those who take refuge in Me and strive for liberation from old age and death come to know Brahman completely, along with the Self and all of karma.",
+          "commentary": "Serious spiritual seekers who surrender to Krishna for release from birth and death attain comprehensive knowledge. They understand Brahman (the Absolute), adhyatma (the individual soul), and karma (the law of action). This threefold wisdom encompasses metaphysics, psychology, and the mechanics of bondage and liberation."
+        },
+        "turkish": {
+          "translation": "Yaşlılık ve ölümden kurtuluş için Bana sığınan ve çabalayanlara Brahman'ı tam olarak, Benlik'le ve tüm karma ile birlikte bilirler.",
+          "commentary": "Doğum ve ölümden kurtulmak için Krishna'ya teslim olan ciddi manevi arayışçılar kapsamlı bilgiye ulaşır. Brahman'ı (Mutlak), adhyatma'yı (bireysel ruh) ve karmayı (eylem yasası) anlarlar. Bu üçlü bilgelik metafiziği, psikolojiyi ve bağlanma ile kurtuluş mekaniğini kapsar."
+        }
+      },
+      {
+        "verse_number": 30,
+        "sanskrit": "साधिभूताधिदैवं मां साधियज्ञं च ये विदुः |\nप्रयाणकालेऽपि च मां ते विदुर्युक्तचेतसः ||",
+        "transliteration": "sādhibhūtādhidaivaṁ māṁ sādhiyajñaṁ ca ye viduḥ |\nprayāṇa-kāle 'pi ca māṁ te vidur yukta-cetasaḥ ||",
+        "english": {
+          "translation": "Those who know Me as the governing principle of the physical realm, the celestial realm, and sacrifice, with minds steadfast, know Me even at the time of death.",
+          "commentary": "Advanced devotees understand Krishna's presence in all dimensions: adhibhuta (physical manifestation), adhidaiva (cosmic governance), and adhiyajna (the inner witness of sacrifice). This comprehensive awareness persists even at death's threshold. Such practitioners maintain God-consciousness through life's final transition, ensuring their liberation and union with the Supreme."
+        },
+        "turkish": {
+          "translation": "Fiziksel alanın, göksel alanın ve kurbanın yöneten ilkesi olarak Beni bilenler, zihinleri kararlı olanlar, ölüm anında bile Beni bilirler.",
+          "commentary": "İleri adanmışlar Krishna'nın tüm boyutlardaki varlığını anlar: adhibhuta (fiziksel tezahür), adhidaiva (kozmik yönetim) ve adhiyajna (kurbanın iç tanığı). Bu kapsamlı farkındalık ölüm eşiğinde bile devam eder. Bu uygulayıcılar, yaşamın son geçişi boyunca Tanrı bilincini korur, kurtuluş ve Yüce ile birleşmelerini garanti eder."
+        }
+      }
+    ]
+  },
+  "verification": {
+    "verses_translated": 30,
+    "expected_verses": 30,
+    "complete": true,
+    "missing_verses": []
+  }
+}
