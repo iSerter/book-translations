@@ -67,6 +67,13 @@ export class ExportService {
         translationsQuery += ` AND t.language_code IN (${placeholders})`;
         transParams.push(...options.languages);
     }
+
+    // If allowFallback is true, we don't filter by provider in SQL, 
+    // we fetch all and filter/select in memory.
+    if (options.provider && !options.allowFallback) {
+        translationsQuery += ` AND t.provider = ?`;
+        transParams.push(options.provider);
+    }
     
     const translations = this.db.prepare(translationsQuery).all(...transParams) as any[];
 
@@ -88,12 +95,38 @@ export class ExportService {
             versesMap.set(v.chapter_id, []);
         }
         
-        const verseTranslations = translationsMap.get(v.id) || [];
+        const verseTranslationsRaw = translationsMap.get(v.id) || [];
+        const selectedTranslations: any[] = [];
+
+        if (options.provider) {
+            // Group by language to select best match per language
+            const byLang = new Map<string, any[]>();
+            for (const t of verseTranslationsRaw) {
+                if (!byLang.has(t.languageCode)) byLang.set(t.languageCode, []);
+                byLang.get(t.languageCode)?.push(t);
+            }
+
+            for (const [_, transList] of byLang) {
+                let match = transList.find((t: any) => t.provider === options.provider);
+                if (!match && options.allowFallback) {
+                    // Fallback: pick the first available one
+                    // TODO: Could have smarter logic (e.g. prefer specific providers)
+                    match = transList[0];
+                }
+                
+                if (match) {
+                    selectedTranslations.push(match);
+                }
+            }
+        } else {
+            // No provider specified, include all
+            selectedTranslations.push(...verseTranslationsRaw);
+        }
         
         versesMap.get(v.chapter_id)?.push({
             number: v.number,
             sourceText: v.sourceText || '',
-            translations: verseTranslations.map((t: any) => ({
+            translations: selectedTranslations.map((t: any) => ({
                 languageCode: t.languageCode,
                 text: t.text,
                 provider: t.provider

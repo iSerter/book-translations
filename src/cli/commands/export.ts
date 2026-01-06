@@ -17,7 +17,11 @@ export const exportCommand = new Command('export')
   .option('-f, --format <formats...>', 'List of formats to export (json, md, docx)', ['json', 'md', 'docx'])
   .option('-c, --chapter <number>', 'Export only a specific chapter number')
   .option('-l, --languages <codes...>', 'Filter translations to specific language codes')
+  .option('-p, --provider <name>', 'Filter translations by specific provider')
   .option('-o, --output <path>', 'Output directory for generated files', './')
+  .option('--no-source', 'Do not include source text in output')
+  .option('--fallback', 'Allow fallback to other providers if preferred provider is missing')
+  .option('--include-numbers', 'Include chapter:verse numbers in output')
   .option('--db <path>', 'Path to SQLite database file')
   .action(async (bookSlug, options) => {
     try {
@@ -36,7 +40,11 @@ export const exportCommand = new Command('export')
         chapterNumber: options.chapter ? parseInt(options.chapter, 10) : undefined,
         formats: options.format as any,
         languages: options.languages,
-        outputDir: outputDir
+        provider: options.provider,
+        outputDir: outputDir,
+        includeSource: options.source,
+        allowFallback: options.fallback,
+        includeVerseNumbers: options.includeNumbers
       };
 
       const exporters = [];

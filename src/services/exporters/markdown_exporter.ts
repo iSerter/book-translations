@@ -18,13 +18,20 @@ export class MarkdownExporter implements IExporter {
       content += `## Chapter ${chapter.number}\n\n`;
       
       for (const verse of chapter.verses) {
-        content += `### Verse ${verse.number}\n\n`;
-        if (verse.sourceText) {
+        if (verse.sourceText && options.includeSource !== false) {
           content += `> ${verse.sourceText}\n\n`;
         }
         
         for (const translation of verse.translations) {
-          content += `**${translation.languageCode}**: ${translation.text}\n\n`;
+          let line = '';
+          if (options.includeVerseNumbers) {
+            line += `**${chapter.number}:${verse.number}** `;
+          }
+          if (verse.translations.length > 1) {
+            line += `**${translation.languageCode}**: `;
+          }
+          line += translation.text;
+          content += `${line}\n\n`;
         }
       }
     }

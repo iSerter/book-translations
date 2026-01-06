@@ -27,3 +27,6 @@ pnpm-debug.log*
 Thumbs.db
 *.tmp
 *.swp
+
+# Exports
+exports/*.docx

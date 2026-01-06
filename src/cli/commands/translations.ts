@@ -17,6 +17,7 @@ export function registerTranslationsCommands(program: Command) {
     .argument("<file>", "Path to JSON file")
     .option("-b, --book-slug <slug>", "Book slug")
     .option("-p, --provider <name>", "Translation provider name")
+    .option("-m, --model <name>", "Translation model name")
     .option("--dry-run", "Dry run (no DB changes)")
     .action(wrapAction(program, async (filePattern: string, options: any) => {
       const { config, outputMode } = buildContext(program);
@@ -48,6 +49,7 @@ export function registerTranslationsCommands(program: Command) {
       const result = importFiles(db, files, {
           bookSlug: options.bookSlug,
           provider: options.provider,
+          model: options.model,
           dryRun: options.dryRun
       }, (f, res) => {
           if (outputMode !== "json") {

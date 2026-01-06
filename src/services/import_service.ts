@@ -10,6 +10,7 @@ import { upsertTranslation } from "../db/repositories/translations.js";
 export type ImportOptions = {
     bookSlug?: string;
     provider?: string;
+    model?: string;
     format?: string;
     dryRun?: boolean;
 };
@@ -95,14 +96,14 @@ export function importFile(db: Database, filePath: string, options: ImportOption
 
         // Provider / Model
         let provider = options.provider;
-        let model = "";
+        let model = options.model || "";
 
         if (!provider) {
             const providerDir = path.basename(parentDir);
             const parts = providerDir.split("-");
             if (parts.length > 0) {
                 provider = parts[0];
-                if (parts.length > 1) {
+                if (parts.length > 1 && !model) {
                     model = parts.slice(1).join("-");
                 }
             } else {

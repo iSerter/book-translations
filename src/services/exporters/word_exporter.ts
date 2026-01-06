@@ -30,11 +30,7 @@ export class WordExporter implements IExporter {
               heading: HeadingLevel.HEADING_1,
             }),
             ...chapter.verses.flatMap(verse => [
-              new Paragraph({
-                text: `Verse ${verse.number}`,
-                heading: HeadingLevel.HEADING_3,
-              }),
-              ...(verse.sourceText ? [
+              ...(verse.sourceText && options.includeSource !== false ? [
                   new Paragraph({
                       children: [
                           new TextRun({ text: verse.sourceText, italics: true })
@@ -44,7 +40,8 @@ export class WordExporter implements IExporter {
               ...verse.translations.map(translation => 
                 new Paragraph({
                   children: [
-                    new TextRun({ text: `${translation.languageCode}: `, bold: true }),
+                    ...(options.includeVerseNumbers ? [new TextRun({ text: `${chapter.number}:${verse.number} `, bold: true })] : []),
+                    ...(verse.translations.length > 1 ? [new TextRun({ text: `${translation.languageCode}: `, bold: true })] : []),
                     new TextRun(translation.text)
                   ]
                 })

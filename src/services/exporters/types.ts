@@ -3,7 +3,11 @@ export interface ExportOptions {
   chapterNumber?: number; // Optional: specific chapter
   formats: ('json' | 'md' | 'docx')[];
   languages?: string[]; // Optional: specific languages (e.g. ['en', 'es'])
+  provider?: string;    // Optional: specific provider (e.g. 'Sonnet-4.5')
   outputDir: string;
+  includeSource?: boolean;
+  allowFallback?: boolean;
+  includeVerseNumbers?: boolean;
 }
 
 export interface ExportTranslation {
