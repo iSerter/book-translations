@@ -11,11 +11,6 @@ Implement a new CLI command `translations import` to parse and store book conten
 
 ## Technical Context
 
-<!--
-  ACTION REQUIRED: Replace the content in this section with the technical details
-  for the project. The structure here is presented in advisory capacity to guide
-  the iteration process.
--->
 
 **Language/Version**: Node.js >=22 <23 (per package.json)
 **Primary Dependencies**: `commander` (CLI), `better-sqlite3` (DB), `zod` (Validation)
