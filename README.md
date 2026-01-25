@@ -56,7 +56,7 @@ npm run cli -- translations import "Bhagavad-Gita/Claude-Sonnet-4.5/*.json" --pr
 Generate new chapter content using an AI provider and a prompt template:
 
 ```bash
-npm run cli -- chapter generate --book bhagavad-gita --chapter 1 --expected-verses 47 --template "sanskrit-gita" --provider ai-sdk --model gpt-4o
+npm run cli -- chapter generate --book bhagavad-gita --chapter 7 --expected-verses 30 --template "sanskrit-gita" --provider ai-sdk --model gpt-4o
 ```
 
 ### Translating Titles and Verses
