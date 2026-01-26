@@ -7,6 +7,7 @@ import { ExportService } from '../../services/export_service.js';
 import { JsonExporter } from '../../services/exporters/json_exporter.js';
 import { MarkdownExporter } from '../../services/exporters/markdown_exporter.js';
 import { WordExporter } from '../../services/exporters/word_exporter.js';
+import { PaliScriptureExporter } from '../../services/exporters/pali_scripture_exporter.js';
 import { ExportOptions } from '../../services/exporters/types.js';
 import { AppError, ExitCode } from '../../lib/errors.js';
 import { printError, printResult } from '../../lib/output.js';
@@ -14,7 +15,7 @@ import { printError, printResult } from '../../lib/output.js';
 export const exportCommand = new Command('export')
   .description('Export book content to various formats')
   .argument('<bookSlug>', 'The unique identifier (slug) of the book to export')
-  .option('-f, --format <formats...>', 'List of formats to export (json, md, docx)', ['json', 'md', 'docx'])
+  .option('-f, --format <formats...>', 'List of formats to export (json, md, docx, pali-scripture)', ['json', 'md', 'docx'])
   .option('-c, --chapter <number>', 'Export only a specific chapter number')
   .option('-l, --languages <codes...>', 'Filter translations to specific language codes')
   .option('-p, --provider <name>', 'Filter translations by specific provider')
@@ -52,6 +53,7 @@ export const exportCommand = new Command('export')
       if (formats.includes('json')) exporters.push(new JsonExporter());
       if (formats.includes('md')) exporters.push(new MarkdownExporter());
       if (formats.includes('docx')) exporters.push(new WordExporter());
+      if (formats.includes('pali-scripture')) exporters.push(new PaliScriptureExporter());
 
       if (exporters.length === 0) {
         throw new AppError("No valid export formats selected", { code: ExitCode.Validation });

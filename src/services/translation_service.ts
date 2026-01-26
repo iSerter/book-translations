@@ -13,6 +13,7 @@ export type TranslateVersesInput = {
     providerName: string;
     model?: string;
     overwrite?: boolean;
+    sourceLanguage?: string;
 };
 
 export async function translateVerses(db: Database, input: TranslateVersesInput) {
@@ -47,7 +48,7 @@ export async function translateVerses(db: Database, input: TranslateVersesInput)
     const texts = verses.map(v => v.sourceText!); 
     
     try {
-        const results = await provider.translateBatch(texts, input.targetLanguage);
+        const results = await provider.translateBatch(texts, input.targetLanguage, input.sourceLanguage);
         
         if (results.length !== verses.length) {
             throw new Error("Provider returned count mismatch");

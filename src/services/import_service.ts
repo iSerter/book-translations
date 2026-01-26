@@ -3,7 +3,7 @@ import fs from "fs";
 import path from "path";
 import { z, ZodError } from "zod";
 import { AppError, ExitCode } from "../lib/errors.js";
-import { ImportFileSchema } from "../lib/validation.js";
+import { ImportFileSchema, PaliScriptureSchema } from "../lib/validation.js";
 import { upsertBook, upsertChapter, upsertVerse } from "../db/repositories/books.js";
 import { upsertTranslation } from "../db/repositories/translations.js";
 import { upsertChapterTranslation } from "../db/repositories/chapter_translations.js";
@@ -79,6 +79,10 @@ export function importFile(db: Database, filePath: string, options: ImportOption
         }
 
         // 2. Validate Schema
+        if (jsonData.format === "pali-scripture") {
+            return importPaliFile(db, jsonData, options, result);
+        }
+
         // For now we only support 'sanskrit-scripture' which matches ImportFileSchema
         const parsed = ImportFileSchema.parse(jsonData);
         const chapterData = parsed.chapter;
@@ -217,4 +221,53 @@ function mapLanguageToCode(lang: string): string {
         "sanskrit": "sa"
     };
     return map[lang.toLowerCase()] || lang.toLowerCase().slice(0, 2);
+}
+
+function importPaliFile(db: Database, jsonData: any, options: ImportOptions, result: ImportResult): ImportResult {
+    const parsed = PaliScriptureSchema.parse(jsonData);
+    
+    if (options.dryRun) {
+        result.success = true;
+        return result;
+    }
+
+    db.transaction(() => {
+        // Book
+        const book = upsertBook(db, {
+            slug: options.bookSlug || parsed.book.slug,
+            title: parsed.book.title,
+            author: parsed.book.author
+        });
+        result.count.books++;
+
+        for (const chapterData of parsed.book.chapters) {
+            const chapter = upsertChapter(db, {
+                bookId: book.id,
+                number: chapterData.number,
+                title: chapterData.title_pali
+            });
+            result.count.chapters++;
+
+            // Chapter translation for Pali
+            upsertChapterTranslation(db, {
+                chapterId: chapter.id,
+                languageCode: 'pali',
+                provider: options.provider || 'import',
+                model: options.model || '',
+                title: chapterData.title_pali
+            });
+
+            for (const v of chapterData.verses) {
+                upsertVerse(db, {
+                    chapterId: chapter.id,
+                    number: v.number,
+                    sourceText: v.pali
+                });
+                result.count.verses++;
+            }
+        }
+    })();
+
+    result.success = true;
+    return result;
 }

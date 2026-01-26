@@ -1,7 +1,7 @@
 export interface ExportOptions {
   bookSlug: string;
   chapterNumber?: number; // Optional: specific chapter
-  formats: ('json' | 'md' | 'docx')[];
+  formats: ('json' | 'md' | 'docx' | 'pali-scripture')[];
   languages?: string[]; // Optional: specific languages (e.g. ['en', 'es'])
   provider?: string;    // Optional: specific provider (e.g. 'Sonnet-4.5')
   outputDir: string;

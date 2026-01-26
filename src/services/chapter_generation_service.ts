@@ -7,6 +7,7 @@ import { generationProviderRegistry } from "../providers/provider_registry.js";
 import { insertTranslation, findTranslation } from "../db/repositories/translations.js"; // Import translation repo
 import { createGenerationLog } from "../db/repositories/generation_logs.js";
 import { AppError, ExitCode } from "../lib/errors.js";
+import { PaliScriptureSchema } from "../lib/validation.js";
 
 export type GenerateChapterInput = {
     bookSlug: string;
@@ -90,7 +91,7 @@ export async function generateChapter(db: Database, input: GenerateChapterInput)
                 .replace(/\{\{count\}\}/g, String(currentCount));
 
             // 6. Call Provider
-            const pkg = await provider.generateChapter({ 
+            let pkg = await provider.generateChapter({ 
                 prompt, 
                 model: input.model,
                 format: input.format 
@@ -103,6 +104,37 @@ export async function generateChapter(db: Database, input: GenerateChapterInput)
                 requestPrompt: prompt,
                 responseContent: JSON.stringify(pkg)
             });
+
+            // Handle Pali Format
+            if ((pkg as any).format === 'pali-scripture') {
+                const parseResult = PaliScriptureSchema.safeParse(pkg);
+                if (!parseResult.success) {
+                    throw new Error(`Invalid Pali Scripture format: ${parseResult.error.message}`);
+                }
+                const paliData = parseResult.data;
+                const chapterData = paliData.book.chapters.find(c => c.number === input.chapterNumber);
+                if (!chapterData) {
+                    throw new Error(`Pali Scripture missing chapter ${input.chapterNumber}`);
+                }
+                
+                // Update Chapter Title
+                if (chapterData.title_pali) {
+                    upsertChapter(db, {
+                        bookId: book.id,
+                        number: input.chapterNumber,
+                        title: chapterData.title_pali
+                    });
+                }
+                
+                // Transform to ChapterPackage
+                pkg = {
+                    verses: chapterData.verses.map(v => ({
+                        number: v.number,
+                        text: v.pali,
+                        translations: []
+                    }))
+                };
+            }
 
             // 7. Validate
             const validation = validateChapterPackage(pkg, currentCount, currentStart); 

@@ -4,7 +4,7 @@
   "private": true,
   "type": "module",
   "engines": {
-    "node": ">=22 <23"
+    "node": ">=22 <25"
   },
   "scripts": {
     "build": "tsc -p tsconfig.json && mkdir -p dist/db/migrations && cp src/db/migrations/*.sql dist/db/migrations/",
@@ -17,7 +17,7 @@
   "dependencies": {
     "@ai-sdk/openai": "^3.0.2",
     "ai": "^6.0.6",
-    "better-sqlite3": "^9.4.3",
+    "better-sqlite3": "^12.6.2",
     "commander": "^12.1.0",
     "deepl-node": "^1.24.0",
     "docx": "^9.5.1",

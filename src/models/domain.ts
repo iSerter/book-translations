@@ -73,3 +73,20 @@ export type ChapterPackage = {
     translations?: { languageCode: string; text: string; commentary?: string; provider?: string }[];
   }[];
 };
+
+export type PaliScripture = {
+  format: "pali-scripture";
+  book: {
+    slug: string;
+    title: string;
+    author?: string;
+    chapters: Array<{
+      number: number;
+      title_pali: string;
+      verses: Array<{
+        number: number;
+        pali: string;
+      }>;
+    }>;
+  };
+};

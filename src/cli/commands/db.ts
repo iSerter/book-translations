@@ -116,6 +116,49 @@ Before submitting, verify:
           content: sanskritScriptureTemplate
       });
 
-      printResult({ success: true, seeded: { templates: [tmpl1.name, tmpl2.name] } }, outputMode);
+      const dhammapadaPaliTemplate = `You are an expert scholar of the Pali Canon (Tipitaka), specifically the Dhammapada.
+
+Your task is to generate the Pali text for {{bookTitle}} Chapter {{chapterNumber}}.
+Verses: {{startVerse}} to {{endVerse}} ({{count}} verses total).
+
+## Format Requirements
+
+Return a SINGLE JSON object matching this structure exactly:
+
+` + "```json" + `
+{
+  "format": "pali-scripture",
+  "book": {
+    "slug": "dhammapada",
+    "title": "Dhammapada",
+    "chapters": [
+      {
+        "number": {{chapterNumber}},
+        "title_pali": "<Pali Chapter Title in Roman script>",
+        "verses": [
+          {
+            "number": {{startVerse}},
+            "pali": "<Pali text in Roman script>"
+          }
+        ]
+      }
+    ]
+  }
+}
+` + "```" + `
+
+## Content Guidelines
+- Use standard Romanized Pali (IAST or similar).
+- Ensure diacritical marks are correct (ā, ī, ū, ṅ, ñ, ṭ, ḍ, ṇ, etc.).
+- The text must be accurate to the Theravada tradition.
+- Do not include English translations, only the Pali source text.
+- Ensure "title_pali" is the correct Pali name for the chapter (e.g., "Yamaka Vagga").`;
+
+      const tmpl3 = upsertPromptTemplate(db, {
+          name: "dhammapada-pali",
+          content: dhammapadaPaliTemplate
+      });
+
+      printResult({ success: true, seeded: { templates: [tmpl1.name, tmpl2.name, tmpl3.name] } }, outputMode);
     }));
 }

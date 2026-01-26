@@ -25,12 +25,14 @@ export class DeepLTranslationProvider implements TranslationProvider {
         this.translator = new deepl.Translator(key);
     }
 
-    async translateBatch(texts: string[], targetLanguage: string): Promise<string[]> {
+    async translateBatch(texts: string[], targetLanguage: string, sourceLanguage?: string): Promise<string[]> {
         try {
             let target = targetLanguage as deepl.TargetLanguageCode;
             if (targetLanguage.toLowerCase() === "en") target = "en-US";
 
-            const results = await this.translator.translateText(texts, null, target);
+            const source = sourceLanguage ? sourceLanguage as deepl.SourceLanguageCode : null;
+
+            const results = await this.translator.translateText(texts, source, target);
             const array = Array.isArray(results) ? results : [results];
             return array.map(r => r.text);
         } catch (error) {

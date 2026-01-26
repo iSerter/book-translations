@@ -18,12 +18,14 @@ export function registerVerseCommands(program: Command) {
     .requiredOption("-p, --provider <name>", "Provider name")
     .option("-m, --model <name>", "Model name")
     .option("-f, --overwrite", "Overwrite existing translations")
+    .option("--from <lang>", "Source language code")
     .action(wrapAction(program, async (options: any) => {
       const { config, outputMode } = buildContext(program);
       const db = openDatabase(config.dbPath);
 
       requirePositiveInt(options.chapter, "Chapter number");
       const lang = requireLanguageCode(options.to, "Target language");
+      const fromLang = options.from ? requireLanguageCode(options.from, "Source language") : undefined;
       
       const verseNumbers = options.verses.split(",").map((s: string) => {
           const n = parseInt(s.trim(), 10);
@@ -37,7 +39,8 @@ export function registerVerseCommands(program: Command) {
           targetLanguage: lang,
           providerName: options.provider,
           model: options.model,
-          overwrite: options.overwrite
+          overwrite: options.overwrite,
+          sourceLanguage: fromLang
       });
 
       printResult({ success: true, data: result }, outputMode);

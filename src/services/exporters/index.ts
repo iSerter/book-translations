@@ -5,3 +5,5 @@ export interface IExporter {
 }
 
 export * from './types.js';
+export * from './pali_scripture_exporter.js';
+

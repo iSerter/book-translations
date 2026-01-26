@@ -9,9 +9,10 @@ const translationSchema = z.object({
 });
 
 export class AiSdkTranslationProvider implements TranslationProvider {
-  async translateBatch(texts: string[], targetLanguage: string): Promise<string[]> {
+  async translateBatch(texts: string[], targetLanguage: string, sourceLanguage?: string): Promise<string[]> {
       try {
-          const prompt = `Translate the following ${texts.length} texts into ${targetLanguage}. Keep structure and meaning.
+          const sourceText = sourceLanguage ? ` from ${sourceLanguage}` : '';
+          const prompt = `Translate the following ${texts.length} texts${sourceText} into ${targetLanguage}. Keep structure and meaning.
 texts:
 ${texts.map((t, i) => `${i+1}. ${t}`).join("\n")}
 `;

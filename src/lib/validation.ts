@@ -29,6 +29,23 @@ export const ImportFileSchema = z.object({
   path: ["verses"]
 });
 
+export const PaliScriptureSchema = z.object({
+  format: z.literal("pali-scripture"),
+  book: z.object({
+    slug: z.string().min(1),
+    title: z.string().min(1),
+    author: z.string().optional(),
+    chapters: z.array(z.object({
+      number: z.number().int().positive(),
+      title_pali: z.string().min(1),
+      verses: z.array(z.object({
+        number: z.number().int().positive(),
+        pali: z.string().min(1),
+      }))
+    }))
+  })
+});
+
 export function requirePositiveInt(value: unknown, fieldName: string): number {
   if (typeof value !== "number" || !Number.isInteger(value) || value <= 0) {
     throw new AppError(`${fieldName} must be a positive integer`, {
