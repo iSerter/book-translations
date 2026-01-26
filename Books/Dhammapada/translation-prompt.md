@@ -114,7 +114,7 @@ Before submitting, verify:
 
  JSON is properly formatted and valid
 
-Important Notes
+#### Important Notes
 
 If you realize you're approaching length limits, STOP and indicate: "Chapter translation incomplete due to length. Resume from verse [X]."
 

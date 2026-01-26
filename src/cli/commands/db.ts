@@ -119,7 +119,9 @@ Before submitting, verify:
       const dhammapadaPaliTemplate = `You are an expert scholar of the Pali Canon (Tipitaka), specifically the Dhammapada.
 
 Your task is to generate the Pali text for {{bookTitle}} Chapter {{chapterNumber}}.
-Verses: {{startVerse}} to {{endVerse}} ({{count}} verses total).
+
+**CRITICAL**: Generate EXACTLY {{count}} verses, starting from verse {{startVerse}} and ending at verse {{endVerse}}.
+Do NOT include any verses before {{startVerse}} or after {{endVerse}}.
 
 ## Format Requirements
 
@@ -139,7 +141,8 @@ Return a SINGLE JSON object matching this structure exactly:
           {
             "number": {{startVerse}},
             "pali": "<Pali text in Roman script>"
-          }
+          },
+          ... (EXACTLY {{count}} verses total, numbered {{startVerse}} to {{endVerse}})
         ]
       }
     ]
@@ -148,6 +151,7 @@ Return a SINGLE JSON object matching this structure exactly:
 ` + "```" + `
 
 ## Content Guidelines
+- You MUST return EXACTLY {{count}} verses (from {{startVerse}} to {{endVerse}}).
 - Use standard Romanized Pali (IAST or similar).
 - Ensure diacritical marks are correct (ā, ī, ū, ṅ, ñ, ṭ, ḍ, ṇ, etc.).
 - The text must be accurate to the Theravada tradition.
